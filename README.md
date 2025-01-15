@@ -74,9 +74,10 @@ https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2/code
 https://www.kaggle.com/code/leviettrieu369/garbage-classification/notebook
 https://www.kaggle.com/code/mehrinsujana/garbage-classification
 ```
-3		
-YOLO Series
+
+YOLO Series\
 Yolov4 Best Object detection Model
+```
 https://bit.ly/3650LAJ
 https://www.kaggle.com/code/yasserh/object-detection-yolo-v4
 https://www.kaggle.com/code/ranaazeem/yolov4-object-detection
@@ -85,58 +86,68 @@ https://www.geeksforgeeks.org/how-does-yolo-work-for-object-detection/
 https://www.geeksforgeeks.org/object-detection-with-yolo-and-opencv/
 https://korlakuntasaikamal10.medium.com/yolov4-a-comprehensive-guide-to-object-detection-using-darknet-and-opencv-bcf1688f57d7
 https://github.com/kamal3344/v4-Inference
+```
 
-4	
-Detr	
+Detr\	
 Object Detection Learning Detection Transformer
+```
 https://bit.ly/39S5F57
-
-5	
-Vision Transformer	
+```
+	
+Vision Transformer\
 Computer vision learning the new vision transformer
+```
 https://bit.ly/39UMHLd
-
-6	
-Dynamic RCNN	
+```
+	
+Dynamic RCNN\	
 Computer Vision Learning 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗥-𝗖𝗡𝗡: Towards High-Quality Object Detection via Dynamic Training
+```
 https://bit.ly/3939gy5
+```
 
-7	
-DeiT: (Data-efficient image Transformer)	
+DeiT: (Data-efficient image Transformer)\
 Computer Vision Learning Facebook AI Introduces 𝗗𝗲𝗶𝗧 (𝗗𝗮𝘁𝗮-𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗺𝗮𝗴𝗲 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿𝘀)
+```
 https://bit.ly/363ZABt
-
-8	
-Yolov5	
+```
+	
+Yolov5	\
 Computer Vision Learning 𝗬𝗼𝗹𝗼𝘃5 : 𝗞𝗶𝗻𝗴 𝗼𝗳 𝗼𝗯𝗷𝗲𝗰𝘁 𝗱𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
+```
 https://bit.ly/39QHTXq
+```
 
-9	
-DropBlock	
+DropBlock	\
 Computer Vision Learning 𝗗𝗿𝗼𝗽𝗕𝗹𝗼𝗰𝗸: A 𝗥𝗲𝗴𝘂𝗹𝗮𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗠𝗲𝘁𝗵𝗼𝗱 for Convolutional Networks (Image Classification) By Google 
+```
 https://bit.ly/3sM4TiG
-
-10	
-FCN	
+```
+	
+FCN	\
 Computer Vision Learning 𝗙𝗖𝗡 — 𝗙𝘂𝗹𝗹𝘆 𝗖𝗼𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 (Semantic Segmentation)
+```
 https://bit.ly/3iE9U8C
-
-11	
-Unet	
+```
+	
+Unet	\
 Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation
+```
 https://bit.ly/3izdbG2
+```
 
-12
-RetinaNet
+RetinaNet\
 Computer Vision Learning RetinaNet : Focal Loss for Dense Object Detection
+```
 https://bit.ly/3o5NrlN
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/35xCHGk
 𝗣𝘆𝘁𝗼𝗿𝗰𝗵 RetinaNet : https://bit.ly/2KaRQWO
 𝘁𝗳-𝗸𝗲𝗿𝗮𝘀 RetinaNet : https://bit.ly/35vqm5q
+```
 
-13
-SegNet
+SegNet\
 Computer Vision Learning SegNet
+```
 https://bit.ly/3qIauVz
 2015 : https://lnkd.in/eJpxXFe
 : https://lnkd.in/eQRQ7-4
@@ -145,7 +156,7 @@ Segnet Caffe Official: https://bit.ly/35BYHzR
 𝗧𝗲𝗻𝘀𝗼𝗿𝗙𝗹𝗼𝘄2 𝗦𝗲𝗴𝗻𝗲𝘁 : https://bit.ly/35ARb8w
 𝗞𝗲𝗿𝗮𝘀 𝗦𝗲𝗴𝗻𝗲𝘁 : https://bit.ly/3bvF7sZ
 𝘁𝗳-𝗸𝗲𝗿𝗮𝘀 𝗦𝗲𝗴𝗻𝗲𝘁 : https://bit.ly/39rd2Af
-
+```
 14	
 CAM	
 Computer Vision Learning CAM: Learning Deep Features for Discriminative Localization (Weakly Supervised Object Localization)
