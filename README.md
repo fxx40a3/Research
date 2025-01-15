@@ -388,172 +388,198 @@ https://bit.ly/36LRfTo
 Tensorflow : https://lnkd.in/e_sUxXm
 PyTorch : https://bit.ly/3cMOQf5
 ```
-38
-Resnet38
+
+Resnet38\
 Computer Vision Learning ResNet-38 — Wider or Deeper ResNet? (Image Classification & Semantic Segmentation)
+```
 https://bit.ly/2N7tpKL
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eFR9Rkp
 tensorflow : https://bit.ly/3jxJupl
 pytorch : https://bit.ly/36PBk6q
 keras :https://bit.ly/2YTRoQs
+```
 
-39
-SqueezeNext
+
+SqueezeNext\
 Computer Vision Learning SqueezeNext — Hardware-Aware Neural Network
+```
 https://bit.ly/3cSev5W
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e2GXbit
 tensorflow: https://bit.ly/3pZsM4x
 pytorch: https://bit.ly/2YYDSLa
 keras: https://bit.ly/3rsbKfG
+```
 
-40
-Group Normalization
+
+Group Normalization\
 Computer Vision Learning Group Norm (GN): Group Normalization (Image Classification) 
+```
 https://bit.ly/3ryNxEI
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eXC3Vz2
 official Code : https://bit.ly/3jBDax1
 tensorflow: https://bit.ly/2YZtsv0
 pytorch: https://bit.ly/2LxwB1W
 keras: https://bit.ly/2Od4KFe
+```
 
-41
-ENAS
+
+ENAS\
 Computer Vision Learning ENAS — Efficient Neural Architecture Search via Parameter Sharing (Image Classification)
+```
 https://bit.ly/2LB6pDC
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/es6s4QJ
 official Code : https://bit.ly/3708S29
 tensorflow: https://bit.ly/3rIWvPB
 pytorch: https://bit.ly/2MQNOUM
 keras: https://bit.ly/2OjVkrv
+```
 
-42
-PNASNet
+
+PNASNet\
 Computer Vision Learning PNASNet — Progressive Neural Architecture Search (Image Classification)
+```
 https://bit.ly/3tIX6mx
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e_PTYdj
 official Code : https://bit.ly/3tMQ7bX
 tensorflow: https://bit.ly/3jCVm9A
 pytorch: https://bit.ly/2NldQza
 keras: https://bit.ly/3a82qbe
+```
 
-43
-ShuffleNetV2
+
+ShuffleNetV2\
 Computer Vision Learning 𝗦𝗵𝘂𝗳𝗳𝗹𝗲𝗡𝗲𝘁 𝗩2 — Practical Guidelines for Efficient CNN Architecture Design(Image Classification)
+```
 https://bit.ly/2Zb3xAM
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e_PTYdj
 official Code : https://bit.ly/3tMQ7bX
 tensorflow: https://bit.ly/3adk2T2
 pytorch: https://bit.ly/3qgo0zZ
 keras: https://bit.ly/2ZboiMA
+```
 
-44
-BAM
+BAM\
 Computer Vision Learning BAM — Bottleneck Attention Module (Image Classification)
+```
 https://bit.ly/3b67xb2
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/2ODrCOF
 official Code : https://bit.ly/2ODrCOF
 tensorflow: https://bit.ly/3b5CJY7
 pytorch: https://bit.ly/3rShMH0
 keras: https://bit.ly/3dfPrq1
+```
 
-45
-CBAM
+
+CBAM\
 Computer Vision Learning CBAM — Convolutional Block Attention Module (Image Classification)
+```
 https://bit.ly/3plxHvJ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eQT7mHg
 official Code : https://bit.ly/3tViOnb
 tensorflow: https://bit.ly/3tZinsc
 pytorch: https://bit.ly/2OCHil7
 keras: https://bit.ly/3dfPrq1
+```
 
-46
-MorphNet
+MorphNet\
 Computer Vision Learning MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks (Image Classification)
+```
 https://bit.ly/3rWzcSM
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eQT7mHg
 official Code : https://bit.ly/2N7rzKq
 tensorflow: https://bit.ly/3s1uao9
 pytorch: https://bit.ly/2N8vZAH
 keras: https://bit.ly/3b8aXtV
+```
 
-47
-NetAdapt
+NetAdapt\
 Computer Vision Learning NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Application (Image Classification)
+```
 https://bit.ly/2NtlFmE
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eVUmVm4
 official Code : https://bit.ly/2LXyyFe
 tensorflow: https://bit.ly/3djrYUz
 pytorch: https://bit.ly/3djrYUz
+```
 
-48
-ESPNetv2
+ESPNetv2\
 Computer Vision Learning ESPNetv2 — A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network (Image Classification, Semantic Segmentation, etc)
+```
 https://bit.ly/3jWVoJv
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eVUmVm4
 official Code : https://bit.ly/2M1ck5e
 tensorflow: https://bit.ly/2NAdQM8
 pytorch: https://bit.ly/3aunid0
 keras: https://bit.ly/3axdrTP
+```
 
-49
-FBNet
+
+FBNet\
 Computer Vision Learning FBNet — FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search (Image Classification)
+```
 https://bit.ly/3k1PXZL
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eVAFpEW
 official Code : https://bit.ly/3ub9JGT
 tensorflow: https://bit.ly/3pw57I3
 pytorch: https://bit.ly/3avW3ib
 keras: https://bit.ly/3pw57I3
+```
 
-50
-HideandSeek
+HideandSeek\
 ComputerVision Learning Hide-and-Seek (Weakly Supervised Object Localization & Action Localization)
+```
 https://bit.ly/3qELCP0
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eDu25cw
 official Code : https://bit.ly/3sck9nQ
 pytorch: https://bit.ly/37wx5x0
+```
 
-51
-MR-CNN & S-CNN
+MR-CNN & S-CNN\
 Computer Vision Learning MR-CNN & S-CNN — Multi-Region & Semantic-aware CNNs (Object Detection)
+```
 https://bit.ly/2Zw6QTf
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eumiZyz
 official Code : https://bit.ly/2No4t2g
 Notes : https://lnkd.in/eppd-S4
+```
 
-52
-ACoL: Adversarial Complementary Learning
+ACoL: Adversarial Complementary Learning\
 Computer Vision Learning ACoL: Adversarial Complementary Learning (Weakly Supervised Object Localization)
+```
 https://bit.ly/3qKFNiU
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNcR6NG, https://lnkd.in/eGB2y3g
 official Code : https://bit.ly/3pEImlo
 tensorflow : https://bit.ly/3kcfWOy
 pytorch: https://bit.ly/3aCl9f8
+```
 
-53
-CutMix
+CutMix\
 Computer Vision Learning CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (Image Classification)
+```
 https://bit.ly/2Nt5shI
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eU3vvB7
 official Code : https://bit.ly/3pFLFsf
 tensorflow : https://bit.ly/3kcV9Kx
 pytorch: https://bit.ly/2ZFiifa
+```
 
-54
-ADL
-Computer Vision Learning ADL: Attention-based Dropout Layer (Weakly Supervised Object Localization)
+ADL\
+Computer Vision Learning ADL: Attention-based Dropout Layer (Weakly Supervised Object Localization)\
 Computer Vision Learning SAOL: Spatially Attentive Output Layer (Image Classification & Weakly Supervised Object Localization)
+```
 https://bit.ly/3qNeFQm
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/etmiACh
 official Code : https://bit.ly/3aLg44f
+```
 
-55
 SAOL
+```
 https://bit.ly/2NVuBBs
+```
 
-56
-SSD
+SSD\
 Computer Vision Learning SSD — Single Shot Detector (Object Detection)
+```
 https://bit.ly/37PWpyo
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9cEFYK
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eknTfCK
@@ -561,150 +587,169 @@ official code : https://bit.ly/3dHNQcF
 Tensorflow : https://bit.ly/2NUCfvX
 pytorch :https://bit.ly/2ZP6uXV
 keras: https://bit.ly/2ZNW8ay
+```
 
-57
-NOC
+NOC\
 Computer Vision Learning NoC — Winner in 2015 COCO & ILSVRC Detection (Object Detection)
+```
 https://bit.ly/3uBrZJJ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eBz8SmZ
+```
 
-58
-G-RMI
+G-RMI\
 Computer Vision Learning G-RMI — Winner in 2016 COCO Detection (Object Detection)
+```
 https://bit.ly/3kJDlap
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqBb62E
 official Code : https://lnkd.in/epKjuh5
+```
 
-59
-TDM
+TDM\
 Computer Vision Learning TDM — Top-Down Modulation (Object Detection)
+```
 https://bit.ly/3dV5zgN
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqBb62E
 official Code : https://bit.ly/3r6Mko8
+```
 
-60
-DSSD
+DSSD\
 Computer Vision Learning DSSD : Deconvolutional Single Shot Detector
+```
 https://bit.ly/3q6EHg8
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ee-XTxg
 Official Code : https://bit.ly/3r6Mko8
+```
 
-61
-FPN
+FPN\
 Computer Vision Learning FPN — Feature Pyramid Network (Object Detection)
+```
 https://bit.ly/2OewZn0
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e4K4Tna
 Official Code : https://bit.ly/3r4WvcW
 tensorflow : https://bit.ly/3uKoX68
 pytorch : https://bit.ly/3r4WvcW
 keras : https://bit.ly/3e4cqVc
+```
 
-62
-DCN
+DCN\
 Computer Vision Learning DCN / DCNv1 — Deformable Convolutional Networks, 2nd Runner Up in  COCO Detection (Object Detection) 
+```
 https://bit.ly/3e3G4Kg
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e4K4Tna
 Official Code : https://bit.ly/2OdND6i
 tensorflow : https://bit.ly/3uKRSap
 pytorch : https://bit.ly/3bYDMcQ
 keras : https://bit.ly/3e5ZGh4
+```
 
-63
-Light-Head-RCNN
+Light-Head-RCNN\
 Computer Vision Learning Light-Head R-CNN — In Defense of Two-Stage Object Detector (Object Detection)
+```
 https://bit.ly/388rtcT
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ev8kVGW
 Official Code : https://bit.ly/2OkpafB
 tensorflow : https://bit.ly/30f9X2d
 pytorch : https://bit.ly/3kI8bjD
 keras : https://bit.ly/30f9X2d
+```
 
-64
-Cascade RCNN
+Cascade RCNN\
 Computer Vision Learning Cascade R-CNN — Delving into High Quality Object Detection (Object Detection)
+```
 https://bit.ly/3uUDlZz
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eRW2AMu
 Official Code : https://bit.ly/3bkvwVk
 tensorflow : https://bit.ly/3cjAKjF
 pytorch : https://bit.ly/3c3xM2j
 keras : https://bit.ly/38eWxHP
+```
 
-65
-MegNet
+MegNet\
 Computer Vision Learning MegDet — A Large Mini-Batch Object Detector, 1st Place of COCO  Detection Challenge (Object Detection)
+```
 https://bit.ly/3bkNvuM
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eRZs2jt
 Official Code : https://bit.ly/3cbSzB7
 pytorch : https://bit.ly/3emNaJQ
+```
 
-66
-StairNet
+StairNet\
 Computer Vision Learning StairNet — Top-Down Semantic Aggregation (Object Detection)
+```
 https://bit.ly/3bluE2P
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/euMerg6
 Official Code : https://bit.ly/38imvdw
 pytorch : https://bit.ly/38jPFZL
+```
 
-67
-ImageNet Rethinking
+ImageNet Rethinking\
 Computer Vision Learning Rethinking ImageNet Pre-training (Object Detection, Semantic Segmentation)
+```
 https://bit.ly/3bqBfZZ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ejeVtVC
 Official Code : https://bit.ly/3v2Qdgk
+```
 
-68
-ERFNet
+ERFNet\
 Computer Vision Learning ERFNet — Efficient Residual Factorized ConvNet for Real-time (Semantic Segmentation)
+```
 https://bit.ly/2OxgC5c
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3btlnWo
 Official Code(Pytorch) : https://bit.ly/3buGY0D
+```
 
-69
-LayerCascade
+LayerCascade\
 Computer Vision Learning Deep Layer Cascade (LC) — Not All Pixels Are Equal (Semantic Segmentation)
+```
 https://bit.ly/3qzWdd8
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gM2SX8k
 Official Code(Pytorch) : https://bit.ly/2PUvnjn
+```
 
-70
-IDW-CNN
+IDW-CNN\
 Computer Vision Learning IDW-CNN — Learning from Image Descriptions in the Wild Dataset Boosts the Accuracy (Semantic Segmentation)
+```
 https://bit.ly/3letEAY
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEJ3_d3
 Official Code : https://bit.ly/3rEB2YL
+```
 
-71
-DIS
-Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation) by
+DIS\
+Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation)
+```
 https://bit.ly/3vi3xh3
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3bD2OPA
+```
 
-72
-SDN
+SDN\
 Computer Vision Learning SDN — Stacked Deconvolutional Network Using DenseNet (Semantic Segmentation)
+```
 https://bit.ly/3lftn0k
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehdStyH
+```
 
-73
-ResNet-DUC-HDC
+ResNet-DUC-HDC\
 Computer Vision Learning ResNet-DUC-HDC — Dense Upsampling Convolution and Hybrid Dilated Convolution (Semantic Segmentation)
+```
 https://bit.ly/3lmdhlN
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqFenUD
 Official Code : https://bit.ly/38CNvVm
+```
 
-74
-Deeplabv3+
+Deeplabv3+\
 Computer Vision Learning DeepLabv3+ — Atrous Separable Convolution (Semantic Segmentation)
+```
 https://bit.ly/3lfSRuR
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3lhmsny
 Official Code : https://lnkd.in/eNbrAyC
 tensorflow : https://bit.ly/2Nm1Tda
 pytorch : https://bit.ly/3qLCXcM
 keras : https://bit.ly/3ll88uq
+```
 
-75
-AutoDeeplab
+AutoDeeplab\
 Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation
+```
 https://bit.ly/2P14kSF
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/evrb324
 Official Code : https://bit.ly/3llgguM
@@ -712,127 +757,147 @@ pytorch :
 1. https://bit.ly/3bRcSEX
 2. https://bit.ly/3liYPuW
 3. https://bit.ly/3rWxIbE
+```
 
-76
-c3
+c3\
 Computer Vision Learning C3 — Concentrated-Comprehensive Convolution (Semantic Segmentation)
+```
 https://bit.ly/3qX0yqK
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNiwENP
 Official Code : https://bit.ly/3rWRfsp
 tensorflow : https://bit.ly/3lq7hs7
+```
 
-77
-DRRN
+DRRN\
 Computer Vision Learning DRRN, Zhang JNCA’20 — Deep Recursive Residual Network (Semantic Segmentation) 
+```
 https://bit.ly/3ltkWP9
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/epdGZBP
 Official Code : https://bit.ly/3s0IsWq
+```
 
-78
-BR²Net
+BR²Net\
 Computer Vision Learning BR²Net: Defocus Blur Detection via a Bidirectional Channel Attention Residual Refining Network (Blur Detection)
+```
 https://bit.ly/3f0jGlI
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eMYSFN7
+```
 
-79 SDS 
+SDS\
 Computer Vision Learning SDS — Simultaneous Detection and Segmentation (Instance Segmentation)
+```
 https://bit.ly/3f0CZLw
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/er5nsYx
 Official Code : https://bit.ly/3cVpwlo
+```
 
-80
-AdderNet
+AdderNet\
 Computer Vision Learning AdderNet: Do We Really Need Multiplications in Deep Learning? (Image Classification)
+```
 https://bit.ly/3sfMdYa
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e79K2qE
 Official Code : https://lnkd.in/e2JnQpt
+```
 
-81
-HyperColumn
+HyperColumn\
 Computer Vision Learning Hypercolumn (Instance Segmentation) by FAIR(Facebook Research)
+```
 https://bit.ly/3vV7Jn5
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKxkH9M
 Official Code : https://bit.ly/3d1fGPg
+```
 
-82
-DeepMask
+DeepMask\
 Computer Vision Learning DeepMask (Instance Segmentation) by Facebook AI (FAIR)
+```
 https://bit.ly/3cY2RVR
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKxkH9M
 Official Code : https://bit.ly/2NJJKpT
 Tensorflow2: https://bit.ly/3lGHzzT
+```
 
-83
-SharpMask
+SharpMask\
 Computer Vision Learning SharpMask — 1st Runner Up in COCO Segmentation 2015 (Instance Segmentation) by Facebook AI Research
+```
 https://bit.ly/3rg0h2r
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ewcQsVZ
 Official Code : https://lnkd.in/eArhuen
+```
 
-84
-MultipathNet
+MultipathNet\
 Computer Vision Learning MultiPathNet / MultiPath / MPN — 1st Runner Up in 2015 COCO Detection & Segmentation (Object Detection / Instance Segmentation)
+```
 https://bit.ly/31fcTMR
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eZC5Cwk
 Official Code : https://bit.ly/3fdbNZX
+```
 
-85
-MNC
+MNC\
 Computer Vision Learning MNC — Multi-task Network Cascade, Winner in 2015 COCO Segmentation (Instance Segmentation)
+```
 https://bit.ly/39rRXqj
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehD9P8r
 Official Code : https://lnkd.in/eAhRMWe
+```
 
-86
-InstanceFCN
+InstanceFCN\
 Computer Vision Learning InstanceFCN — Instance-Sensitive Score Maps (Instance Segmentation)
+```
 https://bit.ly/3wbQuy8
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eTnSUk3
+```
 
-87
-FCIS
+FCIS\
 Computer Vision Learning FCIS — Winner in 2016 COCO Segmentation (Instance Segmentation)
+```
 https://bit.ly/3dhPz6B
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNiPGWY
 Code : https://lnkd.in/etsK8bM
+```
 
-88
-MaskLab 
+MaskLab\
 Computer Vision Learning MaskLab — Refining with Semantic and Direction Features (Instance Segmentation)
+```
 https://bit.ly/3wb3Vya
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gWUFCUw
+```
 
-89
-PANet
+PANet\
 Computer Vision Learning PANet — Path Aggregation Network, 1st Place in COCO  Challenge (Instance Segmentation)
+```
 https://bit.ly/2PmQTNs
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8znDYE
 Official Code : https://lnkd.in/efzK7xa
+```
 
-90
-CUDMedVision1
+CUDMedVision1\
 Computer Vision Learning CUMedVision1 — Fully Convolutional Network (Biomedical Image Segmentation)
+```
 https://bit.ly/3rETZd1
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA
 Code : https://bit.ly/3rEB2YL
+```
 
-91
-CUDMedVision2
+CUDMedVision2\
 Computer Vision Learning CUMedVision2 / DCAN—Winner of 2015 MICCAI Gland Segmentation Challenge Contest (Biomedical Image Segmentation)
+```
 https://bit.ly/3mago0q
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA
+```
 
-92
-CFS-FCN
+CFS-FCN\
 Computer Vision Learning CFS-FCN (Biomedical Image Segmentation)
+```
 https://bit.ly/3cXP0zX
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyEkBfU
+```
 
-93
-U-net+Res-net
+U-net+Res-net\
 Computer Vision Learning 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — The Importance of Long & Short Skip Connections (Biomedical Image Segmentation)
+```
 https://bit.ly/3mpKD3P
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKVBAmV
+```
 
 94
 Multi-Channel
