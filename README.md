@@ -100,7 +100,7 @@ Computer vision learning the new vision transformer
 https://bit.ly/39UMHLd
 ```
 	
-Dynamic RCNN\	
+Dynamic RCNN\
 Computer Vision Learning 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗥-𝗖𝗡𝗡: Towards High-Quality Object Detection via Dynamic Training
 ```
 https://bit.ly/3939gy5
