@@ -5252,26 +5252,6020 @@ hand tracking
 
 
 69 and 70 details are here
-69.
-100 + Computer vision Algorithm Implementation
+69. 
+100 + Computer vision Algorithm Implementation 
 https://github.com/gmalivenko/awesome-computer-vision-models
+
 
 AlexNet
 One weird trick for parallelizing convolutional neural networks
 https://arxiv.org/abs/1404.5997
 
+
 VGG-16
 Very Deep Convolutional Networks for Large-Scale Image Recognition
 https://arxiv.org/abs/1409.1556
 
-ResNet-10
+
+ResNet-10 
 Deep Residual Learning for Image Recognition
 https://arxiv.org/abs/1512.03385
 
-ResNet-18
+
+ResNet-18 
 Deep Residual Learning for Image Recognition
 https://arxiv.org/abs/1512.03385
+
 
 ResNet-34
 Deep Residual Learning for Image Recognition
 https://arxiv.org/abs/1512.03385
+
+
+ResNet-50
+Deep Residual Learning for Image Recognition
+https://arxiv.org/abs/1512.03385
+
+
+InceptionV3 
+Rethinking the Inception Architecture for Computer Vision
+https://arxiv.org/abs/1512.00567
+
+
+PreResNet-18 
+Identity Mappings in Deep Residual Networks
+https://arxiv.org/abs/1603.05027
+
+
+PreResNet-34 
+Identity Mappings in Deep Residual Networks
+https://arxiv.org/abs/1603.05027
+
+
+PreResNet-50
+Identity Mappings in Deep Residual Networks
+https://arxiv.org/abs/1603.05027
+
+
+DenseNet-121
+Densely Connected Convolutional Networks
+https://arxiv.org/abs/1608.06993
+
+DenseNet-161
+Densely Connected Convolutional Networks
+https://arxiv.org/abs/1608.06993
+
+PyramidNet-101
+Deep Pyramidal Residual Networks
+https://arxiv.org/abs/1610.02915
+
+
+ResNeXt-14(32x4d)
+Aggregated Residual Transformations for Deep Neural Networks
+http://arxiv.org/abs/1611.05431
+
+
+ResNeXt-26(32x4d)
+Aggregated Residual Transformations for Deep Neural Networks
+http://arxiv.org/abs/1611.05431
+
+
+WRN-50-2
+Wide Residual Networks
+https://arxiv.org/abs/1605.07146
+
+
+Xception
+Xception: Deep Learning with Depthwise Separable Convolutions
+https://arxiv.org/abs/1610.02357
+
+
+InceptionV4
+Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+https://arxiv.org/abs/1602.07261
+
+
+InceptionResNetV2
+Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+https://arxiv.org/abs/1602.07261
+
+
+PolyNet
+PolyNet: A Pursuit of Structural Diversity in Very Deep Networks
+https://arxiv.org/abs/1611.05725
+
+
+
+DarkNet Ref
+Darknet: Open source neural networks in C
+https://github.com/pjreddie/darknet
+
+DarkNet Tiny
+Darknet: Open source neural networks in C
+https://github.com/pjreddie/darknet
+
+DarkNet 53
+Darknet: Open source neural networks in C
+https://github.com/pjreddie/darknet
+
+
+SqueezeResNet1.1
+SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and &lt;0.5MB model size
+https://arxiv.org/abs/1602.07360
+
+ResAttNet-92
+Residual Attention Network for Image Classification
+https://arxiv.org/abs/1704.06904
+
+
+CondenseNet (G=C=8)
+CondenseNet: An Efficient DenseNet using Learned Group Convolutions
+https://arxiv.org/abs/1711.09224
+
+
+DPN-68
+Dual Path Networks
+https://arxiv.org/abs/1707.01629
+
+
+
+ShuffleNet x1.0 (g=1)
+ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+https://arxiv.org/abs/1707.01083
+
+
+DiracNetV2-18
+DiracNets: Training Very Deep Neural Networks Without Skip-Connections
+https://arxiv.org/abs/1706.00388
+
+
+DiracNetV2-34
+DiracNets: Training Very Deep Neural Networks Without Skip-Connections
+https://arxiv.org/abs/1706.00388
+
+
+SENet-16
+Squeeze-and-Excitation Networks
+https://arxiv.org/abs/1709.01507
+
+
+SENet-154
+Squeeze-and-Excitation Networks
+https://arxiv.org/abs/1709.01507
+
+
+MobileNet
+MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+https://arxiv.org/abs/1704.04861
+
+
+NASNet-A 4@1056
+Learning Transferable Architectures for Scalable Image Recognition
+https://arxiv.org/abs/1707.07012
+
+
+NASNet-A 6@4032
+Learning Transferable Architectures for Scalable Image Recognition
+https://arxiv.org/abs/1707.07012
+
+
+DLA-34
+Deep Layer Aggregation
+https://arxiv.org/abs/1707.06484
+
+
+
+AirNet50-1x64d (r=2)
+Attention Inspiring Receptive-Fields Network for Learning Invariant Representations
+https://ieeexplore.ieee.org/document/8510896
+
+
+BAM-ResNet-50
+BAM: Bottleneck Attention Module
+https://arxiv.org/abs/1807.06514
+
+
+CBAM-ResNet-50
+CBAM: Convolutional Block Attention Module
+https://arxiv.org/abs/1807.06521
+
+
+1.0-SqNxt-23v5
+SqueezeNext: Hardware-Aware Neural Network Design
+https://arxiv.org/abs/1803.10615
+
+
+1.5-SqNxt-23v5
+SqueezeNext: Hardware-Aware Neural Network Design
+https://arxiv.org/abs/1803.10615
+
+
+2.0-SqNxt-23v5
+SqueezeNext: Hardware-Aware Neural Network Design
+https://arxiv.org/abs/1803.10615
+
+
+ShuffleNetV2
+ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
+https://arxiv.org/abs/1807.11164
+
+
+
+456-MENet-24×1(g=3)
+Merging and Evolution: Improving Convolutional Neural Networks for Mobile Applications
+https://arxiv.org/abs/1803.09127
+
+
+
+FD-MobileNet
+FD-MobileNet: Improved MobileNet with A Fast Downsampling Strategy
+https://arxiv.org/abs/1802.03750
+
+
+MobileNetV2
+MobileNetV2: Inverted Residuals and Linear Bottlenecks
+https://arxiv.org/abs/1801.04381
+
+
+
+IGCV3
+IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks
+https://arxiv.org/abs/1806.00178
+
+
+DARTS
+DARTS: Differentiable Architecture Search
+https://arxiv.org/abs/1806.09055
+
+
+
+PNASNet-5
+Progressive Neural Architecture Search
+https://arxiv.org/abs/1712.00559
+
+
+
+AmoebaNet-C
+Regularized Evolution for Image Classifier Architecture Search
+https://arxiv.org/abs/1802.01548
+
+
+
+MnasNet
+MnasNet: Platform-Aware Neural Architecture Search for Mobile
+https://arxiv.org/abs/1807.11626
+
+
+
+IBN-Net50-a
+Two at Once: Enhancing Learning andGeneralization Capacities via IBN-Net
+https://arxiv.org/abs/1807.09441
+
+
+
+MarginNet
+Large Margin Deep Networks for Classification
+http://papers.nips.cc/paper/7364-large-margin-deep-networks-for-classification.pdf
+
+A^2 Net
+A^2-Nets: Double Attention Networks
+http://papers.nips.cc/paper/7318-a2-nets-double-attention-networks.pdf
+
+
+FishNeXt-150
+FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction
+http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf
+
+
+
+Shape-ResNet
+IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS
+https://arxiv.org/pdf/1811.12231v2.pdf
+
+
+SimCNN(k=3 train)
+Greedy Layerwise Learning Can Scale to ImageNet
+https://arxiv.org/pdf/1812.11446.pdf
+
+SKNet-50
+Selective Kernel Networks
+https://arxiv.org/pdf/1903.06586.pdf
+
+
+SRM-ResNet-50
+SRM : A Style-based Recalibration Module for Convolutional Neural Networks
+https://arxiv.org/pdf/1903.10829.pdf
+
+
+EfficientNet-B0 
+EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
+
+
+EfficientNet-B7b
+EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
+
+
+
+ProxylessNAS
+PROXYLESSNAS: DIRECT NEURAL ARCHITECTURE SEARCH ON TARGET TASK AND HARDWARE
+https://arxiv.org/pdf/1812.00332.pdf
+
+
+MixNet-L
+MixNet: Mixed Depthwise Convolutional Kernels
+https://arxiv.org/abs/1907.09595
+
+
+ECA-Net50
+ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks
+https://arxiv.org/pdf/1910.03151v1.pdf
+
+
+ECA-Net101
+ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks
+https://arxiv.org/pdf/1910.03151v1.pdf
+
+
+
+ACNet-Densenet121
+ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks
+https://arxiv.org/abs/1908.03930
+
+
+LIP-ResNet-50
+LIP: Local Importance-based Pooling
+https://arxiv.org/abs/1908.04156
+
+
+LIP-ResNet-101
+LIP: Local Importance-based Pooling
+https://arxiv.org/abs/1908.04156
+
+
+LIP-DenseNet-BC-121
+LIP: Local Importance-based Pooling
+https://arxiv.org/abs/1908.04156
+
+
+MuffNet_1.0
+MuffNet: Multi-Layer Feature Federation for Mobile Deep Learning
+http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Chen_MuffNet_Multi-Layer_Feature_Federation_for_Mobile_Deep_Learning_ICCVW_2019_paper.pdf
+
+
+MuffNet_1.5
+MuffNet: Multi-Layer Feature Federation for Mobile Deep Learning
+http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Chen_MuffNet_Multi-Layer_Feature_Federation_for_Mobile_Deep_Learning_ICCVW_2019_paper.pdf
+
+
+ResNet-34-Bin-5
+Making Convolutional Networks Shift-Invariant Again
+https://arxiv.org/abs/1904.11486
+
+
+ResNet-50-Bin-5
+Making Convolutional Networks Shift-Invariant Again
+https://arxiv.org/abs/1904.11486
+
+
+MobileNetV2-Bin-5
+Making Convolutional Networks Shift-Invariant Again
+https://arxiv.org/abs/1904.11486
+
+
+
+FixRes ResNeXt101 WSL
+Fixing the train-test resolution discrepancy
+https://arxiv.org/abs/1906.06423
+
+
+Noisy Student*(L2)
+Self-training with Noisy Student improves ImageNet classification
+https://arxiv.org/abs/1911.04252
+
+
+
+TResNet-M
+TResNet: High Performance GPU-Dedicated Architecture
+https://arxiv.org/abs/2003.13630
+
+
+DA-NAS-C
+DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search
+https://arxiv.org/abs/2003.12563v1
+
+
+ResNeSt-50
+ResNeSt: Split-Attention Networks
+https://arxiv.org/abs/2004.08955
+
+
+ResNeSt-101
+ResNeSt: Split-Attention Networks
+https://arxiv.org/abs/2004.08955
+
+
+
+ResNet-50-FReLU
+Funnel Activation for Visual Recognition
+https://arxiv.org/abs/2007.11824v2
+
+
+ResNet-101-FReLU
+Funnel Activation for Visual Recognition
+https://arxiv.org/abs/2007.11824v2
+
+
+ResNet-50-MEALv2
+MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
+https://arxiv.org/abs/2009.08453v1
+
+
+ResNet-50-MEALv2 + CutMix
+MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
+https://arxiv.org/abs/2009.08453v1
+
+
+MobileNet V3-Large-MEALv2
+MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
+https://arxiv.org/abs/2009.08453v1
+
+
+EfficientNet-B0-MEALv2
+MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
+https://arxiv.org/abs/2009.08453v1
+
+
+T2T-ViT-7 
+Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
+https://arxiv.org/abs/2101.11986v1
+
+
+T2T-ViT-14
+Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
+https://arxiv.org/abs/2101.11986v1
+
+
+T2T-ViT-19
+Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
+https://arxiv.org/abs/2101.11986v1
+
+
+NFNet-F0
+High-Performance Large-Scale Image Recognition Without Normalization
+https://arxiv.org/abs/2102.06171
+
+
+NFNet-F1
+High-Performance Large-Scale Image Recognition Without Normalization
+https://arxiv.org/abs/2102.06171
+
+
+NFNet-F6+SAM
+High-Performance Large-Scale Image Recognition Without Normalization
+https://arxiv.org/abs/2102.06171
+
+
+EfficientNetV2-S
+EfficientNetV2: Smaller Models and Faster Training
+https://arxiv.org/abs/2104.00298
+
+
+EfficientNetV2-M
+EfficientNetV2: Smaller Models and Faster Training
+https://arxiv.org/abs/2104.00298
+
+
+EfficientNetV2-L
+EfficientNetV2: Smaller Models and Faster Training
+https://arxiv.org/abs/2104.00298
+
+
+EfficientNetV2-S (21k)
+EfficientNetV2: Smaller Models and Faster Training
+https://arxiv.org/abs/2104.00298
+
+
+EfficientNetV2-M (21k)
+EfficientNetV2: Smaller Models and Faster Training
+https://arxiv.org/abs/2104.00298
+
+
+EfficientNetV2-L (21k)
+EfficientNetV2: Smaller Models and Faster Training
+https://arxiv.org/abs/2104.00298
+
+
+U-Net
+U-Net: Convolutional Networks for Biomedical Image Segmentation
+https://arxiv.org/pdf/1505.04597.pdf
+
+
+DeconvNet
+Learning Deconvolution Network for Semantic Segmentation
+https://arxiv.org/pdf/1505.04366.pdf
+
+
+ParseNet
+ParseNet: Looking Wider to See Better
+https://arxiv.org/abs/1506.04579
+
+Piecewise
+Efficient piecewise training of deep structured models for semantic segmentation
+https://arxiv.org/abs/1504.01013
+
+SegNet
+SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+https://arxiv.org/pdf/1511.00561.pdf
+
+FCN
+Fully Convolutional Networks for Semantic Segmentation
+https://arxiv.org/pdf/1605.06211.pdf
+
+ENet
+ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation
+https://arxiv.org/pdf/1606.02147.pdf
+
+DilatedNet
+MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS
+https://arxiv.org/pdf/1511.07122.pdf
+
+PixelNet
+PixelNet: Towards a General Pixel-Level Architecture
+https://arxiv.org/pdf/1609.06694.pdf
+
+RefineNet
+RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
+https://arxiv.org/pdf/1611.06612.pdf
+
+LRR
+Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
+https://arxiv.org/pdf/1605.02264.pdf
+
+FRRN
+Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes
+https://arxiv.org/pdf/1611.08323.pdf
+
+MultiNet
+MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving
+https://arxiv.org/pdf/1612.07695.pdf
+
+DeepLab
+DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+https://arxiv.org/pdf/1606.00915.pdf
+
+
+LinkNet
+LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation
+https://arxiv.org/pdf/1707.03718.pdf
+
+Tiramisu
+The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation
+https://arxiv.org/pdf/1611.09326.pdf
+
+ICNet
+ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+https://arxiv.org/pdf/1704.08545.pdf
+
+ERFNet
+Efficient ConvNet for Real-time Semantic Segmentation
+http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf
+
+PSPNet
+Pyramid Scene Parsing Network
+https://arxiv.org/pdf/1612.01105.pdf
+
+GCN
+Large Kernel Matters — Improve Semantic Segmentation by Global Convolutional Network
+https://arxiv.org/pdf/1703.02719.pdf
+
+Segaware
+Segmentation-Aware Convolutional Networks Using Local Attention Masks
+https://arxiv.org/pdf/1708.04607.pdf
+
+
+PixelDCN
+PIXEL DECONVOLUTIONAL NETWORKS
+https://arxiv.org/pdf/1705.06820.pdf
+
+DeepLabv3
+Rethinking Atrous Convolution for Semantic Image Segmentation
+https://arxiv.org/pdf/1706.05587.pdf
+
+DUC, HDC
+Understanding Convolution for Semantic Segmentation
+https://arxiv.org/pdf/1702.08502.pdf
+
+ShuffleSeg
+SHUFFLESEG: REAL-TIME SEMANTIC SEGMENTATION NETWORK
+https://arxiv.org/pdf/1803.03816.pdf
+
+
+AdaptSegNet
+Learning to Adapt Structured Output Space for Semantic Segmentation
+https://arxiv.org/pdf/1802.10349.pdf
+
+TuSimple-DUC
+Understanding Convolution for Semantic Segmentation
+https://arxiv.org/pdf/1702.08502.pdf
+
+R2U-Net
+Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation
+https://arxiv.org/pdf/1802.06955.pdf
+
+
+Attention U-Net
+Attention U-Net: Learning Where to Look for the Pancreas
+https://arxiv.org/pdf/1804.03999.pdf
+
+DANet
+Dual Attention Network for Scene Segmentation
+https://arxiv.org/pdf/1809.02983.pdf
+
+
+
+ENCNet
+Context Encoding for Semantic Segmentation
+https://arxiv.org/abs/1803.08904
+
+ShelfNet
+ShelfNet for Real-time Semantic Segmentation
+https://arxiv.org/pdf/1811.11254.pdf
+
+LadderNet
+LADDERNET: MULTI-PATH NETWORKS BASED ON U-NET FOR MEDICAL IMAGE SEGMENTATION
+https://arxiv.org/pdf/1810.07810.pdf
+
+CCC-ERFnet
+Concentrated-Comprehensive Convolutions for lightweight semantic segmentation
+https://arxiv.org/pdf/1812.04920v1.pdf
+
+
+DifNet-101
+DifNet: Semantic Segmentation by Diffusion Networks
+http://papers.nips.cc/paper/7435-difnet-semantic-segmentation-by-diffusion-networks.pdf
+
+
+BiSeNet(Res18)
+BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
+https://arxiv.org/pdf/1808.00897.pdf
+
+
+ESPNet
+ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
+https://arxiv.org/pdf/1803.06815.pdf
+
+SPADE
+Semantic Image Synthesis with Spatially-Adaptive Normalization
+https://arxiv.org/pdf/1903.07291.pdf
+
+SeamlessSeg
+Seamless Scene Segmentation
+https://arxiv.org/pdf/1905.01220v1.pdf
+
+EMANet
+Expectation-Maximization Attention Networks for Semantic Segmentation
+https://arxiv.org/pdf/1907.13426.pdf
+
+R-CNN
+Rich feature hierarchies for accurate object detection and semantic segmentation
+https://arxiv.org/pdf/1311.2524.pdf
+
+OverFeat 
+OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
+https://arxiv.org/pdf/1312.6229.pdf
+
+MultiBox
+Scalable Object Detection using Deep Neural Networks
+https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Erhan_Scalable_Object_Detection_2014_CVPR_paper.pdf
+
+SPP-Net 
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+https://arxiv.org/pdf/1406.4729.pdf
+
+MR-CNN 
+Object detection via a multi-region &amp; semantic segmentation-aware CNN model
+https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Gidaris_Object_Detection_via_ICCV_2015_paper.pdf
+
+AttentionNet
+AttentionNet: Aggregating Weak Directions for Accurate Object Detection
+https://arxiv.org/pdf/1506.07704.pdf
+
+Fast R-CNN
+https://arxiv.org/pdf/1504.08083.pdf
+
+Fast R-CNN
+Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf
+
+YOLO v1
+You Only Look Once: Unified, Real-Time Object Detection
+https://arxiv.org/pdf/1506.02640.pdf
+
+G-CNN
+G-CNN: an Iterative Grid Based Object Detector
+https://arxiv.org/pdf/1512.07729.pdf
+
+AZNet
+Adaptive Object Detection Using Adjacency and Zoom Prediction
+https://arxiv.org/pdf/1512.07711.pdf
+
+ION
+Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
+https://arxiv.org/pdf/1512.04143.pdf
+
+HyperNet
+HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection
+https://arxiv.org/pdf/1604.00600.pdf
+
+
+OHEM
+Training Region-based Object Detectors with Online Hard Example Mining
+https://arxiv.org/pdf/1604.03540.pdf
+
+MPN
+A MultiPath Network for Object Detection
+https://arxiv.org/pdf/1604.02135.pdf
+
+SSD
+SSD: Single Shot MultiBox Detector
+https://arxiv.org/pdf/1512.02325.pdf
+
+GBDNet
+Crafting GBD-Net for Object Detection
+https://arxiv.org/pdf/1610.02579.pdf
+
+CPF
+Contextual Priming and Feedback for Faster R-CNN
+https://pdfs.semanticscholar.org/40e7/4473cb82231559cbaeaa44989e9bbfe7ec3f.pdf
+
+
+MS-CNN 
+A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection
+https://arxiv.org/pdf/1607.07155.pdf
+
+R-FCN
+R-FCN: Object Detection via Region-based Fully Convolutional Networks
+https://arxiv.org/pdf/1605.06409.pdf
+
+PVANET
+PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection
+https://arxiv.org/pdf/1608.08021.pdf
+
+DeepID-Net
+DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection
+https://arxiv.org/pdf/1412.5661.pdf
+
+NoC
+Object Detection Networks on Convolutional Feature Maps
+https://arxiv.org/pdf/1504.06066.pdf
+
+DSSD
+DSSD : Deconvolutional Single Shot Detector
+https://arxiv.org/pdf/1701.06659.pdf
+
+TDM
+Beyond Skip Connections: Top-Down Modulation for Object Detection
+https://arxiv.org/pdf/1612.06851.pdf
+
+FPN
+Feature Pyramid Networks for Object Detection
+http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf
+
+YOLO v2
+YOLO9000: Better, Faster, Stronger
+https://arxiv.org/pdf/1612.08242.pdf
+
+RON
+RON: Reverse Connection with Objectness Prior Networks for Object Detection
+https://arxiv.org/pdf/1707.01691.pdf
+
+DCN
+Deformable Convolutional Networks
+http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf
+
+DeNet
+DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling
+https://arxiv.org/pdf/1703.10295.pdf
+
+CoupleNet
+CoupleNet: Coupling Global Structure with Local Parts for Object Detection
+https://arxiv.org/pdf/1708.02863.pdf
+
+RetinaNet
+Focal Loss for Dense Object Detection
+https://arxiv.org/pdf/1708.02002.pdf
+
+Mask R-CNN
+Mask R-CNN
+http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf
+
+
+DSOD
+DSOD: Learning Deeply Supervised Object Detectors from Scratch
+https://arxiv.org/pdf/1708.01241.pdf
+
+SMN
+Spatial Memory for Context Reasoning in Object Detection
+http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Spatial_Memory_for_ICCV_2017_paper.pdf
+
+YOLO v3
+YOLOv3: An Incremental Improvement
+https://pjreddie.com/media/files/papers/YOLOv3.pdf
+
+
+SIN
+Structure Inference Net: Object Detection Using Scene-Level Context and Instance-Level Relationships
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Structure_Inference_Net_CVPR_2018_paper.pdf
+
+STDN
+Scale-Transferrable Object Detection
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Scale-Transferrable_Object_Detection_CVPR_2018_paper.pdf
+
+
+RefineDet
+Single-Shot Refinement Neural Network for Object Detection
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf
+
+MegDet
+MegDet: A Large Mini-Batch Object Detector
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Peng_MegDet_A_Large_CVPR_2018_paper.pdf
+
+
+RFBNet
+Receptive Field Block Net for Accurate and Fast Object Detection
+https://arxiv.org/pdf/1711.07767.pdf
+
+
+CornerNet
+CornerNet: Detecting Objects as Paired Keypoints
+https://arxiv.org/pdf/1808.01244.pdf
+
+LibraRetinaNet
+Libra R-CNN: Towards Balanced Learning for Object Detection
+https://arxiv.org/pdf/1904.02701v1.pdf
+
+YOLACT-700
+YOLACT Real-time Instance Segmentation
+https://arxiv.org/pdf/1904.02689v1.pdf
+
+
+DetNASNet(3.8)
+DetNAS: Backbone Search for Object Detection
+https://arxiv.org/pdf/1903.10979v2.pdf
+
+YOLOv4
+YOLOv4: Optimal Speed and Accuracy of Object Detection
+https://arxiv.org/pdf/2004.10934.pdf
+
+
+SOLO
+SOLO: Segmenting Objects by Locations
+https://arxiv.org/pdf/1912.04488v3.pdf
+
+D-SOLO
+SOLO: Segmenting Objects by Locations
+https://arxiv.org/pdf/1912.04488v3.pdf
+
+SNIPER
+Scale Normalized Image Pyramids with AutoFocus for Object Detection
+https://arxiv.org/pdf/2102.05646v1.pdf
+
+AutoFocus
+Scale Normalized Image Pyramids with AutoFocus for Object Detection
+https://arxiv.org/pdf/2102.05646v1.pdf
+
+70. 
+80 + Computer vision Learning code 
+https://github.com/spmallick/learnopencv
+
+SimSiam: Streamlining SSL with Stop-Gradient Mechanism
+https://learnopencv.com/simsiam/
+https://github.com/spmallick/learnopencv/tree/master/SimSiam-Streamlining-SSL-with-Stop-Gradient-Mechanism
+
+
+Image Captioning using ResNet and LSTM
+https://learnopencv.com/image-captioning/
+https://github.com/spmallick/learnopencv/tree/master/Image-Captioning-using-ResNet-and-LSTM
+
+
+Molmo VLM: Paper Explanation and Demo
+https://learnopencv.com/molmo-vlm
+https://github.com/spmallick/learnopencv/tree/master/Molmo-VLM-SAM2
+
+
+3D Gaussian Splatting Paper Explanation: Training Custom Datasets with NeRF-Studio Gsplats
+https://learnopencv.com/3d-gaussian-splatting/
+https://github.com/spmallick/learnopencv/tree/master/3D-Gaussian-Splatting-Code
+
+
+FLUX Image Generation: Experimenting with the Parameters
+https://learnopencv.com/flux-ai-image-generator/
+https://github.com/spmallick/learnopencv/tree/master/Flux-Image-Generation
+
+
+Contrastive-Learning-SimCLR-and-BYOL(With Code Example)
+https://learnopencv.com/contrastive-learning-simclr-and-byol-with-code-example/
+https://github.com/spmallick/learnopencv/tree/master/Contrastive-Learning-SimCLR-and-BYOL
+
+
+The Annotated NeRF : Training on Custom Dataset from Scratch in Pytorch
+https://learnopencv.com/annotated-nerf-pytorch/
+https://github.com/spmallick/learnopencv/tree/master/Annotated-NeRF
+
+
+Stable Diffusion 3 and 3.5: Paper Explanation and Inference
+https://learnopencv.com/stable-diffusion-3/
+https://github.com/spmallick/learnopencv/tree/master/Stable-Diffusion-3
+
+
+LightRAG - Legal Document Analysis
+https://learnopencv.com/lightrag/
+https://github.com/spmallick/learnopencv/tree/master/LightRAG-Legal
+
+
+https://learnopencv.com/nvidia-ai-summit-2024-india-overview/
+NVIDIA AI Summit 2024 – India Overview
+
+
+
+Introduction to Speech to Speech: Most Efficient Form of NLP
+https://learnopencv.com/speech-to-speech/
+https://github.com/spmallick/learnopencv/tree/master/speech-to-speech
+
+
+Training 3D U-Net for Brain Tumor Segmentation (BraTS-GLI)
+https://learnopencv.com/3d-u-net-brats/
+https://github.com/spmallick/learnopencv/tree/master/Training_3D_U-Net_Brain_Tumor_Seg
+
+
+DETR: Overview and Inference
+https://learnopencv.com/detr-overview-and-inference/
+https://github.com/spmallick/learnopencv/tree/master/DETR-Overview_and_Inference
+
+
+YOLO11: Faster Than You Can Imagine!
+https://learnopencv.com/yolo11/
+https://github.com/spmallick/learnopencv/tree/master/YOLO11
+
+
+Exploring DINO: Self-Supervised Transformers for Road Segmentation with ResNet50 and U-Net
+https://learnopencv.com/fine-tune-dino-self-supervised-learning-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Exploring-DINO-dino-road-segmentation
+
+
+Sapiens: Foundation for Human Vision Models by Meta
+https://learnopencv.com/sapiens-human-vision-models
+https://github.com/spmallick/learnopencv/tree/master/Sapiens-Human-Vision-Model-Meta
+
+
+Multimodal RAG with ColPali and Gemini
+https://learnopencv.com/multimodal-rag-with-colpali
+https://github.com/spmallick/learnopencv/tree/master/Multimodal-RAG-with-ColPali-Gemini
+
+
+Building Autonomous Vehicle in Carla: Path Following with PID Control &amp; ROS 2
+https://learnopencv.com/pid-controller-ros-2-carla/
+https://github.com/spmallick/learnopencv/tree/master/Building_Autonomous_Vehicle_in_Carla_Path_Following_with_PID_Control_ROS2
+
+
+Handwritten Text Recognition using OCR
+https://learnopencv.com/handwritten-text-recognition-using-ocr/
+https://github.com/spmallick/learnopencv/tree/master/Handwritten_Text_Recognition_using_OCR
+
+
+Training CLIP from Sratch for Image Retrieval
+https://learnopencv.com/clip-model
+https://github.com/spmallick/learnopencv/tree/master/Training-CLIP-from-Scratch-for-Image-Retrieval
+
+
+Introduction to LiDAR SLAM: LOAM and LeGO-LOAM Paper and Code Explanation with ROS 2 Implementation
+https://learnopencv.com/lidar-slam-with-ros2
+https://github.com/spmallick/learnopencv/tree/master/LeGO-LOAM-ROS2
+
+
+Recommendation System using Vector Search
+https://learnopencv.com/recommendation-system-using-vector-search
+https://github.com/spmallick/learnopencv/tree/master/Recommendation-System-using-Vector-Search
+
+
+Fine Tuning Whisper on Custom Dataset
+https://learnopencv.com/fine-tuning-whisper-on-custom-dataset/
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-Whisper-on-Custom-Dataset
+
+
+SAM 2 – Promptable Segmentation for Images and Videos
+https://learnopencv.com/sam-2/
+https://github.com/spmallick/learnopencv/tree/master/SAM_2_Segment_Anything_Model_2
+
+
+Introduction to Feature Matching Using Neural Networks
+https://learnopencv.com/feature-matching/
+https://github.com/spmallick/learnopencv/tree/master/Feature-Matching-Using-Neural-Networks
+
+
+Introduction to ROS2 (Robot Operating System 2): Tutorial on ROS2 Working, DDS, ROS1 RMW, Topics, Nodes, Publisher, Subscriber in Python
+https://learnopencv.com/robot-operating-system-introduction
+https://github.com/spmallick/learnopencv/tree/master/Introduction-to-ROS2-in-python
+
+
+CVPR 2024 Research Papers - Part- 2
+https://learnopencv.com/cvpr-2024-research-papers
+https://github.com/spmallick/learnopencv/tree/master/cvpr-2024-research-papers-part2
+
+
+CVPR 2024: An Overview and Key Papers
+https://learnopencv.com/cvpr2024/
+https://github.com/spmallick/learnopencv/tree/master/CVPR-2024
+
+
+Object Detection on Edge Device - OAK-D-Lite
+https://learnopencv.com/object-detection-on-edge-device
+https://github.com/spmallick/learnopencv/tree/master/Object-Detection-on-Edge-Devices
+
+
+Fine-Tuning YOLOv10 Models on Custom Dataset
+https://learnopencv.com/fine-tuning-yolov10/
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-YOLOv10-Models-Custom-Dataset
+
+
+ROS2 and Carla Setup Guide for Ubuntu 22.04
+https://learnopencv.com/ros2-and-carla-setup-guide/
+
+
+
+
+Understanding Visual SLAM for Robotics Perception: Building Monocular SLAM from Scratch in Python
+https://learnopencv.com/monocular-slam-in-python/
+https://github.com/spmallick/learnopencv/tree/master/Monocular%20SLAM%20for%20Robotics%20implementation%20in%20python
+
+
+Enhancing Image Segmentation using U2-Net: An Approach to Efficient Background Removal
+https://learnopencv.com/u2-net-image-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Efficient-Background-Removal-using-U2-Net
+
+
+YOLOv10: The Dual-Head OG of YOLO Series
+https://learnopencv.com/yolov10/
+https://github.com/spmallick/learnopencv/tree/master/YOLOv10
+
+
+Fine-tuning Faster R-CNN on Sea Rescue Dataset
+https://learnopencv.com/fine-tuning-faster-r-cnn/
+https://github.com/spmallick/learnopencv/tree/master/Fine-tuning-Faster-R-CNN-on-SeaRescue-Dataset
+
+
+Mastering Recommendation System: A Complete Guide
+https://learnopencv.com/recommendation-system/
+
+
+
+Automatic Speech Recognition with Diarization : Speech-to-Text
+https://learnopencv.com/automatic-speech-recognition/
+https://github.com/spmallick/learnopencv/tree/master/Automatic-Speech-Recognition-with-Diarization-Speech-to-Text
+
+
+Building MobileViT Image Classification Model from Scratch In Keras 3
+https://learnopencv.com/mobilevit-keras-3/
+https://github.com/spmallick/learnopencv/tree/master/Building%20MobileViT%20from%20Scratch%20in%20Keras%203
+
+
+SDXL Inpainting: Fusing Image Inpainting with Stable Diffusion
+https://learnopencv.com/sdxl-inpainting/
+https://github.com/spmallick/learnopencv/tree/master/SDXL-inpainting
+
+
+YOLOv9 Instance Segmentation on Medical Dataset
+https://learnopencv.com/yolov9-instance-segmentation-on-medical-dataset/
+https://github.com/spmallick/learnopencv/tree/master/YOLOv9-Instance-Segmentation-on-Medical-Dataset
+
+
+A Comprehensive Guide to Robotics
+https://learnopencv.com/a-comprehensive-guide-to-robotics/
+
+
+
+Integrating Gradio with OpenCV DNN
+https://learnopencv.com/integrating-gradio-with-opencv-dnn/
+https://github.com/spmallick/learnopencv/tree/master/Integrating-Gradio-with-OpenCV-DNN
+
+
+Fine-Tuning YOLOv9 on Custom Dataset
+https://learnopencv.com/fine-tuning-yolov9/
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-YOLOv9-Models-Custom-Dataset
+
+
+Dreambooth using Diffusers
+https://learnopencv.com/dreambooth-using-diffusers/
+https://github.com/spmallick/learnopencv/tree/master/Dreambooth_using_Diffusers
+
+
+Introduction to Hugging Face Diffusers
+https://learnopencv.com/hugging-face-diffusers/
+https://github.com/spmallick/learnopencv/tree/master/Introduction_to_Diffusers
+
+
+Introduction to Ultralytics Explorer API
+https://learnopencv.com/ultralytics-explorer-api/
+https://github.com/spmallick/learnopencv/tree/master/Introduction-to-Ultralytics-Explorer-API
+
+
+YOLOv9: Advancing the YOLO Legacy
+https://learnopencv.com/yolov9-advancing-the-yolo-legacy/
+https://github.com/spmallick/learnopencv/tree/master/YOLOv9-Advancing-the-YOLO-Legacy
+
+
+Fine-Tuning LLMs using PEFT
+https://learnopencv.com/fine-tuning-llms-using-peft/
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-LLMs-using-PEFT
+
+
+Depth Anything: Accelerating Monocular Depth Perception
+https://learnopencv.com/deciphering-llms/
+https://github.com/spmallick/learnopencv/tree/master/Depth-Anything
+
+
+Deciphering LLMs: From Transformers to Quantization
+https://learnopencv.com/deciphering-llms/
+https://github.com/spmallick/learnopencv/tree/master/Deciphering-LLMs
+
+
+YOLO Loss Function Part 2: GFL and VFL Loss
+https://learnopencv.com/yolo-loss-function-gfl-vfl-loss/
+https://github.com/spmallick/learnopencv/tree/master/YOLO-Loss-Functions-Part2
+
+
+YOLOv8-Object-Tracking-and-Counting-with-OpenCV
+https://learnopencv.com/yolov8-object-tracking-and-counting-with-opencv/
+https://github.com/spmallick/learnopencv/tree/master/YOLOv8-Object-Tracking-and-Counting-with-OpenCV
+
+
+Stereo Vision in ADAS: Pioneering Depth Perception Beyond LiDAR
+https://learnopencv.com/adas-stereo-vision/
+https://github.com/spmallick/learnopencv/tree/master/ADAS-Stereo-Vision
+
+
+YOLO Loss Function Part 1: SIoU and Focal Loss
+https://learnopencv.com/yolo-loss-function-siou-focal-loss/
+https://github.com/spmallick/learnopencv/tree/master/YOLO-Loss-Functions-Part1
+
+
+Moving Object Detection with OpenCV
+https://learnopencv.com/moving-object-detection-with-opencv/
+https://github.com/spmallick/learnopencv/tree/master/Moving-Object-Detection-with-OpenCV
+
+
+Integrating ADAS with Keypoint Feature Pyramid Network for 3D LiDAR Object Detection
+https://learnopencv.com/3d-lidar-object-detection/
+https://www.dropbox.com/scl/fi/3n1s68jtfkjmw2f5e5ctv/3D-LiDAR-Object-Detection.zip?rlkey=d8q6xvlxis4oxso4qki87omvc&amp;dl=1
+Code
+
+
+Mastering All YOLO Models from YOLOv1 to YOLO-NAS: Papers Explained (2024)
+https://learnopencv.com/mastering-all-yolo-models
+
+
+
+GradCAM: Enhancing Neural Network Interpretability in the Realm of Explainable AI
+https://learnopencv.com/intro-to-gradcam/
+https://www.dropbox.com/scl/fo/3p3sg5fnvhrvi9vp00i0w/h?rlkey=1x01uz5o7esex7p6c8r534iyn&amp;dl=1
+Code
+
+
+Text Summarization using T5: Fine-Tuning and Building Gradio App
+https://learnopencv.com/text-summarization-using-t5/
+https://github.com/spmallick/learnopencv/tree/master/Text-Summarization-using-T5-Fine-Tuning-and-Building-Gradio-App
+
+
+3D LiDAR Visualization using Open3D: A Case Study on 2D KITTI Depth Frames for Autonomous Driving
+https://learnopencv.com/3d-lidar-visualization/
+https://github.com/spmallick/learnopencv/tree/master/3D-LiDAR-Perception
+
+
+Fine Tuning T5: Text2Text Transfer Transformer for Building a Stack Overflow Tag Generator
+https://learnopencv.com/fine-tuning-t5/
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-T5-Text2Text-Transformer-for-Strack-Overflow-Tag-Generation
+
+
+SegFormer 🤗 : Fine-Tuning for Improved Lane Detection in Autonomous Vehicles
+https://learnopencv.com/segformer-fine-tuning-for-lane-detection
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-SegFormer-For-Lane-Detection
+
+
+Fine-Tuning BERT using Hugging Face Transformers
+https://learnopencv.com/fine-tuning-bert
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-BERT-using-Hugging-Face-Transformers
+
+
+YOLO-NAS Pose
+https://learnopencv.com/yolo-nas-pose
+https://github.com/spmallick/learnopencv/tree/master/YOLO-NAS-Pose
+
+
+BERT: Bidirectional Encoder Representations from Transformers
+https://learnopencv.com/bert-bidirectional-encoder-representations-from-transformers/
+https://github.com/spmallick/learnopencv/tree/master/BERT-Bidirectional-Encoder-Representations-from-Transformers
+
+
+Comparing KerasCV YOLOv8 Models on the Global Wheat Data 2020
+https://learnopencv.com/comparing-kerascv-yolov8-models/
+https://github.com/spmallick/learnopencv/tree/master/Comparing-KerasCV-YOLOv8-Models-on-the-Global-Wheat-Data-2020
+
+
+Top 5 AI papers of September 2023
+https://learnopencv.com/top-5-ai-papers-of-september-2023/
+
+
+
+Empowering Drivers: The Rise and Role of Advanced Driver Assistance Systems
+https://learnopencv.com/advanced-driver-assistance-systems/
+
+
+
+Semantic Segmentation using KerasCV DeepLabv3+
+https://learnopencv.com/kerascv-deeplabv3-plus-semantic-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Semantic-Segmentation-using-KerasCV-with-DeepLabv3-Plus
+
+
+Object Detection using KerasCV YOLOv8
+https://learnopencv.com/object-detection-using-kerascv-yolov8/
+https://github.com/spmallick/learnopencv/tree/master/Object-Detection-using-KerasCV-YOLOv8
+
+
+Fine-tuning YOLOv8 Pose Models for Animal Pose Estimation
+https://learnopencv.com/animal-pose-estimation/
+https://github.com/spmallick/learnopencv/tree/master/Fine-tuning-YOLOv8-Pose-Models-for-Animal-Pose-Estimation
+
+
+Top 5 AI papers of August 2023
+https://learnopencv.com/top-5-ai-papers-of-august-2023/
+
+
+Fine Tuning TrOCR - Training TrOCR to Recognize Curved Text
+https://learnopencv.com/fine-tuning-trocr-training-trocr-to-recognize-curved-text/
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-TrOCR
+
+
+TrOCR - Getting Started with Transformer Based OCR
+https://learnopencv.com/trocr-getting-started-with-transformer-based-ocr/
+https://github.com/spmallick/learnopencv/tree/master/TrOCR-Getting-Started-with-Transformer-Based-OCR
+
+
+Facial Emotion Recognition
+https://learnopencv.com/facial-emotion-recognition/
+https://github.com/spmallick/learnopencv/tree/master/Facial-Emotion-Recognition
+
+
+Object Keypoint Similarity in Keypoint Detection
+https://learnopencv.com/object-keypoint-similarity/
+https://github.com/spmallick/learnopencv/tree/master/Object-Keypoint-Similarity-in-Keypoint-Detection
+
+
+Real Time Deep SORT with Torchvision Detectors
+https://learnopencv.com/real-time-deep-sort-with-torchvision-detectors/
+https://github.com/spmallick/learnopencv/tree/master/Real_Time_Deep_SORT_using_Torchvision_Detectors
+
+
+Top 5 AI papers of July 2023
+https://learnopencv.com/top-5-ai-papers-of-july-2023/
+
+
+
+Medical Image Segmentation
+https://learnopencv.com/medical-image-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Medical-Image-Segmentation-Using-HuggingFace-&amp;-PyTorch
+
+
+Weighted Boxes Fusion in Object Detection: A Comparison with Non-Maximum Suppression
+https://learnopencv.com/weighted-boxes-fusion/
+https://github.com/spmallick/learnopencv/tree/master/Weighted-Boxes-Fusion-in-Object-Detection
+
+
+Medical Multi-label Classification with PyTorch &amp; Lightning
+https://learnopencv.com/medical-multi-label/
+https://github.com/spmallick/learnopencv/tree/master/Medical_Multi-label_Classification_with_PyTorch_&amp;_Lightning
+
+
+Getting Started with PaddlePaddle: Exploring Object Detection, Segmentation, and Keypoints
+https://learnopencv.com/paddlepaddle/
+https://github.com/spmallick/learnopencv/tree/master/Introduction-to-PaddlePaddle
+
+How to Build a Pip Installable Package &amp; Upload to PyPi
+https://learnopencv.com/building-pip-installable-package-pypi/
+
+
+
+IoU Loss Functions for Faster &amp; More Accurate Object Detection
+https://learnopencv.com/iou-loss-functions-object-detection/
+
+
+
+Exploring Slicing Aided Hyper Inference for Small Object Detection
+https://learnopencv.com/slicing-aided-hyper-inference/
+https://github.com/spmallick/learnopencv/tree/master/Exploring-Slicing-Aided-Hyper-Inference
+
+
+Advancements in Face Recognition Models, Toolkit and Datasets
+https://learnopencv.com/face-recognition-models/
+
+
+
+Train YOLO NAS on Custom Dataset
+https://learnopencv.com/train-yolo-nas-on-custom-dataset/
+https://github.com/spmallick/learnopencv/tree/master/Train-YOLO-NAS-on-Custom-Dataset
+
+
+Train YOLOv8 Instance Segmentation on Custom Data
+https://learnopencv.com/train-yolov8-instance-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Train-YOLOv8-Instance-Segmentation-on-Custom-Data
+
+
+YOLO-NAS: New Object Detection Model Beats YOLOv6 &amp; YOLOv8
+https://learnopencv.com/yolo-nas/
+https://github.com/spmallick/learnopencv/tree/master/YOLO-NAS_Introduction
+
+
+Segment Anything – A Foundation Model for Image Segmentation
+https://learnopencv.com/segment-anything/
+https://github.com/spmallick/learnopencv/tree/master/Segment-Anything-A-Foundation-Model-for-Image-Segmentation
+
+
+Build a Video to Slides Converter Application using the Power of Background Estimation and Frame Differencing in OpenCV
+https://learnopencv.com/video-to-slides-converter-using-background-subtraction/
+https://github.com/spmallick/learnopencv/tree/master/
+
+
+A Closer Look at CVAT: Perfecting Your Annotations
+https://learnopencv.com/a-closer-look-at-cvat-perfecting-your-annotations/
+https://www.youtube.com/watch?v=yxX_0-zr-2U&amp;list=PLfYPZalDvZDLvFhjuflhrxk_lLplXUqqB
+
+
+
+ControlNet - Achieving Superior Image Generation Results
+https://learnopencv.com/controlnet/
+https://github.com/spmallick/learnopencv/tree/master/ControlNet-Achieving-Superior-Image-Generation-Results
+
+
+InstructPix2Pix - Edit Images With Prompts
+https://learnopencv.com/instructpix2pix/
+https://github.com/spmallick/learnopencv/tree/master/InstructPix2Pix-Edit-Images-With-Prompts
+
+
+NVIDIA Spring GTC 2023 Day 4: Ending on a High Note with Top Moments from the Finale!
+https://learnopencv.com/nvidia-spring-gtc-2023-day-4/
+
+
+
+NVIDIA Spring GTC 2023 Day 3: Digging deeper into Deep Learning, Semiconductors &amp; more!
+https://learnopencv.com/nvidia-spring-gtc-2023-day-3-digging-deeper-into-deep-learning-semiconductors-more/
+
+
+
+NVIDIA Spring GTC 2023 Day 2: Jensen’s keynote &amp; the iPhone moment of AI is here!
+https://learnopencv.com/nvidia-spring-gtc-2023-day-2-jensens-keynote-the-iphone-moment-of-ai-is-here/
+
+
+
+NVIDIA Spring GTC 2023 Day 1: Welcome to the future!
+https://learnopencv.com/nvidia-spring-gtc-2023-day-1-highlights-welcome-to-the-future/
+
+
+
+NVIDIA GTC Spring 2023 Curtain Raiser
+https://learnopencv.com/nvidia-gtc-spring-2023-curtain-raiser/
+
+
+
+Stable Diffusion - A New Paradigm in Generative AI
+https://learnopencv.com/stable-diffusion-generative-ai/
+https://github.com/spmallick/learnopencv/tree/master/Stable-Diffusion-A-New-Paradigm-in-Generative-AI
+
+
+OpenCV Face Recognition – Does Face Recognition Work on AI-Generated Images?
+https://learnopencv.com/opencv-face-recognition-api/
+
+
+
+An In-Depth Guide to Denoising Diffusion Probabilistic Models – From Theory to Implementation
+https://learnopencv.com/denoising-diffusion-probabilistic-models/
+https://github.com/spmallick/learnopencv/tree/master/Guide-to-training-DDPMs-from-Scratch
+
+
+From Pixels to Paintings: The Rise of Midjourney AI Art
+https://learnopencv.com/rise-of-midjourney-ai-art/
+
+
+
+Mastering DALL·E 2: A Breakthrough in AI Art Generation
+https://learnopencv.com/mastering-dall-e-2/
+
+
+
+Top 10 AI Art Generation Tools using Diffusion Models
+https://learnopencv.com/ai-art-generation-tools/
+
+
+
+The Future of Image Recognition is Here: PyTorch Vision Transformer
+https://learnopencv.com/the-future-of-image-recognition-is-here-pytorch-vision-transformer/
+https://github.com/spmallick/learnopencv/tree/master/Vision_Transformer_PyTorch
+
+
+Understanding Attention Mechanism in Transformer Neural Networks
+https://learnopencv.com/attention-mechanism-in-transformer-neural-networks/
+https://github.com/spmallick/learnopencv/tree/master/Attention_Mechanism_Introduction
+
+
+Deploying a Deep Learning Model using Hugging Face Spaces and Gradio
+https://learnopencv.com/deploy-deep-learning-model-huggingface-spaces/
+https://github.com/spmallick/learnopencv/tree/master/Deploying-a-Deep-Learning-Model-using-Hugging-Face-Spaces-and-Gradio
+
+
+Train YOLOv8 on Custom Dataset – A Complete Tutorial
+https://learnopencv.com/train-yolov8-on-custom-dataset/
+https://github.com/spmallick/learnopencv/tree/master/Train-YOLOv8-on-Custom-Dataset-A-Complete-Tutorial
+
+
+Introduction to Diffusion Models for Image Generation
+https://learnopencv.com/image-generation-using-diffusion-models/
+https://github.com/spmallick/learnopencv/tree/master/Introduction-to-Diffusion-Models-for-Image-Generation
+
+
+Building An Automated Image Annotation Tool: PyOpenAnnotate
+https://learnopencv.com/building-automated-image-annotation-tool-pyopenannotate/
+https://github.com/spmallick/learnopencv/tree/master/Building-An-Automated-Image-Annotation-Tool-PyOpenAnnotate/
+
+
+Ultralytics YOLOv8: State-of-the-Art YOLO Models
+https://learnopencv.com/ultralytics-yolov8/
+https://github.com/spmallick/learnopencv/tree/master/Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models
+
+
+Getting Started with YOLOv5 Instance Segmentation
+https://learnopencv.com/getting-started-with-yolov5-instance-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Getting-Started-with-YOLOv5-Instance-Segmentation
+
+
+The Ultimate Guide To DeepLabv3 - With PyTorch Inference
+https://learnopencv.com/deeplabv3-ultimate-guide/
+https://github.com/spmallick/learnopencv/tree/master/The-ultimate-guide-to-deeplabv3
+
+
+AI Fitness Trainer using MediaPipe: Squats Analysis
+https://learnopencv.com/ai-fitness-trainer-using-mediapipe/
+https://github.com/spmallick/learnopencv/tree/master/AI-Fitness-Trainer-Using-MediaPipe-Analyzing-Squats
+
+
+YoloR - Paper Explanation &amp; Inference -An In-Depth Analysis
+https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/
+https://github.com/spmallick/learnopencv/tree/master/YoloR-paper-explanation-analysis
+
+
+Roadmap To an Automated Image Annotation Tool Using Python
+https://learnopencv.com/automated-image-annotation-tool-using-opencv-python/
+https://github.com/spmallick/learnopencv/tree/master/Roadmap-To-an-Automated-Image-Annotation-Tool-Using-Python
+
+
+Performance Comparison of YOLO Object Detection Models – An Intensive Study
+https://learnopencv.com/performance-comparison-of-yolo-models/
+
+
+
+FCOS - Anchor Free Object Detection Explained
+https://learnopencv.com/fcos-anchor-free-object-detection-explained/
+https://github.com/spmallick/learnopencv/tree/master/FCOS-Inference-using-PyTorch
+
+
+YOLOv6 Custom Dataset Training – Underwater Trash Detection
+https://learnopencv.com/yolov6-custom-dataset-training/
+https://github.com/spmallick/learnopencv/tree/master/YOLOv6-Custom-Dataset-Training-Underwater-Trash-Detection
+
+
+What is EXIF Data in Images?
+https://www.learnopencv.com/what-is-exif-data-in-images/
+https://github.com/spmallick/learnopencv/tree/master/What-is-EXIF-Data-in-Images
+
+
+t-SNE: T-Distributed Stochastic Neighbor Embedding Explained
+https://learnopencv.com/t-sne-t-distributed-stochastic-neighbor-embedding-explained/
+https://github.com/spmallick/learnopencv/tree/master/t-SNE-with-Tensorboard
+
+
+CenterNet: Objects as Points – Anchor-free Object Detection Explained
+https://learnopencv.com/centernet-anchor-free-object-detection-explained/
+https://github.com/spmallick/learnopencv/tree/master/centernet-with-tf-hub
+
+
+YOLOv7 Pose vs MediaPipe in Human Pose Estimation
+https://learnopencv.com/yolov7-pose-vs-mediapipe-in-human-pose-estimation/
+https://github.com/spmallick/learnopencv/tree/master/YOLOv7-Pose-vs-MediaPipe-in-Human-Pose-Estimation
+
+
+YOLOv6 Object Detection – Paper Explanation and Inference
+https://learnopencv.com/yolov6-object-detection/
+https://github.com/spmallick/learnopencv/tree/master/YOLOv6-Object-Detection-Paper-Explanation-and-Inference
+
+
+YOLOX Object Detector Paper Explanation and Custom Training
+https://learnopencv.com/yolox-object-detector-paper-explanation-and-custom-training/
+https://github.com/spmallick/learnopencv/tree/master/YOLOX-Object-Detection-Paper-Explanation-and-Custom-Training
+
+
+Driver Drowsiness Detection Using Mediapipe In Python
+https://learnopencv.com/driver-drowsiness-detection-using-mediapipe-in-python/
+https://github.com/spmallick/learnopencv/tree/master/Driver-Drowsiness-detection-using-Mediapipe-in-Python
+
+
+GTC 2022 Big Bang AI announcements: Everything you need to know
+https://learnopencv.com/gtc-2022-big-bang-ai-announcements-everything-you-need-to-know/
+
+
+
+NVIDIA GTC 2022 : The most important AI event this Fall
+https://learnopencv.com/nvidia-gtc-2022-the-most-important-ai-event-this-fall/
+
+
+Object Tracking and Reidentification with FairMOT
+https://learnopencv.com/object-tracking-and-reidentification-with-fairmot/
+https://github.com/spmallick/learnopencv/tree/master/Object-Tracking-and-Reidentification-with-FairMOT
+
+
+What is Face Detection? – The Ultimate Guide for 2022
+https://learnopencv.com/what-is-face-detection-the-ultimate-guide/
+https://github.com/spmallick/learnopencv/tree/master/Face-Detection-Ultimate-Guide
+
+
+Document Scanner: Custom Semantic Segmentation using PyTorch-DeepLabV3
+https://learnopencv.com/custom-document-segmentation-using-deep-learning/
+https://github.com/spmallick/learnopencv/tree/master/Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3
+
+
+Fine Tuning YOLOv7 on Custom Dataset
+https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-YOLOv7
+
+
+Center Stage for Zoom Calls using MediaPipe
+https://learnopencv.com/Center-Stage-for-zoom-call-using-mediapipe/
+https://github.com/spmallick/learnopencv/tree/master/CenterStage
+
+
+Mean Average Precision (mAP) in Object Detection
+https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/
+
+
+
+YOLOv7 Object Detection Paper Explanation and Inference
+https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/
+https://github.com/spmallick/learnopencv/tree/master/YOLOv7-Object-Detection-Paper-Explanation-and-Inference
+
+
+Pothole Detection using YOLOv4 and Darknet
+https://learnopencv.com/pothole-detection-using-yolov4-and-darknet/
+https://github.com/spmallick/learnopencv/tree/master/Pothole-Detection-using-YOLOv4-and-Darknet
+
+
+Automatic Document Scanner using OpenCV
+https://learnopencv.com/automatic-document-scanner-using-opencv/
+https://github.com/spmallick/learnopencv/tree/master/Automatic-Document-Scanner
+
+
+Demystifying GPU architectures for deep learning: Part 2
+https://learnopencv.com/demystifying-gpu-architectures-for-deep-learning-part-2/
+https://github.com/spmallick/learnopencv/tree/master/gpu_arch_and_CUDA
+
+
+Demystifying GPU Architectures For Deep Learning
+https://learnopencv.com/demystifying-gpu-architectures-for-deep-learning/
+https://github.com/spmallick/learnopencv/tree/master/gpu_arch_and_CUDA
+
+
+Intersection-over-Union(IoU)-in-Object-Detection-and-Segmentation
+https://learnopencv.com/intersection-over-unioniou-in-object-detection-and-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Intersection-over-Union-IoU-in-Object-Detection-and-Segmentation
+
+
+Understanding Multiple Object Tracking using DeepSORT
+https://learnopencv.com/understanding-multiple-object-tracking-using-deepsort/
+https://github.com/spmallick/learnopencv/tree/master/Understanding-Multiple-Object-Tracking-using-DeepSORT
+
+
+Optical Character Recognition using PaddleOCR
+https://learnopencv.com/optical-character-recognition-using-paddleocr/
+https://github.com/spmallick/learnopencv/tree/master/Optical-Character-Recognition-using-PaddleOCR
+
+
+Gesture Control in Zoom Call using Mediapipe
+https://learnopencv.com/gesture-control-in-zoom-call-using-mediapipe/
+https://github.com/spmallick/learnopencv/tree/master/zoom-gestures
+
+
+A Deep Dive into Tensorflow Model Optimization
+https://learnopencv.com/deep-dive-into-tensorflow-model-optimization-toolkit/
+https://github.com/spmallick/learnopencv/tree/master/A-Deep-Dive-into-Tensorflow-Model-Optimization
+
+
+DepthAI Pipeline Overview: Creating a Complex Pipeline
+https://learnopencv.com/depthai-pipeline-overview-creating-a-complex-pipeline/
+https://github.com/spmallick/learnopencv/tree/master/OAK-DepthAi-Pipeline-Overview
+
+
+TensorFlow Lite Model Maker: Create Models for On-Device Machine Learning
+https://learnopencv.com/tensorflow-lite-model-maker-create-models-for-on-device-machine-learning/
+https://github.com/spmallick/learnopencv/tree/master/Tensorflow-Lite-Model-Maker-Create-Models-for-On-Device-ML
+
+
+TensorFlow Lite: Model Optimization for On Device Machine Learning
+https://learnopencv.com/tensorflow-lite-model-optimization-for-on-device-machine-learning
+https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Lite-Model-Optimization-for-On-Device-MachineLearning
+
+
+Object detection with depth measurement using pre-trained models with OAK-D
+https://learnopencv.com/object-detection-with-depth-measurement-with-oak-d/
+https://github.com/spmallick/learnopencv/tree/master/OAK-Object-Detection-with-Depth
+
+
+Custom Object Detection Training using YOLOv5
+https://learnopencv.com/custom-object-detection-training-using-yolov5/
+https://github.com/spmallick/learnopencv/tree/master/Custom-Object-Detection-Training-using-YOLOv5
+
+
+Object Detection using Yolov5 and OpenCV DNN (C++/Python)
+https://learnopencv.com/object-detection-using-yolov5-and-opencv-dnn-in-c-and-python/
+https://github.com/spmallick/learnopencv/tree/master/Object-Detection-using-YOLOv5-and-OpenCV-DNN-in-CPP-and-Python
+
+
+Create Snapchat/Instagram filters using Mediapipe
+https://learnopencv.com/create-snapchat-instagram-filters-using-mediapipe/
+https://github.com/spmallick/learnopencv/tree/master/Create-AR-filters-using-Mediapipe
+
+
+AUTOSAR C++ compliant deep learning inference with TensorRT
+https://learnopencv.com/autosar-c-compliant-deep-learning-inference-with-tensorrt/
+https://github.com/spmallick/learnopencv/tree/master/industrial_cv_TensorRT_cpp
+
+
+NVIDIA GTC 2022 Day 4 Highlights: Meet the new Jetson Orin
+https://learnopencv.com/nvidia-gtc-2022-day-4-highlights-meet-the-new-jetson-orin/
+
+
+
+NVIDIA GTC 2022 Day 3 Highlights: Deep Dive into Hopper architecture
+https://learnopencv.com/nvidia-gtc-2022-day-3-highlights-deep-dive-into-hopper-architecture/
+
+
+
+NVIDIA GTC 2022 Day 2 Highlights: Jensen’s Keynote
+https://learnopencv.com/nvidia-gtc-2022-day-2-highlights/
+
+
+
+NVIDIA GTC 2022 Day 1 Highlights: Brilliant Start
+https://learnopencv.com/gtc-day-1-highlights/
+
+
+
+Automatic License Plate Recognition using Python
+https://learnopencv.com/automatic-license-plate-recognition-using-deep-learning/
+https://github.com/spmallick/learnopencv/tree/master/ALPR
+
+
+Building a Poor Body Posture Detection and Alert System using MediaPipe
+https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/
+https://github.com/spmallick/learnopencv/tree/master/Posture-analysis-system-using-MediaPipe-Pose
+
+
+Introduction to MediaPipe
+https://learnopencv.com/introduction-to-mediapipe/
+https://github.com/spmallick/learnopencv/tree/master/Introduction-to-MediaPipe
+
+
+Disparity Estimation using Deep Learning
+https://learnopencv.com/disparity-estimation-using-deep-learning/
+https://github.com/spmallick/learnopencv/tree/master/Disparity-Estimation-Using-Deep-Learning
+
+
+How to build Chrome Dino game bot using OpenCV Feature Matching
+https://learnopencv.com/how-to-build-chrome-dino-game-bot-using-opencv-feature-matching/
+https://github.com/spmallick/learnopencv/tree/master/Chrome-Dino-Bot-using-OpenCV-feature-matching
+
+
+Top 10 Sources to Find Computer Vision and AI Models
+https://learnopencv.com/top-10-sources-to-find-computer-vision-and-ai-models/
+
+
+
+Multi-Attribute and Graph-based Object Detection
+https://learnopencv.com/multi-attribute-and-graph-based-object-detection/
+
+
+
+Plastic Waste Detection with Deep Learning
+https://learnopencv.com/plastic-waste-detection-with-deep-learning/
+https://github.com/spmallick/learnopencv/tree/master/Plastic-Waste-Detection-with-Deep-Learning
+
+
+Ensemble Deep Learning-based Defect Classification and Detection in SEM Images
+https://learnopencv.com/ensemble-deep-learning-based-defect-classification-and-detection-in-sem-images/
+
+
+
+Building Industrial embedded deep learning inference pipelines with TensorRT
+https://learnopencv.com/building-industrial-embedded-deep-learning-inference-pipelines-with-tensorrt/
+https://github.com/spmallick/learnopencv/tree/master/industrial_cv_TensorRT_python
+
+
+Transfer Learning for Medical Images
+https://learnopencv.com/transfer-learning-for-medical-images/
+
+
+
+Stereo Vision and Depth Estimation using OpenCV AI Kit
+https://learnopencv.com/stereo-vision-and-depth-estimation-using-opencv-ai-kit/
+https://github.com/spmallick/learnopencv/tree/master/oak-getting-started
+
+
+Introduction to OpenCV AI Kit and DepthAI
+https://learnopencv.com/introduction-to-opencv-ai-kit-and-depthai/
+https://github.com/spmallick/learnopencv/tree/master/oak-getting-started
+
+
+WeChat QR Code Scanner in OpenCV
+https://learnopencv.com/wechat-qr-code-scanner-in-opencv
+https://github.com/spmallick/learnopencv/tree/master/WeChat-QRCode-Scanner-OpenCV
+
+
+AI behind the Diwali 2021 ‘Not just a Cadbury ad’
+https://learnopencv.com/ai-behind-the-diwali-2021-not-just-a-cadbury-ad/
+
+
+
+Model Selection and Benchmarking with Modelplace.AI
+https://learnopencv.com/model-selection-and-benchmarking-with-modelplace-ai/
+https://modelplace.ai/
+Model Zoo
+
+
+Real-time style transfer in a zoom meeting
+https://learnopencv.com/real-time-style-transfer-in-a-zoom-meeting/
+https://github.com/spmallick/learnopencv/tree/master/style-transfer-zoom
+
+
+Introduction to OpenVino Deep Learning Workbench
+https://learnopencv.com/introduction-to-openvino-deep-learning-workbench/
+https://github.com/spmallick/learnopencv/tree/master/Introduction-to-OpenVino-Deep-Learning-Workbench
+
+
+https://learnopencv.com/running-openvino-models-on-intel-integrated-gpu/
+Running OpenVino Models on Intel Integrated GPU
+https://github.com/spmallick/learnopencv/tree/master/Running-OpenVino-Models-on-Intel-Integrated-GPU
+
+
+https://learnopencv.com/post-training-quantization-with-openvino-toolkit/
+Post Training Quantization with OpenVino Toolkit
+https://github.com/spmallick/learnopencv/tree/master/Post-Training-Quantization-with-OpenVino-Toolkit
+
+
+https://learnopencv.com/introduction-to-intel-openvino-toolkit/
+Introduction to Intel OpenVINO Toolkit
+
+
+
+https://learnopencv.com/human-action-recognition-using-detectron2-and-lstm/
+Human Action Recognition using Detectron2 and LSTM
+https://github.com/spmallick/learnopencv/tree/master/Human-Action-Recognition-Using-Detectron2-And-Lstm
+
+
+https://learnopencv.com/paired-image-to-image-translation-pix2pix/
+Pix2Pix:Image-to-Image Translation in PyTorch &amp; TensorFlow
+https://github.com/spmallick/learnopencv/tree/master/Image-to-Image-Translation-with-GAN
+
+
+https://learnopencv.com/conditional-gan-cgan-in-pytorch-and-tensorflow/
+Conditional GAN (cGAN) in PyTorch and TensorFlow
+https://github.com/spmallick/learnopencv/tree/master/Conditional-GAN-PyTorch-TensorFlow
+
+
+https://learnopencv.com/deep-convolutional-gan-in-pytorch-and-tensorflow/
+Deep Convolutional GAN in PyTorch and TensorFlow
+https://github.com/spmallick/learnopencv/tree/master/Deep-Convolutional-GAN
+
+
+https://learnopencv.com/introduction-to-generative-adversarial-networks/
+Introduction to Generative Adversarial Networks (GANs)
+https://github.com/spmallick/learnopencv/tree/master/Intro-to-Generative-Adversarial-Network
+
+
+https://learnopencv.com/human-pose-estimation-using-keypoint-rcnn-in-pytorch/
+Human Pose Estimation using Keypoint RCNN in PyTorch
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-Keypoint-RCNN
+
+
+https://learnopencv.com/non-maximum-suppression-theory-and-implementation-in-pytorch
+Non Maximum Suppression: Theory and Implementation in PyTorch
+https://github.com/spmallick/learnopencv/tree/master/Non-Maximum-Suppression
+
+
+https://learnopencv.com/mrnet-multitask-approach/
+MRNet – The Multi-Task Approach
+https://github.com/spmallick/learnopencv/tree/master/MRnet-MultiTask-Approach
+
+
+https://learnopencv.com/generative-and-discriminative-models/
+Generative and Discriminative Models
+
+
+
+https://learnopencv.com/playing-chromes-t-rex-game-with-facial-gestures/
+Playing Chrome's T-Rex Game with Facial Gestures
+https://github.com/spmallick/learnopencv/tree/master/Playing-Chrome-TRex-Game-with-Facial-Gestures
+
+
+https://learnopencv.com/variational-autoencoder-in-tensorflow/
+Variational Autoencoder in TensorFlow
+https://github.com/spmallick/learnopencv/tree/master/Variational-Autoencoder-TensorFlow
+
+
+https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/
+Autoencoder in TensorFlow 2: Beginner’s Guide
+https://github.com/spmallick/learnopencv/tree/master/Autoencoder-in-TensorFlow
+
+
+https://learnopencv.com/deep-learning-with-opencvs-dnn-module-a-definitive-guide/
+Deep Learning with OpenCV DNN Module: A Definitive Guide
+https://github.com/spmallick/learnopencv/tree/master/Deep-Learning-with-OpenCV-DNN-Module
+
+
+https://learnopencv.com/depth-perception-using-stereo-camera-python-c/
+Depth perception using stereo camera (Python/C++)
+https://github.com/spmallick/learnopencv/tree/master/Depth-Perception-Using-Stereo-Camera
+
+
+https://learnopencv.com/contour-detection-using-opencv-python-c/
+Contour Detection using OpenCV (Python/C++)
+https://github.com/spmallick/learnopencv/tree/master/Contour-Detection-using-OpenCV
+
+
+https://learnopencv.com/super-resolution-in-opencv/
+Super Resolution in OpenCV
+https://github.com/spmallick/learnopencv/blob/master/Super-Resolution-in-OpenCV
+
+
+https://learnopencv.com/improving-illumination-in-night-time-images/
+Improving Illumination in Night Time Images
+https://github.com/spmallick/learnopencv/tree/master/Improving-Illumination-in-Night-Time-Images
+
+
+https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/
+Video Classification and Human Activity Recognition
+https://github.com/spmallick/learnopencv/tree/master/video-classification-and-human-activity-recognition
+
+
+https://learnopencv.com/how-to-use-opencv-dnn-module-with-nvidia-gpu-on-windows
+How to use OpenCV DNN Module with Nvidia GPU on Windows
+https://github.com/spmallick/learnopencv/tree/master/OpenCV-dnn-gpu-support-Windows
+
+
+https://learnopencv.com/opencv-dnn-with-gpu-support/
+How to use OpenCV DNN Module with NVIDIA GPUs
+https://github.com/spmallick/learnopencv/tree/master/OpenCV-dnn-gpu-support-Linux
+
+
+https://learnopencv.com/code-opencv-in-visual-studio/
+Code OpenCV in Visual Studio
+
+
+
+https://learnopencv.com/install-opencv-on-windows/
+Install OpenCV on Windows – C++ / Python
+https://github.com/spmallick/learnopencv/tree/master/Install-OpenCV-Windows-exe
+
+
+https://www.learnopencv.com/face-recognition-with-arcface/
+Face Recognition with ArcFace
+https://github.com/spmallick/learnopencv/tree/master/Face-Recognition-with-ArcFace
+
+
+https://www.learnopencv.com/background-subtraction-with-opencv-and-bgs-libraries/
+Background Subtraction with OpenCV and BGS Libraries
+https://github.com/spmallick/learnopencv/tree/master/Background-Subtraction
+
+
+https://learnopencv.com/optical-flow-using-deep-learning-raft/
+RAFT: Optical Flow estimation using Deep Learning
+https://github.com/spmallick/learnopencv/tree/master/Optical-Flow-Estimation-using-Deep-Learning-RAFT
+
+
+https://www.learnopencv.com/making-a-low-cost-stereo-camera-using-opencv/
+Making A Low-Cost Stereo Camera Using OpenCV
+https://github.com/spmallick/learnopencv/tree/master/stereo-camera
+
+
+https://www.learnopencv.com/optical-flow-in-opencv
+Optical Flow in OpenCV (C++/Python)
+https://github.com/spmallick/learnopencv/tree/master/Optical-Flow-in-OpenCV
+
+
+https://www.learnopencv.com/introduction-to-epipolar-geometry-and-stereo-vision/
+Introduction to Epipolar Geometry and Stereo Vision
+https://github.com/spmallick/learnopencv/tree/master/EpipolarGeometryAndStereoVision
+
+
+https://www.learnopencv.com/classification-with-localization/
+Classification With Localization: Convert any keras Classifier to a Detector
+https://github.com/spmallick/learnopencv/tree/master/Classification-with-localization-convert-any-keras-classifier-into-a-detector/README.md
+
+
+https://www.learnopencv.com/photoshop-filters-in-opencv/
+Photoshop Filters in OpenCV
+https://github.com/spmallick/learnopencv/tree/master/Photoshop-Filters-in-OpenCV
+
+
+https://www.learnopencv.com/tetris-with-opencv-python
+Tetris Game using OpenCV Python
+https://github.com/spmallick/learnopencv/tree/master/Tetris
+
+
+https://www.learnopencv.com/image-classification-with-opencv-for-android/
+Image Classification with OpenCV for Android
+https://github.com/spmallick/learnopencv/tree/master/DNN-OpenCV-Classification-Android
+
+
+https://www.learnopencv.com/image-classification-with-opencv-java
+Image Classification with OpenCV Java
+https://github.com/spmallick/learnopencv/tree/master/DNN-OpenCV-Classification-with-Java
+
+
+https://www.learnopencv.com/pytorch-to-tensorflow-model-conversion/
+PyTorch to Tensorflow Model Conversion
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-to-TensorFlow-Model-Conversion
+
+
+https://www.learnopencv.com/snake-game-with-opencv-python/
+Snake Game with OpenCV Python
+https://github.com/spmallick/learnopencv/tree/master/SnakeGame
+
+
+https://www.learnopencv.com/stanford-mrnet-challenge-classifying-knee-mris/
+Stanford MRNet Challenge: Classifying Knee MRIs
+https://github.com/spmallick/learnopencv/tree/master/MRNet-Single-Model
+
+
+https://www.learnopencv.com/experiment-logging-with-tensorboard-and-wandb
+Experiment Logging with TensorBoard and wandb
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-Vision-Experiment-Logging
+
+
+https://www.learnopencv.com/understanding-lens-distortion/
+Understanding Lens Distortion
+https://github.com/spmallick/learnopencv/tree/master/UnderstandingLensDistortion
+
+
+https://www.learnopencv.com/image-matting-with-state-of-the-art-method-f-b-alpha-matting/
+Image Matting with state-of-the-art Method “F, B, Alpha Matting”
+https://github.com/spmallick/learnopencv/tree/master/FBAMatting
+
+
+https://www.learnopencv.com/bag-of-tricks-for-image-classification-lets-check-if-it-is-working-or-not/
+Bag Of Tricks For Image Classification - Let's check if it is working or not
+https://github.com/spmallick/learnopencv/tree/master/Bag-Of-Tricks-For-Image-Classification
+
+
+https://www.learnopencv.com/getting-started-opencv-cuda-module/
+Getting Started with OpenCV CUDA Module
+https://github.com/spmallick/learnopencv/tree/master/Getting-Started-OpenCV-CUDA-Module
+
+
+https://www.learnopencv.com/training-a-custom-object-detector-with-dlib-making-gesture-controlled-applications/
+Training a Custom Object Detector with DLIB &amp; Making Gesture Controlled Applications
+https://github.com/spmallick/learnopencv/tree/master/Training_a_custom_hand_detector_with_dlib
+
+
+https://www.learnopencv.com/how-to-run-inference-using-tensorrt-c-api/
+How To Run Inference Using TensorRT C++ API
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-ONNX-TensorRT-CPP
+
+
+https://www.learnopencv.com/using-facial-landmarks-for-overlaying-faces-with-masks/
+Using Facial Landmarks for Overlaying Faces with Medical Masks
+https://github.com/spmallick/learnopencv/tree/master/FaceMaskOverlay
+
+
+https://www.learnopencv.com/tensorboard-with-pytorch-lightning
+Tensorboard with PyTorch Lightning
+https://github.com/spmallick/learnopencv/tree/master/TensorBoard-With-Pytorch-Lightning
+
+
+https://www.learnopencv.com/otsu-thresholding-with-opencv/
+Otsu's Thresholding with OpenCV
+https://github.com/spmallick/learnopencv/tree/master/otsu-method
+
+
+https://www.learnopencv.com/pytorch-to-coreml-model-conversion/
+PyTorch-to-CoreML-model-conversion
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-to-CoreML-model-conversion
+
+
+https://www.learnopencv.com/playing-rock-paper-scissors-with-ai/
+Playing Rock, Paper, Scissors with AI
+https://github.com/spmallick/learnopencv/tree/master/Playing-rock-paper-scissors-with-AI
+
+
+https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop-with-tensorflow/
+CNN Receptive Field Computation Using Backprop with TensorFlow
+https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Receptive-Field-With-Backprop
+
+
+https://www.learnopencv.com/cnn-fully-convolutional-image-classification-with-tensorflow
+CNN Fully Convolutional Image Classification with TensorFlow
+https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Fully-Convolutional-Image-Classification
+
+
+https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/
+How to convert a model from PyTorch to TensorRT and speed up inference
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-ONNX-TensorRT
+
+
+https://www.learnopencv.com/efficient-image-loading/
+Efficient image loading
+https://github.com/spmallick/learnopencv/tree/master/Efficient-image-loading
+
+
+https://www.learnopencv.com/graph-convolutional-networks-model-relations-in-data/
+Graph Convolutional Networks: Model Relations In Data
+https://github.com/spmallick/learnopencv/tree/master/Graph-Convolutional-Networks-Model-Relations-In-Data
+
+
+https://www.learnopencv.com/federated-learning-using-pytorch-and-pysyft/
+Getting Started with Federated Learning with PyTorch and PySyft
+https://github.com/spmallick/learnopencv/tree/master/Federated-Learning-Intro
+
+
+http://www.learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/
+Creating a Virtual Pen &amp; Eraser
+https://github.com/spmallick/learnopencv/tree/master/Creating-a-Virtual-Pen-and-Eraser
+
+
+https://www.learnopencv.com/getting-started-with-pytorch-lightning/
+Getting Started with PyTorch Lightning
+https://github.com/spmallick/learnopencv/tree/master/Pytorch-Lightning
+
+
+https://www.learnopencv.com/multi-label-image-classification-with-pytorch-image-tagging/
+Multi-Label Image Classification with PyTorch: Image Tagging
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-Multi-Label-Image-Classification-Image-Tagging
+
+
+https://www.learnopencv.com/Funny-Mirrors-Using-OpenCV/
+Funny Mirrors Using OpenCV
+https://github.com/spmallick/learnopencv/tree/master/FunnyMirrors
+
+
+https://www.learnopencv.com/t-sne-for-feature-visualization/
+t-SNE for ResNet feature visualization
+https://github.com/spmallick/learnopencv/tree/master/TSNE
+
+
+https://www.learnopencv.com/multi-label-image-classification-with-pytorch/
+Multi-Label Image Classification with Pytorch
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-Multi-Label-Image-Classification
+
+
+https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop/
+CNN Receptive Field Computation Using Backprop
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-Receptive-Field-With-Backprop
+
+
+https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop-with-tensorflow/
+CNN Receptive Field Computation Using Backprop with TensorFlow
+https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Receptive-Field-With-Backprop
+
+
+https://www.learnopencv.com/augmented-reality-using-aruco-markers-in-opencv-(c++-python)/
+Augmented Reality using AruCo Markers in OpenCV(C++ and Python)
+https://github.com/spmallick/learnopencv/tree/master/AugmentedRealityWithArucoMarkers
+
+
+https://www.learnopencv.com/fully-convolutional-image-classification-on-arbitrary-sized-image/
+Fully Convolutional Image Classification on Arbitrary Sized Image
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-Fully-Convolutional-Image-Classification
+
+
+https://www.learnopencv.com/camera-calibration-using-opencv/
+Camera Calibration using OpenCV
+https://github.com/spmallick/learnopencv/tree/master/CameraCalibration
+
+
+https://www.learnopencv.com/geometry-of-image-formation/
+Geometry of Image Formation
+
+
+
+https://www.learnopencv.com/ensuring-training-reproducibility-in-pytorch
+Ensuring Training Reproducibility in Pytorch
+
+
+
+https://www.learnopencv.com/gaze-tracking/
+Gaze Tracking
+
+
+
+https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/
+Simple Background Estimation in Videos Using OpenCV
+https://github.com/spmallick/learnopencv/tree/master/VideoBackgroundEstimation
+
+
+https://www.learnopencv.com/applications-of-foreground-background-separation-with-semantic-segmentation/
+Applications of Foreground-Background separation with Semantic Segmentation
+https://github.com/spmallick/learnopencv/tree/master/app-seperation-semseg
+
+
+https://www.learnopencv.com/efficientnet-theory-code
+EfficientNet: Theory + Code
+https://github.com/spmallick/learnopencv/tree/master/EfficientNet
+
+
+https://www.learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch/
+PyTorch for Beginners: Mask R-CNN Instance Segmentation with PyTorch
+/spmallick/learnopencv/blob/master/PyTorch-Mask-RCNN
+
+
+https://www.learnopencv.com/faster-r-cnn-object-detection-with-pytorch
+PyTorch for Beginners: Faster R-CNN Object Detection with PyTorch
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-faster-RCNN
+
+
+https://www.learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/
+PyTorch for Beginners: Semantic Segmentation using torchvision
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-Segmentation-torchvision
+
+
+https://www.learnopencv.com/image-classification-using-pre-trained-models-using-pytorch/
+PyTorch for Beginners: Comparison of pre-trained models for Image Classification
+https://github.com/spmallick/learnopencv/tree/master/Image-classification-pre-trained-models/Image_Classification_using_pre_trained_models.ipynb
+
+
+https://www.learnopencv.com/pytorch-for-beginners-basics/
+PyTorch for Beginners: Basics
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-for-Beginners/PyTorch_for_Beginners.ipynb
+
+
+https://www.learnopencv.com/pytorch-model-inference-using-onnx-and-caffe2/
+PyTorch Model Inference using ONNX and Caffe2
+https://github.com/spmallick/learnopencv/tree/master/Inference-for-PyTorch-Models/ONNX-Caffe2
+
+
+https://www.learnopencv.com/image-classification-using-transfer-learning-in-pytorch/
+Image Classification Using Transfer Learning in PyTorch
+https://github.com/spmallick/learnopencv/tree/master/Image-Classification-in-PyTorch
+
+
+https://www.learnopencv.com/hangman-creating-games-in-opencv/
+Hangman: Creating games in OpenCV
+https://github.com/spmallick/learnopencv/tree/master/Hangman
+
+
+https://www.learnopencv.com/image-inpainting-with-opencv-c-python/
+Image Inpainting with OpenCV (C++/Python)
+https://github.com/spmallick/learnopencv/tree/master/Image-Inpainting
+
+
+https://www.learnopencv.com/hough-transform-with-opencv-c-python/
+Hough Transform with OpenCV (C++/Python)
+https://github.com/spmallick/learnopencv/tree/master/Hough-Transform
+
+
+https://www.learnopencv.com/xeus-cling-run-c-code-in-jupyter-notebook/
+Xeus-Cling: Run C++ code in Jupyter Notebook
+https://github.com/spmallick/learnopencv/tree/master/XeusCling
+
+
+https://www.learnopencv.com/age-gender-classification-using-opencv-deep-learning-c-python/
+Gender &amp; Age Classification using OpenCV Deep Learning ( C++/Python )
+https://github.com/spmallick/learnopencv/tree/master/AgeGender
+
+
+https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
+Invisibility Cloak using Color Detection and Segmentation with OpenCV
+https://github.com/spmallick/learnopencv/tree/master/InvisibilityCloak
+
+
+https://www.learnopencv.com/fast-image-downloader-for-open-images-v4/
+Fast Image Downloader for Open Images V4 (Python)
+https://github.com/spmallick/learnopencv/tree/master/downloadOpenImages
+
+
+https://www.learnopencv.com/deep-learning-based-text-detection-using-opencv-c-python/
+Deep Learning based Text Detection Using OpenCV (C++/Python)
+https://github.com/spmallick/learnopencv/tree/master/TextDetectionEAST
+
+
+https://www.learnopencv.com/video-stabilization-using-point-feature-matching-in-opencv/
+Video Stabilization Using Point Feature Matching in OpenCV
+https://github.com/spmallick/learnopencv/tree/master/VideoStabilization
+
+
+https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/
+Training YOLOv3 : Deep Learning based Custom Object Detector
+https://github.com/spmallick/learnopencv/tree/master/YOLOv3-Training-Snowman-Detector
+
+
+https://www.learnopencv.com/using-openvino-with-opencv/
+Using OpenVINO with OpenCV
+https://github.com/spmallick/learnopencv/tree/master/OpenVINO-OpenCV
+
+
+https://www.learnopencv.com/duplicate-search-on-quora-dataset/
+Duplicate Search on Quora Dataset
+https://github.com/spmallick/learnopencv/tree/master/Quora-Dataset-Duplicate-Search
+
+
+https://www.learnopencv.com/shape-matching-using-hu-moments-c-python/
+Shape Matching using Hu Moments (C++/Python)
+https://github.com/spmallick/learnopencv/tree/master/HuMoments
+
+
+https://www.learnopencv.com/install-opencv-4-on-centos-7/
+Install OpenCV 4 on CentOS (C++ and Python)
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-centos.sh
+
+
+https://www.learnopencv.com/install-opencv-3-4-4-on-centos-7/
+Install OpenCV 3.4.4 on CentOS (C++ and Python)
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-centos.sh
+
+
+https://www.learnopencv.com/install-opencv-3-4-4-on-red-hat/
+Install OpenCV 3.4.4 on Red Hat (C++ and Python)
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-red-hat.sh
+
+
+https://www.learnopencv.com/install-opencv-4-on-red-hat/
+Install OpenCV 4 on Red Hat (C++ and Python)
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-on-red-hat.sh
+
+
+https://www.learnopencv.com/install-opencv-4-on-macos/
+Install OpenCV 4 on macOS (C++ and Python)
+https://github.com/spmallick/learnopencv/tree/master/InstallScripts/installOpenCV-4-macos.sh
+
+
+https://www.learnopencv.com/install-opencv-3-4-4-on-raspberry-pi/
+Install OpenCV 3.4.4 on Raspberry Pi
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-raspberry-pi.sh
+
+
+https://www.learnopencv.com/install-opencv-3-4-4-on-macos/
+Install OpenCV 3.4.4 on macOS (C++ and Python)
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-macos.sh
+
+
+https://www.learnopencv.com/opencv-qr-code-scanner-c-and-python/
+OpenCV QR Code Scanner (C++ and Python)
+https://github.com/spmallick/learnopencv/tree/master/QRCode-OpenCV
+
+
+https://www.learnopencv.com/install-opencv-3-4-4-on-windows/
+Install OpenCV 3.4.4 on Windows (C++ and Python)
+https://github.com/spmallick/learnopencv/tree/master/InstallScripts/Windows-3
+
+
+https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-16-04/
+Install OpenCV 3.4.4 on Ubuntu 16.04 (C++ and Python)
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-Ubuntu-16-04.sh
+
+
+https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-18-04/
+Install OpenCV 3.4.4 on Ubuntu 18.04 (C++ and Python)
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-Ubuntu-18-04.sh
+
+
+https://www.learnopencv.com/universal-sentence-encoder
+Universal Sentence Encoder
+https://github.com/spmallick/learnopencv/blob/master/Universal-Sentence-Encoder
+
+
+https://www.learnopencv.com/install-opencv-4-on-raspberry-pi/
+Install OpenCV 4 on Raspberry Pi
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-raspberry-pi.sh
+
+
+https://www.learnopencv.com/install-opencv-4-on-windows/
+Install OpenCV 4 on Windows (C++ and Python)
+https://github.com/spmallick/learnopencv/tree/master/InstallScripts/Windows-4
+
+
+https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
+Face Detection – Dlib, OpenCV, and Deep Learning ( C++ / Python )
+https://github.com/spmallick/learnopencv/tree/master/FaceDetectionComparison
+
+
+https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/
+Hand Keypoint Detection using Deep Learning and OpenCV
+https://github.com/spmallick/learnopencv/tree/master/HandPose
+
+
+https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/
+Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)
+https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN
+
+
+https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/
+Install OpenCV 4 on Ubuntu 18.04 (C++ and Python)
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-on-Ubuntu-18-04.sh
+
+
+https://www.learnopencv.com/install-opencv-4-on-ubuntu-16-04/
+Install OpenCV 4 on Ubuntu 16.04 (C++ and Python)
+https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-on-Ubuntu-16-04.sh
+
+
+https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose/
+Multi-Person Pose Estimation in OpenCV using OpenPose
+https://github.com/spmallick/learnopencv/tree/master/OpenPose-Multi-Person
+
+
+https://www.learnopencv.com/heatmap-for-logo-detection-using-opencv-python/
+Heatmap for Logo Detection using OpenCV (Python)
+https://github.com/spmallick/learnopencv/tree/master/heatmap
+
+
+https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
+Deep Learning based Object Detection using YOLOv3 with OpenCV ( Python / C++ )
+https://github.com/spmallick/learnopencv/tree/master/ObjectDetection-YOLO
+
+
+https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/
+Convex Hull using OpenCV in Python and C++
+https://github.com/spmallick/learnopencv/tree/master/ConvexHull
+
+
+https://www.learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/
+MultiTracker : Multiple Object Tracking using OpenCV (C++/Python)
+https://github.com/spmallick/learnopencv/tree/master/MultiObjectTracker
+
+
+https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
+Convolutional Neural Network based Image Colorization using OpenCV
+https://github.com/spmallick/learnopencv/tree/master/Colorization
+
+
+https://www.learnopencv.com/svm-using-scikit-learn-in-python/
+SVM using scikit-learn
+https://github.com/spmallick/learnopencv/tree/master/SVM-using-Python
+
+
+https://www.learnopencv.com/goturn-deep-learning-based-object-tracking/
+GOTURN: Deep Learning based Object Tracking
+https://github.com/spmallick/learnopencv/tree/master/GOTURN
+
+
+https://www.learnopencv.com/find-center-of-blob-centroid-using-opencv-cpp-python/
+Find the Center of a Blob (Centroid) using OpenCV (C++/Python)
+https://github.com/spmallick/learnopencv/tree/master/CenterofBlob
+
+
+https://www.learnopencv.com/support-vector-machines-svm/
+Support Vector Machines (SVM)
+https://github.com/spmallick/learnopencv/tree/master/SVM-using-Python
+
+
+Batch Normalization in Deep Networks
+https://www.learnopencv.com/batch-normalization-in-deep-networks/
+https://github.com/spmallick/learnopencv/tree/master/BatchNormalization
+
+
+Deep Learning based Character Classification using Synthetic Dataset
+https://www.learnopencv.com/deep-learning-character-classification-using-synthetic-dataset/
+https://github.com/spmallick/learnopencv/tree/master/CharClassification
+
+
+Image Quality Assessment : BRISQUE
+https://www.learnopencv.com/image-quality-assessment-brisque/
+https://github.com/spmallick/learnopencv/tree/master/ImageMetrics
+
+
+Understanding AlexNet
+https://www.learnopencv.com/understanding-alexnet/
+
+
+
+Deep Learning based Text Recognition (OCR) using Tesseract and OpenCV
+https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/
+https://github.com/spmallick/learnopencv/tree/master/OCR
+
+
+Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )
+https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/OpenPose
+
+
+Number of Parameters and Tensor Sizes in a Convolutional Neural Network (CNN)
+https://www.learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/
+
+
+
+How to convert your OpenCV C++ code into a Python module
+https://www.learnopencv.com/how-to-convert-your-opencv-c-code-into-a-python-module/
+https://github.com/spmallick/learnopencv/tree/master/pymodule
+
+
+CV4Faces : Best Project Award 2018
+https://www.learnopencv.com/cv4faces-best-project-award-2018/
+
+
+
+Facemark : Facial Landmark Detection using OpenCV
+https://www.learnopencv.com/facemark-facial-landmark-detection-using-opencv/
+https://github.com/spmallick/learnopencv/tree/master/FacialLandmarkDetection
+
+
+Image Alignment (Feature Based) using OpenCV (C++/Python)
+https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
+https://github.com/spmallick/learnopencv/tree/master/ImageAlignment-FeatureBased
+
+
+Barcode and QR code Scanner using ZBar and OpenCV
+https://www.learnopencv.com/barcode-and-qr-code-scanner-using-zbar-and-opencv/
+https://github.com/spmallick/learnopencv/tree/master/barcode-QRcodeScanner
+
+
+Keras Tutorial : Fine-tuning using pre-trained models
+https://www.learnopencv.com/keras-tutorial-fine-tuning-using-pre-trained-models/
+https://github.com/spmallick/learnopencv/tree/master/Keras-Fine-Tuning
+
+
+OpenCV Transparent API
+https://www.learnopencv.com/opencv-transparent-api/
+
+
+
+Face Reconstruction using EigenFaces (C++/Python)
+https://www.learnopencv.com/face-reconstruction-using-eigenfaces-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/ReconstructFaceUsingEigenFaces
+
+
+Eigenface using OpenCV (C++/Python)
+https://www.learnopencv.com/eigenface-using-opencv-c-python/
+https://github.com/spmallick/learnopencv/tree/master/EigenFace
+
+
+Principal Component Analysis
+https://www.learnopencv.com/principal-component-analysis/
+
+
+
+Keras Tutorial : Transfer Learning using pre-trained models
+https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/
+https://github.com/spmallick/learnopencv/tree/master/Keras-Transfer-Learning
+
+
+Keras Tutorial : Using pre-trained Imagenet models
+https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
+https://github.com/spmallick/learnopencv/tree/master/Keras-ImageNet-Models
+
+
+Technical Aspects of a Digital SLR
+https://www.learnopencv.com/technical-aspects-of-a-digital-slr/
+
+
+
+Using Harry Potter interactive wand with OpenCV to create magic
+https://www.learnopencv.com/using-harry-potter-interactive-wand-with-opencv-to-create-magic/
+
+
+
+Install OpenCV 3 and Dlib on Windows ( Python only )
+https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/
+
+
+
+Image Classification using Convolutional Neural Networks in Keras
+https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras
+https://github.com/spmallick/learnopencv/tree/master/KerasCNN-CIFAR
+
+
+Understanding Autoencoders using Tensorflow (Python)
+https://www.learnopencv.com/understanding-autoencoders-using-tensorflow-python/
+https://github.com/spmallick/learnopencv/tree/master/DenoisingAutoencoder
+
+
+Best Project Award : Computer Vision for Faces
+https://www.learnopencv.com/best-project-award-computer-vision-for-faces/
+
+
+
+Understanding Activation Functions in Deep Learning
+https://www.learnopencv.com/understanding-activation-functions-in-deep-learning/
+
+
+
+Image Classification using Feedforward Neural Network in Keras
+https://www.learnopencv.com/image-classification-using-feedforward-neural-network-in-keras/
+https://github.com/kromydas/learnopencv/tree/master/Keras-MLP-MNIST-Classification
+
+
+Exposure Fusion using OpenCV (C++/Python)
+https://www.learnopencv.com/exposure-fusion-using-opencv-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/ExposureFusion
+
+
+Understanding Feedforward Neural Networks
+https://www.learnopencv.com/understanding-feedforward-neural-networks/
+
+
+
+High Dynamic Range (HDR) Imaging using OpenCV (C++/Python)
+http://www.learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python
+https://github.com/spmallick/learnopencv/tree/master/hdr
+
+
+Deep learning using Keras – The Basics
+http://www.learnopencv.com/deep-learning-using-keras-the-basics
+https://github.com/kromydas/learnopencv/tree/master/Keras-Linear-Regression
+
+
+Selective Search for Object Detection (C++ / Python)
+http://www.learnopencv.com/selective-search-for-object-detection-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/SelectiveSearch
+
+
+Installing Deep Learning Frameworks on Ubuntu with CUDA support
+http://www.learnopencv.com/installing-deep-learning-frameworks-on-ubuntu-with-cuda-support/
+
+
+
+Parallel Pixel Access in OpenCV using forEach
+http://www.learnopencv.com/parallel-pixel-access-in-opencv-using-foreach/
+https://github.com/spmallick/learnopencv/tree/master/forEach
+
+
+cvui: A GUI lib built on top of OpenCV drawing primitives
+http://www.learnopencv.com/cvui-gui-lib-built-on-top-of-opencv-drawing-primitives/
+https://github.com/spmallick/learnopencv/tree/master/UI-cvui
+
+
+Install Dlib on Windows
+http://www.learnopencv.com/install-dlib-on-windows/
+
+
+
+Install Dlib on Ubuntu
+http://www.learnopencv.com/install-dlib-on-ubuntu/
+
+
+
+Install OpenCV3 on Ubuntu
+http://www.learnopencv.com/install-opencv3-on-ubuntu/
+
+
+
+Read, Write and Display a video using OpenCV ( C++/ Python )
+http://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/VideoReadWriteDisplay
+
+
+Install Dlib on MacOS
+http://www.learnopencv.com/install-dlib-on-macos/
+
+Install OpenCV 3 on MacOS
+http://www.learnopencv.com/install-opencv3-on-macos/
+
+
+Install OpenCV 3 on Windows
+http://www.learnopencv.com/install-opencv3-on-windows/
+
+
+Get OpenCV Build Information ( getBuildInformation )
+http://www.learnopencv.com/get-opencv-build-information-getbuildinformation/
+
+
+Color spaces in OpenCV (C++ / Python)
+http://www.learnopencv.com/color-spaces-in-opencv-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/ColorSpaces
+
+
+Neural Networks : A 30,000 Feet View for Beginners
+http://www.learnopencv.com/neural-networks-a-30000-feet-view-for-beginners/
+
+
+
+Alpha Blending using OpenCV (C++ / Python)
+http://www.learnopencv.com/alpha-blending-using-opencv-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/AlphaBlending
+
+
+User stories : How readers of this blog are applying their knowledge to build applications
+http://www.learnopencv.com/user-stories-how-readers-of-this-blog-are-applying-their-knowledge-to-build-applications/
+
+
+
+How to select a bounding box ( ROI ) in OpenCV (C++/Python) ?
+http://www.learnopencv.com/how-to-select-a-bounding-box-roi-in-opencv-cpp-python/
+
+
+
+Automatic Red Eye Remover using OpenCV (C++ / Python)
+http://www.learnopencv.com/automatic-red-eye-remover-using-opencv-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/RedEyeRemover
+
+
+Bias-Variance Tradeoff in Machine Learning
+http://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/
+
+
+
+Embedded Computer Vision: Which device should you choose?
+http://www.learnopencv.com/embedded-computer-vision-which-device-should-you-choose/
+
+
+Object Tracking using OpenCV (C++/Python)
+http://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/tracking
+
+
+Handwritten Digits Classification : An OpenCV ( C++ / Python ) Tutorial
+http://www.learnopencv.com/handwritten-digits-classification-an-opencv-c-python-tutorial/
+https://github.com/spmallick/learnopencv/tree/master/digits-classification
+
+
+Training a better Haar and LBP cascade based Eye Detector using OpenCV
+http://www.learnopencv.com/training-better-haar-lbp-cascade-eye-detector-opencv/
+
+
+
+Deep Learning Book Gift Recipients
+http://www.learnopencv.com/deep-learning-book-gift-recipients/
+
+
+
+Minified OpenCV Haar and LBP Cascades
+http://www.learnopencv.com/minified-opencv-haar-and-lbp-cascades/
+https://github.com/spmallick/learnopencv/tree/master/ninjaEyeDetector
+
+
+Deep Learning Book Gift
+http://www.learnopencv.com/deep-learning-book-gift/
+
+
+
+Histogram of Oriented Gradients
+http://www.learnopencv.com/histogram-of-oriented-gradients/
+
+
+
+Image Recognition and Object Detection : Part 1
+http://www.learnopencv.com/image-recognition-and-object-detection-part1/
+
+
+
+Head Pose Estimation using OpenCV and Dlib
+http://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/
+https://github.com/spmallick/learnopencv/tree/master/HeadPose
+
+
+Live CV : A Computer Vision Coding Application
+http://www.learnopencv.com/live-cv/
+
+
+
+Approximate Focal Length for Webcams and Cell Phone Cameras
+http://www.learnopencv.com/approximate-focal-length-for-webcams-and-cell-phone-cameras/
+
+
+
+Configuring Qt for OpenCV on OSX
+http://www.learnopencv.com/configuring-qt-for-opencv-on-osx/
+https://github.com/spmallick/learnopencv/tree/master/qt-test
+
+
+Rotation Matrix To Euler Angles
+http://www.learnopencv.com/rotation-matrix-to-euler-angles/
+https://github.com/spmallick/learnopencv/tree/master/RotationMatrixToEulerAngles
+
+
+Speeding up Dlib’s Facial Landmark Detector
+http://www.learnopencv.com/speeding-up-dlib-facial-landmark-detector/
+
+
+
+Warp one triangle to another using OpenCV ( C++ / Python )
+http://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/
+https://github.com/spmallick/learnopencv/tree/master/WarpTriangle
+
+
+Average Face : OpenCV ( C++ / Python ) Tutorial
+http://www.learnopencv.com/average-face-opencv-c-python-tutorial/
+https://github.com/spmallick/learnopencv/tree/master/FaceAverage
+
+
+Face Swap using OpenCV ( C++ / Python )
+http://www.learnopencv.com/face-swap-using-opencv-c-python/
+https://github.com/spmallick/learnopencv/tree/master/FaceSwap
+
+
+Face Morph Using OpenCV — C++ / Python
+http://www.learnopencv.com/face-morph-using-opencv-cpp-python/
+https://github.com/spmallick/learnopencv/tree/master/FaceMorph
+
+
+Deep Learning Example using NVIDIA DIGITS 3 on EC2
+http://www.learnopencv.com/deep-learning-example-using-nvidia-digits-3-on-ec2/
+
+
+
+NVIDIA DIGITS 3 on EC2
+http://www.learnopencv.com/nvidia-digits-3-on-ec2/
+
+
+
+Homography Examples using OpenCV ( Python / C ++ )
+http://www.learnopencv.com/homography-examples-using-opencv-python-c/
+https://github.com/spmallick/learnopencv/tree/master/Homography
+
+
+Filling holes in an image using OpenCV ( Python / C++ )
+http://www.learnopencv.com/filling-holes-in-an-image-using-opencv-python-c/
+https://github.com/spmallick/learnopencv/tree/master/Holes
+
+
+How to find frame rate or frames per second (fps) in OpenCV ( Python / C++ ) ?
+http://www.learnopencv.com/how-to-find-frame-rate-or-frames-per-second-fps-in-opencv-python-cpp/
+https://github.com/spmallick/learnopencv/tree/master/FPS
+
+
+Delaunay Triangulation and Voronoi Diagram using OpenCV ( C++ / Python)
+http://www.learnopencv.com/delaunay-triangulation-and-voronoi-diagram-using-opencv-c-python/
+https://github.com/spmallick/learnopencv/tree/master/Delaunay
+
+
+OpenCV (C++ vs Python) vs MATLAB for Computer Vision
+http://www.learnopencv.com/opencv-c-vs-python-vs-matlab-for-computer-vision/
+
+
+
+Facial Landmark Detection
+http://www.learnopencv.com/facial-landmark-detection/
+
+
+
+Why does OpenCV use BGR color format ?
+http://www.learnopencv.com/why-does-opencv-use-bgr-color-format/
+
+
+
+Computer Vision for Predicting Facial Attractiveness
+http://www.learnopencv.com/computer-vision-for-predicting-facial-attractiveness/
+https://github.com/spmallick/learnopencv/tree/master/FacialAttractiveness
+
+
+applyColorMap for pseudocoloring in OpenCV ( C++ / Python )
+http://www.learnopencv.com/applycolormap-for-pseudocoloring-in-opencv-c-python/
+https://github.com/spmallick/learnopencv/tree/master/Colormap
+
+
+Image Alignment (ECC) in OpenCV ( C++ / Python )
+http://www.learnopencv.com/image-alignment-ecc-in-opencv-c-python/
+https://github.com/spmallick/learnopencv/tree/master/ImageAlignment
+
+
+How to find OpenCV version in Python and C++ ?
+http://www.learnopencv.com/how-to-find-opencv-version-python-cpp/
+
+
+
+Baidu banned from ILSVRC 2015
+http://www.learnopencv.com/baidu-banned-from-ilsvrc-2015/
+
+
+
+OpenCV Transparent API
+http://www.learnopencv.com/opencv-transparent-api/
+
+
+
+How Computer Vision Solved the Greatest Soccer Mystery of All Time
+http://www.learnopencv.com/how-computer-vision-solved-the-greatest-soccer-mystery-of-all-times/
+
+
+
+Embedded Vision Summit 2015
+http://www.learnopencv.com/embedded-vision-summit-2015/
+
+
+
+Read an Image in OpenCV ( Python, C++ )
+http://www.learnopencv.com/read-an-image-in-opencv-python-cpp/
+https://github.com/spmallick/learnopencv/tree/master/imread
+
+
+Non-Photorealistic Rendering using OpenCV ( Python, C++ )
+http://www.learnopencv.com/non-photorealistic-rendering-using-opencv-python-c/
+https://github.com/spmallick/learnopencv/tree/master/NonPhotorealisticRendering
+
+
+Seamless Cloning using OpenCV ( Python , C++ )
+http://www.learnopencv.com/seamless-cloning-using-opencv-python-cpp/
+https://github.com/spmallick/learnopencv/tree/master/SeamlessCloning
+
+
+OpenCV Threshold ( Python , C++ )
+http://www.learnopencv.com/opencv-threshold-python-cpp/
+https://github.com/spmallick/learnopencv/tree/master/Threshold
+
+
+Blob Detection Using OpenCV ( Python, C++ )
+http://www.learnopencv.com/blob-detection-using-opencv-python-c/
+https://github.com/spmallick/learnopencv/tree/master/BlobDetector
+
+
+Turn your OpenCV Code into a Web API in under 10 minutes — Part 1
+http://www.learnopencv.com/turn-your-opencv-Code-into-a-web-api-in-under-10-minutes-part-1/
+
+
+
+How to compile OpenCV sample Code ?
+http://www.learnopencv.com/how-to-compile-opencv-sample-Code/
+
+
+
+Install OpenCV 3 on Yosemite ( OSX 10.10.x )
+http://www.learnopencv.com/install-opencv-3-on-yosemite-osx-10-10-x/
+
+
+
+https://projectworlds.in/free-projects/machine-learning-projects-with-source-code/
+
+Salary Prediction using Machine Learning Web App
+https://projectworlds.in/salary-prediction-using-machine-learning-web-app/
+
+Sentiment Analysis ML Flask Python Web App
+https://projectworlds.in/sentiment-analysis-ml-flask-python-web-app-project-with-source-code/
+
+IMDB Sentiment Analysis Machine Learning
+https://projectworlds.in/imdb-sentiment-analysis-based-on-comment-machine-learning/
+
+Medical Insurance Cost Prediction Project in Python Flask
+https://projectworlds.in/medical-insurance-cost-prediction-project-in-python-flask/
+
+Insurance Claim Prediction Machine Learning Project
+https://projectworlds.in/insurance-claim-prediction-machine-learning-project-with-source-code/
+
+Image to Cartoon Python OpenCV Machine Learning
+https://projectworlds.in/image-to-cartoon-python-opencv-machine-learning/
+
+Artificial Intelligence Project Chess Game Python
+https://projectworlds.in/artificial-intelligence-project-chess-game-python-flask-with-source-code/
+
+Artificial Intelligence Project Handwritten Digits Recognition
+https://projectworlds.in/artificial-intelligence-project-handwritten-digits-recognition/
+
+Netflix Movie Recommendation System Project Machine Learning
+https://projectworlds.in/netflix-movie-recommendation-system-project-on-machine-learning/
+
+Food recommends based on your mood python django
+https://projectworlds.in/food-recommends-based-on-your-mood-python-django/
+
+Music Recommendation Based on Facial Expression
+https://projectworlds.in/music-recommendation-based-on-facial-expression-sporify-api-python/
+
+Automated Answer Grading System machine learning
+https://projectworlds.in/automated-answer-grading-system-machine-learning-project/
+
+Iris Flower Classification with Decision Trees Web App
+https://projectworlds.in/iris-flower-classification-with-decision-trees-web-app/
+
+Handwritten digit recognition Python Flask
+https://projectworlds.in/handwritten-digit-recognition-python-flask/
+
+Cat Vs Dog Image Classification CNN Project
+https://projectworlds.in/cat-vs-dog-image-classification-cnn-project-source-code/
+
+Age and Gender Detection Using Deep Learning Python Flask
+https://projectworlds.in/age-and-gender-detection-using-deep-learning-python-flask/
+
+Vehicle number plate detection Deep Learning Project
+https://projectworlds.in/vehicle-number-plate-detection-deep-learning-project-source-code/
+
+Employee Attrition Prediction using machine learning
+https://projectworlds.in/employee-attrition-prediction-using-machine-learning/
+
+Predicting Student Performance Using Machine Learning
+https://projectworlds.in/predicting-student-performance-using-machine-learning/
+
+Campus Recruitment Prediction with Source Code Python
+https://projectworlds.in/campus-recruitment-prediction-with-source-code-python/
+
+Road Accident Severity Prediction Using Machine Learning Project
+https://projectworlds.in/road-accident-severity-prediction-using-machine-learning-project/
+
+Predict the Earlier Stages of Alzheimer’s disease Machine Learning
+https://projectworlds.in/predict-the-earlier-stages-of-alzheimers-disease-machine-learning/
+
+Air Quality Index Prediction Using PM 2.5 value Machine Learning
+https://projectworlds.in/air-quality-index-prediction-using-pm-2-5-value-machine-learning/
+
+Drug Recommendation System based on Sentiment Analysis
+https://projectworlds.in/drug-recommendation-system-based-on-sentiment-analysis-of-drug-reviews
+
+Big Mart Sales Prediction using Machine Learning
+https://projectworlds.in/big-mart-sales-prediction-using-machine-learning-web-app/
+
+Ai Black and white image colorization with OpenCV
+https://projectworlds.in/ai-black-and-white-image-colorization-with-opencv-project-free-download/
+
+Phishing Web Sites Detection Using Machine Learning Project
+https://projectworlds.in/phishing-web-sites-detection-using-machine-learning-project/
+
+Machine Learning paid projects List
+
+
+Movie Recommendation Python Django ,Machine Learning
+https://projectworlds.in/movie-recommendation-system-project-using-collaborative-filtering-python-django-machine-learning/
+
+Crime Data Analysis Project in Machine Learning
+https://projectworlds.in/crime-data-analysis-project-in-machine-learning/
+
+Multiple Disease Prediction using Machine Learning
+https://projectworlds.in/multiple-disease-prediction-using-machine-learning/
+
+Multiple Disease Prediction using Machine Learning
+https://projectworlds.in/multiple-disease-prediction-using-machine-learning/
+
+Driver Distraction Prediction Using Deep Learning
+https://projectworlds.in/driver-distraction-prediction-using-deep-learning-machine-learning/
+
+Fake News Detection using Machine Learning
+https://projectworlds.in/fake-news-detection-using-machine-learning-natural-language-processing/
+
+Fake Product Review Detection using Machine Learning
+https://projectworlds.in/fake-product-review-detection-using-machine-learning/
+
+Black Friday Sales Prediction project Machine Learning
+https://projectworlds.in/black-friday-sales-prediction-project-with-source-code/
+
+Diabetes Prediction using Machine Learning
+https://projectworlds.in/diabetes-prediction-using-machine-learning-project-code/
+
+Heart Disease Prediction using Machine Learning
+https://projectworlds.in/heart-disease-prediction-using-machine-learning-project/
+
+Skin cancer Detection using Machine learning
+https://projectworlds.in/skin-cancer-detection-using-machine-learning/
+
+Used Car Price Prediction Using Machine Learning
+https://projectworlds.in/used-car-price-prediction-using-machine-learning/
+
+Loan Defaulter Prediction Machine Learning
+https://projectworlds.in/loan-defaulter-prediction-machine-learning-projects/
+
+Loan Eligibility Prediction Python Machine Learning
+https://projectworlds.in/loan-eligibility-prediction-python-machine-learning-project/
+
+Live Face Mask Detection Project in Machine Learning
+https://projectworlds.in/live-face-mask-detection-project-in-machine-learning/
+
+Hypo Thyroid Disease prediction Machine Learning&nbsp;
+https://projectworlds.in/hypo-thyroid-disease-prediction-machine-learning-project/
+
+Credit Card Fraud Detection Machine Learning
+https://projectworlds.in/credit-card-fraud-detection-machine-learning-project/
+
+Pneumonia Prediction Using chest x-ray Image
+https://projectworlds.in/pneumonia-prediction-using-chest-x-ray-image-machine-learning/
+
+Breast Cancer Prediction Machine Learning Project Source Code
+https://projectworlds.in/breast-cancer-prediction-machine-learning-project-source-code/
+
+Book Recommendation System Project Machine Learning
+https://projectworlds.in/book-recommendation-system-project-machine-learning/
+
+
+NLP Spelling Correction Python Machine Learning
+https://projectworlds.in/nlp-spelling-correction-python-machine-learning/
+
+
+Android Human Activity Recognition Tensorflow&nbsp;
+https://projectworlds.in/android-human-activity-recognition-tensorflow-project-with-source-code/
+
+
+Road Lane Detection Computer Vision Python Flask
+https://projectworlds.in/road-lane-detection-computer-vision-python-flask-web-app/
+
+
+Forest wildfire detection from satellite images
+https://projectworlds.in/forest-wildfire-detection-from-satellite-images-using-deep-learning/
+
+Object detection Python Machine Learning Web App
+https://projectworlds.in/object-detection-python-machine-learning-web-app/
+
+
+Tomato Leaf Disease Prediction CNN Python Flask
+https://projectworlds.in/tomato-leaf-disease-prediction-cnn-python-flask-project/
+
+
+Fire Detection Using Surveillence Camera web app
+https://projectworlds.in/fire-detection-using-surveillence-camera-web-app-project-with-source-code/
+
+
+Plant Disease Prediction using CNN Flask Web App
+https://projectworlds.in/plant-disease-prediction-using-cnn-flask-web-app/
+
+
+Rainfall Prediction using LogisticRegression Flask Web App
+https://projectworlds.in/rainfall-prediction-using-logisticregression-flask-web-app/
+
+
+Crop Recommendation using Random Forest flask web app
+https://projectworlds.in/crop-recommendation-using-random-forest-flask-web-app/
+
+
+Brain Stroke Prediction Machine Learning Source Code
+https://projectworlds.in/brain-stroke-prediction-machine-learning-source-code/
+
+
+Chronic kidney disease prediction Flask web app
+https://projectworlds.in/chronic-kidney-disease-prediction-machine-learning-web-app/
+
+
+Weapon Detection System Using CNN FLask Web app
+https://projectworlds.in/weapon-detection-system-using-cnn-flask-web-app/
+
+
+Ai Healthcare chatbot project python with source code
+https://projectworlds.in/ai-healthcare-chatbot-project-python-with-source-code/
+
+
+Ai Mental Health Chatbot project python with source code
+https://projectworlds.in/ai-mental-health-chatbot-project-python-with-source-code/
+
+
+Ai generated Fake Face and Real Face detection using Deepfake
+https://projectworlds.in/ai-generated-fake-face-and-real-face-detection-using-deepfake-web-app-project/
+
+
+Computer Parts Classification using CNN Web App Project
+https://projectworlds.in/computer-parts-classification-using-cnn-web-app-project/
+
+
+Fruits Freshness Classification using Deep Learning Flask
+https://projectworlds.in/fruits-freshness-classification-using-deep-learning-python-project/
+
+
+Image-Based Bird Species Identification Using Machine Learning
+https://projectworlds.in/image-based-bird-species-identification-using-machine-learning/
+
+
+Alternative Medicine Recommendation System Machine Learning
+https://projectworlds.in/alternative-medicine-recommendation-system-machine-learning-project/
+
+Liver Cirrhosis Stage Prediction Machine Learning Python Web App
+https://projectworlds.in/liver-cirrhosis-stage-prediction-machine-learning-python-web-app/
+
+SMS Spam Detection Machine Learning Project with Source Code
+https://projectworlds.in/sms-spam-detection-machine-learning-project-with-source-code/
+
+Fraud detection on bank payments machine learning project
+https://projectworlds.in/fraud-detection-on-bank-payments-machine-learning-project/
+
+Oral Cancer Detection Using Image Processing with Source code
+https://projectworlds.in/?p=15725
+
+Sleep Disorder Prediction Using Machine Learning Project
+https://projectworlds.in/?p=15729
+
+https://projectworlds.in/brain-tumour-detection-project-using-deep-learning-from-mri-image
+Brain Tumour Detection Project Using Deep Learning From MRI Image
+
+Lung Cancer Detection Using CNN Project with Source Code
+https://projectworlds.in/lung-cancer-detection-using-cnn-project-with-source-code/
+
+
+Machine Learning custom projects List    
+
+
+Learning Gladiator Machine Learning projects
+Play Money Ball Machine Learning projects
+Machine Learning Baseball
+Predict Stock Prices Machine Learning projects
+Stock Price Predictor Machine Learning Projects
+Handwritten Text Recognition with TensorFlow Machine Learning projects
+Investigate Enron Fraud Analysis with Machine Learning projects
+Write ML Algorithms from Scratch Machine Learning projects
+Mine Social Media Sentiment Machine Learning projects
+Improve Health Care Machine Learning projects
+Iris Data Machine Learning projects
+Loan Prediction Data Machine Learning projects
+Bigmart Sales Data Machine Learning projects
+Boston Housing Data Machine Learning projects
+Time Series Analysis Data Machine Learning projects
+Wine Quality Data Machine Learning projects
+Turkiye Student Evaluation Data Machine Learning projects
+Heights and Weights Data Machine Learning projects
+Intermediate Level Machine Learning projects
+Black Friday Data Machine Learning projects
+Human Activity Recognition Data Machine Learning projects
+Siam Competition Data Machine Learning projects
+Trip History Data Machine Learning projects
+Million Song Data Machine Learning projects
+Census Income Data Machine Learning projects
+Movie Lens Data Machine Learning projects
+Twitter Classification Data Machine Learning projects
+Advanced Level Machine Learning projects
+Identify your Digits Machine Learning projects
+Urban Sound Classification Machine Learning projects
+Vox Celebrity Data Machine Learning projects
+ImageNet Data Machine Learning projects
+Chicago Crime Data Machine Learning projects
+Age Detection of Indian Actors Data Machine Learning projects
+Recommendation Engine Data Machine Learning projects
+VisualQA Data Machine Learning projects
+Nonlinear Reconstruction of Genetic Networks Implicated Machine Learning projects
+Identifying Gender From Facial Features Machine Learning projects
+Equation to LaTeX Machine Learning projects
+Intensity prediction using DYFI Machine Learning projects
+Artificial Intelligence on the Final Frontier Machine Learning projects
+Life Expectancy Post Thoracic Surgery Machine Learning projects
+Making Sense of the Mayhem- Machine Learning and March Madness Machine Learning projects
+Better Reading Levels through Machine Learning
+What are People Saying about Net Neutrality Machine Learning projects
+Bird Species Identification from an Image Machine Learning projects
+Stay Alert.Aditya Sarkar Machine Learning projects
+A bigram extension to word vector representation Machine Learning projects
+Mining for Confusion – Classifying Affect in MOOC Learners’ Discussion Forum Posts Machine Learning projects
+Cardiac Arrhythmias Patients Machine Learning projects
+Prediction of Average and Perceived Polarity in Online Journalism Machine Learning projects
+Cardiac Dysrhythmia Detection with GPU-Accelerated Neural Networks Machine Learning projects
+Nicolas Sanchez Ruck Those Stats Machine Learning projects
+Classifying Wikipedia People Into Occupations Machine Learning projects
+Classification of Soil Contamination Machine Learning projects
+Automated Essay Grading Machine Learning projects
+Relative and absolute equity return prediction using supervised learning Machine Learning projects
+Seizure Prediction from Intracranial EEG Recordings Machine Learning projects
+Predicting Seizure Onset with Intracranial Electroencephalogram(EEG)Machine Learning projects
+Classifying Complex Legal Documents Machine Learning projects
+Machine Learning Applied to the Detection of Retinal Blood Vessels Machine Learning projects
+Survival Outcome Prediction for Cancer Patients Machine Learning projects
+Predicting Cellular Link Failures to Improve User Experience on Smartphones Machine Learning projects
+Yelp Personalized Reviews Machine Learning projects
+KMeansSL Machine Learning projects
+Strength in numbers_ Modelling the impact of businesses on each other Machine Learning projects
+Correlation Based Multi-Label Classification Machine Learning projects
+Landmark Recognition Using Machine Learning Machine Learning projects
+CarveML an application of machine learning to file fragment classification Machine Learning projects
+rClassifier Machine Learning projects
+Using Vector Representations to Augment Sentiment Analysis Machine Learning projects
+Analyzing Vocal Patterns to Determine Emotion Machine Learning projects
+Predicting the Commercial Success of Songs Based on Lyrics and Other Metrics Machine Learning projects
+Application Of Machine Learning To Aircraft Conceptual Design Machine Learning projects
+Extracting Word Relationships from Unstructured Data Machine Learning projects
+Machine Learning for Predicting Delayed Onset Trauma Following Ischemic Stroke Machine Learning projects
+Classifying Online User Behavior Using Contextual Data Machine Learning projects
+Real Time Flight Path Optimization Under Constraints Using Surrogate Flutter Function Machine Learning projects
+Real-Time Dense Map Matching with Naive Hidden Markov Models Delay versus Accuracy Machine Learning projects
+Prediction Function from Sequence in Venom Peptide Families Machine Learning projects
+Restaurant Recommendation System Machine Learning projects
+Home Electricity Load Forecasting Machine Learning projects
+Learning Dota 2 Team Compositions Machine Learning projects
+Applying Deep Learning to derive insights about non-coding regions of the genome Machine Learning projects
+Classification of Higgs Jets as Decay Products of a Randall-Sundrum Graviton at the ATLAS Experiment Machine Learning projects
+SemenFertilityPrediction.Axel Guyon,Florence Koskas,Yoann Buratti Machine Learning projects
+Sentiment Analysis Using Semi-Supervised Recursive Autoencoders and Support Vector Machines Machine Learning projects
+Classifying Syllables in Imagined Speech using EEG Data Machine Learning projects
+Abraham Starosta-Typeguess Machine Learning projects
+Predicting Usefulness of Yelp Reviews Machine Learning projects
+Predicting Soccer Results in the English Premier League Machine Learning projects
+Detecting Heart Abnormality using ECG with CART Machine Learning projects
+Down and Dirty with Data Machine Learning projects
+Hierarchical Classification of Amazon Products Machine Learning projects
+Predicting high-risk countries for political instability and conflict Machine Learning projects
+Machine Learning Implementation in live-cell tracking Machine Learning projects
+Any Given Sunday Machine Learning projects
+P300 Error Detection Machine Learning projects
+Automated Canvas Analysis for Painting Conservation Machine Learning projects
+Office Appliance Classification Machine Learning projects
+Sentiment Analysis on Movie Reviews Machine Learning projects
+Predicting Mobile Application Success Machine Learning projects
+Modeling Activity Recognition Using Physiological Data Collected from Wearable Technology Machine Learning projects
+Neural Network Joint Language Model.Charles Qi.[pdf]
+Yelp Recommendation System Using Advanced Collaborative Filtering Machine Learning projects
+Prediction of Yelp Review Star Rating using Sentiment Analysis Machine Learning projects
+Classification of Bad Accounts in Credit Card Industry Machine Learning projects
+Classification Of Musical Playing Styles Machine Learning projects
+Email Filtering By Response Required Machine Learning projects
+Forecasting Utilization in City Bike-Share Program Machine Learning projects
+Recommender.Christopher Aberger Machine Learning projects
+Predicting Cell Type-Specific Chromatin States from Genetic Regulatory Networks Machine Learning projects
+Pose Estimation Based on 3D Models Machine Learning projects
+Visual Localization and POMDP for Autonomous Indoor Navigation Machine Learning projects
+Contours and Kernels-The Art of Sketching Machine Learning projects
+Indoor Positioning System Using Wifi Fingerprint Machine Learning projects
+Predicting air pollution level in a specific city Machine Learning projects
+Prediction of Transcription Factors that Regulate Common Binding Motifs Machine Learning projects
+Multi-class motif discovery in keratinocyte differentiation Machine Learning projects
+Defensive Unit Performance Analysis Machine Learning projects
+Diagnosing Malignant versus Benign Breast Tumors via Machine Learning Techniques in High Dimensions Machine Learning projects
+Hacking the Hivemind Machine Learning projects
+Diagnosing Parkinson’s from Gait Machine Learning projects
+Implementing Machine Learning Algorithms on GPUs for Real-Time Traffic Sign Classification Machine Learning projects
+Vignette Machine Learning projects
+Machine Learning In JavaScript Machine Learning projects
+Searching for exoplanets in the Kepler public data Machine Learning projects
+Model Clustering via Group Lasso Machine Learning projects
+Improving Positron Emission Tomography Imaging with Machine Learning Machine Learning projects
+Algorithmic Trading of Futures via Machine Learning.David Montague Machine Learning projects
+Topic based comments exploration for online articles Machine Learning projects
+Personal Legal Counselor and Interpreter of the Law via Machine Learning Machine Learning projects
+Personalized Web Search Machine Learning projects
+Detecting Ads in a Machine Learning Approach Machine Learning projects
+Predicting Mitochondrial tRNA Modification Machine Learning projects
+Collaborative Neighborhoods Machine Learning projects
+Estimation of Causal Effects from Observational Study of Job Training Program Machine Learning projects
+Deep Leraning Architecture for Univariate Time Series Forecasting Machine Learning projects
+Solomon Machine Learning projects
+Automatic detection of nanoparticles in tissue sections Machine Learning projects
+Implementation of Deep Convolutional NeuralNet on a DSP Machine Learning projects
+Evergreen or Ephemeral – Predicting Webpage Longevity Through Relevancy Features Machine Learning projects
+MacMalware Machine Learning projects
+Extractive Fiction Summarization Using Sentence Significance Scoring Models Machine Learning projects
+Identifying And Predicting Market Reactions To Information Shocks In Commodity Markets Machine Learning projects
+An EM-Derived Approach to Blind HRTF Estimation Machine Learning projects
+The Many Dimensions of Net Neutrality Machine Learning projects
+Learning To Predict Dental Caries For Preschool Children Machine Learning projects
+Information based feature selection Machine Learning projects
+Identifying Elephant Vocalizations Machine Learning projects
+Predicting Protein Fragment Binding Machine Learning projects
+Bike Share Usage Prediction in London Machine Learning projects
+Localized Explicit Semantic Analysis Machine Learning projects
+Robo Brain Massive Knowledge Base for Robots Machine Learning projects
+Understanding Music Genre Similarity Machine Learning projects
+Correlated Feature Selection for Single-Cell Phenotyping Machine Learning projects
+Activity Recognition in Construction Sites Using 3D Accelerometer and Gyrometer Machine Learning projects
+Event-based stock market prediction Machine Learning projects
+Recommendation Based On User Experience Machine Learning projects
+Spectrum Adaptation in Multicarrier Interference Channels Machine Learning projects
+Exploring Potential for Machine Learning on Data About K-12 Teacher Professional Development Machine Learning projects
+Player Behavior and Optimal Team Compositions for Online Multiplayer Games Machine Learning projects
+Algorithmic Trading Strategy Based On Massive Data Mining Machine Learning projects
+Face Detection And Recognition Of Drawn Characters Machine Learning projects
+Gene Expression Analysis Of HCMV Latent Infection Machine Learning projects
+A New Kalman Filter Method Machine Learning projects
+Using Tweets for single stock price prediction Machine Learning projects
+Naïve Bayes Classifier And Profitability of Options Gamma Trading Machine Learning projects
+Vector-based Sentiment Analysis of Movie Reviews Machine Learning projects
+A General-Purpose Sentence-Level Nonsense Detector Machine Learning projects
+Characterizing Genetic Variation in Three Southeast Asian Populations Machine Learning projects
+Machine Learning for the Smart Grid Machine Learning projects
+Predicting Africa Soil Properties Machine Learning projects
+Automated Bitcoin Trading via Machine Learning Algorithms Machine Learning projects
+SkatBot Machine Learning projects
+Tradeshift Text Classification Machine Learning projects
+New York City Bike Share Machine Learning projects
+Predicting Seizure Onset in Epileptic Patients Using Intercranial EEG Recordings Machine Learning projects
+Predicting Foster Care Exit Machine Learning projects
+Yelp Recommendation System Machine Learning projects
+Predicting National Basketball Association Game Winners Machine Learning projects
+Predicting Yelp Ratings From Business and User Characteristics Machine Learning projects
+Predicting Popularity of Pornography Videos Machine Learning projects
+Accurate Campaign Targeting Using Classification Algorithms Machine Learning projects
+Forecasting Bike Rental Demand Machine Learning projects
+Predicting User Following Behavior On Tencent Weibo Mac
+ine Learning projects
+Improving Taxi Revenue With Reinforcement Learning Machine Learning projects
+Learning Facial Expressions From an Image Machine Learning projects
+All Your Base Are Belong To Us English Texts Written by Non-Native Speakers Machine Learning projects
+Identifying Regions High Turbidity Machine Learning projects
+A Comparison of Classification Methods for Expression Quantitative Trait Loci Machine Learning projects
+Predicting Mobile Users Future Location Machine Learning projects
+Machine Learning Madness Machine Learning projects
+Semi-Supervised Learning For Sentiment Analysis Machine Learning projects
+Legal Issue Spotting Machine Learning projects
+A novel way to Soccer Match Prediction Machine Learning projects
+Morphological Galaxy Classification Machine Learning projects
+Predicting Helpfulness Ratings of Amazon Product Reviews Machine Learning projects
+Predicting Course Completions For Online Courses Machine Learning projects
+An Adaptive System For Standardized Test Preparation Machine Learning projects
+Single Molecule Biophysics Machine Learning For Automated Data Processing Machine Learning projects
+Understanding Comments Submitted to FCC on Net Neutrality Machine Learning projects
+Direct Data-Driven Methods for Decision Making under Uncertainty Machine Learning project
+From Food To Winev
+Classifying Legal Questions into Topic Areas Using Machine Learning Machine Learning projects
+Predicting Hit Songs with MIDI Musical Featuresv
+Machine Learning Methods for Biological Data Curation Machine Learning projects
+Classifying Forest Cover Type using Cartographic Features Machine Learning projects
+Peer Lending Risk Predictorv
+Learning Distributed Representations of Phrases Machine Learning projects
+Estimation Of Word Representations Using Recurrent Neural Networks And Its Application In Generating Business Fingerprints Machine Learning projects
+Gender Identification by Voice Machine Learning projects
+Applications Of Machine Learning To Predict Yelp Ratings Machine Learning projects
+Methodology for Sparse Classification Learning Arrhythmia Machine Learning projects
+Predicting March Madness Machine Learning projects
+Net Neutrality Language Analysis Machine Learning projects
+Characterizing Atrial Fibrillation Burden for Stroke Prevention Machine Learning projects
+Predict Seizures in Intracranial EEG Recordings Machine Learning projects
+Automated Music Track Generation Machine Learning projects
+Characterizing Overlapping Galaxies Machine Learning projects
+Understanding Player Positions in the NBA Machine Learning projects
+Cross-Domain Product Classification with Deep Learning Machine Learning projects
+Predicting Heart Attacks Machine Learning projects
+Prediction of Bike Sharing Demand for Casual and Registered Users Machine Learning projects
+Classification Of Arrhythmia Using ECG Data Machine Learning projects
+What Can You Learn From Accelerometer Data Machine Learning projects
+Speaker Recognition for Multi-Source Single-Channel Recordings Machine Learning projects
+Prediction of consumer credit risk Machine Learning projects
+Machine Learning for Network Intrusion Detection Machine Learning projects
+Predicting Paper Counts in the Biological Sciences Machine Learning projects
+Prediction of Price Increase for MTG Cards Machine Learning projects
+Twitter Classification into the Amazon Browse Node Hierarchy Machine Learning projects
+Determining Mood From Facial Expressions Machine Learning projects
+Visualizing Personalized Cancer Risk Prediction Machine Learning projects
+Predicting the Total Number of Points Scored in NFL Games Machine Learning projects
+Short Term Power Forecasting Of Solar PV Systems Using Machine Learning Techniques Machine Learning projects
+Star-Galaxy Separation in the Era of Precision Cosmology Machine Learning projects
+Artist Attribution via Song Lyrics Machine Learning projects
+Accelerometer Gesture Recognition Machine Learning projects
+Arrythmia Classification for Heart Attack Prediction Machine Learning projects
+#ML#NLP-Autonomous Tagging Of Stack Overflow Posts Machine Learning projects
+Scheduling Tasks Under Constraints Machine Learning projects
+Classification Of Beatles Authorshipv
+Classification of Accents of English Speakers by Native Language Machine Learning projects
+Exposing commercial value in social networks matching online communities and businesses Machine Learning projects
+Hacking the genome Machine Learning projects
+How Hot Will It Get Modeling Scientific Discourse About Literature Machine Learning projects
+Permeability Prediction of 3-D Binary Segmented Images Using Neural Networks Machine Learning projects
+Automated Identification of Artist Given Unknown Paintings and Quantification of Artistic Style Machine Learning projects
+Predicting Lecture Video Complexity Machine Learning projects
+Result Prediction of Wikipedia Administrator Elections based ondNetwork Features Machine Learning projects
+Predicting The Treatment Status Machine Learning projects
+Error Detection based on neural signals Machine Learning projects
+Speech Similarity Machine Learning projects
+Data-Driven Modeling and Control of an Autonomous Race Car Machine Learning projects
+Predicting the Diagnosis of Type 2 Diabetes Using Electronic Medical Records Machine Learning projects
+A Novel Approach to Predicting the Results of NBA Matches Machine Learning projects
+Automatically Generating Musical Playlists Machine Learning projects
+Solar Flare Prediction Machine Learning projects
+Application of machine learning techniques for well pad identification inathe Bakken oil fielda Machine Learning projects
+Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods Machine Learning projects
+Two-step Semi-supervised Approach for Music Structural Classificiation Machine Learning projects
+Domain specific sentiment analysis using cross-domain data Machine Learning projects
+Instrumental Solo Generator Machine Learning projects
+Cross-Domain Text Understanding in Online SocialData Machine Learning projects
+From Paragraphs to Vectors and Back Again Machine Learning projects
+HandwritingRecognition Machine Learning projects
+Chemical Identification with Chemical Sensor Arrays Machine Learning projects
+Genre Classification Using Graph Representations of Music Machine Learning projects
+Collaborative Filtering Recommender Systems Machine Learning projects
+Detecting The Direction Of Sound With A Compact Microphone Array Machine Learning projects
+Finding Undervalued Stocks With Machine Learning Machine Learning project
+Multilevel Local Search Algorithms for Modularity Clustering Machine Learning projects
+Automated Detection and Classification of Cardiac Arrhythmias Machine Learning projects
+Predicting Kidney Cancer Survival From Genomic Data Machine Learning projects
+Multiclass Sentiment Analysis of Movie Reviews Machine Learning projects
+Classification and Regression Approaches to Predicting US Senate Elections Machine Learning projects
+Learning from Quantified Self Data Machine Learning projects
+Predict Influencers in the Social Network Machine Learning projects
+Bias Detector Machine Learning projects
+Constructing Personal Networks Through Communication History Machine Learning projects
+Modeling Protein Interactions Using Bayesian Networks Machine Learning projects
+Topic Analysis of the FCC’s Public Comments on Net Neutrality Machine Learning projects
+Predicting Hospital Readmissions Machine Learning projects
+Analyzing Positional Play in Chess Using Machine Learning Machine Learning projects
+Yelp Restaurants’ Open Hours Machine Learning projects
+Identifying Arrhythmia from Electrocardiogram Data Machine Learning projects
+Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans M
+chine Learning projects
+Exploring the Genetic Basis of Congenital Heart Defects Machine Learning projects
+Attribution of Contested and Anonymous Ancient Greek Works Machine Learning projects
+Object Detection for Semantic SLAM using Convolutional Neural Networks Machine Learning projects
+Sentiment as a Predictor of Wikipedia Editor Activity Machine Learning projects
+Blowing Up The Twittersphere- Predicting the Optimal Time to Tweet Machine Learning projects
+Evergreen Classification_ Exploring New Features Machine Learning projects
+Detecting Lane Departures Using Weak Visual Features Machine Learning projects
+Re-clustering of Constellations through Machine Learning Machine Learning projects
+Application of Neural Network In Handwriting Recognition Machine Learning projects
+Recognition and Classification of Fast Food Images Machine Learning projects
+Reduced Order Greenhouse Gas Flaring Estimation Machine Learning projects
+Blood Pressure Detection from PPG Machine Learning projects
+Predicting Low Voltage Events on Rural Micro-Grids in Tanzania Machine Learning projects
+Amazon Employee Access Control System_Updated_Version Machine Learning projects
+Prediction Onset Epileptic Machine Learning projects
+Evaluating Pinch Quality of Underactuated Robotic Hands Machine Learning projects
+Reinforcement Learning With Deeping Learning in Pacman Machine Learning projects
+Language identification and accent variation detection in spoken language recordings Machine Learning projects
+Enhancing Cortana User Experience Using Machine Learning Machine Learning projects
+Who Matters Machine Learning projects
+Predicting Heart Attacks Machine Learning projects
+Predicting Seizures in Intracranial EEG Recordings Machine Learning projects
+tructural Health Monitoring in Extreme Events from Machine Learning Perspective Machine Learning projects
+On-line Kernel Learning for Active Sensor Networks Machine Learning projects
+ECommerce Sales Prediction Using Listing Keywords Machine Learning projects
+Review Scheduling for Maximum Long-Term Retention of Knowledge Machine Learning projects
+Adaptive Spaced Repetition Machine Learning projects
+Do a Barrel Roll Machine Learning projects
+Oil Field Production using Machine Learning Machine Learning projects
+Predicting Success for Musical Artists through Network and Quantitative Data Machine Learning projects
+Better Models for Prediction of Bond Prices Machine Learning projects
+Classifying the Brain 27s Motor Activity via Deep Learning Machine Learning projects
+Prediction of Bike Rentals Machine Learning projects
+Classification of Alzheimer’s Disease Based on White Matter Attributes Machine Learning projects
+MoralMachines- Developing a Crowdsourced Moral Framework for Autonomous Vehicle Decisions Machine Learning projects
+Context Specific Sequence Preference Of DNA Binding Proteins Machine Learning projects
+Predicting Reddit Post Popularity ViaInitial Commentary Machine Learning projects
+Machine Learning for Continuous Human Action Recognition Machine Learning projects
+Predicting Pace Based on Previous Training Runs Machine Learning projects
+Probabilistic Driving Models and Lane Change Prediction Machine Learning projects
+Multiple Sensor Indoor Mapping Using a Mobile Robot Machine Learning projects
+Bone Segmentation MRI Scans Machine Learning projects
+#Rechorder Anticipating Music Motifs In Real Time Machine Learning projects
+Prediction and Classification of Cardiac Arrhythmia Machine Learning projects
+Predicting DJIA Movements from the Fluctuation of a Subset of Stocks Machine Learning projects
+Sentiment Analysis for Hotel Reviews Machine Learning projects
+Mood Detection with Tweets Machine Learning projects
+Comparison of Machine Learning Techniques for Magnetic Resonance Image Analysis Machine Learning projects
+Object Recognition in Images Machine Learning projects
+3D Scene Retrieval from Text Machine Learning projects
+Predicting Breast Cancer Survival Using Treatment and Patient Factors Machine Learning projects
+Parking Occupancy Prediction and Pattern Analysis Machine Learning projects
+Supervised DeepLearning For MultiClass Image Classification Machine Learning projects
+User Behaviors Across Domains Machine Learning projects
+Seizure forecasting Machine Learning projects
+Stock Trend Prediction with Technical Indicators using SVM Machine Learning projects
+Predicting Usefulness of Yelp Reviews Machine Learning projects
+Multiclass Classifier Building with Amazon Data to Classify Customer Reviews into Product Categories Machine Learning projects
+An Energy Efficient Seizure Prediction Algorithm Machine Learning projects
+Classifier Comparisons On Credit Approval Prediction Machine Learning projects
+Appliance Based Model for Energy Consumption Segmentation Machine Learning projects
+analysis on 1s1r array Machine Learning projects
+Phishing Detection System Using Machine Learning a
+Self Driving car project using Machine Learning
+OpenCV Python Neural Network Autonomous RC C
+Stock prediction using sentimental analysis – Machine Learning projects
+Illness Tracker | Final Year Project
+machine learning neural network JAVA PROJECTS
+Credit Card Fraud Detection Using Neural Network
+Detecting Phishing Websites using Machine Learning Technique
+Machine Learning Final Project: Classification of Neural Responses to Threat
+A Computer Aided Diagnosis System for Lung Cancer Detection using Machine
+Prediction of Diabetes and cancer using SVM
+Efficient Heart Disease Prediction System
+
+
+
+
+65. 
+13 Computer Vision Projects with Code 
+https://github.com/anuragreddygv323/computer-vision-projects
+Automatic License Plate Recognition
+Building Computer Vision Apps for Your Mobile Device
+Building Your Own Custom Object Detector
+Computer Vision Basics
+Computer Vision Case Studies
+Content-Based Image Retrieval
+Deep Learning
+Face Recognition
+Hadoop + Big Data
+Hand Gesture Recognition
+Image Classification and Machine Learning
+Image Descriptors
+Raspberry Pi Projects
+
+66. 
+13 Cool Computer Vision GitHub Projects To Inspire You 
+https://machinelearningknowledge.ai/cool-computer-vision-github-projects-to-inspire-you/
+
+3D Face Reconstruction using CNN ( ★ – 4.1k |  ⑂ – 682 )
+https://github.com/AaronJackson/vrn
+
+Real-time Multi-Person Pose Estimation and Tracking System ( ★ – 4k |  ⑂ – 1.1k)
+https://github.com/MVIG-SJTU/AlphaPose
+
+
+Automatic Colorization of Photos using Deep Neural Networks  (★ – 2.3k |  ⑂ – 560 )
+https://github.com/richzhang/colorization
+
+Editing natural photos using Generative Neural Networks ( ★ – 1.9k |  ⑂ – 186 )
+https://github.com/ajbrock/Neural-Photo-Editor
+
+Convolution Recurrent Neural Network for Image Recognition ( ★ – 1.7k |  ⑂ – 486 )
+https://github.com/bgshih/crnn
+
+Image Deblurring using Generative Adversarial Networks ( ★ – 7.8k |  ⑂ – 1.8k )
+https://github.com/KupynOrest/DeblurGAN
+
+Painting AI – Deep Reinforcement Learning model that produces paintings using strokes  ( ★ – 1.7k |  ⑂ – 227 )
+Lip Reading – Cross Audio-Visual Recognition using 3D Architectures ( ★ – 1.4k |  ⑂ – 246 )
+https://github.com/astorfi/lip-reading-deeplearning
+
+Quickdraw – Interactive drawing identification tool ( ★ – 677 |  ⑂ – 107 )
+https://github.com/uvipen/QuickDraw
+
+Image Animation using First Order Motion Model ( ★ – 3.9k |  ⑂ – 780 )
+https://github.com/AliaksandrSiarohin/first-order-model
+
+Fashion MNIST  ( ★ – 7.8k |  ⑂ – 1.8k )
+https://github.com/zalandoresearch/fashion-mnist
+
+Cool Computer Vision Projects ( ★ – 37 |  ⑂ – 45 )
+https://github.com/akshaybhatia10/ComputerVision-Projects
+
+Intermediate Level Computer Vision Projects ( ★ – 13 |  ⑂ – 9 )
+https://github.com/anuragreddygv323/computer-vision-projects
+
+
+67. 
+Open-Source Computer Vision Projects (With Tutorials) 
+https://www.theclickreader.com/open-source-computer-vision-projects-with-tutorials/
+
+68. 
+OpenCV Computer Vision Projects with Python 
+https://github.com/PacktPublishing/OpenCV-Computer-Vision-Projects-with-Python
+
+70. 
+80 + Computer vision Learning code 
+https://github.com/spmallick/learnopencv
+
+71. 
+Deep learning Treasure 
+https://github.com/kmario23/deep-learning-drizzle
+
+72 
+Data Analysis and Machine learning Projects 
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
+
+73 
+AI Projects 
+https://github.com/StevenLei/AI_projects
+
+74 
+Kaggle projects collection 
+https://github.com/alexattia/Data-Science-Projects
+
+75 
+Unique AI projects 
+https://github.com/robsalgado/personal_data_science_projects
+
+76 
+Data Science Project Collection 
+https://github.com/tuangauss/DataScienceProjects
+
+77 
+Advance Data Science Projects 
+https://github.com/TheCodex-Me/Projects
+
+78 
+Deep and Machine learning Projects 
+https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects
+
+79 Data Science Projects kaggle 
+https://github.com/alexattia/Data-Science-Projects
+
+80 
+Auto Deep learning Project 
+https://github.com/D-X-Y/AutoDL-Projects
+
+81 
+180 Machine learning Project 
+https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
+---------------------------------------
+1
+Stock Price Prediction with LSTM Neural Network
+https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/
+
+2
+Online Payments Fraud Detection
+https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/
+
+3
+Future Sales Prediction
+https://thecleverprogrammer.com/2022/03/01/future-sales-prediction-with-machine-learning/
+
+4
+Waiter Tips Analysis &amp; Prediction
+https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-learning/
+
+5
+Stock Price Prediction
+https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
+
+6
+Flipkart Reviews Sentiment Analysis
+https://thecleverprogrammer.com/2022/02/15/flipkart-reviews-sentiment-analysis-using-python/
+
+7
+Cryptocurrency Price Prediction for the next 30 days
+https://thecleverprogrammer.com/2021/12/27/cryptocurrency-price-prediction-with-machine-learning/
+
+8    
+Article Recommendation System    
+https://thecleverprogrammer.com/2021/11/10/article-recommendation-system-with-machine-learning/
+
+9
+Netflix Stock Price Prediction
+https://thecleverprogrammer.com/2022/02/08/netflix-stock-price-prediction-with-machine-learning/
+
+10
+Time Series Analysis
+https://thecleverprogrammer.com/2022/01/17/time-series-analysis-using-python/
+
+11
+Classification with Neural Networks
+https://thecleverprogrammer.com/2022/01/10/classification-with-neural-networks-using-python/
+
+12
+Stress Detection
+https://thecleverprogrammer.com/2021/12/20/stress-detection-with-machine-learning/
+
+13
+AlexNet Neural Network Architecture
+https://thecleverprogrammer.com/2021/12/13/alexnet-architecture-using-python/
+
+14
+Visualizing a Machine Learning Algorithm
+https://thecleverprogrammer.com/2021/12/29/visualize-a-machine-learning-algorithm-using-python/
+
+15
+Training and Giving Inputs to a Machine Learning Model
+https://thecleverprogrammer.com/2021/11/29/how-to-give-inputs-to-a-machine-learning-model/
+
+16
+Product Demand Prediction
+https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/
+
+17
+Electricity Price Prediction
+https://thecleverprogrammer.com/2021/11/15/electricity-price-prediction-with-machine-learning/
+
+18
+Language Detection
+https://thecleverprogrammer.com/2021/10/30/language-detection-with-machine-learning/
+
+19
+Adding Labels to a Dataset for Sentiment Analysis
+https://thecleverprogrammer.com/2021/11/24/add-labels-to-a-dataset-for-sentiment-analysis/
+
+20
+Pfizer Vaccine Sentiment Analysis
+https://thecleverprogrammer.com/2021/10/12/pfizer-vaccine-sentiment-analysis-using-python/
+
+21
+News Classification
+https://thecleverprogrammer.com/2021/10/07/news-classification-with-machine-learning/
+
+22
+Omicron Variant Sentiment Analysis
+https://thecleverprogrammer.com/2021/12/06/omicron-sentiment-analysis-using-python/
+
+23
+Iris Flower Classification
+https://thecleverprogrammer.com/2021/10/17/iris-flower-classification-with-machine-learning/
+
+24
+Water Quality Analysis
+https://thecleverprogrammer.com/2021/08/19/water-quality-analysis/
+
+25
+Twitter Sentiment Analysis
+https://thecleverprogrammer.com/2021/09/13/twitter-sentiment-analysis-using-python/
+
+26
+Squid Game Sentiment Analysis
+https://thecleverprogrammer.com/2021/11/03/squid-game-sentiment-analysis-using-python/
+
+27
+Comparison of Classification Algorithms
+https://thecleverprogrammer.com/2021/10/02/comparison-of-classification-algorithms-in-machine-learning/
+
+28
+Tata Motors Stock Price Prediction
+https://thecleverprogrammer.com/2021/10/22/tata-motors-stock-price-prediction-with-machine-learning/
+
+29
+https://thecleverprogrammer.com/2021/10/26/health-insurance-premium-prediction-with-machine-learning/
+Health Insurance Premium Prediction
+
+30
+https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/
+Movie Rating Analysis for Beginners
+
+31
+https://thecleverprogrammer.com/2021/09/27/number-of-orders-prediction-with-machine-learning/
+Number of Orders Prediction
+
+32
+Apple Stock Price Prediction
+https://thecleverprogrammer.com/2021/09/08/apple-stock-price-prediction-with-machine-learning/
+
+33
+Insurance Prediction
+https://thecleverprogrammer.com/2021/09/03/insurance-prediction-with-machine-learning/
+
+34
+Worldwide Billionaires Analysis
+https://thecleverprogrammer.com/2021/06/24/billionaires-analysis-with-python/
+
+35
+Unemployment Analysis
+https://thecleverprogrammer.com/2021/07/12/unemployment-analysis-with-python/
+
+36
+Car Price Prediction Model
+https://thecleverprogrammer.com/2021/08/04/car-price-prediction-with-machine-learning/
+
+37
+Spam Detection
+https://thecleverprogrammer.com/2021/06/27/spam-detection-with-machine-learning/
+
+38
+Count Objects in Image
+https://thecleverprogrammer.com/2021/05/11/count-objects-in-image-using-python/
+
+39
+WhatsApp Chats Sentiment Analysis
+https://thecleverprogrammer.com/2021/06/06/whatsapp-chat-sentiment-analysis-using-python/
+
+40
+WhatsApp Chats Analysis
+https://thecleverprogrammer.com/2021/04/09/whatsapp-chat-analysis-with-python/
+
+41
+Microsoft Stock Price Prediction
+https://thecleverprogrammer.com/2021/06/21/microsoft-stock-price-prediction-with-machine-learning/
+
+42
+Covid-19 Vaccine Analysis
+https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
+
+43
+Video Game Sales Prediction Model
+https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/
+
+44
+Student Grades Prediction Model
+https://thecleverprogrammer.com/2021/04/16/student-grades-prediction-with-machine-learning/
+
+45
+Saving a Machine Learning Model
+https://thecleverprogrammer.com/2021/05/13/how-to-save-a-machine-learning-model/
+
+46
+Uber Trips Analysis
+https://thecleverprogrammer.com/2021/04/21/uber-trips-analysis-using-python/
+
+47
+Google Search Analysis
+https://thecleverprogrammer.com/2021/04/27/google-search-analysis-with-python/
+
+48
+Tesla Stock Price Prediction Model
+https://thecleverprogrammer.com/2021/03/27/tesla-stock-price-prediction-with-machine-learning/
+
+49
+Financial Budget Analysis
+https://thecleverprogrammer.com/2021/04/05/financial-budget-analysis-with-python/
+
+50
+Click-Through Rate Prediction Model
+https://thecleverprogrammer.com/2021/01/24/click-through-rate-prediction-with-machine-learning/
+
+51
+Interactive Language Translator
+https://thecleverprogrammer.com/2021/04/02/language-translator-using-python/
+
+52
+Language Detection
+https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
+
+53
+Create a Chatbot with Python
+https://thecleverprogrammer.com/2021/03/25/chatbot-using-python/
+
+54
+Best Streaming Service Analysis
+https://thecleverprogrammer.com/2021/01/21/best-streaming-service-analysis-with-python/
+
+55
+Data Science Project on President Height
+https://thecleverprogrammer.com/2020/05/08/data-science-project-on-president-heights/
+
+56
+Data Science Project on Birth Rate Analysis
+https://thecleverprogrammer.com/2020/05/08/data-science-project-on-birth-rate-analysis/
+
+57
+Data Science Project on Time Series
+https://thecleverprogrammer.com/2020/05/08/data-science-project-on-time-series/
+
+58
+Data Science Project on Area and Population
+https://thecleverprogrammer.com/2020/05/09/data-science-project-on-area-and-population/
+
+59
+A Complete Machine Learning Project Walkthrough
+https://thecleverprogrammer.com/2020/12/18/machine-learning-project-walkthrough-with-python/
+
+60
+Text Summarization
+https://thecleverprogrammer.com/2020/12/31/text-summarization-with-python/
+
+61
+Keyword Extraction
+https://thecleverprogrammer.com/2021/02/07/extract-keywords-using-python/
+
+62
+Data Science Projects on Finance
+https://thecleverprogrammer.com/2021/06/02/data-science-projects-on-finance/
+
+63
+Data Science Projects on Marketing
+https://thecleverprogrammer.com/2021/05/30/data-science-projects-on-marketing/
+
+64
+End to end Machine Learning Projects
+https://thecleverprogrammer.com/2021/06/21/machine-learning-projects-with-source-code/
+
+65
+Machine Learning Projects on Binary Classification
+https://thecleverprogrammer.com/2021/08/29/machine-learning-projects-on-binary-classification/
+
+66
+Data Science Projects Based on Domains
+https://thecleverprogrammer.com/2021/08/14/data-science-projects-based-on-domains/
+
+67
+Sarcasm Detection
+https://thecleverprogrammer.com/2021/08/24/sarcasm-detection-with-machine-learning/
+
+68
+Social Media Followers Prediction
+https://thecleverprogrammer.com/2021/08/09/social-media-followers-prediction-with-machine-learning/
+
+69
+Amazon Product Reviews Sentiment Analysis
+https://thecleverprogrammer.com/2021/07/20/amazon-product-reviews-sentiment-analysis-with-python/
+
+70
+Hate Speech Detection
+https://thecleverprogrammer.com/2021/07/25/hate-speech-detection-with-machine-learning/
+
+71
+End-to-end Hate Speech Detection System
+https://thecleverprogrammer.com/2021/07/30/end-to-end-hate-speech-detection-with-python/
+
+72
+End-to-end Fake News Detection System
+https://thecleverprogrammer.com/2021/07/09/end-to-end-fake-news-detection-with-python/
+
+73
+End-to-end Spam Detection System
+https://thecleverprogrammer.com/2021/07/06/end-to-end-spam-detection-with-python/
+
+74
+Hotel Reviews Sentiment Analysis
+https://thecleverprogrammer.com/2021/07/03/hotel-reviews-sentiment-analysis-with-python/
+
+75
+Real-time Gender Detection System
+https://thecleverprogrammer.com/2021/06/18/real-time-gender-detection-using-python/
+
+76
+Dogecoin Price Prediction
+https://thecleverprogrammer.com/2021/05/25/dogecoin-price-prediction-with-machine-learning/
+
+77
+Google Play Store Sentiment Analysis
+https://thecleverprogrammer.com/2021/05/31/google-play-store-sentiment-analysis-using-python/
+
+78
+Amazon Alexa Reviews Sentiment Analysis
+https://thecleverprogrammer.com/2021/06/12/amazon-alexa-reviews-sentiment-analysis-using-python/
+
+79
+Social Media Ads Classification
+https://thecleverprogrammer.com/2021/06/15/social-media-ads-classification-with-machine-learning/
+
+80
+Fake News Detection
+https://thecleverprogrammer.com/2021/06/30/fake-news-detection-with-machine-learning/
+
+81
+End-to-End Machine Learning Model
+https://thecleverprogrammer.com/2021/06/03/end-to-end-machine-learning-model/
+
+82
+Gender Detection
+https://thecleverprogrammer.com/2021/05/15/gender-detection-with-machine-learning/
+
+83
+Sales Prediction
+https://thecleverprogrammer.com/2021/05/19/sales-prediction-with-machine-learning/
+
+84
+Currency Exchange Rate Prediction
+https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/
+
+85
+End-to-end Machine Learning Project
+https://thecleverprogrammer.com/2021/03/21/end-to-end-machine-learning-project/
+
+86
+Profit Prediction Model
+https://thecleverprogrammer.com/2021/04/29/profit-prediction-with-machine-learning/
+
+87
+Automatic Time Series Forecasting
+https://thecleverprogrammer.com/2021/04/19/autots-in-python-tutorial/
+
+88
+Ted-Talks Recommendation System
+https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/
+
+89
+Real-time Sentiment Analysis
+https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/
+
+90
+Amazon Recommendation System
+https://thecleverprogrammer.com/2021/03/23/amazon-recommendation-system-using-python/
+
+91
+Mobile Price Classification
+https://thecleverprogrammer.com/2021/03/05/mobile-price-classification-with-machine-learning/
+
+92
+Netflix Data Analysis
+https://thecleverprogrammer.com/2021/01/16/netflix-data-analysis-with-python/
+
+93
+Life Expectancy Analysis
+https://thecleverprogrammer.com/2021/01/06/life-expectancy-analysis-with-python/
+
+94
+Bitcoin Price Prediction
+https://thecleverprogrammer.com/2021/01/05/bitcoin-price-prediction-with-python/
+
+95
+FastAI Model
+https://thecleverprogrammer.com/2021/01/22/fastai-in-machine-learning/
+
+96
+House Price Prediction
+https://thecleverprogrammer.com/2020/12/29/house-price-prediction-with-python/
+
+97
+Real-Time Face Mask Detection
+https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
+
+98
+Netflix Recommendation System
+https://thecleverprogrammer.com/2020/12/26/netflix-recommendation-system-with-python/
+
+99
+Gold Price Prediction
+https://thecleverprogrammer.com/2020/12/23/gold-price-prediction-with-python/
+
+100
+Object Detection
+https://thecleverprogrammer.com/2020/12/22/object-detection-with-python/
+
+101
+Highest-Paid Athletes Analysis
+https://thecleverprogrammer.com/2020/12/21/highest-paid-athletes-analysis-with-python/
+
+102
+Employee Attrition Prediction
+https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/
+
+103
+Next Word Prediction Model
+https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
+
+104
+Age and Gender Detection with Python
+https://thecleverprogrammer.com/2020/10/29/age-and-gender-detection-with-python/
+
+105
+Autocorrect Keyboard with Python and Machine Learning
+https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/
+
+106
+Machine Learning in 5 lines of code
+https://thecleverprogrammer.com/2020/11/07/machine-learning-in-5-lines-with-mindsdb/
+
+107
+Predict US Elections with Python
+https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/
+
+108
+Fake Currency Detection with Machine Learning
+https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-learning/
+
+109
+Predict Tinder Matches with Machine Learning
+https://thecleverprogrammer.com/2020/09/28/predict-tinder-matches-with-machine-learning/
+
+110
+OpenAI Gym in Machine Learning
+https://thecleverprogrammer.com/2020/07/26/openai-gym-in-machine-learning/
+
+111
+Covid 19 Analysis
+https://thecleverprogrammer.com/2020/10/05/covid-19-analysis-with-python/
+
+112
+Analyze ILP Matches
+https://thecleverprogrammer.com/2020/09/23/analyze-ipl-with-python/
+
+113
+Barcode and QR code Reader with Python
+https://thecleverprogrammer.com/2020/10/23/barcode-and-qr-code-reader-with-python/
+
+114
+Extract Text From PDF with Python
+https://thecleverprogrammer.com/2020/10/06/extract-text-from-pdf-using-python/
+
+115
+Predict Car Prices
+https://thecleverprogrammer.com/2020/09/21/predict-car-prices-with-machine-learning/
+116
+Fraud Detection with Machine Learning
+https://thecleverprogrammer.com/2020/08/04/fraud-detection-with-machine-learning/
+
+117
+Topic Modeling with Python
+https://thecleverprogrammer.com/2020/10/24/topic-modeling-with-python/
+
+118
+WhatsApp Group Chat Analysis
+https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/
+
+119
+Translate Languages Using Python
+https://thecleverprogrammer.com/2020/08/10/translate-using-python/
+
+120
+Network Security Analysis
+https://thecleverprogrammer.com/2020/08/12/network-security-with-machine-learning/
+
+121
+Bar Chart Race with Python
+https://thecleverprogrammer.com/2020/08/14/bar-chart-race-with-python/
+
+122
+Keyword Research with Python
+https://thecleverprogrammer.com/2020/08/14/keyword-research-with-python/
+
+123
+Fashion Recommendation System
+https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/
+
+124
+Face Detection with Python
+https://thecleverprogrammer.com/2020/10/09/face-detection-with-python/
+
+125
+Telegram Bot with Python
+https://thecleverprogrammer.com/2020/08/18/telegram-bot-with-python/
+
+126
+Handwriting Recognition
+https://thecleverprogrammer.com/2020/10/10/handwriting-recognition-with-python/
+
+127
+Hate Speech Detection Model
+https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/
+
+128
+Build Instagram Filters with Python
+https://thecleverprogrammer.com/2020/09/24/instagram-filters-with-python/
+
+129
+Contact Tracing with Machine Learning
+https://thecleverprogrammer.com/2020/08/20/contact-tracing-with-machine-learning/
+
+130
+Language Classification with Machine Learning
+https://thecleverprogrammer.com/2021/10/30/language-detection-with-machine-learning/
+
+131
+Titanic Survival Analysis
+https://thecleverprogrammer.com/2020/08/25/titanic-survival-with-machine-learning/
+
+132
+Image Recognition with PyTorch
+https://thecleverprogrammer.com/2020/08/26/image-recognition-with-machine-learning-using-pytorch/
+
+133
+Time Series with LSTM Model
+https://thecleverprogrammer.com/2020/08/29/time-series-with-lstm-in-machine-learning/
+
+134
+Image Classification with TensorFlow
+https://thecleverprogrammer.com/2020/08/30/image-classification-with-tensorflow-in-machine-learning/
+
+135
+Text Classification with TensorFlow
+https://thecleverprogrammer.com/2020/08/31/text-classification-with-tensorflow-in-machine-learning/
+
+136
+Ridge and Lasso Regression
+https://thecleverprogrammer.com/2020/10/09/ridge-and-lasso-regression-with-python/
+
+137
+Predict Fuel Efficiency
+https://thecleverprogrammer.com/2020/09/02/predict-fuel-efficiency-with-machine-learning/
+
+138
+Build Neural Network with Python Code
+https://thecleverprogrammer.com/2020/09/07/neural-network-with-python-code/
+
+139
+Genetic Algorithm with Python
+https://thecleverprogrammer.com/2020/09/08/genetic-algorithm-with-python/
+
+140
+Analyze Healthcare Data
+https://thecleverprogrammer.com/2020/09/09/analyze-healthcare-data-with-python/
+
+141
+Data Science Project on Text and Annotations
+https://thecleverprogrammer.com/2020/05/09/data-science-project-on-text-and-annotations/
+
+142
+Data Science Project — Stock Price Prediction with Machine Learning
+https://thecleverprogrammer.com/2020/05/11/data-science-project-stock-price-prediction-with-machine-learning/
+
+143
+Data Science Project on — Classification of Text
+https://thecleverprogrammer.com/2020/05/14/data-science-project-on-classification-of-text/
+
+144
+Data Science Project on-Extracting HOG Features
+https://thecleverprogrammer.com/2020/05/15/data-science-project-on-extracting-hog-features/
+
+145
+Data Science Project — Email spam Detection with Machine Learning
+https://thecleverprogrammer.com/2020/05/17/data-science-project-email-spam-detection-with-machine-learning/
+
+146
+Data Science Project — Heart Disease Prediction with Machine
+https://thecleverprogrammer.com/2020/05/20/data-science-project-heart-disease-prediction-with-machine-learning/
+
+147
+Data Science Project — Movie Recommendation System
+https://thecleverprogrammer.com/2020/05/20/data-science-project-movie-recommendation-system/
+
+148
+Data Science Project — Student Performance Analysis with Machine Learning
+https://thecleverprogrammer.com/2020/05/21/data-science-project-student-performance-analysis-with-machine-learning/
+
+149
+Data science project — Fake News Classification
+https://thecleverprogrammer.com/2020/05/22/data-science-project-fake-news-classification/
+
+150
+Data Science Project — Bitcoin Price Prediction with Machine Learning
+https://thecleverprogrammer.com/2020/05/23/data-science-project-bitcoin-price-prediction-with-machine-learning/
+
+151
+Machine Learning Project — Artificial Neural Networks
+https://thecleverprogrammer.com/2020/05/24/machine-learning-project-artificial-neural-networks/
+
+152
+Credit Card Fraud Detection with Machine Learning
+https://thecleverprogrammer.com/2020/06/10/credit-card-fraud-detection-with-machine-learning/
+
+153
+SMS Spam Detection with Machine Learning
+https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/
+
+154
+Time Series Forecasting with ARIMA Model
+https://thecleverprogrammer.com/2020/07/01/time-series-analysis-and-forecasting-with-python/
+
+155
+Natural Language Processing on WhatsApp Chats
+https://thecleverprogrammer.com/2020/07/16/nlp-for-whatsapp-chats/
+
+156
+Fake News Detection Model
+https://thecleverprogrammer.com/2020/07/18/fake-news-detection-model/
+
+157
+Image Classification with Artificial Neural Networks
+https://thecleverprogrammer.com/2020/07/19/image-classification-with-ann/
+
+158
+Binary Classification Model
+https://thecleverprogrammer.com/2020/07/20/binary-classification-model/
+
+159
+Image Filtering with Machine Learning
+https://thecleverprogrammer.com/2020/07/25/image-filtering-with-machine-learning/
+
+160
+WhatsApp Group Chat Analysis
+https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/
+
+161
+Data Science Projects on Finance
+https://thecleverprogrammer.com/2021/06/02/data-science-projects-on-finance/
+
+162
+Data Science Projects on Marketing
+https://thecleverprogrammer.com/2021/05/30/data-science-projects-on-marketing/
+
+163
+End to end Machine Learning Projects
+https://thecleverprogrammer.com/2021/06/21/machine-learning-projects-with-source-code/
+
+164
+Machine Learning Projects on Binary Classification
+https://thecleverprogrammer.com/2021/08/29/machine-learning-projects-on-binary-classification/
+
+165
+Data Science Projects Based on Domains
+https://thecleverprogrammer.com/2021/08/14/data-science-projects-based-on-domains/
+
+166
+Microsoft Stock Price Prediction
+https://thecleverprogrammer.com/2021/06/21/microsoft-stock-price-prediction-with-machine-learning/
+
+167
+Covid-19 Vaccine Analysis
+https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
+
+168
+Video Game Sales Prediction Model
+https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/
+
+169
+Language Detection
+https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
+
+170
+Create a Chatbot with Python
+https://thecleverprogrammer.com/2021/03/25/chatbot-using-python/
+
+171
+Best Streaming Service Analysis
+https://thecleverprogrammer.com/2021/01/21/best-streaming-service-analysis-with-python/
+
+172
+Data Science Project on President Heights
+https://thecleverprogrammer.com/2020/05/08/data-science-project-on-president-heights/
+
+173
+Data Science Project on Birth Rate Analysis
+https://thecleverprogrammer.com/2020/05/08/data-science-project-on-birth-rate-analysis/
+
+174
+Movie Rating Analysis for Beginners
+https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/
+
+175
+Number of Orders Prediction
+https://thecleverprogrammer.com/2021/09/27/number-of-orders-prediction-with-machine-learning/
+
+176
+Apple Stock Price Prediction
+https://thecleverprogrammer.com/2021/09/08/apple-stock-price-prediction-with-machine-learning/
+
+177
+Click-Through Rate Prediction Model
+https://thecleverprogrammer.com/2021/01/24/click-through-rate-prediction-with-machine-learning/
+
+178
+Interactive Language Translator
+https://thecleverprogrammer.com/2021/04/02/language-translator-using-python/
+
+179
+Language Detection
+https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
+
+180
+Sarcasm Detection
+https://thecleverprogrammer.com/2021/08/24/sarcasm-detection-with-machine-learning/
+
+82 
+Amazing Hackthon Project Collection 
+https://github.com/analyticsindiamagazine/MachineHack/tree/master/Hackathon_Solutions
+
+83 
+Awesome NLP Project Ideas 
+https://nirantk.com/awesome-project-ideas/
+
+84 
+12 NLP Projects 
+https://github.com/gaoisbest/NLP-Projects
+
+0_Word2vec
+10_Text_generation
+11_Network_embedding
+12_Annotation_tool
+1_Sentence2vec
+2_Machine_reading_comprehension
+3_Dialog_system
+4_Text_classification
+5_Pretraining_LM
+6_Sequence_labeling
+7_Information_retrieval
+8_Information_extraction
+9_Knowledge_graph
+
+85 
+Advance NLP Projects 
+https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0
+
+86 
+6 Amazing NLP Projects 
+https://github.com/anujvyas/Natural-Language-Processing-Projects
+
+Fake News Classification
+
+Movie Genre Classification with Multi-label Output
+Movies Genre Classification
+Sentiment Analysis - Dow Jones (DJIA) Stock using News Headlines
+Sentiment Analysis - Restaurant Reviews
+Spam SMS Classification
+
+87 
+NLP Beginner Projects 
+https://github.com/positivepeng/nlp-beginner-projects
+
+88 
+Paper with Code by PwC Collection 
+https://github.com/zziz/pwc
+
+89 
+SOTA Models(State of the Art Results) 
+https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
+
+90 
+Best AI Papers 
+https://github.com/louisfb01/Best_AI_paper_2020
+
+91 
+Generative Adversarial nets 
+https://github.com/zhangqianhui/AdversarialNetsPapers
+
+92 
+Computer Vision Paper with Code 
+https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo
+
+93 
+NILMS Paper with code 
+https://github.com/klemenjak/nilm-papers-with-code
+
+94 
+3D Computer Vision Research Projects 
+https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision
+
+95 
+NLP and Computer Vision Project Collection 
+https://github.com/NELSONZHAO/zhihu
+
+96 
+Udacity Collection of Computer Vision Projects 
+https://github.com/Bjarten/computer-vision-ND
+
+97 
+Zero to Hero Tensorflow Tutorial 
+https://github.com/mrdbourke/tensorflow-deep-learning
+
+98 
+Deep learning in Production 
+https://github.com/The-AI-Summer/Deep-Learning-In-Production
+
+99 
+GANs Collection 
+https://github.com/The-AI-Summer/GANs-in-Computer-Vision
+
+100 
+Time Series Projects Code 
+https://github.com/deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-"
+
+101 
+12 Machine learning Object Detection 
+https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37
+
+Flower Recognition
+https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/
+
+https://thecleverprogrammer.com/2020/11/17/face-mask-detection-with-machine-learning/
+Face Mask Detection
+
+Google Landmark Detection Model
+https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/
+
+Face Detection
+https://thecleverprogrammer.com/2020/10/09/face-detection-with-python/
+
+Deepfake Detection
+https://thecleverprogrammer.com/2020/10/03/deepfake-detection-with-python/
+
+Fake Currency Detection
+https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-learning/
+
+Colour Recognition
+https://thecleverprogrammer.com/2020/09/14/colour-recognition-with-python/
+
+Image Recognition
+https://thecleverprogrammer.com/2020/08/26/image-recognition-with-machine-learning-using-pytorch/
+
+Named Entity Recognition
+https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/
+
+Face Landmarks Detection
+https://thecleverprogrammer.com/2020/07/22/face-landmarks-detection/
+
+Object Detection with Yolo and TensorFlow
+https://thecleverprogrammer.com/2020/06/12/object-detection-with-deep-learning-using-yolo-and-tensorflow/
+
+Human Activity Recognition Model
+https://thecleverprogrammer.com/2020/05/27/human-activity-recognition-using-smartphone-data-with-machine-learning/
+
+102 
+20 NLP Project with Python 
+https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
+
+Resume Screening with Python
+https://thecleverprogrammer.com/2020/12/06/resume-screening-with-python/
+
+Named Entity Recognition with Python
+https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/
+
+Sentiment Analysis with Python
+https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/
+
+Keyword Extraction with Python
+https://thecleverprogrammer.com/2020/12/01/keyword-extraction-with-python/
+
+Spelling Correction Model with Python
+https://thecleverprogrammer.com/2020/11/30/correct-spellings-with-python/
+
+Keyboard Autocorrection Model
+https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/
+
+Election Results Prediction by analyzing Tweets
+https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/
+
+NLP for Other languages
+https://thecleverprogrammer.com/2020/09/09/nlp-for-other-languages-with-machine-learning/
+
+Text Classification using Deep Learning
+https://thecleverprogrammer.com/2020/08/31/text-classification-with-tensorflow-in-machine-learning/
+
+Summarize Text with Machine Learning
+https://thecleverprogrammer.com/2020/08/24/summarize-text-with-machine-learning/
+
+Hate Speech Detection Model
+https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/
+
+Keyword Research with Python
+https://thecleverprogrammer.com/2020/08/14/keyword-research-with-python/
+
+Whatsapp Group Chat Analysis
+https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/
+
+Next Word Prediction Model
+https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
+
+Fake News detection Model
+https://thecleverprogrammer.com/2020/07/18/fake-news-detection-model/
+
+NLP for Whatsapp Chats
+https://thecleverprogrammer.com/2020/07/16/nlp-for-whatsapp-chats/
+
+Twitter Sentiment Analysis
+https://thecleverprogrammer.com/2020/06/13/twitter-sentiment-analysis/
+
+SMS Spam Detection Model
+https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/
+
+Movie Reviews Sentiment analysis
+https://thecleverprogrammer.com/2020/05/25/movie-reviews-sentiment-analysis-binary-classification-with-machine-learning/
+
+Amazon Product Reviews Sentiment Analysis
+https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/
+
+103 
+Learning Material for Deep Learning, ML, Computer Vision and NLP 
+https://github.com/kmario23/deep-learning-drizzle
+
+
+Image Classification  
+
+Image Segmentation
+https://www.geeksforgeeks.org/image-segmentation-using-k-means-clustering/
+
+Lesion Segmentation  
+Lung Nodule Segmentation  
+Medical Image Classification  
+
+Medical Image Segmentation  
+https://www.kaggle.com/datasets?search=Medical+Image+Segmentation
+
+Retinal Vessel Segmentation
+https://www.kaggle.com/datasets?search=Retinal+Vessel+Segmentation
+Segmentation  
+
+Semantic Segmentation  
+https://www.kaggle.com/datasets?search=semantic+segmentation
+https://www.kaggle.com/code/bulentsiyah/deep-learning-based-semantic-segmentation-keras
+
+
+Skin Cancer Segmentation
+https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification/code
+
+https://www.kaggle.com/code/mostafaessam33/skin-cancer-segmentation/notebook
+https://www.kaggle.com/code/nguyntrngkhnh/final-project-deep-learning/notebook
+https://www.kaggle.com/code/ahmedmoneimm/pr-assign-2
+https://www.kaggle.com/code/rohan0000099/skin-cancer-segmentation-using-unet/notebook
+
+skin_cancer_detection_webapp
+https://github.com/samtuleen/skin-cancer-image-classification/blob/main/reports/notebook.ipynb
+https://github.com/sid321axn/skin_cancer_detection_webapp/tree/master
+
+
+Drone
+Drone
+Drone Programming With Computer Vision A Beginners Guide
+https://learnopencv.com/drone-programming-with-computer-vision/
+https://github.com/spmallick/learnopencv/tree/master/Drone-Programming-With-Computer-Vision-A-Beginners-Guide
+
+drone
+
+Become a DJI Developer
+https://developer.dji.com/
+
+Drone Programming with Computer Vision : A Beginner’s Guide
+https://github.com/spmallick/learnopencv/tree/master/Drone-Programming-With-Computer-Vision-A-Beginners-Guide
+https://learnopencv.com/drone-programming-with-computer-vision/
+https://pypi.org/project/djitellopy/
+
+taking a picture
+https://github.com/damiafuentes/DJITelloPy/blob/master/examples/take-picture.py
+
+recording a video
+https://github.com/damiafuentes/DJITelloPy/blob/master/examples/record-video.py
+
+flying a swarm (multiple Tellos at once)
+https://github.com/damiafuentes/DJITelloPy/blob/master/examples/simple-swarm.py
+
+simple controlling using your keyboard
+https://github.com/damiafuentes/DJITelloPy/blob/master/examples/manual-control-opencv.py
+
+mission pad detection
+https://github.com/damiafuentes/DJITelloPy/blob/master/examples/mission-pads.py
+
+fully featured manual control using pygame
+https://github.com/damiafuentes/DJITelloPy/blob/master/examples/manual-control-pygame.py
+
+https://github.com/TelloSDK/Multi-Tello-Formation
+
+Single_Tello_Test, Tello_Video, and Tello_Video (With_Pose_Recognition). Tello_state
+https://github.com/dji-sdk/Tello-Python
+https://tellopilots.com/threads/recording-storing-video-stream-using-python.3807/
+
+https://github.com/hanyazou/TelloPy
+
+DJITelloEDUPython: https://github.com/PerfecXX/DJITelloEDUPython
+
+Drone Programming With Python Course | 3 Hours | Including x4 Projects | Computer Vision
+https://www.youtube.com/watch?v=LmEcyQnfpDA
+
+tello-tracking: https://github.com/msoftware/tello-tracking
+
+DJITelloPy Drone Coding
+https://learn.droneblocks.io/p/djitellopy
+https://github.com/dbaldwin/DroneBlocks-DJITelloPy-Tutorial
+Course Curriculum Available
+
+https://github.com/dawsonc/tello-x
+
+important article: https://jckantor.github.io/CBE30338/B.02-Visual-Tracking-of-an-Object-with-a-Drone.html
+
+Taking Pictures with Tello Drones using Python and OpenCV | Save as .png file | Programming Tutorial
+https://www.youtube.com/watch?v=e-gfODYr8Nc
+
+Tello Autonomous drone Python: https://blog.gopenai.com/tello-autonomous-drone-python-dd396c459e86
+
+Tello Drone for real-time object detection: https://github.com/dp-betalock/DJITelloDrone-YOLOv8
+
+How to Make Tello Drone Capable of Barcode Scanning through Python
+https://yushulx.medium.com/how-to-make-tello-drone-capable-of-barcode-scanning-through-python-d1fa1b4b9fe0
+
+Connecting Tello Drone to Python
+https://community.droneblocks.io/t/connecting-tello-drone-to-python/213
+
+
+https://github.com/cocpy/Tello-Python
+
+Conquering Tello Drone Programming with Python | Flight Automation + Live Video Stream Tutorial 
+https://www.youtube.com/watch?v=HYJ3vcHG4jY
+
+Custom Drone Battery Level Indicator: Python HUD Programming | Design & Development Tutorial
+https://www.youtube.com/watch?v=EoJkH66vpk8
+
+Control Tello Drones with a Game Controller | Drone Programming Tutorial | Python | Tkinter | Inputs
+https://www.youtube.com/watch?v=IqJfxuwADJ8
+
+https://github.com/legsano/DJI-Tello-LineFollowers
+
+book:
+https://www.scribd.com/document/716996123/Drone-Programming-Manual-Module-With-Python
+https://tello.oneoffcoder.com/python.html
+https://github.com/StyNW7/UPH_DJITello
+
+
+Tello Drone Python Programming, Control Drone With Keyboard and Capture Video From Drone Camera! Using Python Module OpenCV and PyGame!
+https://www.instructables.com/Tello-Drone-Python-Programming-Control-Drone-With-/
+
+DJI Tello Hand Gesture control
+https://github.com/kinivi/tello-gesture-control
+
+Following a track with a DJI Tello Drone using Deep Learning
+https://aidl.uniwa.gr/students-projects/following-a-track-with-a-dji-tello-drone-using-deep-learning/
+
+tello-adv-setup
+https://github.com/dbaldwin/tello-adv-setup
+
+
+https://www.kaggle.com/search?q=dji+drone
+
+Computer Vision Drone application
+https://www.kaggle.com/discussions/general/552687
+https://github.com/kylegraupe/uas-rtcv
+https://www.kaggle.com/adnanalaref
+
+
+Drone Image Classification
+https://www.kaggle.com/discussions/general/495034
+https://www.kaggle.com/code/balajikartheek/drone-image-classification
+
+https://www.kaggle.com/discussions/accomplishments/552659
+https://github.com/kylegraupe
+1
+Real-time Semantic Segmentation with DJI Drone via RTMP
+https://github.com/kylegraupe/real_time_semantic_segmentation_using_dji_drone
+2
+Quantitative Modeling - Real Estate Portfolio Optimization
+3
+Connect Four against custom AI Bot
+https://github.com/kylegraupe/connect_four_against_AI_bot
+4
+Solving N Queens Problem with AI Manual Implementation
+https://github.com/kylegraupe/solving_N_Queens_problem_with_AI
+5
+Solving Pukoban Game with AI Manual Implementation
+https://github.com/kylegraupe/solving_pukoban_game_with_AI
+
+Drone Object Detection
+https://www.kaggle.com/datasets/sshikamaru/drone-yolo-detection/code
+https://www.kaggle.com/code/nithunith/yolov3-from-scratch
+https://www.kaggle.com/code/yashasmn/drone-detection-with-yolov8
+https://www.kaggle.com/code/kumarideepanshi/drone-detection-with-yolov8
+
+Drone Image Classification Dataset
+https://www.kaggle.com/datasets/balajikartheek/drone-type-classification
+
+
+https://www.kaggle.com/code/lorenzy/dji-drone-cnn-ipynb
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title></title>
+<meta name="Generator" content="Cocoa HTML Writer">
+<meta name="CocoaVersion" content="2487.7">
+<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; min-height: 15.0px}
+span.s1 {text-decoration: underline}
+span.s2 {font: 13.0px 'PingFang SC'}
+table.t1 {border-collapse: collapse}
+td.td1 {border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #9a9a9a #9a9a9a #9a9a9a #9a9a9a; padding: 1.0px 5.0px 1.0px 5.0px}
+</style>
+</head>
+<body>
+
+Drone |   |   |  
+-- | -- | -- | --
+  |   |   |  
+Dorna Robotic Arm: Python API and Programming Tutorial |   |   |  
+https://www.youtube.com/watch?v=5cwC2Vu4erc |   |   |  
+https://github.com/dorna-robotics/dorna2-python/tree/master |   |   |  
+http://lab.dorna.ai/ |   |   |  
+  |   |   |  
+Explain |   |   |  
+  |   |   |  
+  |   |   |  
+ROBOT SHOP JAPAN https://www.technologia.co.jp/ 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 2 Chome−10−1 栄ビル ３０２号 |   |   |  
+Dorna Robotic Arm Robot Shop Technologia |   |   |  
+https://www.temu.com/ Robot Shop Technologia |   |   |  
+DRONE SHOP JAPAN https://www.technologia.co.jp/ 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 2 Chome−10−1 栄ビル ３０２号 |   |   |  
+https://coincodecap.com/top-30-ai-robotics-projects-step-into-the-future |   |   |  
+https://www.electronicsforu.com/electronics-projects/hardware-diy/25-robotics-project-ideas |   |   |  
+  |   |   |  
+Drone Programming With Python Course \| 3 Hours \| Including x4 Projects \| Computer Vision |   |   |  
+https://www.youtube.com/watch?v=LmEcyQnfpDA&t=8793s |   |   |  
+https://www.ryzerobotics.com/tello |   |   |  
+App store/Play Store |   |   |  
+App tello Download and Install Tello app |   |   |  
+Phone Iphone |   |   |  
+Purchase Link https://store.dji.com/product/tello-boost-combo?vid=45701&set_region=US&from=site-nav |   |   |  
+DJI Tello https://www.amazon.co.jp/%E3%80%90%E5%9B%BD%E5%86%85%E6%AD%A3%E8%A6%8F%E5%93%81%E3%80%91Ryze-DJI-%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E3%82%A2%E3%83%83%E3%83%97%E3%83%AA%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%BE%8C-%E5%AD%90%E4%BE%9B%E3%83%BB%E5%A4%A7%E4%BA%BA%E5%90%91%E3%81%91%E3%82%AE%E3%83%95%E3%83%88/dp/B07979Q4YS/ref=asc_df_B07979Q4YS/?tag=jpgo-22&linkCode=df0&hvadid=707465131573&hvpos=&hvnetw=g&hvrand=15194235423037100068&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197070&hvtargid=pla-439269493342&mcid=9c27073de88334d1b9d304ffc26efa2f&gad_source=1&language=en_US&th=1 |   |   |  
+https://github.com/damiafuentes/DJITelloPy |   |   |  
+https://github.com/dbaldwin/tello-adv-setup |   |   |  
+https://tello.oneoffcoder.com/index.html |   |   |  
+https://tello.oneoffcoder.com/ |   |   |  
+https://tello.oneoffcoder.com/python.html |   |   |  
+https://github.com/dji-sdk/Tello-Python |   |   |  
+https://github.com/TelloSDK/Multi-Tello-Formation |   |   |  
+https://www.instructables.com/Tello-Drone-Python-Programming-Face-Tracking-From-/ |   |   |  
+https://github.com/dbaldwin/DroneBlocks-Tello-Python |   |   |  
+  |   |   |  
+Explain |   |   |  
+  |   |   |  
+  |   |   |  
+Shop: Robot Shop Technologia |   |   |  
+Iphone: Iphone |   |   |  
+Drone: tello-boost-combo (DJI Tello) ($149) |   |   |  
+Drone Programming With Python Course \| 3 Hours \| Including x4 Projects \| Computer Vision |   |   |  
+https://www.youtube.com/watch?v=LmEcyQnfpDA&t=8793s |   |   |  
+Tello Programming and Application - Lessons 1. Swimmer Rescue: |   |   |  
+https://www.youtube.com/watch?v=nTNAbtxdpEY |   |   |  
+Tello Programming and Application - Lessons 2. Shark Patrol |   |   |  
+https://www.youtube.com/watch?v=f5UtcCH89pU |   |   |  
+Tello Programming and Application - Lessons 3. Roof Inspection |   |   |  
+https://www.youtube.com/watch?v=L8k31hAeepw |   |   |  
+Tello Programming and Application - Lessons 4. Delivery |   |   |  
+https://www.youtube.com/watch?v=oRnldLswgPE |   |   |  
+Tello Programming and Application - Lessons 5. Rope Bridge |   |   |  
+https://www.youtube.com/watch?v=odY_J2Dyj-c |   |   |  
+Tello Programming and Application - Lessons 6. Crowd Counting |   |   |  
+https://www.youtube.com/watch?v=BBeZQOCylT0 |   |   |  
+Tello Programming and Application - Lessons 7. Gallery Patrol |   |   |  
+https://www.youtube.com/watch?v=7vnbaR6Vrww |   |   |  
+Tello Programming and Application - Lessons 8. Bushfire Patrol |   |   |  
+https://www.youtube.com/watch?v=s3vq6y5DKME |   |   |  
+Tello Programming and Application - Lessons 9. Guided Drone Tours |   |   |  
+https://www.youtube.com/watch?v=SsUTkRSbWg8 |   |   |  
+Develop Path Planning GUI for DJI Tello |   |   |  
+https://www.youtube.com/watch?v=Fd-2vjMqr1U |   |   |  
+Teach sign language to AI drone |   |   |  
+https://www.youtube.com/watch?v=dbfIFTCClQo&list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI&index=3 |   |   |  
+tello-drone-programming-part1 |   |   |  
+https://medium.com/@danialhamedi/tello-drone-programming-part1-6b80758dc8a6 |   |   |  
+tello-drone-programming-part2 |   |   |  
+https://medium.com/@danialhamedi/tello-drone-programming-part2-b5a7aa4fd959 |   |   |  
+real-time object detection |   |   |  
+https://github.com/dp-betalock/DJITelloDrone-YOLOv8 |   |   |  
+Python Tello Drone Programming Tutorials |   |   |  
+https://www.youtube.com/playlist?list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o |   |   |  
+Getting Started with DJI Tello Drones: Firmware Updates & Coding Environment Setup |   |   |  
+https://www.youtube.com/watch?v=Dgul2g2oDxA&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=1&pp=iAQB |   |   |  
+Mastering Tello Drone Programming with Python \| Execute Basic Flight Routines |   |   |  
+https://www.youtube.com/watch?v=wn3UVB9xoVk&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=2&pp=iAQB |   |   |  
+Streaming Tello's Forward Camera with DJITelloPy and OpenCV \| Python Drone Programming Tutorial |   |   |  
+https://www.youtube.com/watch?v=3JEz9hq1D2w&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=3&pp=iAQB |   |   |  
+Mastering Tello Drone Sensor Data Reading with Python |   |   |  
+https://www.youtube.com/watch?v=hjVfDW7c2zc&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=4&pp=iAQB |   |   |  
+Streaming Tello's Bottom Camera with DJITelloPy and OpenCV \| Python Drone Programming Tutorial |   |   |  
+https://www.youtube.com/watch?v=JOZ9XoFDEYE&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=5&pp=iAQB |   |   |  
+Record Video from the Tello Drone with Python and OpenCV \| Save as .mp4 file \| Programming Tutorial |   |   |  
+https://www.youtube.com/watch?v=ODye_sT62C0&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=6&pp=iAQB |   |   |  
+Taking Pictures with Tello Drones using Python and OpenCV \| Save as .png file \| Programming Tutorial |   |   |  
+https://www.youtube.com/watch?v=e-gfODYr8Nc&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=7&pp=iAQB |   |   |  
+Control Tello Drones with a Game Controller \| Drone Programming Tutorial \| Python \| Tkinter \| Inputs |   |   |  
+https://www.youtube.com/watch?v=IqJfxuwADJ8&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=8&pp=iAQB |   |   |  
+Custom Drone Battery Level Indicator: Python HUD Programming \| Design & Development Tutorial |   |   |  
+https://www.youtube.com/watch?v=EoJkH66vpk8&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=9&pp=iAQB |   |   |  
+Conquering Tello Drone Programming with Python \| Flight Automation + Live Video Stream Tutorial |   |   |  
+https://www.youtube.com/watch?v=HYJ3vcHG4jY&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=10&pp=iAQB |   |   |  
+Tello Drone Python Flight Routine Automation + Live Stream Demo \| TRAILER #dji #drone #python |   |   |  
+https://www.youtube.com/watch?v=oamlUQHbBCY&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=11&pp=iAQB |   |   |  
+  |   |   |  
+https://github.com/JacobA2000/TELLO-KEYBOARD-CONTROLS/tree/master |   |   |  
+https://github.com/dbaldwin/droneblocks-tello-python |   |   |  
+https://github.com/dbaldwin/DroneBlocks-Tello-Python |   |   |  
+https://learn.droneblocks.io/courses/313449/lectures/4940545 |   |   |  
+https://www.linkedin.com/pulse/how-control-dji-tello-mini-drone-using-python-docker-raina-l0hzc |   |   |  
+Tello keyboard control Python |   |   |  
+video search |   |   |  
+  |   |   |  
+Drone Related Questionarire and technologies used |   |   |  
+https://www.gc-agent.com/robotjobjapan/job/?search=search&keyword=&type=38 |   |   |  
+https://jobs.gaijinpot.com/en/job/137341 |   |   |  
+https://reddotdrone.jp/recruit/ |   |   |  
+https://cs.gittap.jp/ |   |   |  
+https://github.com/dronekit/dronekit-python/tree/master https://github.com/microlinux/tello |   |   |  
+Book Manual |   |   |  
+  |   |   |  
+Python - Visual Studios - Tello Drone Setup! https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20User%20Manual%20v1.4.pdf |   |   |  
+https://www.youtube.com/watch?v=XP7bT2jmatQ https://www.manua.ls/dji/tello/manual?p=16 |   |   |  
+Mission Planner https://www.botnroll.com/en/dji/4357-dji-tello-boost-combo-kit-version.html |   |   |  
+https://ardupilot.org/planner/ |   |   |  
+  |   |   |  
+Explain |   |   |  
+  |   |   |  
+  |   |   |  
+https://pypi.org/project/DroneBlocksTelloSimulator/ |   |   |  
+sudo python setup.py build |   |   |  
+sudo python setup.py install |   |   |  
+pip install mavproxy |   |   |  
+pip install dronekit |   |   |  
+pip install dronekit-sitl |   |   |  
+Start the simulator with |   |   |  
+dronekit-sitl copter |   |   |  
+mavproxy.py --master tcp:127.0.0.1:5760 --out:127.0.0.1:14551 --out udp:(ip address):14550 |   |   |  
+dronekit-sitl copter -home=35.9835973, -95.874230.9,0,180 |   |   |  
+https://learn.droneblocks.io/ |   |   |  
+https://learn.droneblocks.io/p/tello-drone-programming-with-python/ |   |   |  
+Drone Related Questionarire and technologies used |   |   |  
+https://www.gc-agent.com/robotjobjapan/job/?search=search&keyword=&type=38 |   |   |  
+https://jobs.gaijinpot.com/en/job/137341 |   |   |  
+https://reddotdrone.jp/recruit/ |   |   |  
+https://cs.gittap.jp/ |   |   |  
+  |   |   |  
+DJI Tello Drone Projects |   |   |  
+Face Tracking https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
+https://github.com/murtazahassan/Drone-Face-Tracking |   |   |  
+Body Control https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
+Hand Gesture https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
+Object Detection https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
+https://www.youtube.com/watch?v=5dh9abXqMok |   |   |  
+https://github.com/murtazahassan/Tello-Object-Tracking |   |   |  
+  |   |   |  
+Explain |   |   |  
+  |   |   |  
+  |   |   |  
+YOLO (Real Time Object Detect) https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
+Taking Pictures https://www.youtube.com/watch?v=e-gfODYr8Nc&t=29s |   |   |  
+Recording Video https://www.youtube.com/watch?v=ODye_sT62C0 |   |   |  
+tello-openpose https://github.com/geaxgx/tello-openpose |   |   |  
+Tello drone and computer vision: selfie air stick |   |   |  
+https://www.youtube.com/watch?v=ODye_sT62C0 |   |   |  
+DJI Tello - Getting Started with Software Development |   |   |  
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjZtSmF6VzFVU3B4ZGk1UzV5NUEtZ3g3ZTlld3xBQ3Jtc0tsejY0bzFlMWNreUFucy1aZFRrOVdST3RISVlRNUp5N0ZSNXZqLTRCRE9HWGkzdXd3RUw5S2Uwd0lPMnN3SFJjNUpvYnU3WkoxZkdvdWZiMkpUTk5lWkRrakhxVFg5QmpzalpBZHRydVFNWEM5bS1sQQ&q=https%3A%2F%2Fbit.ly%2F35FhrPk&v=uaXbfDFAp-0 |   |   |  
+https://bitbucket.org/RobotAndCode/tello-ai/src/master/ |   |   |  
+Python - Visual Studios - Tello Drone Setup! |   |   |  
+https://www.youtube.com/watch?v=XP7bT2jmatQ |   |   |  
+Easy Programming of Tello Drone \| Python OpenCV Object Tracking |   |   |  
+https://www.computervision.zone/courses/drone-programming-course/ |   |   |  
+https://www.youtube.com/watch?v=LmEcyQnfpDA |   |   |  
+  |   |   |  
+https://github.com/topics/dji-tello |   |   |  
+https://www.youtube.com/playlist?list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI |   |   |  
+https://github.com/StyNW7/UPH_DJITello |   |   |  
+  |   |   |  
+https://github.com/Jacob-Pitsenberger/Tello-Flight-Routine-with-Video-Stream |   |   |  
+https://github.com/Jacob-Pitsenberger/Face-Detection-over-Webcam-or-Tello-Drone-Video-Stream-Python-OpenCV |   |   |  
+https://www.youtube.com/watch?v=TtOV1Ry1jMU&list=PLAu6u02VrrtyyrnhtX2zSZWtdZPaYr2jT |   |   |  
+https://github.com/Jacob-Pitsenberger/Tkinter-Tello-Drone-Controller |   |   |  
+  |   |   |  
+  |   |   |  
+https://github.com/dbaldwin/tello-adv-setup/blob/master/tello_camera_fly.py#L25-L26 |   |   |  
+https://github.com/dbaldwin/tello-adv-setup/blob/master/tello_camera_fly.py#L23-L24 |   |   |  
+https://www.instructables.com/Tello-Drone-Python-Programming-Control-Drone-With-/ |   |   |  
+https://sites.google.com/lisaacademy.org/lisa-academy-maker-space/resources/tello-drone/tello-drone-programming-with-python |   |   |  
+droneblocks tello simulator |   |   |  
+https://pypi.org/project/tello-python/ |   |   |  
+https://pypi.org/project/djitellopy/ |   |   |  
+https://tello.oneoffcoder.com/index.html |   |   |  
+https://www.youtube.com/watch?v=5dh9abXqMok&t=1207s |   |   |  
+https://www.youtube.com/watch?v=vDOkUHNdmKs |   |   |  
+https://www.youtube.com/watch?v=GY7GjPntrx4 |   |   |  
+https://github.com/hanyazou/TelloPy |   |   |  
+https://github.com/TannerGilbert/Ryze-Tello-Code-Collection |   |   |  
+https://github.com/xg590/Tello-Python |   |   |  
+https://github.com/johnwalicki/tello-python-examples |   |   |  
+https://github.com/cocpy/Tello-Python |   |   |  
+https://github.com/dji-sdk/Tello-Python/blob/master/Tello_Video/tello.py |   |   |  
+https://github.com/dbaldwin/DroneBlocks-Tello-Python |   |   |  
+https://github.com/topics/dji-tello |   |   |  
+https://github.com/dbaldwin/DroneBlocks-DJITelloPy-Tutorial |   |   |  
+https://github.com/Matthias84/awesome-tello |   |   |  
+https://jckantor.github.io/CBE30338/B.02-Visual-Tracking-of-an-Object-with-a-Drone.html |   |   |  
+https://blog.gopenai.com/tello-autonomous-drone-python-dd396c459e86 |   |   |  
+https://github.com/PerfecXX/DJITelloEDUPython |   |   |  
+https://github.com/damiafuentes/DJITelloPy/tree/master/examples |   |   |  
+https://medium.com/swlh/tello-drone-face-follower-4b8313b6c40e |   |   |  
+https://github.com/juanmapf97/Tello-Face-Recognition |   |   |  
+https://www.youtube.com/watch?v=C86CX17i3O8 |   |   |  
+https://github.com/dbaldwin/DroneBlocks-Tello-Simulator-ChatGPT |   |   |  
+https://learn.droneblocks.io/ |   |   |  
+https://dev.droneblocks.io/simulator.html |   |   |  
+https://pypi.org/project/DroneBlocksTelloSimulator/ |   |   |  
+https://github.com/dbaldwin/DroneBlocks-Tello-Simulator-ChatGPT?tab=readme-ov-file |   |   |  
+https://www.youtube.com/watch?v=C86CX17i3O8 |   |   |  
+https://jckantor.github.io/CBE30338/B.02-Visual-Tracking-of-an-Object-with-a-Drone.html |   |   |  
+pip install droneblocks-python-utils |   |   |  
+pip install DroneBlocksTelloSimulator |   |   |  
+
+
+</body>
+</html>
+
+
+<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+Robotics |  
+-- | --
+  |  
+Reinforcement learning |  
+gaming |  
+Tic-Tac-Toe AI https://editor.p5js.org/codingtrain/sketches/0zyUhZdJD |  
+Chess AI |  
+Connect-4 AI |  
+, robotics, manufacturing, and aerospace |  
+snake AI |  
+30-ai-robotics-projects-step-into-the-future |  
+https://coincodecap.com/top-30-ai-robotics-projects-step-into-the-future |  
+25-robotics-project-ideas |  
+https://www.electronicsforu.com/electronics-projects/hardware-diy/25-robotics-project-ideas |  
+https://www.electronicsforu.com/iot-projects-ideas |  
+
+
+
+
+<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+Machine Learning Projects |  
+-- | --
+https://medium.com/analytics-vidhya/deploy-ml-tensorflow-model-using-flask-backend-frontend-12a38ce53b7f |   |  
+https://github.com/hasan-haider/Deploy-ML-tensorflow-model-using-Flask/tree/8727f2402d2fe8c2a5a8d0e3f588ec0334a8bcc4 |   |  
+  |   |  
+Speech-To-Text |   |  
+Convert Audio to Text https://medium.com/codex/google-speech-to-text-api-tutorial-with-python-2e049ae3f525#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImE1MGY2ZTcwZWY0YjU0OGE1ZmQ5MTQyZWVjZDFmYjhmNTRkY2U5ZWUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDU2NDE2Mzg0MTMwMDE2NjE2ODQiLCJlbWFpbCI6ImZ4eDQwYTNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTcyODUxNTE4MSwibmFtZSI6ImZ4WDQwYTMgZnhYNDBhMyIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLMjJBaUF1dW5FdXRrNzY1RkNfWjhteWNzZFQ2T09vYndKQnVuLW9oejZUTzRYT0E9czk2LWMiLCJnaXZlbl9uYW1lIjoiZnhYNDBhMyIsImZhbWlseV9uYW1lIjoiZnhYNDBhMyIsImlhdCI6MTcyODUxNTQ4MSwiZXhwIjoxNzI4NTE5MDgxLCJqdGkiOiJjOWM5NDAxOTY1ZGU5NjBhODAwYzExZjYwMWRjZmQ3ODE0MGVhN2RiIn0.tfGghWRmr7IaRSwpofSbccEk7ZNuwM3aEEF8YkXak6WIYFGFq7F4mFIrzB-OpFaFSU62Fuu-9gCA4pUBLfOvhKx7xdqBRNdvy7K0iOFMxbUrnHPlQX-MsM_wOoOY4-MwYq_bDTZNwRnQss5tzm6d8EcrRNY4lbfkrHrxho7qYtwfhQ5hwOKZabguVXw2JXn-q2KD7voagxAnQ988TjiFrRLF-CYR4mvr_aO_CiKvOy4uBCeU0cL4azyihMEwqCE8tV2Ihz5iUbRquHuQ2v7CNGzrYEfjEuM-7OOvsK0VlkS3LNGNBgFswXvO4ZdmNtFOLwnGYaX2QtjVvgPmUJDrjA |   |  
+Dataset https://www.voiptroubleshooter.com/open_speech/american.html |   |  
+Article https://cloud.google.com/speech-to-text/docs/reference/rest/v1/RecognitionConfig |   |  
+Article https://pypi.org/project/SpeechRecognition/ |   |  
+Convert Voice to Text https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/ |   |  
+Convert Text to Speech https://www.geeksforgeeks.org/convert-text-speech-python-using-win32com-client/?ref=oin_asr2 |   |  
+Convert PDF File Text to Audio https://www.geeksforgeeks.org/convert-pdf-file-text-to-audio-speech-using-python/?ref=oin_asr3 |   |  
+Convert Speech to text and text to Speech https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/?ref=oin_asr1 |   |  
+Convert Text and Text File to PDF https://www.geeksforgeeks.org/convert-text-and-text-file-to-pdf-using-python/?ref=oin_asr2 |   |  
+convert PDF file to Excel https://www.geeksforgeeks.org/how-to-convert-pdf-file-to-excel-file-using-python/?ref=oin_asr5 |   |  
+convert CSV File to PDF https://www.geeksforgeeks.org/how-to-convert-csv-file-to-pdf-file-using-python/?ref=oin_asr6 |   |  
+TensorFlow Machine Learning Projects https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master |   |  
+Machine Learning Projects https://www.geeksforgeeks.org/machine-learning-projects/ |   |  
+Deep Learning Projects https://www.interviewbit.com/blog/deep-learning-projects/ |   |  
+Machine Learning Projects https://www.geeksforgeeks.org/machine-learning-projects/ |   |  
+Face-and-hand-landmarks-detection https://www.geeksforgeeks.org/face-and-hand-landmarks-detection-using-python-mediapipe-opencv/ |   |  
+Human-activity-recognition https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/?ref=rp |   |  
+Tensorflow-to-be-used-with-abalone-dataset https://www.geeksforgeeks.org/how-can-tensorflow-be-used-with-abalone-dataset-to-build-a-sequential-model/ |   |  
+Age-detection https://www.geeksforgeeks.org/age-detection-using-deep-learning-in-opencv/ |   |  
+AI Driven Snake Game using Deep Q Learning https://medium.com/@nancy.q.zhou/teaching-an-ai-to-play-the-snake-game-using-reinforcement-learning-6d2a6e8f3b1c |   |  
+https://github.com/vedantgoswami/SnakeGameAI |   |  
+https://github.com/aiden200/rl_snake?source=post_page-----17f03397b060-------------------------------- |   |  
+https://www.thetutelab.com/artificial-intelligence/python/reinforcement-learning-snake-tutorial/ |   |  
+https://github.com/patrickloeber/snake-ai-pytorch |   |  
+Detect-and-recognize-car-license-plate-from-a-video https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/ |   |  
+License-plate-recognition https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/ |   |  
+Intrusion-detection-system https://www.geeksforgeeks.org/intrusion-detection-system-using-machine-learning-algorithms/ |   |  
+https://github.com/mudgalabhay/intrusion-detection-system/blob/master/main.ipynb |   |  
+https://github.com/mudgalabhay/Intrusion-Detection-System/tree/master |   |  
+  |   |  
+  |   |  
+https://projectworlds.in/python-projects-with-source-code/ |   |  
+  |   |  
+Breast-Cancer-Prediction-app-using-Flask-Python |  
+  |   |  
+  |   |  
+steps |   |  
+  |   |  
+Project: Breast-Cancer-Prediction-app-using-Flask-Python |   |  
+Model Git link: https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
+Tutorial: https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8 |   |  
+Steps |   |  
+  |   |  
+Step 1: Define Problem Statement |   |  
+Step 2: Data Source |   |  
+Step 3: Cleaning the Data |   |  
+Step 4: Data Analysis and Exploration |   |  
+Step 5: Feature Selection |   |  
+Step 6: Data Modelling |   |  
+Step 7: Model Validation |   |  
+Step 8: Hyperparameter Tuning |   |  
+Step 9: Deployment |   |  
+Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29 |   |  
+Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 1 |   |  
+Step 1: Define Problem Statement |   |  
+Step 2: Data Source |   |  
+Step 3: Cleaning the Data |   |  
+Step 4: Data Analysis and Exploration |   |  
+https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8 |   |  
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Exploratory_Data_Analysis_Part%201.ipynb |   |  
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
+https://www.kaggle.com/code/itsmohammadshahid/eda-breast-cancer-prediction?scriptVersionId=101471043 |   |  
+Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 2 |   |  
+Step 5: Feature Selection |   |  
+https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62 |   |  
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Feature_Selection_Part%202.ipynb |   |  
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
+Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 3 |   |  
+Step 6: Data Modeling |   |  
+Step 7: Model Validation |   |  
+https://medium.com/@shahid_dhn/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-d6cf8b47f49a |   |  
+https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data |   |  
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Building_Evaluation_Part3.ipynb |   |  
+Building ML Model to Predict Whether the Cancer Is Benign or Malignant on Breast Cancer Wisconsin Data Set !! Part 4 |   |  
+Step 8: Hyperparameter Tuning |   |  
+Step 9: Deployment |   |  
+https://medium.com/swlh/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-8654994ca20a |   |  
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Optimization_and_Deployment_Part%204.ipynb |   |  
+Deploying Breast Cancer Prediction Model Using Flask APIs and Heroku |   |  
+https://medium.com/swlh/deploying-breast-cancer-prediction-model-using-flask-apis-and-heroku-4fd3b65b2f26 |   |  
+https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data |   |  
+python app.py |   |  
+http://127.0.0.1:5000 |   |  
+http://127.0.0.1:5000/predict |   |  
+conda activate myenv3125 |   |  
+works fine |   |  
+  |   |  
+  |   |  
+Computer Vision Projects |  
+  |   |  
+https://www.analyticsvidhya.com/blog/2022/06/deploying-a-keras-flower-classification-model/ Not OK |   |  
+Language Translator |   |  
+https://github.com/leeqv/kana-board/blob/master/media/insert-kanji.gif |   |  
+https://www.geeksforgeeks.org/python-classifying-handwritten-digits-with-tensorflow/ |   |  
+Course/Research/Study |   |  
+https://www.geeksforgeeks.org/courses/full-stack-applied-data-science-program?utm_campaign=554_abt&utm_medium=gfgcontent_abt&utm_source=geeksforgeeks |   |  
+Visualizing Convolutional Neural Networks \| Layer by Layer |   |  
+https://www.youtube.com/watch?v=JboZfxUjLSk&ab_channel=far1din |   |  
+Blur image detection using SVM |   |  
+https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/comments |   |  
+OK |   |  
+Blur image detection using SVM |   |  
+Code https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/notebook |   |  
+Dataset https://www.kaggle.com/datasets/kwentar/blur-dataset |   |  
+OK |   |  
+Code https://www.kaggle.com/code/valentinld/blurdetection/notebook |   |  
+Dataset https://www.kaggle.com/datasets/kwentar/blur-dataset |   |  
+/kaggle/input/blur-dataset/blur_dataset_scaled/ |   |  
+OK |   |  
+Code https://github.com/avs-abhishek123/Computer-Vision-Projects/tree/main/Contour_detection |   |  
+OK |   |  
+Code https://www.kaggle.com/code/deshwalmahesh/image-processing-2-contour-edge-threshold |   |  
+OK |   |  
+https://machinelearningprojects.net/sketch-making-flask-app/ |   |  
+https://github.com/sharmaji27/sketchy-sketch-making-flask-app |   |  
+OK |   |  
+  |   |  
+Explain |   |  
+  |   |  
+  |   |  
+Code https://www.kaggle.com/code/dev523/leaf-disease-detection/notebook |   |  
+Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input |   |  
+OK |   |  
+Code https://www.kaggle.com/code/divyanshurajput75/leaf-disease-detection/notebook |   |  
+Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input |   |  
+working on |   |  
+Code https://www.kaggle.com/code/eyadgk/leafdiseasepred-imageclassificationtemp-densenet/notebook |   |  
+Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input |   |  
+working on |   |  
+  |   |  
+100 Computer Vision Projects for 2023 |   |  
+  |   |  
+https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI |   |  
+00:57 Object Size Measurement |   |  
+01:22 Document Scanner |   |  
+01:39 Traffic Sign Detection |   |  
+02:22 Face Tracking with 2-axis PID Control |   |  
+02:49 Face Door Lock |   |  
+03:31 Face Emotion Detection |   |  
+03:44 Face Detection |   |  
+03:55 Shape Detection |   |  
+04:26 Custom Object Detection |   |  
+04:42 Obstacle Avoiding Robot |   |  
+05:03 Optical Mark Recognition |   |  
+05:42 Object Tracking |   |  
+06:17 QR Code Detection |   |  
+06:52 Text Detection |   |  
+07:18 Face Filter |   |  
+07:50 Feature Detection |   |  
+08:16 Augmented Reality with Aruco Markers |   |  
+08:47 Self-Driving Simulation |   |  
+09:09 Angle Finder |   |  
+09:29 Panorama Sticking |   |  
+10:12 OCR in Forms |   |  
+10:43 Self-Driving a Car using Neural Networks with Raspberry Pi |   |  
+11:12 Sudoku Solver |   |  
+11:40 Deep Fake |   |  
+11:58 Drone Path Visualiser |   |  
+12:16 Lane Following Drone |   |  
+12:14 Eye Trakcing with Jetson Nano |   |  
+13:47 Lane Following for self-driving car |   |  
+14:27 Object Tracking with Jetson Nano Robot |   |  
+15:00 Augmented Reality |   |  
+15:35 Finger Counter |   |  
+15:59 Track and Shoot using Computer Vision |   |  
+16:18 Object Classification |   |  
+16:42 Drone Face Following |   |  
+17:00 Background Removal |   |  
+17:21 Selfie Drone |   |  
+18:17 Drone Flip using Hand Gestures |   |  
+19:01 Drone Object Following |   |  
+19:37 Ai Virtual Keyboard |   |  
+19:59 Multiple Hand Gesture Control |   |  
+20:20 Virtual Zoom Gesture |   |  
+20:43 Hand Pose Detection |   |  
+20:57 Virtual Quiz Game |   |  
+21:21 Robot Hand Gesture Controlled |   |  
+21:52 Custom Object Counter on Conveyor Belt |   |  
+22:31 Cookie Cutter Squid Game |   |  
+22:59 Green Light Red Light Squid Game |   |  
+23:15 Automated Velcro Dart Board |   |  
+23:29 Ballon Pop Game |   |  
+23:52 Hand Distance Measurement |   |  
+24:32 Virtual Paint |   |  
+24:46 Fruit Classifier |   |  
+25:01 Color Detection |   |  
+25:46 Face Mesh |   |  
+25:59 Body Pose Detection |   |  
+26:17 MCQ Automated Grading |   |  
+26:34 Virtual Gym |   |  
+26:53 Drowsiness Detection |   |  
+27:07 ID card Recognition |   |  
+27:17 PPE Detection |   |  
+27:34 Pistol Detection |   |  
+27:56 Virtual Drag and Drop |   |  
+28:10 Text Extraction on the web |   |  
+28:25 Real-time Digit Classification |   |  
+28:49 Virtual Calculator |   |  
+29:21 Face Mask Detection |   |  
+29:34 Kids Educational Game using Computer Vision |   |  
+30:02 Waste Classifier |   |  
+30:30 Glasses Try On |   |  
+30:49 AI Robot Arm |   |  
+31:23 Blink Counter |   |  
+31:32 Face Distance Measurement |   |  
+31:49 3d Motion Capture |   |  
+32:06 Computer Vision Snake Game |   |  
+32:39 3d Ball Tracking |   |  
+33:35 Hand Gesture Fruit Ninja |   |  
+34:01 Pong Game using Hand Gestures |   |  
+34:42 AI Typing Tutor |   |  
+35:20 Rotate 3D Objects with Your Head |   |  
+36:06 Rock Paper Scissor |   |  
+37:03 Hand Sign Detection |   |  
+37:30 Object Detection on the web |   |  
+37:45 AI Virtual Mouse |   |  
+38:06 Car Counter |   |  
+38:17 3d Hand Tracking |   |  
+39:02 Suspicious luggage |   |  
+39:12 Coffee Machine Virtual Interface |   |  
+39:49 Computer Vision Pop Game |   |  
+40:08 Basketball Shot Predictor |   |  
+40:34 Gesture Controlled Presentation |   |  
+40:52 Intruder Detection |   |  
+41:07Face Recognition with Real-time Database |   |  
+41:34 Customer Engagement |   |  
+41:56 Shop traffic counter |   |  
+42:10 Drone Body Following |   |  
+42:43 License Plate Recognition |   |  
+42:59 Gesture Volume Control |   |  
+43:15 Shirt Size Measurement |   |  
+https://www.datacamp.com/blog/computer-vision-projects?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=152984011814&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=714994855825&utm_targetid=aud-1459190388940:dsa-2222697810918&utm_loc_interest_ms=&utm_loc_physical_ms=9197070&utm_content=DSA~blog~Machine-Learning&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p1_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-oct24odp&gad_source=1&gclid=Cj0KCQjw6oi4BhD1ARIsAL6pox3jGI1p_TmDtJjepgdnI6mC9BbWazyehEP_mrCab2WtIIRcWMIF4dMaAuEAEALw_wcB |   |  
+Optical Character Recognition (OCR) for Handwritten Text |   |  
+Plant Disease Detection |   |  
+Honey Bee Detection |   |  
+Clothing Classifier |   |  
+Food Image Classification |   |  
+Multi-object Tracking in Video |   |  
+Image Captioning |   |  
+3D Object Reconstruction From Multiple Views |   |  
+Gesture Recognition For Human-Computer Interaction |   |  
+Visual Question Answering (VQA) |   |  
+Insurance Code Extraction |   |  
+Image Deblurring |   |  
+Video Summarization |   |  
+Face De-Aging/Aging |   |  
+Human Pose Estimation And Action Recognition in Crowded Scenes |   |  
+Unsupervised Anomaly Detection in Industrial Inspection |   |  
+https://www.geeksforgeeks.org/computer-vision-projects/ |   |  
+Detect the RGB color from a webcam using Python – OpenCV |   |  
+Face Detection using Python and OpenCV with a webcam |   |  
+Face and Hand Landmarks Detection using Python – Mediapipe, OpenCV |   |  
+Real-Time Edge Detection using OpenCV |   |  
+Implement Canny Edge Detector in Python using OpenCV |   |  
+Gun Detection using Python-OpenCV |   |  
+Real-time object color detection using OpenCV |   |  
+Right and Left Hand Detection Using Python |   |  
+Age Detection Using Deep Learning in OpenCV |   |  
+OpenCV – Drowsiness Detection |   |  
+Build GUI Application Pencil Sketch from Photo in Python |   |  
+Measure Size of an Object Using Python OpenCV |   |  
+Brightness Control With Hand Detection using OpenCV in Python |   |  
+Car driving using hand detection in Python |   |  
+Contour Detection with Custom Seeds using Python – OpenCV |   |  
+Find Co-ordinates of Contours using OpenCV \| Python |   |  
+Live Webcam Drawing using OpenCV |   |  
+Black and white image colorization with OpenCV and Deep Learning |   |  
+Detect and Recognize Car License Plate from a video in real-time |   |  
+License Plate Recognition with OpenCV and Tesseract OCR |   |  
+Handwritten Digit Recognition using Neural Network |   |  
+Image Classification with Convolutional Neural Networks (CNNs) Using Pytorch |   |  
+Human Pose Estimation with OpenCVUsing |   |  
+Age and Gender Prediction from Image Using Pytorch |   |  
+Face detection using Cascade Classifier using OpenCV-Python |   |  
+Face recognition using Artificial Intelligence |   |  
+Face recognition using GUI |   |  
+FaceMask Detection using TensorFlow in Python |   |  
+Python OpenCV – Super-resolution with deep learning |   |  
+Real-Time Road Lane Detection |   |  
+CIFAR-10 Image Classification in TensorFlow |   |  
+Dog Breed Classification Using Transfer Learning |   |  
+Flower Recognition Using Convolutional Neural Network |   |  
+Emojify using Face Recognition with Machine Learning |   |  
+Cat & Dog Classification using Convolutional Neural Network in Python |   |  
+Video Analysis with Convolutional LSTM Networks |   |  
+Autonomous Driving with Deep Learning |   |  
+Visual Question Answering with Neural Networks |   |  
+Scene Recognition with Convolutional Neural Networks |   |  
+Text Recognition from Image with Convolutional Recurrent Neural Networks |   |  
+Image Captioning Using Pytorch |   |  
+Medical Image Analysis Using Deep Learning |   |  
+Document Layout Analysis with Deep Learning |   |  
+Deep Learning for Artistic Style Transfer |   |  
+Landmark Recognition with Deep Neural Networks |   |  
+Image Restoration with Generative Adversarial Networks |   |  
+Satellite Image Analysis Using Convolutional Neural Network |   |  
+Image generation with Convolutional Autoencoders |   |  
+Lung Cancer Detection using Convolutional Neural Network (CNN) Tensorflow |   |  
+Lung Cancer Detection Using Transfer Learning |   |  
+Lung cancer detection using PyTorch |   |  
+Pneumonia Detection Using Deep Learning |   |  
+Detecting Covid-19 with Chest X-ray |   |  
+Skin Cancer Detection Using TensorFlow |   |  
+Hand Gesture Recognition with Convolutional Neural Networks |   |  
+Optical Character Recognition Using Pytorch |   |  
+Video Object Segmentation with Convolutional Networks |   |  
+Traffic Signs Recognition using CNN and Keras in Python |   |  
+Vehicle license plate recognition |   |  
+Image Inpainting with Deep Neural Networks |   |  
+Image Deblurring with Deep Neural Networks |   |  
+Object Detection Using YOLO Using Pytorch |   |  
+Object Detection Using YOLO Using Tensorflow |   |  
+Object Detection with Faster R-CNN and Mask R-CNN |   |  
+Image Segmentation with U-Net using Tensorflow |   |  
+Image Segmentation with SegNet using Tensorflow |   |  
+Image Segmentation with U-Net using Pytorch |   |  
+Neural Style Transfer Using Pytorch |   |  
+Image Synthesis using Generative Adversarial Networks (GANs) |   |  
+Emotion Recognition through Facial Expressions |   |  
+Facial expression detection using the Deepface module in Python |   |  
+Instance segmentation using Pytorch |   |  
+Semantic segmentation using Pytorch |   |  
+Face similarity Detection using PyTorch |   |  
+Age Conversion Using GANs Algorithm |   |  
+Business Card Recognization Using Deep Learning |   |  
+Traffic light detection using Deep Learning |   |  
+People Counting Using Deep Learning |   |  
+DeepDream using CNNs |   |  
+Cartoonifying an Image Using Deep Learning |   |  
+Road Condition Monitoring Project Using Deep Learning |   |  
+Image colourization using GANs algorithm |   |  
+Image Classifier using Tensorflow Object Detection API |   |  
+Excellant Repository https://github.com/avs-abhishek123/Computer-Vision-Projects |   |  
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code |   |  
+https://machinelearningprojects.net/computer-vision-projects/ |   |  
+Background-Remover-Flask-App |   |  
+Leaf Disease Detection Flask App |   |  
+Drowsiness Detection using cv2 |   |  
+Number Plate Detection using Yolov7 |   |  
+Train yolov7 on the custom dataset |   |  
+Blur Faces in Live Feed |   |  
+Sketch making Flask App |   |  
+Generating cifar 10 fake images using DCGAN |   |  
+Helmet and Number Plate Detection and Recognition using YOLOv3 |   |  
+healthcure an all in one medical solution |   |  
+Invisible Man using Mask RCNN |   |  
+Sudoku Solver |   |  
+Object Detection using SSD |   |  
+Social Distancing using YOLOv3 |   |  
+Face Recognition based Attendance System |   |  
+detect shapes using cv2 |   |  
+Document Scanner using OpenCV |   |  
+Face Landmarks Detection using dlib |   |  
+Make your Sketch using OpenCV |   |  
+How to perform Face Recognition using KNN |   |  
+Immortal Snake game in Python |   |  
+find the most dominant colors in an image using KMeans clustering |   |  
+types of thresholding techniques |   |  
+Face and eye detection in cv2 |   |  
+Harrys Invisibility Cloak |   |  
+split and merge channels in cv2 |   |  
+edge detection using Sobel X and Sobel Y |   |  
+Rotating and Scaling Images in cv2 |   |  
+use mouse clicks to draw circles in Python |   |  
+repair damaged images using inpainting methods |   |  
+generate negative images in Python |   |  
+detect edges using Laplacian 2nd order derivative |   |  
+plot a Histogram of a grayscale image 1 |   |  
+denoise an Image using Median Blur |   |  
+perform Morphological Operations like Erosion Dilation and Gradient 1 |   |  
+detect contours in an Image |   |  
+plot Color Channels Histogram of an Image |   |  
+Blurrings in cv2 |   |  
+BGR Palette in OpenCV |   |  
+draw basic shapes on Images |   |  
+resize an image in Python |   |  
+read an image in python |   |  
+https://neptune.ai/blog/15-computer-visions-projects |   |  
+Edge & Contour Detection |   |  
+Colour Detection & Invisibility Cloak |   |  
+Text Recognition using OpenCV and Tesseract (OCR) |   |  
+Face Recognition with Python and OpenCV |   |  
+Object Detection |   |  
+Hand Gesture Recognition |   |  
+Human Pose Detection |   |  
+Road Lane Detection in Autonomous Vehicles |   |  
+Pathology Classification |   |  
+Fashion MNIST for Image Classification |   |  
+Image Deblurring using Generative Adversarial Networks |   |  
+Image Transformation |   |  
+Automatic Colorization of Photos using Deep Neural Networks |   |  
+Vehicle Counting and Classification |   |  
+Vehicle license plate scanners |   |  
+https://www.youtube.com/watch?v=BFlRmIvqwSA&t=291s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI |   |  
+Background Removal: • Background Removal Like Zoom \| OpenCV... |   |  
+Virtual Calculator: • Virtual Calculator using OpenCV Pytho... |   |  
+Velcro Dart Game: • Computer Vision Game using OpenCV Pyt... |   |  
+Red Light Green Light (Paid): https://www.computervision.zone/cv-ga... |   |  
+Cookie Cutter(Paid): https://www.computervision.zone/cv-ga... |   |  
+Personal AI Trainer: • Build a Personal AI Trainer \| OpenCV ... |   |  
+Track and Shoot: • Track and Shoot using Computer Vision... |   |  
+Elbow pose detector (Paid): https://www.computervision.zone/ardui... |   |  
+AI Mouse Control: • AI Virtual Mouse \| OpenCV Python \| Co... |   |  
+Custom Object Counter on Conveyor belt (Paid): https://www.computervision.zone/ardui... |   |  
+Robot Hand Gesture Arduino (Paid): https://www.computervision.zone/ardui... |   |  
+Virtual Keyboard: • AI Virtual Keyboard using OpenCV \| Co... |   |  
+Self Driving (MegaBot): • Is this the best Raspberry Pi Robotic... |   |  
+AI Virtual Painter: • AI Virtual Painter \| OpenCV Python \| ... |   |  
+Balloon Pop Pygame (Paid): https://www.computervision.zone/cv-ga... |   |  
+Object Detection Mobile APP (Paid): https://www.computervision.zone/cv-mo... |   |  
+Face Tracking (Paid): https://www.computervision.zone/ardui... |   |  
+Eye Tracking (Paid): https://www.computervision.zone/ardui... |   |  
+Deep Fake: • Deepfake Tutorial and Explanation Ste... |   |  
+Balloon Pop Game: • I tried building a Computer Vision Ga... |   |  
+Basketball Shot Predictor: • Basket Ball Shot Predictor using Open... |   |  
+Hand Distance measurement: • Hand Distance Measurement with Normal... |   |  
+Parking Space Counter: • Parking Space Counter using OpenCV Py... |   |  
+Volume Gesture Control: • Gesture Volume Control \| OpenCV Pytho... |   |  
+Drone Body Following (Paid): https://www.computervision.zone/adv-d... |   |  
+https://www.projectpro.io/article/object-detection-project-ideas-with-source-code/490 |   |  
+Monkey, Cat, and Dog Detection System |   |  
+Train your Own Object Detection Model |   |  
+Vehicle Counting Model |   |  
+Furniture Recognition Model |   |  
+Vehicle Detection in Video Data |   |  
+Surveillance Camera Object Detection System |   |  
+Build an Object Detection Web Application |   |  
+Motion Detection System |   |  
+  |   |  
+Excellant Tutorials AI |  
+1 Loan Approval https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/ https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view OK |   |  
+2 Loan analysis https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis/input OK |   |  
+https://stackoverflow.com/questions/tagged/tensorflow |   |  
+https://www.kaggle.com/search?q=natural+language+processing |   |  
+3 Natural Language Processing https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK |   |  
+4 Diabetes Prediction-EDA + 10 Models https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models |   |  
+  |   |  
+Explain |   |  
+  |   |  
+  |   |  
+https://www.kaggle.com/search?q=diabetes+prediction |   |  
+https://www.kaggle.com/zabihullah18/code |   |  
+Car price Prediction  https://www.kaggle.com/code/zabihullah18/car-price-prediction/notebook    https://www.kaggle.com/code/zabihullah18/car-price-prediction/input    OK |   |  
+Global Countries \|\| EDA   https://www.kaggle.com/code/zabihullah18/global-countries-eda    https://www.kaggle.com/code/zabihullah18/global-countries-eda/input    OK |   |  
+Student Performance  https://www.kaggle.com/code/zabihullah18/student-performance    https://www.kaggle.com/code/zabihullah18/student-performance/input    OK |   |  
+Email Spam Detection  https://www.kaggle.com/code/zabihullah18/email-spam-detection    https://www.kaggle.com/code/zabihullah18/email-spam-detection/input    OK |   |  
+https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision/Deploy%20Image%20Classifier%20With%20Flask          OK |   |  
+app.run(port=5002) |   |  
+  |   |  
+Advance AI |  
+  |   |  
+ML Data Science FULL Course for Beginners in 27 HOURS - 2024 Edition |   |  
+https://www.youtube.com/watch?v=gDZ6czwuQ18&ab_channel=WsCubeTech |   |  
+Excellant tutorial |   |  
+Youtube https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org |   |  
+Source https://github.com/datapublishings/Course-python-data-science/tree/master |   |  
+Path C:\カーン\ml\Course-python-data-science\Course-python-data-science |   |  
+cmd jupyter notebook |   |  
+MasteringPythonZeroToHero_part1.ipynb |   |  
+MasteringPythonZeroToHero_part2.ipynb |   |  
+Machine Learning Algorithm |   |  
+https://www.geeksforgeeks.org/machine-learning-algorithms/ |   |  
+Chatbot using Python, NLP, and Data Science \| Build Your Own Chatbot \| Intellipaat |   |  
+https://www.youtube.com/watch?v=JzPgeRJfNo4&ab_channel=Intellipaat |   |  
+Deep Learning for Computer Vision with Python and TensorFlow – Complete Course |   |  
+https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=11s&ab_channel=freeCodeCamp.org |   |  
+37 hours |   |  
+https://www.tensorflow.org/api_docs/python |   |  
+Fun |   |  
+Number Guessing Game |   |  
+https://thecleverprogrammer.com/2020/12/04/number-guessing-game-with-python-and-c/ |   |  
+Google Search tensorflow advanced techniques github |   |  
+https://www.google.com/search?q=tensorflow+advanced+techniques+github&sca_esv=012f470da02fcbcc&sxsrf=ADLYWIKinHYbNxTplandUPfg78EUFZYVSw%3A1719973592251&ei=2LaEZoCGD-3r1e8P8tWuyAw&oq=tensorflow+advanced+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3RlbnNvcmZsb3cgYWR2YW5jZWQgZ2l0KgIIADIGEAAYFhgeMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRItxdQhwFYzwtwAXgBkAEAmAHjAaABuwaqAQUwLjIuMrgBA8gBAPgBAZgCBaACwgbCAgoQABiwAxjWBBhHwgILEAAYgAQYkQIYigXCAgUQABiABMICCxAAGIAEGIYDGIoFmAMAiAYBkAYIkgcFMS4yLjKgB_cR&sclient=gws-wiz-serp |   |  
+https://upload.wikimedia.org/wikipedia/commons/d/d9/Kodaki_fuji_frm_shojinko.jpg |   |  
+https://gate-to-hokkaido.jp/assets/img/spot/detail/672.jpg |   |  
+AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch |   |  
+https://www.youtube.com/watch?v=jSgdL1zX4h8&ab_channel=Murtaza%27sWorkshop-RoboticsandAI |   |  
+Computer Vision Game Development in 3 Hours \| OpenCV Python |   |  
+https://www.youtube.com/watch?v=lDfplevUWRw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI |   |  
+Computer Vision Projects by Rifat Murtaza |   |  
+https://github.com/Chando0185/Chest_x_ray_Detection |   |  
+https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD |   |  
+Reinforcement Learning in 3 Hours \| Full Course using Python |   |  
+https://www.youtube.com/watch?v=Mut_u40Sqz4&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&ab_channel=NicholasRenotte |   |  
+Top 10 Machine Learning Projects Idea With Free Source Code \| Opencv \| Tensorflow \| Keras \| Pytorch |   |  
+https://www.youtube.com/watch?v=C18ELHXw31A&ab_channel=KNOWLEDGEDOCTOR |   |  
+Deep Learning for Computer Vision with Python and TensorFlow – Complete Course https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=34s&ab_channel=freeCodeCamp.org |   |  
+Sample Video File https://samplelib.com/sample-mp4.html |   |  
+Data Camp https://www.datacamp.com/ |   |  
+google colab |   |  
+pyTorch https://github.com/ritchieng/the-incredible-pytorch |   |  
+Algorithms https://www.datacamp.com/blog/top-machine-learning-use-cases-and-algorithms |   |  
+10 Algorithms |   |  
+DEEP LEARNING |   |  
+Deep Learning and Generative Models https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L15_intro-rnn__slides.pdf |   |  
+L15.7 An RNN Sentiment Classifier in PyTorch https://www.youtube.com/watch?v=KgrdifrlDxg&ab_channel=SebastianRaschka |   |  
+deeplearning-models https://github.com/rasbt/deeplearning-models?tab=readme-ov-file |   |  
+L15.7 An RNN Sentiment Classifier in PyTorch |   |  
+Introduction to Deep Learning https://sebastianraschka.com/blog/2021/dl-course.html |   |  
+  |   |  
+Explain |   |  
+  |   |  
+  |   |  
+L15.6 RNNs for Classification: A Many-to-One Word RNN |   |  
+L15.7 An RNN Sentiment Classifier in PyTorch |   |  
+How to Use RNNs for Sentiment Analysis (Coding RNNs in Python) |   |  
+http://localhost:8888/notebooks/rnn_example.ipynb |   |  
+https://www.youtube.com/watch?v=FTCpdNuIiZM&ab_channel=ritvikmath |   |  
+https://github.com/ritvikmath/YouTubeVideoCode/tree/main |   |  
+https://github.com/ritvikmath/YouTubeVideoCode/blob/main/RNNExample.ipynb |   |  
+KNN |   |  
+Dataset  https://drive.google.com/drive/folders/1YylTjWxmkUVdurMSDjl84dstCKZL6wH8 |   |  
+Machine Learning and Data Science Applications in Industry |   |  
+https://github.com/ashishpatel26/Real-time-ML-Project |   |  
+Image Classification Webapp \| Flask |   |  
+https://github.com/noumannahmad/Flask/tree/master |   |  
+Multi-Class Image Classification Flask App \| Complete Project |   |  
+https://buffml.com/multi-class-image-classification-flask-app-complete-project/ |   |  
+https://github.com/noumannahmad/Flask/tree/master/CIFAR-10-image-classification |   |  
+Python 3.7 Works fine |   |  
+python main.py |   |  
+Successfully runs like a charm |   |  
+https://www.javatpoint.com/image-forgery-detection-using-machine-learning |   |  
+  |   |  
+https://www.geeksforgeeks.org/machine-learning-projects/ |   |  
+https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265 |   |  
+https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566 |   |  
+
+Machine Learning Projects		
+https://medium.com/analytics-vidhya/deploy-ml-tensorflow-model-using-flask-backend-frontend-12a38ce53b7f		
+https://github.com/hasan-haider/Deploy-ML-tensorflow-model-using-Flask/tree/8727f2402d2fe8c2a5a8d0e3f588ec0334a8bcc4		
+		
+Speech-To-Text		
+Convert Audio to Text https://medium.com/codex/google-speech-to-text-api-tutorial-with-python-2e049ae3f525#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImE1MGY2ZTcwZWY0YjU0OGE1ZmQ5MTQyZWVjZDFmYjhmNTRkY2U5ZWUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDU2NDE2Mzg0MTMwMDE2NjE2ODQiLCJlbWFpbCI6ImZ4eDQwYTNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTcyODUxNTE4MSwibmFtZSI6ImZ4WDQwYTMgZnhYNDBhMyIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLMjJBaUF1dW5FdXRrNzY1RkNfWjhteWNzZFQ2T09vYndKQnVuLW9oejZUTzRYT0E9czk2LWMiLCJnaXZlbl9uYW1lIjoiZnhYNDBhMyIsImZhbWlseV9uYW1lIjoiZnhYNDBhMyIsImlhdCI6MTcyODUxNTQ4MSwiZXhwIjoxNzI4NTE5MDgxLCJqdGkiOiJjOWM5NDAxOTY1ZGU5NjBhODAwYzExZjYwMWRjZmQ3ODE0MGVhN2RiIn0.tfGghWRmr7IaRSwpofSbccEk7ZNuwM3aEEF8YkXak6WIYFGFq7F4mFIrzB-OpFaFSU62Fuu-9gCA4pUBLfOvhKx7xdqBRNdvy7K0iOFMxbUrnHPlQX-MsM_wOoOY4-MwYq_bDTZNwRnQss5tzm6d8EcrRNY4lbfkrHrxho7qYtwfhQ5hwOKZabguVXw2JXn-q2KD7voagxAnQ988TjiFrRLF-CYR4mvr_aO_CiKvOy4uBCeU0cL4azyihMEwqCE8tV2Ihz5iUbRquHuQ2v7CNGzrYEfjEuM-7OOvsK0VlkS3LNGNBgFswXvO4ZdmNtFOLwnGYaX2QtjVvgPmUJDrjA		
+Dataset https://www.voiptroubleshooter.com/open_speech/american.html		
+Article https://cloud.google.com/speech-to-text/docs/reference/rest/v1/RecognitionConfig		
+Article https://pypi.org/project/SpeechRecognition/		
+Convert Voice to Text https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/		
+Convert Text to Speech https://www.geeksforgeeks.org/convert-text-speech-python-using-win32com-client/?ref=oin_asr2		
+Convert PDF File Text to Audio https://www.geeksforgeeks.org/convert-pdf-file-text-to-audio-speech-using-python/?ref=oin_asr3		
+Convert Speech to text and text to Speech https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/?ref=oin_asr1		
+Convert Text and Text File to PDF https://www.geeksforgeeks.org/convert-text-and-text-file-to-pdf-using-python/?ref=oin_asr2		
+convert PDF file to Excel https://www.geeksforgeeks.org/how-to-convert-pdf-file-to-excel-file-using-python/?ref=oin_asr5		
+convert CSV File to PDF https://www.geeksforgeeks.org/how-to-convert-csv-file-to-pdf-file-using-python/?ref=oin_asr6		
+TensorFlow Machine Learning Projects https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master		
+Machine Learning Projects https://www.geeksforgeeks.org/machine-learning-projects/		
+Deep Learning Projects https://www.interviewbit.com/blog/deep-learning-projects/		
+Machine Learning Projects https://www.geeksforgeeks.org/machine-learning-projects/		
+Face-and-hand-landmarks-detection https://www.geeksforgeeks.org/face-and-hand-landmarks-detection-using-python-mediapipe-opencv/		
+Human-activity-recognition https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/?ref=rp		
+Tensorflow-to-be-used-with-abalone-dataset https://www.geeksforgeeks.org/how-can-tensorflow-be-used-with-abalone-dataset-to-build-a-sequential-model/		
+Age-detection https://www.geeksforgeeks.org/age-detection-using-deep-learning-in-opencv/		
+AI Driven Snake Game using Deep Q Learning https://medium.com/@nancy.q.zhou/teaching-an-ai-to-play-the-snake-game-using-reinforcement-learning-6d2a6e8f3b1c		
+https://github.com/vedantgoswami/SnakeGameAI		
+https://github.com/aiden200/rl_snake?source=post_page-----17f03397b060--------------------------------		
+https://www.thetutelab.com/artificial-intelligence/python/reinforcement-learning-snake-tutorial/		
+https://github.com/patrickloeber/snake-ai-pytorch		
+Detect-and-recognize-car-license-plate-from-a-video https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/		
+License-plate-recognition https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/		
+Intrusion-detection-system https://www.geeksforgeeks.org/intrusion-detection-system-using-machine-learning-algorithms/		
+https://github.com/mudgalabhay/intrusion-detection-system/blob/master/main.ipynb		
+https://github.com/mudgalabhay/Intrusion-Detection-System/tree/master		
+		
+		
+https://projectworlds.in/python-projects-with-source-code/		
+		
+Breast-Cancer-Prediction-app-using-Flask-Python		
+		
+		
+steps		
+		
+Project: Breast-Cancer-Prediction-app-using-Flask-Python		
+Model Git link: https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
+Tutorial: https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8		
+Steps		
+		
+Step 1: Define Problem Statement		
+Step 2: Data Source		
+Step 3: Cleaning the Data		
+Step 4: Data Analysis and Exploration		
+Step 5: Feature Selection		
+Step 6: Data Modelling		
+Step 7: Model Validation		
+Step 8: Hyperparameter Tuning		
+Step 9: Deployment		
+Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29		
+Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 1		
+Step 1: Define Problem Statement		
+Step 2: Data Source		
+Step 3: Cleaning the Data		
+Step 4: Data Analysis and Exploration		
+https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8		
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Exploratory_Data_Analysis_Part%201.ipynb		
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
+https://www.kaggle.com/code/itsmohammadshahid/eda-breast-cancer-prediction?scriptVersionId=101471043		
+Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 2		
+Step 5: Feature Selection		
+https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62		
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Feature_Selection_Part%202.ipynb		
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
+Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 3		
+Step 6: Data Modeling		
+Step 7: Model Validation		
+https://medium.com/@shahid_dhn/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-d6cf8b47f49a		
+https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data		
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Building_Evaluation_Part3.ipynb		
+Building ML Model to Predict Whether the Cancer Is Benign or Malignant on Breast Cancer Wisconsin Data Set !! Part 4		
+Step 8: Hyperparameter Tuning		
+Step 9: Deployment		
+https://medium.com/swlh/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-8654994ca20a		
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Optimization_and_Deployment_Part%204.ipynb		
+Deploying Breast Cancer Prediction Model Using Flask APIs and Heroku		
+https://medium.com/swlh/deploying-breast-cancer-prediction-model-using-flask-apis-and-heroku-4fd3b65b2f26		
+https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data		
+python app.py		
+http://127.0.0.1:5000/		
+http://127.0.0.1:5000/predict		
+conda activate myenv3125		
+works fine		
+		
+		
+Computer Vision Projects		
+		
+https://www.analyticsvidhya.com/blog/2022/06/deploying-a-keras-flower-classification-model/ Not OK		
+Language Translator		
+https://github.com/leeqv/kana-board/blob/master/media/insert-kanji.gif		
+https://www.geeksforgeeks.org/python-classifying-handwritten-digits-with-tensorflow/		
+Course/Research/Study		
+https://www.geeksforgeeks.org/courses/full-stack-applied-data-science-program?utm_campaign=554_abt&utm_medium=gfgcontent_abt&utm_source=geeksforgeeks		
+Visualizing Convolutional Neural Networks | Layer by Layer		
+https://www.youtube.com/watch?v=JboZfxUjLSk&ab_channel=far1din		
+Blur image detection using SVM		
+https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/comments		
+OK		
+Blur image detection using SVM		
+Code https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/notebook		
+Dataset https://www.kaggle.com/datasets/kwentar/blur-dataset		
+OK		
+Code https://www.kaggle.com/code/valentinld/blurdetection/notebook		
+Dataset https://www.kaggle.com/datasets/kwentar/blur-dataset		
+/kaggle/input/blur-dataset/blur_dataset_scaled/		
+OK		
+Code https://github.com/avs-abhishek123/Computer-Vision-Projects/tree/main/Contour_detection		
+OK		
+Code https://www.kaggle.com/code/deshwalmahesh/image-processing-2-contour-edge-threshold		
+OK		
+https://machinelearningprojects.net/sketch-making-flask-app/		
+https://github.com/sharmaji27/sketchy-sketch-making-flask-app		
+OK		
+		
+Explain		
+		
+		
+Code https://www.kaggle.com/code/dev523/leaf-disease-detection/notebook		
+Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input		
+OK		
+Code https://www.kaggle.com/code/divyanshurajput75/leaf-disease-detection/notebook		
+Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input		
+working on		
+Code https://www.kaggle.com/code/eyadgk/leafdiseasepred-imageclassificationtemp-densenet/notebook		
+Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input		
+working on		
+		
+100 Computer Vision Projects for 2023		
+		
+https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
+00:57 Object Size Measurement		
+01:22 Document Scanner		
+01:39 Traffic Sign Detection		
+02:22 Face Tracking with 2-axis PID Control		
+02:49 Face Door Lock		
+03:31 Face Emotion Detection		
+03:44 Face Detection		
+03:55 Shape Detection		
+04:26 Custom Object Detection		
+04:42 Obstacle Avoiding Robot		
+05:03 Optical Mark Recognition		
+05:42 Object Tracking		
+06:17 QR Code Detection		
+06:52 Text Detection		
+07:18 Face Filter		
+07:50 Feature Detection		
+08:16 Augmented Reality with Aruco Markers		
+08:47 Self-Driving Simulation		
+09:09 Angle Finder		
+09:29 Panorama Sticking		
+10:12 OCR in Forms		
+10:43 Self-Driving a Car using Neural Networks with Raspberry Pi		
+11:12 Sudoku Solver		
+11:40 Deep Fake		
+11:58 Drone Path Visualiser		
+12:16 Lane Following Drone		
+12:14 Eye Trakcing with Jetson Nano		
+13:47 Lane Following for self-driving car		
+14:27 Object Tracking with Jetson Nano Robot		
+15:00 Augmented Reality		
+15:35 Finger Counter		
+15:59 Track and Shoot using Computer Vision		
+16:18 Object Classification		
+16:42 Drone Face Following		
+17:00 Background Removal		
+17:21 Selfie Drone		
+18:17 Drone Flip using Hand Gestures		
+19:01 Drone Object Following		
+19:37 Ai Virtual Keyboard		
+19:59 Multiple Hand Gesture Control		
+20:20 Virtual Zoom Gesture		
+20:43 Hand Pose Detection		
+20:57 Virtual Quiz Game		
+21:21 Robot Hand Gesture Controlled		
+21:52 Custom Object Counter on Conveyor Belt		
+22:31 Cookie Cutter Squid Game		
+22:59 Green Light Red Light Squid Game		
+23:15 Automated Velcro Dart Board		
+23:29 Ballon Pop Game		
+23:52 Hand Distance Measurement		
+24:32 Virtual Paint		
+24:46 Fruit Classifier		
+25:01 Color Detection		
+25:46 Face Mesh		
+25:59 Body Pose Detection		
+26:17 MCQ Automated Grading		
+26:34 Virtual Gym		
+26:53 Drowsiness Detection		
+27:07 ID card Recognition		
+27:17 PPE Detection		
+27:34 Pistol Detection		
+27:56 Virtual Drag and Drop		
+28:10 Text Extraction on the web		
+28:25 Real-time Digit Classification		
+28:49 Virtual Calculator		
+29:21 Face Mask Detection		
+29:34 Kids Educational Game using Computer Vision		
+30:02 Waste Classifier		
+30:30 Glasses Try On		
+30:49 AI Robot Arm		
+31:23 Blink Counter		
+31:32 Face Distance Measurement		
+31:49 3d Motion Capture		
+32:06 Computer Vision Snake Game		
+32:39 3d Ball Tracking		
+33:35 Hand Gesture Fruit Ninja		
+34:01 Pong Game using Hand Gestures		
+34:42 AI Typing Tutor		
+35:20 Rotate 3D Objects with Your Head		
+36:06 Rock Paper Scissor		
+37:03 Hand Sign Detection		
+37:30 Object Detection on the web		
+37:45 AI Virtual Mouse		
+38:06 Car Counter		
+38:17 3d Hand Tracking		
+39:02 Suspicious luggage		
+39:12 Coffee Machine Virtual Interface		
+39:49 Computer Vision Pop Game		
+40:08 Basketball Shot Predictor		
+40:34 Gesture Controlled Presentation		
+40:52 Intruder Detection		
+41:07Face Recognition with Real-time Database		
+41:34 Customer Engagement		
+41:56 Shop traffic counter		
+42:10 Drone Body Following		
+42:43 License Plate Recognition		
+42:59 Gesture Volume Control		
+43:15 Shirt Size Measurement		
+https://www.datacamp.com/blog/computer-vision-projects?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=152984011814&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=714994855825&utm_targetid=aud-1459190388940:dsa-2222697810918&utm_loc_interest_ms=&utm_loc_physical_ms=9197070&utm_content=DSA~blog~Machine-Learning&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p1_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-oct24odp&gad_source=1&gclid=Cj0KCQjw6oi4BhD1ARIsAL6pox3jGI1p_TmDtJjepgdnI6mC9BbWazyehEP_mrCab2WtIIRcWMIF4dMaAuEAEALw_wcB		
+Optical Character Recognition (OCR) for Handwritten Text		
+Plant Disease Detection		
+Honey Bee Detection		
+Clothing Classifier		
+Food Image Classification		
+Multi-object Tracking in Video		
+Image Captioning		
+3D Object Reconstruction From Multiple Views		
+Gesture Recognition For Human-Computer Interaction		
+Visual Question Answering (VQA)		
+Insurance Code Extraction		
+Image Deblurring		
+Video Summarization		
+Face De-Aging/Aging		
+Human Pose Estimation And Action Recognition in Crowded Scenes		
+Unsupervised Anomaly Detection in Industrial Inspection		
+https://www.geeksforgeeks.org/computer-vision-projects/		
+Detect the RGB color from a webcam using Python – OpenCV		
+Face Detection using Python and OpenCV with a webcam		
+Face and Hand Landmarks Detection using Python – Mediapipe, OpenCV		
+Real-Time Edge Detection using OpenCV		
+Implement Canny Edge Detector in Python using OpenCV		
+Gun Detection using Python-OpenCV		
+Real-time object color detection using OpenCV		
+Right and Left Hand Detection Using Python		
+Age Detection Using Deep Learning in OpenCV		
+OpenCV – Drowsiness Detection		
+Build GUI Application Pencil Sketch from Photo in Python		
+Measure Size of an Object Using Python OpenCV		
+Brightness Control With Hand Detection using OpenCV in Python		
+Car driving using hand detection in Python		
+Contour Detection with Custom Seeds using Python – OpenCV		
+Find Co-ordinates of Contours using OpenCV | Python		
+Live Webcam Drawing using OpenCV		
+Black and white image colorization with OpenCV and Deep Learning		
+Detect and Recognize Car License Plate from a video in real-time		
+License Plate Recognition with OpenCV and Tesseract OCR		
+Handwritten Digit Recognition using Neural Network		
+Image Classification with Convolutional Neural Networks (CNNs) Using Pytorch		
+Human Pose Estimation with OpenCVUsing		
+Age and Gender Prediction from Image Using Pytorch		
+Face detection using Cascade Classifier using OpenCV-Python		
+Face recognition using Artificial Intelligence		
+Face recognition using GUI		
+FaceMask Detection using TensorFlow in Python		
+Python OpenCV – Super-resolution with deep learning		
+Real-Time Road Lane Detection		
+CIFAR-10 Image Classification in TensorFlow		
+Dog Breed Classification Using Transfer Learning		
+Flower Recognition Using Convolutional Neural Network		
+Emojify using Face Recognition with Machine Learning		
+Cat & Dog Classification using Convolutional Neural Network in Python		
+Video Analysis with Convolutional LSTM Networks		
+Autonomous Driving with Deep Learning		
+Visual Question Answering with Neural Networks		
+Scene Recognition with Convolutional Neural Networks		
+Text Recognition from Image with Convolutional Recurrent Neural Networks		
+Image Captioning Using Pytorch		
+Medical Image Analysis Using Deep Learning		
+Document Layout Analysis with Deep Learning		
+Deep Learning for Artistic Style Transfer		
+Landmark Recognition with Deep Neural Networks		
+Image Restoration with Generative Adversarial Networks		
+Satellite Image Analysis Using Convolutional Neural Network		
+Image generation with Convolutional Autoencoders		
+Lung Cancer Detection using Convolutional Neural Network (CNN) Tensorflow		
+Lung Cancer Detection Using Transfer Learning		
+Lung cancer detection using PyTorch		
+Pneumonia Detection Using Deep Learning		
+Detecting Covid-19 with Chest X-ray		
+Skin Cancer Detection Using TensorFlow		
+Hand Gesture Recognition with Convolutional Neural Networks		
+Optical Character Recognition Using Pytorch		
+Video Object Segmentation with Convolutional Networks		
+Traffic Signs Recognition using CNN and Keras in Python		
+Vehicle license plate recognition		
+Image Inpainting with Deep Neural Networks		
+Image Deblurring with Deep Neural Networks		
+Object Detection Using YOLO Using Pytorch		
+Object Detection Using YOLO Using Tensorflow		
+Object Detection with Faster R-CNN and Mask R-CNN		
+Image Segmentation with U-Net using Tensorflow		
+Image Segmentation with SegNet using Tensorflow		
+Image Segmentation with U-Net using Pytorch		
+Neural Style Transfer Using Pytorch		
+Image Synthesis using Generative Adversarial Networks (GANs)		
+Emotion Recognition through Facial Expressions		
+Facial expression detection using the Deepface module in Python		
+Instance segmentation using Pytorch		
+Semantic segmentation using Pytorch		
+Face similarity Detection using PyTorch		
+Age Conversion Using GANs Algorithm		
+Business Card Recognization Using Deep Learning		
+Traffic light detection using Deep Learning		
+People Counting Using Deep Learning		
+DeepDream using CNNs		
+Cartoonifying an Image Using Deep Learning		
+Road Condition Monitoring Project Using Deep Learning		
+Image colourization using GANs algorithm		
+Image Classifier using Tensorflow Object Detection API		
+Excellant Repository https://github.com/avs-abhishek123/Computer-Vision-Projects		
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code		
+https://machinelearningprojects.net/computer-vision-projects/		
+Background-Remover-Flask-App		
+Leaf Disease Detection Flask App		
+Drowsiness Detection using cv2		
+Number Plate Detection using Yolov7		
+Train yolov7 on the custom dataset		
+Blur Faces in Live Feed		
+Sketch making Flask App		
+Generating cifar 10 fake images using DCGAN		
+Helmet and Number Plate Detection and Recognition using YOLOv3		
+healthcure an all in one medical solution		
+Invisible Man using Mask RCNN		
+Sudoku Solver		
+Object Detection using SSD		
+Social Distancing using YOLOv3		
+Face Recognition based Attendance System		
+detect shapes using cv2		
+Document Scanner using OpenCV		
+Face Landmarks Detection using dlib		
+Make your Sketch using OpenCV		
+How to perform Face Recognition using KNN		
+Immortal Snake game in Python		
+find the most dominant colors in an image using KMeans clustering		
+types of thresholding techniques		
+Face and eye detection in cv2		
+Harrys Invisibility Cloak		
+split and merge channels in cv2		
+edge detection using Sobel X and Sobel Y		
+Rotating and Scaling Images in cv2		
+use mouse clicks to draw circles in Python		
+repair damaged images using inpainting methods		
+generate negative images in Python		
+detect edges using Laplacian 2nd order derivative		
+plot a Histogram of a grayscale image 1		
+denoise an Image using Median Blur		
+perform Morphological Operations like Erosion Dilation and Gradient 1		
+detect contours in an Image		
+plot Color Channels Histogram of an Image		
+Blurrings in cv2		
+BGR Palette in OpenCV		
+draw basic shapes on Images		
+resize an image in Python		
+read an image in python		
+https://neptune.ai/blog/15-computer-visions-projects		
+Edge & Contour Detection		
+Colour Detection & Invisibility Cloak		
+Text Recognition using OpenCV and Tesseract (OCR)		
+Face Recognition with Python and OpenCV		
+Object Detection		
+Hand Gesture Recognition		
+Human Pose Detection		
+Road Lane Detection in Autonomous Vehicles		
+Pathology Classification		
+Fashion MNIST for Image Classification		
+Image Deblurring using Generative Adversarial Networks		
+Image Transformation		
+Automatic Colorization of Photos using Deep Neural Networks		
+Vehicle Counting and Classification		
+Vehicle license plate scanners		
+https://www.youtube.com/watch?v=BFlRmIvqwSA&t=291s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
+Background Removal: • Background Removal Like Zoom | OpenCV...		
+Virtual Calculator: • Virtual Calculator using OpenCV Pytho...		
+Velcro Dart Game: • Computer Vision Game using OpenCV Pyt...		
+Red Light Green Light (Paid): https://www.computervision.zone/cv-ga...		
+Cookie Cutter(Paid): https://www.computervision.zone/cv-ga...		
+Personal AI Trainer: • Build a Personal AI Trainer | OpenCV ...		
+Track and Shoot: • Track and Shoot using Computer Vision...		
+Elbow pose detector (Paid): https://www.computervision.zone/ardui...		
+AI Mouse Control: • AI Virtual Mouse | OpenCV Python | Co...		
+Custom Object Counter on Conveyor belt (Paid): https://www.computervision.zone/ardui...		
+Robot Hand Gesture Arduino (Paid): https://www.computervision.zone/ardui...		
+Virtual Keyboard: • AI Virtual Keyboard using OpenCV | Co...		
+Self Driving (MegaBot): • Is this the best Raspberry Pi Robotic...		
+AI Virtual Painter: • AI Virtual Painter | OpenCV Python | ...		
+Balloon Pop Pygame (Paid): https://www.computervision.zone/cv-ga...		
+Object Detection Mobile APP (Paid): https://www.computervision.zone/cv-mo...		
+Face Tracking (Paid): https://www.computervision.zone/ardui...		
+Eye Tracking (Paid): https://www.computervision.zone/ardui...		
+Deep Fake: • Deepfake Tutorial and Explanation Ste...		
+Balloon Pop Game: • I tried building a Computer Vision Ga...		
+Basketball Shot Predictor: • Basket Ball Shot Predictor using Open...		
+Hand Distance measurement: • Hand Distance Measurement with Normal...		
+Parking Space Counter: • Parking Space Counter using OpenCV Py...		
+Volume Gesture Control: • Gesture Volume Control | OpenCV Pytho...		
+Drone Body Following (Paid): https://www.computervision.zone/adv-d...		
+https://www.projectpro.io/article/object-detection-project-ideas-with-source-code/490		
+Monkey, Cat, and Dog Detection System		
+Train your Own Object Detection Model		
+Vehicle Counting Model		
+Furniture Recognition Model		
+Vehicle Detection in Video Data		
+Surveillance Camera Object Detection System		
+Build an Object Detection Web Application		
+Motion Detection System		
+		
+Excellant Tutorials AI		
+1 Loan Approval https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/ https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view OK		
+2 Loan analysis https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis/input OK		
+https://stackoverflow.com/questions/tagged/tensorflow		
+https://www.kaggle.com/search?q=natural+language+processing		
+3 Natural Language Processing https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK		
+4 Diabetes Prediction-EDA + 10 Models https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models		
+		
+Explain		
+		
+		
+https://www.kaggle.com/search?q=diabetes+prediction		
+https://www.kaggle.com/zabihullah18/code		
+Car price Prediction  https://www.kaggle.com/code/zabihullah18/car-price-prediction/notebook    https://www.kaggle.com/code/zabihullah18/car-price-prediction/input    OK		
+Global Countries || EDA   https://www.kaggle.com/code/zabihullah18/global-countries-eda    https://www.kaggle.com/code/zabihullah18/global-countries-eda/input    OK		
+Student Performance  https://www.kaggle.com/code/zabihullah18/student-performance    https://www.kaggle.com/code/zabihullah18/student-performance/input    OK		
+Email Spam Detection  https://www.kaggle.com/code/zabihullah18/email-spam-detection    https://www.kaggle.com/code/zabihullah18/email-spam-detection/input    OK		
+https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision/Deploy%20Image%20Classifier%20With%20Flask          OK		
+app.run(port=5002)		
+		
+Advance AI		
+		
+ML Data Science FULL Course for Beginners in 27 HOURS - 2024 Edition		
+https://www.youtube.com/watch?v=gDZ6czwuQ18&ab_channel=WsCubeTech		
+Excellant tutorial		
+Youtube https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org		
+Source https://github.com/datapublishings/Course-python-data-science/tree/master		
+Path C:\カーン\ml\Course-python-data-science\Course-python-data-science		
+cmd jupyter notebook		
+MasteringPythonZeroToHero_part1.ipynb		
+MasteringPythonZeroToHero_part2.ipynb		
+Machine Learning Algorithm		
+https://www.geeksforgeeks.org/machine-learning-algorithms/		
+Chatbot using Python, NLP, and Data Science | Build Your Own Chatbot | Intellipaat		
+https://www.youtube.com/watch?v=JzPgeRJfNo4&ab_channel=Intellipaat		
+Deep Learning for Computer Vision with Python and TensorFlow – Complete Course		
+https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=11s&ab_channel=freeCodeCamp.org		
+37 hours		
+https://www.tensorflow.org/api_docs/python		
+Fun		
+Number Guessing Game		
+https://thecleverprogrammer.com/2020/12/04/number-guessing-game-with-python-and-c/		
+Google Search tensorflow advanced techniques github		
+https://www.google.com/search?q=tensorflow+advanced+techniques+github&sca_esv=012f470da02fcbcc&sxsrf=ADLYWIKinHYbNxTplandUPfg78EUFZYVSw%3A1719973592251&ei=2LaEZoCGD-3r1e8P8tWuyAw&oq=tensorflow+advanced+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3RlbnNvcmZsb3cgYWR2YW5jZWQgZ2l0KgIIADIGEAAYFhgeMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRItxdQhwFYzwtwAXgBkAEAmAHjAaABuwaqAQUwLjIuMrgBA8gBAPgBAZgCBaACwgbCAgoQABiwAxjWBBhHwgILEAAYgAQYkQIYigXCAgUQABiABMICCxAAGIAEGIYDGIoFmAMAiAYBkAYIkgcFMS4yLjKgB_cR&sclient=gws-wiz-serp		
+https://upload.wikimedia.org/wikipedia/commons/d/d9/Kodaki_fuji_frm_shojinko.jpg		
+https://gate-to-hokkaido.jp/assets/img/spot/detail/672.jpg		
+AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch		
+https://www.youtube.com/watch?v=jSgdL1zX4h8&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
+Computer Vision Game Development in 3 Hours | OpenCV Python		
+https://www.youtube.com/watch?v=lDfplevUWRw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
+Computer Vision Projects by Rifat Murtaza		
+https://github.com/Chando0185/Chest_x_ray_Detection		
+https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD		
+Reinforcement Learning in 3 Hours | Full Course using Python		
+https://www.youtube.com/watch?v=Mut_u40Sqz4&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&ab_channel=NicholasRenotte		
+Top 10 Machine Learning Projects Idea With Free Source Code | Opencv | Tensorflow | Keras | Pytorch		
+https://www.youtube.com/watch?v=C18ELHXw31A&ab_channel=KNOWLEDGEDOCTOR		
+Deep Learning for Computer Vision with Python and TensorFlow – Complete Course https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=34s&ab_channel=freeCodeCamp.org		
+Sample Video File https://samplelib.com/sample-mp4.html		
+Data Camp https://www.datacamp.com/		
+google colab		
+pyTorch https://github.com/ritchieng/the-incredible-pytorch		
+Algorithms https://www.datacamp.com/blog/top-machine-learning-use-cases-and-algorithms		
+10 Algorithms		
+DEEP LEARNING		
+Deep Learning and Generative Models https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L15_intro-rnn__slides.pdf		
+L15.7 An RNN Sentiment Classifier in PyTorch https://www.youtube.com/watch?v=KgrdifrlDxg&ab_channel=SebastianRaschka		
+deeplearning-models https://github.com/rasbt/deeplearning-models?tab=readme-ov-file		
+L15.7 An RNN Sentiment Classifier in PyTorch		
+Introduction to Deep Learning https://sebastianraschka.com/blog/2021/dl-course.html		
+		
+Explain		
+		
+		
+L15.6 RNNs for Classification: A Many-to-One Word RNN		
+L15.7 An RNN Sentiment Classifier in PyTorch		
+How to Use RNNs for Sentiment Analysis (Coding RNNs in Python)		
+http://localhost:8888/notebooks/rnn_example.ipynb		
+https://www.youtube.com/watch?v=FTCpdNuIiZM&ab_channel=ritvikmath		
+https://github.com/ritvikmath/YouTubeVideoCode/tree/main		
+https://github.com/ritvikmath/YouTubeVideoCode/blob/main/RNNExample.ipynb		
+KNN		
+Dataset  https://drive.google.com/drive/folders/1YylTjWxmkUVdurMSDjl84dstCKZL6wH8		
+Machine Learning and Data Science Applications in Industry		
+https://github.com/ashishpatel26/Real-time-ML-Project		
+Image Classification Webapp | Flask		
+https://github.com/noumannahmad/Flask/tree/master		
+Multi-Class Image Classification Flask App | Complete Project		
+https://buffml.com/multi-class-image-classification-flask-app-complete-project/		
+https://github.com/noumannahmad/Flask/tree/master/CIFAR-10-image-classification		
+Python 3.7 Works fine		
+python main.py		
+Successfully runs like a charm		
+https://www.javatpoint.com/image-forgery-detection-using-machine-learning		
+		
+https://www.geeksforgeeks.org/machine-learning-projects/		
+https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265		
+https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566
+
+
+
