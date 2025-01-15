@@ -5,8 +5,8 @@
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 ```
 ---
-1__	
-EfficientDet	
+1\	
+EfficientDet\	
 𝗯𝗹𝗼𝗼𝗱 𝗰𝗲𝗹𝗹 𝗱𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
 ```
 https://bit.ly/362NWHa
