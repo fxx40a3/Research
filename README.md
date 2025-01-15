@@ -5704,191 +5704,295 @@ Stock Price Prediction for Beginners
 ```
 https://thecleverprogrammer.com/2020/05/11/stock-price-prediction-with-machine-learning/ 
 ```
-
-11	
+11\	
 4 Chatbot Project With Python
+```
 https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
+```
 
 Deploy a Chatbot with Python, HTML, and CSS
+```
 https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/ 
+```
 
 Chatbot with Natural Language Processing
+```
 https://thecleverprogrammer.com/2020/05/17/build-your-own-chatbot-with-python/ 
+```
 
 Telegram Bot with Python for Beginners
+```
 https://thecleverprogrammer.com/2020/08/18/telegram-bot-with-python/ 
+```
 
 Chatbot with Python and Deep Learning
+```
 https://thecleverprogrammer.com/2020/11/01/chatbot-with-machine-learning-and-python/ 
+```
 
-12	
+12\	
 7 Python Gui project
+```
 https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78
+```
 
 OTP Verification GUI with Python
+```
 https://thecleverprogrammer.com/2020/08/24/otp-verification-gui-with-python/ 
+```
 
 Weight Converter GUI with Python
+```
 https://thecleverprogrammer.com/2020/11/28/weight-converter-gui-with-python/ 
+```
 
 Text Editor GUI with Python
+```
 https://thecleverprogrammer.com/2020/09/25/text-editor-gui-with-python/ 
+```
 
 Python GUI App for Student Details
+```
 https://thecleverprogrammer.com/2020/04/30/python-gui-app-for-student-details/ 
+```
 
 Python Calendar GUI
+```
 https://thecleverprogrammer.com/2020/04/23/python-gui-app-for-calendar/ 
+```
 
 Password Generator GUI
+```
 https://thecleverprogrammer.com/2020/08/17/password-generator-with-python/ 
+```
 
 Python Clock App with Kivy
+```
 https://thecleverprogrammer.com/2020/05/10/python-clock-app-with-kivy/ 
+```
 
-100+ Machine Learning Projects Solved and Explained.
-https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/ 
-
-13	
+13\	
 All Unsupervised learning Projects
+```
 https://amankharwal.medium.com/all-unsupervised-machine-learning-algorithms-explained-aecf1ba95d8b
+```
 
 K-Means Algorithm    
+```
 https://thecleverprogrammer.com/2020/07/12/k-means-in-machine-learning/ 
+```
 
 DBSCAN Algorithm
+```
 https://thecleverprogrammer.com/2020/10/31/dbscan-algorithm-in-machine-learning/ 
+```
 
 Outlier Detection/Anomaly Detection
+```
 https://thecleverprogrammer.com/2020/11/12/outlier-detection-with-python/ 
+```
 
 Principal Component Analysis (PCA)
+```
 https://thecleverprogrammer.com/2020/07/08/pca-in-machine-learning/ 
+```
 
 Apriori Algorithm
+```
 https://thecleverprogrammer.com/2020/11/16/apriori-algorithm-using-python/ 
+```
 
-14	
+14\	
 10 Machine learning Projects for Regression Analysis
+```
 https://amankharwal.medium.com/10-machine-learning-projects-on-regression-with-python-e5494615a0d0
+```
 
 Calories Burned Prediction
+```
 https://thecleverprogrammer.com/2020/11/26/calories-burned-prediction-with-python/ 
+```
 
 Restaurant Recommendation System
+```
 https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/ 
+```
 
 Stock Price Prediction
+```
 https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/ 
+```
 
 Earthquake Prediction Model
+```
 https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/ 
+```
 
 Landmark Detection
+```
 https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/ 
+```
 
 Age and Gender Detection
+```
 https://thecleverprogrammer.com/2020/10/29/age-and-gender-detection-with-python/ 
+```
 
 Title Generator
+```
 https://thecleverprogrammer.com/2020/10/05/title-generator-with-machine-learning/ 
+```
 
 Deepfake Detection
+```
 https://thecleverprogrammer.com/2020/10/03/deepfake-detection-with-python/ 
+```
 
 Predict Tinder Matches
+```
 https://thecleverprogrammer.com/2020/09/28/predict-tinder-matches-with-machine-learning/ 
+```
 
 Predict Car Prices
+```
 https://thecleverprogrammer.com/2020/09/21/predict-car-prices-with-machine-learning/ 
+```
 
-100+ Machine Learning Projects Solved and Explained
-https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/ 
-
-15	
+15\	
 10 Machine learning Project for Classification with Python
+```
 https://medium.datadriveninvestor.com/10-machine-learning-projects-on-classification-with-python-9261add2e8a7
+```
 
 Gender Classification
-https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/ 
+```
+https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/
+``` 
 
 Heart Disease Prediction
+```
 https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/ 
+```
 
 Pneumonia Detection
+```
 https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/ 
+```
 
 Fake Currency Detection
+```
 https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-learning/ 
+```
 
 Titanic Survival Prediction
+```
 https://thecleverprogrammer.com/2020/08/25/titanic-survival-with-machine-learning/ 
+```
 
 Covid-19 Detection
+```
 https://thecleverprogrammer.com/2020/07/09/covid-19-detection/ 
+```
 
 Skin Cancer Classification
+```
 https://thecleverprogrammer.com/2020/06/29/skin-cancer-classification-with-machine-learning/ 
+```
 
 Dog and Cat Classification
+```
 https://thecleverprogrammer.com/2020/06/16/dog-and-cat-classification-using-convolutional-neural-networks-cnn/ 
+```
 
 Fraud Detection Model
+```
 https://thecleverprogrammer.com/2020/08/04/fraud-detection-with-machine-learning/ 
+```
 
 Language Classification Model
+```
 https://thecleverprogrammer.com/2020/10/08/language-classification-with-python/ 
+```
 
-https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/ 
-
-16	6 Sentimental Analysis Projects with python
+16\
+6 Sentimental Analysis Projects with python
+```
 https://amankharwal.medium.com/6-sentiment-analysis-projects-with-python-1fdd3d43d90f
+```
 
 Predict US Elections
+```
 https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/ 
+```
 
 Hate Speech Detection Model
+```
 https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/ 
+```
 
 Twitter Sentiment Analysis
+```
 https://thecleverprogrammer.com/2020/06/13/twitter-sentiment-analysis/ 
+```
 
 Movie Reviews Sentiment Analysis
+```
 https://thecleverprogrammer.com/2020/05/25/movie-reviews-sentiment-analysis-binary-classification-with-machine-learning/ 
+```
 
 Amazon Product Reviews Sentiment Analysis
+```
 https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/ 
+```
 
 Fake News Detection Model
+```
 https://thecleverprogrammer.com/2020/07/18/fake-news-detection-model/ 
+```
 
 
-17	
+17\	
 4 Recommendations Projects with Python
+```
 https://medium.com/coders-camp/4-recommendation-system-projects-with-python-5934de32ba7d
+```
 
 Restaurant Recommendation System
+```
 https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/ 
+```
 
 Fashion Recommendation System
+```
 https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/ 
+```
 
 Books Recommendation System
+```
 https://thecleverprogrammer.com/2021/01/17/book-recommendation-system/ 
+```
 
 Movies Recommendation System
+```
 https://thecleverprogrammer.com/2020/05/20/data-science-project-movie-recommendation-system/ 
+```
 
-18	
+18\	
 20 Deep learning Project with python
+```
 https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a721
+```
 
-Pneumonia Detection     
+Pneumonia Detection 
+```    
 https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/ 
+```
 
-
-https://thecleverprogrammer.com/2020/11/17/face-mask-detection-with-machine-learning/ 
 Face Mask Detection 
+```
+https://thecleverprogrammer.com/2020/11/17/face-mask-detection-with-machine-learning/ 
+```
+ 
 
 https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/ 
 Earthquake Prediction Model 
