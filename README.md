@@ -899,1556 +899,1725 @@ https://bit.ly/3mpKD3P
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKVBAmV
 ```
 
-94
 Multi-Channel
 Computer Vision Learning 𝗠𝘂𝗹𝘁𝗶𝗖𝗵𝗮𝗻𝗻𝗲𝗹 — Segment Colon Histology Images (Biomedical Image Segmentation)
+```
 https://bit.ly/2Q1WCbN
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ex_Q36z
+```
 
-95
-V-Net
+V-Net\
 Computer Vision Learning 𝗩-𝗡𝗲𝘁 — Volumetric Convolution (Biomedical Image Segmentation)
+```
 https://bit.ly/3sYxGAt
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEXbewA
 Code: https://lnkd.in/e7bvT2C
+```
 
-96
-3D-Unet
+3D-Unet\
 Computer Vision Learning 3𝘿 𝙐-𝙉𝙚𝙩 — Volumetric Segmentation (Medical Image Segmentation)
+```
 https://bit.ly/3uvNOcS
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEBFdZ4
 Code: https://lnkd.in/ebts9a9
+```
 
-97
-M²FCN
+M²FCN\
 Computer Vision Learning M²FCN — Multi-stage Multi-recursive-input Fully Convolutional Networks (Biomedical Image Segmentation)
+```
 https://bit.ly/3cXSlPG
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eQp7Zfn
+```
 
-98
-Suggestive Annotation
+Suggestive Annotation\
 Computer Vision Learning Suggestive Annotation — Deep Active Learning Framework (Biomedical Image Segmentation)
+```
 https://bit.ly/3t1UbV8
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eayVSdC
+```
 
-99
-3D Unet + Resnet
+3D Unet + Resnet\
 Computer Vision Learning 3𝗗 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — Volumetric Convolutions + Long & Short Residual Connections (Biomedical Image Segmentation)
+```
 https://bit.ly/3wRu3i9
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eX8PmCu
+```
 
-100
-Cascade 3D-Unet
+Cascade 3D-Unet\
 Computer Vision Learning 𝗖𝗮𝘀𝗰𝗮𝗱𝗲𝗱 3𝗗 𝗨-𝗡𝗲𝘁 — Multi-Organ Segmentation (Biomedical Image Segmentation)
+```
 https://bit.ly/3siNsEX
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e6Jteqz
+```
 
-101
-DenseVoxNet
+DenseVoxNet\
 Computer Vision Learning 𝗗𝗲𝗻𝘀𝗲𝗩𝗼𝘅𝗡𝗲𝘁 — Volumetric Brain Segmentation (Biomedical Image Segmentation)
+```
 https://bit.ly/2RGliYd
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eDxyMH6
 Code: https://lnkd.in/eWu_t5m
+```
 
-102
-QSA + QNT
+QSA + QNT\
 Computer Vision Learning 𝗤𝗦𝗔+𝗤𝗡𝗧 — Quantization of Fully Convolutional Networks (Biomedical Image Segmentation)
+```
 https://bit.ly/3wWtyDf
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ec7mwzJ
+```
 
-103
-Attention-Unet
+Attention-Unet\
 Computer Vision Learning 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗨-𝗡𝗲𝘁 — Learning Where to Look for the Pancreas (Biomedical Image Segmentation)
+```
 https://bit.ly/3eaMNAK
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gnfKAdu 
 Code: https://lnkd.in/gNM8JNZ
+```
 
-104
-RUNet + R2Unet
+RUNet + R2Unet\
 Computer Vision Learning 𝙍𝙐-𝙉𝙚𝙩 & 𝙍2𝙐-𝙉𝙚𝙩 — Recurrent Residual Convolutional Neural Network (Medical Image Segmentation)
+```
 https://bit.ly/2Q4bIxG
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eGmwmx8 
 Code: https://lnkd.in/eJGh3U9
+```
 
-105
-VoxResNet
+VoxResNet\
 Computer Vision Learning 𝗩𝗼𝘅𝗥𝗲𝘀𝗡𝗲𝘁— Deep Voxelwise Residual Networks for Volumetric Brain Segmentation (Biomedical Image Segmentation)
+```
 https://bit.ly/32gLBWN
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/32ezHMX
 Code : https://bit.ly/3e51vcf
+```
 
-106
-Unet++
+Unet++\
 Computer Vision Learning 𝗨𝗡𝗲𝘁++ — A Nested U-Net Architecture (Biomedical Image Segmentation)
+```
 https://bit.ly/3esShGV
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9KAr-S
 Code : https://lnkd.in/eMiruB2
+```
 
-107
-H-DenseUnet
+H-DenseUnet\
 Computer Vision Learning  𝗛-𝗗𝗲𝗻𝘀𝗲𝗨𝗡𝗲𝘁 — 2D & 3D 𝗗𝗲𝗻𝘀𝗲𝗨𝗡𝗲𝘁 for Intra & Inter Slice Features (Biomedical Image Segmentation)
+```
 https://bit.ly/3dN53kn
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eu99_6D
 Code : https://lnkd.in/e9ttFUf
+```
 
-108
-DUnet
+DUnet\
 Computer Vision Learning  𝗗𝗨𝗡𝗲𝘁 — Deformable U-Net for Retinal Vessels Segmentation (Biomedical Image Segmentation)
+```
 https://bit.ly/3sPYrWS
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ePh_NS9
+```
 
-109
-MultiResUnet
+MultiResUnet\
 Computer Vision Learning  𝗠𝘂𝗹𝘁𝗶𝗥𝗲𝘀𝗨𝗡𝗲𝘁 — Rethinking U-Net (Biomedical Image Segmentation)
+```
 https://bit.ly/32J7Epr
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gUyQCaE
 Code: https://lnkd.in/gTxx2pe
+```
 
-110
-Unet3+
+Unet3+\
 Computer Vision Learning  𝗨𝗡𝗲𝘁 𝟯+ — A Full-Scale Connected UNet (Medical Image Segmentation)
+```
 https://bit.ly/3vj4lRX
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/exaNezc
 Code: https://lnkd.in/etiTzns
+```
 
-111
-VGGNet For Covid19
+VGGNet For Covid19\
 Computer Vision Learning  𝐕𝐆𝐆𝐍𝐞𝐭 for COVID-19 Detection (Biomedical Image Classification) 
+```
 https://bit.ly/3ewquW6
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/g2upBth
+```
 
-112
-𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁)
+𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁)\
 Computer Vision Learning  𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁): Brain Lesion Segmentation (Biomedical Image Segmentation)
+```
 https://bit.ly/3tR67cM
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/esMvitH
+```
 
-113
-Ki-Unet
+Ki-Unet\
 Computer Vision Learning  𝗞𝗶𝗨-𝗡𝗲𝘁: Overcomplete Convolutional Architectures for Biomedical Image and Volumetric Segmentation
+```
 https://bit.ly/3gD4wDK
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eAmgiTQ
 code : https://lnkd.in/eZah6kY
+```
 
-114
-Medical Transformer
+Medical Transformer\
 Computer Vision Learning 𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿: Gated Axial-Attention for Medical Image Segmentation
+```
 https://bit.ly/3dLw9Zf
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e26DDzU
 code : https://lnkd.in/eAZDbjz
+```
 
-115
-Deep Snake- Instance Segmentation
+Deep Snake- Instance Segmentation\
 Computer Vision Learning 𝗗𝗲𝗲𝗽 𝗦𝗻𝗮𝗸𝗲 for Real-Time Instance Segmentation
+```
 https://bit.ly/3dQmdhm
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKi7bAx
 code : https://lnkd.in/eApEqFb
+```
 
-116
-BlendMask
+BlendMask\
 Computer Vision Learning 𝗕𝗹𝗲𝗻𝗱𝗠𝗮𝘀𝗸: Top-Down Meets Bottom-Up for Instance Segmentation
+```
 https://bit.ly/32LVXyf
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8nz2u7
 𝗖𝗼𝗱𝗲: https://lnkd.in/eN9KVwX
+```
 
-117
-CenterNet
+CenterNet\
 Computer Vision Learning Super-Resolution Convolutional Neural Network 𝗦𝗥𝗖𝗡𝗡 
+```
 https://bit.ly/3aJrJQD
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/euE2UtD
 Code : https://lnkd.in/eceShnD
+```
 
-118
-SRCNN
+SRCNN\
 Computer Vision Learning Super-Resolution Convolutional Neural Network 𝗦𝗥𝗖𝗡𝗡
+```
 https://bit.ly/3t82eie
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/euE2UtD
 Code : https://lnkd.in/eceShnD
+```
 
-119
-Swin Transformer
+Swin Transformer\
 Computer Vision Learning 𝗦𝘄𝗶𝗻 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿 : Hierarchical Vision Transformer using Shifted Windows
+```
 https://bit.ly/2QMWxct
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gGjxkJG
 Code : https://lnkd.in/gK22rng
+```
 
-120
-Polygon-RNN
+Polygon-RNN\
 Computer Vision Learning Annotating Object Instances with a 𝗣𝗼𝗹𝘆𝗴𝗼𝗻-𝗥𝗡𝗡 
+```
 https://bit.ly/3ujEJ7D
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ejfBXnZ
 official : https://lnkd.in/eVBtrtM
 Code : https://lnkd.in/ezCzsHx
+```
 
-121
-PolyTransform
+PolyTransform\
 Computer Vision Learning 𝗣𝗼𝗹𝘆𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺: Deep Polygon Transformer for Instance Segmentation
+```
 https://bit.ly/3gT11ZZ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/en932C5
+```
 
-122
-D2Det
+D2Det\
 Computer Vision Learning 𝗗𝟮𝗗𝗲𝘁:Towards High Quality Object Detection and Instance Segmentation
+```
 https://bit.ly/3b2EDJL
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3aW0iDq
 Code : https://lnkd.in/e2UtY69
+```
 
-123
-PolarMask
+PolarMask\
 Computer Vision Learning 𝗣𝗼𝗹𝗮𝗿𝗠𝗮𝘀𝗸: Single Shot Instance Segmentation With Polar Representation
+```
 https://bit.ly/3uklSsO
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dvmS3aJ
 Code : https://lnkd.in/dKuiUgu
+```
 
-124
-FGN
+FGN\
 Computer Vision Learning 𝗙𝗚𝗡: Fully Guided Network for Few-Shot Instance Segmentation
+```
 https://bit.ly/3uiyyAl
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekjkZzZ
+```
 
-125
-Meta-SR
+Meta-SR\
 Computer Vision Learning 𝗠𝗲𝘁𝗮-𝗦𝗥: A Magnification-Arbitrary Network for Super-Resolution
+```
 https://bit.ly/3ekFyr9
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/emSdVCs
 Code : https://lnkd.in/edgaAcw
+```
 
-126
-Iterative Kernel Correlation
+Iterative Kernel Correlation\
 Computer Vision Learning Blind super-resolution with 𝗶𝘁𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗳𝘂𝘇𝘇𝘆 𝗸𝗲𝗿𝗻𝗲𝗹 𝗰𝗼𝗿𝗿𝗲𝗰𝘁𝗶𝗼𝗻
+```
 https://bit.ly/3xPGZp6
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gnqmagN
 Code : https://lnkd.in/g_NqwKC
+```
 
-127
-SRFBN
+SRFBN\
 Computer Vision Learning 𝗦𝗥𝗙𝗕𝗡 Feedback Network for Image Super-Resolution
+```
 https://bit.ly/2Qc1c7z
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/grm4rfp
 Code : https://lnkd.in/gRhYAPU
+```
 
-128
-ODE
+ODE\
 Computer Vision Learning 𝗢𝗗𝗘-inspired Network Design for Single Image Super-Resolution
+```
 https://bit.ly/3w1K8k4
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3vUwK0O
 Code : https://lnkd.in/ew5X-ia
+```
 
-129
-SRNTT
+SRNTT\
+```
 https://bit.ly/2RNT9hS
+```
 
-130
-Parallax Attention
+Parallax Attention\
 Computer Vision Learning Learning 𝗣𝗮𝗿𝗮𝗹𝗹𝗮𝘅 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 for Stereo Image Super-Resolution 
+```
 https://bit.ly/3tIr74x
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gYKr32n
 Code : https://lnkd.in/gh5aMdD
+```
 
-131
-3D Super Resolution
+3D Super Resolution\
 Computer Vision Learning Learning 3D Appearance Super-Resolution with Deep Learning
+```
 https://bit.ly/3bliXJa
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dNcVEN6
 Code : https://lnkd.in/d33tCND
+```
 
-132
-FSTRN
+FSTRN\
 Computer Vision Learning 𝗙𝗧𝗦𝗥𝗡: Fast Spatio-temporal residual network for video super-resolution
+```
 https://bit.ly/3uWJ8h7
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eYF3fd9
+```
 
-133
-PointGroup
+PointGroup\
 Computer Vision Learning 𝗣𝗼𝗶𝗻𝘁𝗚𝗿𝗼𝘂𝗽: Dual-Set Point Grouping for 3D Instance Segmentation
+```
 https://bit.ly/2QfeKPP
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eFzMqV2
 Code : https://lnkd.in/eUdMgk4
+```
 
-134
-3D-MPA
+3D-MPA\
 Computer Vision Learning 𝟯𝗗-𝗠𝗣𝗔: Multi-Proposal Aggregation for 3D Semantic Instance Segmentation
+```
 https://bit.ly/3bqz9J6
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ee8dgGP
 Code : https://lnkd.in/epi-eGF
+```
 
-135
-Saliency Propagation
+Saliency Propagation\
 Computer Vision Learning Learning Saliency Propagation for Semi-Supervised Instance Segmentation
+```
 https://bit.ly/3tXTvj4
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehE_KcB
 Code : https://lnkd.in/eZmMHcx
+```
 
-136
-Libra R-CNN
+Libra R-CNN\
 Computer Vision Learning 𝙇𝙞𝙗𝙧𝙖 𝙍-𝘾𝙉𝙉: Towards Balanced Learning for Object Detection
+```
 https://bit.ly/3hDytnt
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eCz48YQ
 Code : https://lnkd.in/e7CuYKX
+```
 
-137
-SiamRPN++
+SiamRPN++\
 Computer Vision 𝐒𝐢𝐚𝐦𝐑𝐏𝐍++: Currently the highest precision single target tracking 
+```
 https://bit.ly/33TNjyi
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dqtQZRF
 Code : https://lnkd.in/dY2gjDy
 official code : https://lnkd.in/dx9TYVz
+```
 
-138
-LoFTR
+LoFTR\
 Computer Vision Learning 𝗟𝗼𝗙𝗧𝗥: Detector-Free Local Feature Matching with Transformers
+```
 https://bit.ly/3eUtlJS
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eXkB_hr
 Code : https://lnkd.in/enG7TpT
+```
 
-139
-MZSR
+MZSR\
 Computer Vision Learning 𝗠𝗭𝗦𝗥: Meta-Transfer Learning for Zero-Shot Super-Resolution 
+```
 https://bit.ly/3ul5gAs
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gC-7aVB
 Code : https://lnkd.in/g-M7zpy
+```
 
-140
-UCTGAN
+UCTGAN\
 Computer Vision Learning 𝗨𝗖𝗧𝗚𝗔𝗡: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation
+```
 https://bit.ly/3fQg9ox
+```
 
-141
-OccuSeg
+OccuSeg\
 Computer Vision Learning 𝗢𝗰𝗰𝘂𝗦𝗲𝗴: Occupancy-aware 3D Instance Segmentation 
+```
 https://bit.ly/3bUJtta
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gQQA5nn
+```
 
-142
-LAPGAN
+LAPGAN\
 Computer Vision Learning 𝙇𝘼𝙋𝙂𝘼𝙉 — Laplacian Generative Adversarial Network (GAN)
+```
 https://bit.ly/3unOjW1
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eCW9Uf3
 Code: https://lnkd.in/etR_ymW
+```
 
-143
-TPN
+TPN\
 Computer Vision Learning 𝗧𝗣𝗡 : Temporal Pyramid Network for Action Recognition
+```
 https://bit.ly/3vvyIoW
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eZX98Ez
 Code: https://lnkd.in/eV-2YeF
+```
 
-144
-GTAD
+GTAD\
 Computer Vision Learning 𝗚-𝗧𝗔𝗗: Sub-Graph Localization for Temporal Action Detection
+```
 https://bit.ly/3c09yqK
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gfa8H23
 Code: https://lnkd.in/gDbhWBU
+```
 
-145
-SlowFast
+SlowFast\
 Computer Vision Learning 𝗦𝗹𝗼𝘄𝗙𝗮𝘀𝘁 Networks for Video Recognition
+```
 https://bit.ly/3fMrI0d
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gtKRzFa
 Code: https://lnkd.in/gcX2rXR
+```
 
-146
-IDU
+IDU\
 Computer Vision Learning 𝐈𝐃𝐔:  Learning to Discriminate Information for Online Action Detection
+```
 https://bit.ly/2ROcIa5
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eYVTxqG
 Code: https://lnkd.in/enkzQj3
+```
 
-147
-ATSS
+ATSS\
 Computer Vision Learning 𝗔𝗧𝗦𝗦: Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection by CBSR, NLPR, CASIA, UCAS, AIR, CAS, BUPT
+```
 https://bit.ly/3hTIflC
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eeteXym
 Code: https://lnkd.in/eUFyAnm
+```
 
-148
-Attention-RPN
+Attention-RPN\
 Computer Vision Learning 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻-𝗥𝗣𝗡: Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector
+```
 https://bit.ly/3oYescY
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e-8VuVM
 Proposed dataset: https://lnkd.in/ejA9UQP
 code: https://lnkd.in/eQRtbvu
+```
 
-149
-Aug-FPN
+Aug-FPN\
 Computer Vision Learning 𝗔𝘂𝗴𝗙𝗣𝗡: Improving Multi-scale Feature Learning for Object Detection
+```
 https://bit.ly/3fUbdzi
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8dbff5
 code : https://lnkd.in/eVXdJGm
+```
 
-150
-Hit-Detector
+Hit-Detector\
 Computer Vision Learning 𝗛𝗶𝘁-𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿: Hierarchical Trinity Architecture Search for Object Detection
+```
 https://bit.ly/3uGCLgB
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/epka5Kx
 code : https://lnkd.in/e7GAfKA
+```
 
-151
-MCN
+MCN\
 Computer Vision Learning 𝗠𝗖𝗡: Multi-task Collaborative Network for Joint Referring Expression Comprehension and Segmentation
+```
 https://bit.ly/3ySpjtq
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8dbff5
 code : https://lnkd.in/eAuuZZX
+```
 
-152
-CentripetalNet
+CentripetalNet\
 Computer Vision Learning 𝗖𝗲𝗻𝘁𝗿𝗶𝗽𝗲𝘁𝗮𝗹𝗡𝗲𝘁:: Pursuing High-quality Keypoint Pairs for Object Detection
+```
 https://bit.ly/2S1WNVB
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/evscDUK
 code : https://lnkd.in/eTgWsK4
+```
 
-153
-ROAM
+ROAM\
 Computer Vision Learning 𝗥𝗢𝗔𝗠: Recurrently Optimizing Tracking Model
+```
 https://bit.ly/34Ft8Ex
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gGHgFzm
+```
 
-154
-PF-NET(3D)
+PF-NET(3D)\
 Computer Vision Learning 𝗣𝗙-𝗡𝗲𝘁: : Point Fractal Network for 3D Point Cloud Completion
+```
 https://bit.ly/2TzQiK9
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ecjC7-G
 code : https://lnkd.in/eACTpaE
+```
 
-155
-PointAugment
+PointAugment\
 Computer Vision Learning 𝗣𝗼𝗶𝗻𝘁𝗔𝘂𝗴𝗺𝗲𝗻𝘁: an Auto-Augmentation Framework for Point Cloud Classification
+```
 https://bit.ly/3uMc8Hr
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eu8dmmP
 code : https://lnkd.in/etNjdSd
+```
 
-156
-C-Flow
+C-Flow\
 Computer Vision Learning 𝗖-𝗙𝗟𝗢𝗪: Conditional Generative Flow Models for Images and 3D Point Clouds
+```
 https://bit.ly/3xgDlUn
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eHYU5qz
+```
 
-157
-RandLA-Net
+RandLA-Net\
 Computer Vision Learning RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds
+```
 https://bit.ly/3fYajD9
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eum5ZJw
 code :https://lnkd.in/ez6QxxR
+```
 
-158
-Total3DUnderStanding
+Total3DUnderStanding\
 Computer Vision Learning 𝗧𝗼𝘁𝗮𝗹𝟯𝗗𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image
+```
 https://bit.ly/3v3jy9c
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eTJPX9U
 code : https://lnkd.in/eEb6EJm
+```
 
-159 
-IF-Nets 
+IF-Nets\
 Computer Vision Learning 𝗜𝗙-𝗡𝗲𝘁𝘀 :Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
+```
 https://bit.ly/3v7XjPj
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dGmmWNy
 code : https://lnkd.in/dEKg98m
+```
 
-160 
-PerfectShape 
+PerfectShape\
 Computer Vision Learning In 𝗣𝗲𝗿𝗳𝗲𝗰𝘁 𝗦𝗵𝗮𝗽𝗲:  Certifiably Optimal 3D Shape Reconstruction from 2D Landmarks
+```
 https://bit.ly/3za20vk
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eA-uY5z
+```
 
-161 
-ACNe 
+ACNe\
 Computer Vision Learning 𝗔𝗖𝗡𝗲: Attentive Context Normalization for Robust Permutation-Equivariant Learning
+```
 https://bit.ly/3gaJQSN
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eA8SmfA
 code : https://lnkd.in/eyhNWx7
+```
 
-162 
-PQ-Net 
+PQ-Net\
 Computer Vision Learning 𝗣𝗤-𝗡𝗘𝗧: A Generative Part Seq2Seq Network for 3D Shapes
+```
 https://bit.ly/35dVPsm
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ebMWKgp
 code : https://lnkd.in/eVPk-UQ
+```
 
-163 
-SG-NN 
+SG-NN\
 Computer Vision Learning 𝗦𝗚-𝗡𝗡: Sparse Generative Neural Networks for Self-Supervised Scene Completion of RGB-D Scans
+```
 https://bit.ly/3iQ4yca
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/edKYJND
+```
 
-164
-Cascade Cost Volume
+Cascade Cost Volume\
 Computer Vision Learning 𝗖𝗔𝗦𝗖𝗔𝗗𝗘 𝗖𝗢𝗦𝗧 𝗩𝗢𝗟𝗨𝗠𝗘 for High-Resolution Multi-View Stereo and Stereo Matching 
+```
 https://bit.ly/3gyZHtt
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKWUMcz
 Code : https://lnkd.in/eNDsSqk
+```
 
-165
-SketchGCN
+SketchGCN\
 Computer Vision Learning 𝗦𝗸𝗲𝘁𝗰𝗵𝗴𝗰𝗻 : Semantic Sketch Segmentation with Graph Convolutional Networks
+```
 https://bit.ly/3pVoxI8
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gfZ2BJ8
+```
 
-166
-Spektral (Graph Neural Network)
+Spektral (Graph Neural Network)\
 Computer Vision Learning 𝗚𝗿𝗮𝗽𝗵 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀  in TensorFlow and Keras with Spektral
+```
 https://bit.ly/3q2T079
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dNjAg9c
 code: https://lnkd.in/dReQGtj
 Dataset: https://lnkd.in/dTwmAbn
 Official website: https://lnkd.in/dr82pNG
+```
 
-167
-Graph Convolution Neural Network
+Graph Convolution Neural Network\
 Computer Vision Learning 𝗚𝗖𝗡: Semi-Supervised Classification with Graph Convolutional Networks
+```
 https://bit.ly/3gAkiNX
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e46_pNw
 code : 
 1. https://lnkd.in/eYRj-TY
 2. https://lnkd.in/eZUWWpy
 3. https://lnkd.in/e4_pVCW
+```
 
-168
-Fast Localized Spectral Filtering(Graph Kernel)
+Fast Localized Spectral Filtering(Graph Kernel)\
 Computer Vision Learning Convolutional Neural Networks on Graphs with 𝗙𝗮𝘀𝘁 𝗟𝗼𝗰𝗮𝗹𝗶𝘇𝗲𝗱 𝗦𝗽𝗲𝗰𝘁𝗿𝗮𝗹 𝗙𝗶𝗹𝘁𝗲𝗿𝗶𝗻𝗴
+```
 https://bit.ly/3iRUEa0
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gvC9hvb
 code : https://lnkd.in/gd7eEyd
+```
 
-169
-GraphSAGE
+GraphSAGE\
 Computer Vision Learning 𝗚𝗿𝗮𝗽𝗵𝗦𝗔𝗚𝗘: Inductive Representation Learning on Large Graphs
+```
 https://bit.ly/3gCj9Xx
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/g2_PDhZ
 code : https://lnkd.in/gsK5Hds
+```
 
-170
-ARMA Convolution
+ARMA Convolution\
 Computer Vision Learning 𝗔𝗥𝗠𝗔 𝗖𝗼𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 : Graph Neural Networks with convolutional ARMA filters
+```
 https://bit.ly/3qcubpC
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/exnYMjs
+```
 
-171
-Graph Attention Networks
+Graph Attention Networks\
 Computer Vision Learning 𝗚𝗿𝗮𝗽𝗵 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀
+```
 https://bit.ly/3h1gfKy
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUk7zkz
+```
 
-172
-Axial-Deeplab
+Axial-Deeplab\
 Computer Vision Learning 𝗔𝘅𝗶𝗮𝗹-𝗱𝗲𝗲𝗽𝗹𝗮𝗯 : Stand-Alone Axial-Attention for Panoptic Segmentation 
+```
 https://bit.ly/3qiIF7l
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eQijq89
 code : https://lnkd.in/eA69E37 
+```
 
-173
-Tide
+Tide\
 Computer Vision Learning 𝗧𝗶𝗱𝗲 : A General Toolbox for Identifying Object Detection Errors
+```
 https://bit.ly/3j5evmh
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dUNRuNY
 code : https://lnkd.in/dEHRXfr 
+```
 
-174
-SipMask
+SipMask\
 Computer Vision Learning 𝗦𝗶𝗽𝗠𝗮𝘀𝗸: Spatial Information Preservation for Fast Image and Video Instance Segmentation
+```
 https://bit.ly/3gMBoJE
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9wXqNs
 Code : https://lnkd.in/epiH2ei
+```
 
-175
-UFO²
+UFO²\
 Computer Vision Learning 𝗨𝗙𝗢²: A Unified Framework towards Omni-supervised Object Detection
+```
 https://bit.ly/2SVS2xA
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eJim_-u
 Code : https://lnkd.in/eFXP7Z6
+```
 
-176
-SCAN
+SCAN\
 Computer Vision Learning 𝗦𝗖𝗔𝗡: Learning to Classify Images without Labels
+```
 https://bit.ly/2ThBv70
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eBfJXXZ
 Code : https://lnkd.in/exdVGUQ
+```
 
-177
-AABO : Adaptive Anchor Box Optimization
+AABO : Adaptive Anchor Box Optimization\
 Computer Vision Learning 𝗔𝗔𝗕𝗢: Adaptive Anchor Box Optimization for Object Detection via Bayesian Sub-sampling
+```
 https://bit.ly/3qCSRaP
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e-8b3rA
 Code : https://lnkd.in/emxRuFJ
+```
 
-178
-SimAug
+SimAug\
 Computer Vision Learning 𝗦𝗶𝗺𝗔𝘂𝗴: Learning Robust Representations from 3D Simulation for Pedestrian Trajectory Prediction in Unseen Cameras
+```
 https://bit.ly/3dlV6tK
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eHkwhzq
 Code : https://lnkd.in/ejCsnnM
-
-179
-Instant-teaching
+```
+Instant-teaching\
 Computer Vision Learning 𝗜𝗻𝘀𝘁𝗮𝗻𝘁-𝗧𝗲𝗮𝗰𝗵𝗶𝗻𝗴: An End-to-End Semi-Supervised Object Detection Framework
+```
 https://bit.ly/3h0E2LU
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eBHrqVs
+```
 
-180
-Refinement Network for RGB-D
+Refinement Network for RGB-D\
 Computer Vision Learning Progressively Guided Alternate Refinement Network for RGB-D 𝗦𝗮𝗹𝗶𝗲𝗻𝘁 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
+```
 https://bit.ly/3dtRh5O
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekSFBNw
 Code : https://lnkd.in/edP8u5u
+```
 
-181
-Polka Lines
+Polka Lines\
 Computer Vision Learning 𝗣𝗼𝗹𝗸𝗮 𝗟𝗶𝗻𝗲𝘀: Learning Structured Illumination and Reconstruction for Active Stereo 
+```
 https://bit.ly/3hlNbhd
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eammrcV
+```
 
-182
-HOTR
+HOTR\
 Computer Vision Learning 𝗛𝗢𝗧𝗥: End-to-End Human-Object Interaction Detection with Transformers
+```
 https://bit.ly/3hsV44i
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eQ7ZXDW
 Code : https://lnkd.in/epVAvjG
+```
 
-183
-Soft-IntroVAE
+Soft-IntroVAE\
 Computer Vision Learning 𝗦𝗼𝗳𝘁-𝗜𝗻𝘁𝗿𝗼𝗩𝗔𝗘: Analyzing and Improving Introspective Variational Autoencoders
+```
 https://bit.ly/3jFozTk
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eRMYtbH
 Code : https://lnkd.in/e77ejjr
+```
 
-184
-ReXNet
+ReXNet\
 Computer Vision Learning 𝗥𝗲𝗫𝗡𝗲𝘁: Diminishing Representational Bottleneck on Convolutional Neural Network
+```
 https://bit.ly/3r42WO9
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/erC2RRn
 Code : https://lnkd.in/euAuJa3
+```
 
-185
-DiNTS
+DiNTS\
 Computer Vision Learning 𝗗𝗶𝗡𝗧𝗦: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation
+```
 https://bit.ly/3AQibii
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ebttUGK
+```
 
-186
-Pose2Mesh
+Pose2Mesh\
 Computer Vision Learning 𝗣𝗼𝘀𝗲2𝗠𝗲𝘀𝗵: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose
+```
 https://bit.ly/3wFTORi
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ePc9WFH
 Code : https://lnkd.in/eMtkmQ5
+```
 
-187
-Keep Eyes on the Lane
+Keep Eyes on the Lane\
 Computer Vision Learning Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection
+```
 https://bit.ly/3wxs4hl
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eZum-jT
 Code : https://lnkd.in/evaUnbd
+```
 
-188
-AssembleNet++
+AssembleNet++\
 Computer Vision Learning 𝗔𝘀𝘀𝗲𝗺𝗯𝗹𝗲𝗡𝗲𝘁++: Assembling Modality Representations via Attention Connections 
+```
 https://bit.ly/3xAHhjf
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eSa42s4
 Code : https://lnkd.in/en_agEc
+```
 
-189
-SNE-RoadSeg
+SNE-RoadSeg\
 Computer Vision Learning 𝗦𝗡𝗘-𝗥𝗼𝗮𝗱𝗦𝗲𝗴: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
+```
 https://bit.ly/3hyCEAL
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUm5gbk
 Code : https://lnkd.in/ea4k9xq
 Dataset : https://lnkd.in/ePiDCQ9
+```
 
-190
-AdvPC
+AdvPC\
 Computer Vision Learning 𝗔𝗱𝘃𝗣𝗖: Transferable Adversarial Perturbations on 3D Point Clouds
+```
 https://bit.ly/3i3dGrV
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gfnM82e
 Code : https://lnkd.in/g5NVFkd
+```
 
-191
-Eagle eye
+Eagle eye\
 Computer Vision Learning 𝗘𝗮𝗴𝗹𝗲𝗘𝘆𝗲: Fast Sub-net Evaluation for Efficient Neural Network Pruning
+```
 https://bit.ly/3e5Iqaz
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e3byeqE
 Code : https://lnkd.in/eFvhnVv
+```
 
-192
-Deep Hough Transform
+Deep Hough Transform\
 Computer Vision Learning 𝗗𝗲𝗲𝗽 𝗛𝗼𝘂𝗴𝗵-𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺 Line Priors 
+```
 https://bit.ly/2UEFbAm
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/exg8nJa
 Code : https://lnkd.in/egRmnxJ
+```
 
-193
-WeightNet
+WeightNet\
 Computer Vision Learning 𝗪𝗲𝗶𝗴𝗵𝘁𝗡𝗲𝘁: Revisiting the Design Space of Weight Networks
+```
 https://bit.ly/3rfDSUL
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eScFwFM
 Code : https://lnkd.in/eheCg9V
+```
 
-194
-StyleMAPGAN
+StyleMAPGAN\
 Computer Vision Learning 𝗦𝘁𝘆𝗹𝗲𝗠𝗮𝗽𝗚𝗔𝗡: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing
+```
 https://bit.ly/2URgPTO
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gG8Yxwr
 Code : https://lnkd.in/gpzBy3U
+```
 
-195
 PD-GAN
+```
 https://bit.ly/3xQMCmM
+```
 
-196
-Non-Local Sparse Attention
+Non-Local Sparse Attention\
 Computer Vision Learning Image Super-Resolution with 𝗡𝗼𝗻-𝗟𝗼𝗰𝗮𝗹 𝗦𝗽𝗮𝗿𝘀𝗲 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻
+```
 https://bit.ly/3xJZbAd
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/exTAFvn
 Code: https://lnkd.in/exRAYHA
+```
 
-197
-TediGAN
+TediGAN\
 TediGAN Computer Vision Learning 𝗧𝗲𝗱𝗶𝗚𝗔𝗡: Text-Guided Diverse Image Generation and Manipulation
+```
 https://bit.ly/3wH67MZ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e88uRz6
 Code: https://lnkd.in/e-3p5WF
 Colab : https://lnkd.in/e6GSAbF
+```
 
-198
-FedDG
+FedDG\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗙𝗲𝗱𝗗𝗚: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space
+```
 https://bit.ly/3zfKiGe
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eYDsF7C
 Code : https://lnkd.in/eb9jUkQ
+```
 
-199
-Auto-Exposure Fusion
+Auto-Exposure Fusion\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Auto-Exposure Fusion for Single-Image Shadow Removal
+```
 https://bit.ly/3y3F2W1
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUnbx8b
 Code : https://lnkd.in/exdzRP8
+```
 
-200
-Involution
+Involution\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗜𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻: Inverting the Inherence of Convolution for Visual Recognition 
+```
 https://bit.ly/36Ksiaz
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekYnAJB
 Code : https://lnkd.in/ehHTDcc
+```
 
-201
-MutualNet
+MutualNet\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝘂𝘁𝘂𝗮𝗹𝗡𝗲𝘁: Adaptive ConvNet via Mutual Learning from Network Width and Resolution
+```
 https://bit.ly/3zhfd4N
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e_sdZ3m
 Code : https://lnkd.in/eUcmp5C
+```
 
-202
-Teachers do more than teach - Image to Image translation
+Teachers do more than teach - Image to Image translation\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗧𝗲𝗮𝗰𝗵𝗲𝗿𝘀 𝗗𝗼 𝗠𝗼𝗿𝗲 𝗧𝗵𝗮𝗻 𝗧𝗲𝗮𝗰𝗵: Compressing Image-to-Image Models
+```
 https://bit.ly/36RP28K
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eMrJtyn
 Code : https://lnkd.in/e_SDDv6
+```
 
-203
-VideoMoCo
+VideoMoCo\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝗩𝗶𝗱𝗲𝗼𝗠𝗼𝗖𝗼: Contrastive Video Representation Learning with Temporally Adversarial Examples
+```
 https://bit.ly/3f6Pq7Z
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e92eb5Y
 Code : https://lnkd.in/eKEK59z
+```
 
-204
-ArtGAN
+ArtGAN\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗿𝘁𝗚𝗔𝗡:Artwork Synthesis with Conditional Categorical GANs
+```
 https://bit.ly/3rvDCB9
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/edgwYkA
 Code : https://lnkd.in/e9kjT93
+```
 
-205
-Vip-DeepLab
+Vip-DeepLab\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗩𝗶𝗣-𝗗𝗲𝗲𝗽𝗟𝗮𝗯: Learning Visual Perception with Depth-aware Video Panoptic Segmentation
+```
 https://bit.ly/3xmzmVX
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eZayCVv
 Code : https://lnkd.in/eZfepfJ
+```
 
-206
-PSConvolution
+PSConvolution\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗦𝗖𝗼𝗻𝘃: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer
+```
 https://bit.ly/3rEIgMY
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ePsewS6
 Code : https://lnkd.in/eeqkHJP
+```
 
-207
-Deep learning technique on Semantic Segmentation
+Deep learning technique on Semantic Segmentation\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 A Review on Deep Learning Techniques Applied to 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 
+```
 https://bit.ly/375hrID
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqcsT92
 Code : https://lnkd.in/eigeYbb
+```
 
-208
-Synthetic to Real
+Synthetic to Real\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗙𝗿𝗼𝗺 𝗦𝘆𝗻𝘁𝗵𝗲𝘁𝗶𝗰 𝘁𝗼 𝗥𝗲𝗮𝗹: Unsupervised Domain Adaptation for Animal Pose Estimation
+```
 https://bit.ly/3yfZSRO
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqcsT92
 Code : https://lnkd.in/eP49SiW
+```
 
-209
-Panoptic Segmentation
+Panoptic Segmentation\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗮𝗻𝗼𝗽𝘁𝗶𝗰 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
+```
 https://bit.ly/376tbdA
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/esqh7U9
 Code : https://lnkd.in/eZW2_3w
+```
 
-210	
-HistoGAN	
+HistoGAN\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗛𝗶𝘀𝘁𝗼𝗚𝗔𝗡: Controlling Colors of GAN-Generated and Real Images via Color Histograms, Brown York University
+```
 https://bit.ly/3zSYyVD
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eDMEHCN
 Code : https://lnkd.in/eKsVB4N
+```
 
-211	
-Semantic Image Matting	
+Semantic Image Matting\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Semantic Image Matting
+```
 https://bit.ly/3s5ZD9F
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gb78ay8
 Code : https://lnkd.in/gNbFRnE
 Dataset : https://lnkd.in/gNbFRnE
+```
 
-212	
-Anchor-Free Person Search	
+Anchor-Free Person Search\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Anchor-Free Person Search
+```
 https://bit.ly/2VI0KAD
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8mRJqd
 Code : https://lnkd.in/edCVcJy
+```
 
-213	
-Spatial-Phase-Shallow-Learning	
+Spatial-Phase-Shallow-Learning\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗽𝗮𝘁𝗶𝗮𝗹-𝗣𝗵𝗮𝘀𝗲 𝗦𝗵𝗮𝗹𝗹𝗼𝘄 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Rethinking Face Forgery Detection in Frequency Domain
+```
 https://bit.ly/3CDAl82
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9UmmCy
+```
 
-214	
-LiteFlowNet3	
+LiteFlowNet3\	
 https://bit.ly/3yDILcO𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗟𝗶𝘁𝗲𝗙𝗹𝗼𝘄𝗡𝗲𝘁𝟯: Resolving Correspondence Ambiguity for More Accurate Optical Flow Estimation
+```
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dNrgDz2
 code : https://lnkd.in/dWbUyW4
+```
 
-215	
-EfficientNetv2	
+EfficientNetv2\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗡𝗲𝘁𝗩𝟮:Smaller Models and Faster Training
+```
 https://bit.ly/3xAQsiE
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehuJEsD
 code : https://lnkd.in/dWbUyW4
+```
 
-216	
-CBNETv2	
+CBNETv2\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗖𝗕𝗡𝗲𝘁𝗩𝟮: A Novel Composite Backbone Network Architecture for Object Detection
+```
 https://bit.ly/3s3ptvb
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gFkZ9z7g
 code : https://lnkd.in/gbcDug6f
+```
 
-217	
-PerPixel Classification	
+PerPixel Classification\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗲𝗿-𝗣𝗶𝘅𝗲𝗹 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 is Not All You Need for Semantic Segmentation
+```
 https://bit.ly/3lOomyg
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/edcfiBup
 code : https://lnkd.in/eeKumiPt
+```
 
-218	
-Kaleido-BERT	
+Kaleido-BERT\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗞𝗮𝗹𝗲𝗶𝗱𝗼-𝗕𝗘𝗥𝗧 : Vision-Language Pre-training on Fashion Domain
+```
 https://bit.ly/3ywh2Lf
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eXD7-cYp
 code : https://lnkd.in/eps-fszD
+```
 
-219	
-DARKGAN	
+DARKGAN\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗮𝗿𝗸𝗚𝗔𝗡: Exploiting Knowledge Distillation for Comprehensible Audio Synthesis with GANs 
+```
 https://bit.ly/3lTW05J
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eSnUHzRk
+```
 
-220	
-PPDM	
+PPDM\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗣𝗗𝗠: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection
+```
 https://bit.ly/3lPgjBt
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/edTcgWxJ
 Code : https://lnkd.in/eBx8hpUJ
+```
 
-221	
-SEAN	
+SEAN\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗘𝗔𝗡: Image Synthesis with Semantic Region-Adaptive Normalization
+```
 https://bit.ly/3yOUJ3L
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ebp2CENv
 Code : https://lnkd.in/eWwBsRq2
+```
 
-222	
-Closed-Loop Matters	
+Closed-Loop Matters\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗖𝗹𝗼𝘀𝗲𝗱-𝗟𝗼𝗼𝗽 𝗠𝗮𝘁𝘁𝗲𝗿𝘀:Dual Regression Networks for Single Image Super-Resolution
+```
 https://bit.ly/3CzBnlq
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/efwrkASA
 Code : https://lnkd.in/eZeDx3Ax
+```
 
-223	
-Elastic Graph Neural Network	
+Elastic Graph Neural Network\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗹𝗮𝘀𝘁𝗶𝗰 𝗚𝗿𝗮𝗽𝗵 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀
+```
 https://bit.ly/3jket9S
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dkJrwyrc
 Code : https://lnkd.in/duHHK929
+```
 
-224	
-Deep Imbalance Regression	
+Deep Imbalance Regression\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝗹𝘃𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗗𝗲𝗲𝗽 𝗜𝗺𝗯𝗮𝗹𝗮𝗻𝗰𝗲𝗱 𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻
+```
 https://bit.ly/3yn0Ue3
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekFwPwja
 Code : https://lnkd.in/eJW-pS9r
+```
 
-225	
-PIPAL - Image Quality Assessment	
+PIPAL - Image Quality Assessment\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗜𝗣𝗔𝗟: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration
+```
 https://bit.ly/3gCliSx
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eXnmRPYA
+```
 
-226	
-Mobile-Former	
+Mobile-Former\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗯𝗶𝗹𝗲-𝗙𝗼𝗿𝗺𝗲𝗿: Bridging MobileNet and Transformer 
+```
 https://bit.ly/3kxCSbm
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eXnmRPYA
+```
 
-227	
-Rank and Sort Loss	
+Rank and Sort Loss\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗮𝗻𝗸 & 𝗦𝗼𝗿𝘁 𝗟𝗼𝘀𝘀 for Object Detection and Instance Segmentation
+```
 https://bit.ly/3sPQt1s
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNpC8Zee
 Code: https://lnkd.in/e5-5tp-X
+```
 
-228	
-Room Classification using Graph Neural Network	
+Room Classification using Graph Neural Network\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗼𝗼𝗺 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗼𝗻 𝗙𝗹𝗼𝗼𝗿 𝗣𝗹𝗮𝗻 𝗚𝗿𝗮𝗽𝗵𝘀 𝘂𝘀𝗶𝗻𝗴 𝗚𝗿𝗮𝗽𝗵 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀
+```
 https://bit.ly/3gD8Odv
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ejeFb6s8
-
-229	
-Pyramid Vision Transformer	
+```
+	
+Pyramid Vision Transformer\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝘆𝗿𝗮𝗺𝗶𝗱 𝗩𝗶𝘀𝗶𝗼𝗻 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿: A Versatile Backbone for Dense Prediction without Convolutions
+```
 https://bit.ly/3zmod9h
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKR9NKby
 Code : https://lnkd.in/eVHmdfQA
+```
 
-230	
-EigenGAN	
+EigenGAN\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗶𝗴𝗲𝗻𝗚𝗔𝗡: Layer-Wise Eigen-Learning for GANs
+```
 https://bit.ly/3BfdIVO
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eHgmfhyS
 Code : https://lnkd.in/eK85Yehq
+```
 
-231	
-GNeRF	
+GNeRF\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗡𝗲𝗥𝗙: GAN-based Neural Radiance Field without Posed Camera
+```
 https://bit.ly/3mD3kTR
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eF8rr8eU
 Code : https://lnkd.in/e7u3jYMD
-
-232	
-DetCo	
+```
+	
+DetCo\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝘁𝗖𝗼: Unsupervised Contrastive Learning for Object Detection
+```
 https://bit.ly/3sQiRk9
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekDmDWgG
 Code : https://lnkd.in/eT_dezKY
+```
 
-233	
-DERT with Special Modulated Co-Attention	
+DERT with Special Modulated Co-Attention\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗙𝗮𝘀𝘁 𝗖𝗼𝗻𝘃𝗲𝗿𝗴𝗲𝗻𝗰𝗲 𝗼𝗳 𝗗𝗘𝗧𝗥 𝘄𝗶𝘁𝗵 𝗦𝗽𝗮𝘁𝗶𝗮𝗹𝗹𝘆 𝗠𝗼𝗱𝘂𝗹𝗮𝘁𝗲𝗱 𝗖𝗼-𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻
+```
 https://bit.ly/3sPQ5jw
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eYANMiiA
 Code : https://lnkd.in/eZCXxP-j
+```
 
-234
-Residual Attention	
+Residual Attention\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗶𝗱𝘂𝗮𝗹 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻: A Simple but Effective Method for Multi-Label Recognition
+```
 https://bit.ly/3yni4bJ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/erQsB3Mc
+```
 
-235	
-MG-GAN	
+MG-GAN\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗚-𝗚𝗔𝗡: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction
+```
 https://bit.ly/3mD30o7
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/erQsB3Mc
 Code: https://lnkd.in/e-wkiNd4
+```
 
-236	
-Adaptable GAN Encoders	
+Adaptable GAN Encoders\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗱𝗮𝗽𝘁𝗮𝗯𝗹𝗲 𝗚𝗔𝗡 𝗘𝗻𝗰𝗼𝗱𝗲𝗿𝘀 for Image Reconstruction via Multi-type Latent Vectors with Two-scale Attentions
+```
 https://bit.ly/3yh4XJ3
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e3rNHwDH
 Code: https://lnkd.in/exr5SFPM
-
-237	
-AdaAttN	
+```
+	
+AdaAttN\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗱𝗮𝗔𝘁𝘁𝗡: Revisit Attention Mechanism in Arbitrary Neural Style Transfer
+```
 https://bit.ly/3BepKPa
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/geBJ9f42
 Code: https://lnkd.in/gtRWnAsJ 
-
-238	
-Conformer	
+```
+	
+Conformer\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗖𝗼𝗻𝗳𝗼𝗿𝗺𝗲𝗿: Local Features Coupling Global Representations for Visual Recognition
+```
 https://bit.ly/3gCkj4N
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ecn_U_6n
 Code: https://lnkd.in/eSKktz4g 
+```
 
-239	
-YOLOP	
+YOLOP\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗬𝗢𝗟𝗢𝗣:You Only Look Once for Panoptic Driving Perception
+```
 https://bit.ly/3BicysB
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ebrEUhyE
 Code: https://lnkd.in/eRFaHmbg
+```
 
-240	
-VMNet	
+VMNet\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗩𝗠𝗡𝗲𝘁: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation
+```
 https://bit.ly/3k73jFZ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eN7SUHp9
 Code: https://lnkd.in/eC-X4p-T
+```
 
-241	
-Airbert	
+Airbert\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗶𝗿𝗯𝗲𝗿𝘁: 𝗜𝗻-𝗱𝗼𝗺𝗮𝗶𝗻 𝗣𝗿𝗲𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗳𝗼𝗿 𝗩𝗶𝘀𝗶𝗼𝗻-𝗮𝗻𝗱-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻
+```
 https://bit.ly/3nvcrGs
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKx-EMPa
 Dataset: https://lnkd.in/eQiQ6sRc
+```
 
-242	
-𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗥-𝗖𝗡𝗡	
+𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗥-𝗖𝗡𝗡\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗥-𝗖𝗡𝗡 𝗳𝗼𝗿 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
+```
 https://bit.ly/397Zius
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eptJMdu8
 Code: https://lnkd.in/eCRFmm29
+```
 
-243	
-Battle of Network Structure	
+Battle of Network Structure\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗕𝗮𝘁𝘁𝗹𝗲 𝗼𝗳 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀: An Empirical Study of CNN, Transformer, and MLP
+```
 https://bit.ly/2XcHbB0
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ertcQQtP
+```
 
-244	
-InSeGAN	
+InSeGAN\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗜𝗻𝗦𝗲𝗚𝗔𝗡: A Generative Approach to Segmenting Identical Instances in Depth Images
+```
 https://bit.ly/3z9wyMF
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e3kRCmej
-
-245	
-Efficient Person Search	
+```
+	
+Efficient Person Search\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗣𝗲𝗿𝘀𝗼𝗻 𝗦𝗲𝗮𝗿𝗰𝗵: An Anchor-Free Approach
+```
 https://bit.ly/3CpbZOr
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/edCVcJy
 code: https://lnkd.in/edCVcJy
+```
 
-246	
-DeepGCNs	
+DeepGCNs\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝗲𝗽𝗚𝗖𝗡𝘀: Can GCNs Go as Deep as CNNs
+```
 https://bit.ly/3AevSHg
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eE5Aui2n
 code : 
 Tensorflow: https://lnkd.in/eac_mWFK
 PyTorch: https://lnkd.in/e7ybCqTf
+```
 
-247	
-GroupFormer	
+GroupFormer\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗿𝗼𝘂𝗽𝗙𝗼𝗿𝗺𝗲𝗿:  Group Activity Recognition with Clustered Spatial-Temporal Transformer 
+```
 https://bit.ly/3lqzm2Y
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ejJMZx5D
 code : https://lnkd.in/evKby7K2
+```
 
-248	
-SLIDE	
+SLIDE\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗟𝗜𝗗𝗘: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting 
+```
 https://bit.ly/3hwpiEp
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9aqQsyT
+```
 
-249	
-Super Neuron	
+Super Neuron\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘂𝗽𝗲𝗿 𝗡𝗲𝘂𝗿𝗼𝗻𝘀
+```
 https://bit.ly/3zkXE3D
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e_n7d8G4
-
-250	
-SOTR	
+```
+	
+SOTR\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗢𝗧𝗥:Segmenting Objects with Transformers
+```
 https://bit.ly/3hvqCYl
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ef5vS24d
 Code: https://lnkd.in/erarGzyT
+```
 
-251	
-Survey : Instance Segmentation	
+Survey : Instance Segmentation\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗦𝘂𝗿𝘃𝗲𝘆 𝗼𝗻 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻: 𝗦𝘁𝗮𝘁𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗮𝗿𝘁
+```
 https://bit.ly/3k90xQB
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eg8rz9sP
+```
 
-252	
-SO-Pose	
+SO-Pose\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗢-𝗣𝗼𝘀𝗲: Exploiting Self-Occlusion for Direct 6D Pose Estimation by Google 
+```
 https://bit.ly/3C56KD8
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e3PYSMNG
 Code : https://lnkd.in/erTzqGQS
+```
 
-253	
-CANet	
+CANet\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗦𝘂𝗿𝘃𝗲𝘆 𝗼𝗻 𝗖𝗔𝗡𝗲𝘁: 𝗔 𝗖𝗼𝗻𝘁𝗲𝘅𝘁-𝗔𝘄𝗮𝗿𝗲 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗳𝗼𝗿 𝗦𝗵𝗮𝗱𝗼𝘄 𝗥𝗲𝗺𝗼𝘃𝗮𝗹
+```
 https://bit.ly/2XlDKZ2
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/g_fYYiuA
 Code: https://lnkd.in/ge9UHW_m
-
-254	
-XVFI	
+```
+	
+XVFI\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗦𝘂𝗿𝘃𝗲𝘆 𝗼𝗻 𝗫𝗩𝗙𝗜: eXtreme Video Frame Interpolation
+```
 https://bit.ly/3lrOpcZ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8SwX2gn
 Code: https://lnkd.in/e2bvrw2A
+```
 
-255	
-TxT	
+TxT\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗧𝘅𝗧: 𝗖𝗿𝗼𝘀𝘀𝗺𝗼𝗱𝗮𝗹 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿𝘀 
+```
 https://bit.ly/3tGFlEH
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eCpAuFmq
+```
 
-256	
 ConvMLP	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 ConvMLP: Hierarchical Convolutional MLPs for Vision
+```
 https://bit.ly/2XlE8Xu
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dcw_ZkXs
 Code : https://lnkd.in/dqaxrgt9
+```
 
-257	
 Cross Domain Contrastive Learning	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗦𝘂𝗿𝘃𝗲𝘆 𝗼𝗻 𝗖𝗿𝗼𝘀𝘀-𝗱𝗼𝗺𝗮𝗶𝗻 𝗖𝗼𝗻𝘁𝗿𝗮𝘀𝘁𝗶𝘃𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 for Unsupervised Domain Adaptation
+```
 https://bit.ly/3tDb2id
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eJFUj-hg
-
-258	
+```
+	
 OS2D: One Stage Object Detection	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗢𝗦𝟮𝗗:One-Stage One-Shot Object Detection by Matching Anchor Features
+```
 https://bit.ly/3ufnEMD
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKnFcMJM
 Code: https://lnkd.in/eKD6--td
+```
 
-259	
 PointManifoldCut	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗼𝗶𝗻𝘁𝗠𝗮𝗻𝗶𝗳𝗼𝗹𝗱𝗖𝘂𝘁: Point-wise Augmentation in the Manifold for Point Clouds
+```
 https://bit.ly/3CKvAIL
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gJ59RxBU
 Code: https://lnkd.in/g4mKd-Ei
+```
 
-260	
 Large Scale Facial Expression Dataset	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗙𝗼𝗿 𝗟𝗮𝗿𝗴𝗲-𝘀𝗰𝗮𝗹𝗲 𝟯𝗗 𝗙𝗮𝗰𝗶𝗮𝗹 𝗘𝗺𝗼𝘁𝗶𝗼𝗻 𝗥𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻
+```
 https://bit.ly/2ZqtT4V
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyRmrg6v
+```
 
-261	
 Graph-FPN	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗿𝗮𝗽𝗵-𝗙𝗖𝗡 for image semantic segmentation
+```
 https://bit.ly/2XH8T9f
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eP7NszKZ
-
-262	
+```
+	
 3D Shape Reconstruction	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝟯𝗗 𝗦𝗵𝗮𝗽𝗲 𝗥𝗲𝗰𝗼𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻 from Vision and Touch
+```
 https://bit.ly/2XTe9aq
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e3HSchEZ
 code : https://lnkd.in/eP-UbNyc
+```
 
-263	
 Open Graph Benchmark Dataset	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗢𝗽𝗲𝗻 𝗚𝗿𝗮𝗽𝗵 𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸: Datasets for Machine Learning on Graphs
+```
 https://bit.ly/3ET2Lfl
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eeppD3yN
 code : https://ogb.stanford.edu/
+```
 
-264	
 ShiftAddNet	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴  𝗦𝗵𝗶𝗳𝘁𝗔𝗱𝗱𝗡𝗲𝘁: A Hardware-Inspired Deep Network
+```
 https://bit.ly/3i6eb5C
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNMVWJp6
 code : https://lnkd.in/eHCRqHes
+```
 
-265	
 WatchOut! Motion Blurring the vision of your DNN	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗪𝗮𝘁𝗰𝗵 𝗼𝘂𝘁! Motion is Blurring the Vision of Your Deep Neural Networks
+```
 https://bit.ly/3CKTzrw
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eAcWiG9B
 Code: https://lnkd.in/ec8365rF
+```
 
-266	
 Rethinking Learnable Tree Filter	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴 𝗟𝗲𝗮𝗿𝗻𝗮𝗯𝗹𝗲 𝗧𝗿𝗲𝗲 𝗙𝗶𝗹𝘁𝗲𝗿 𝗳𝗼𝗿 𝗚𝗲𝗻𝗲𝗿𝗶𝗰 𝗙𝗲𝗮𝘁𝘂𝗿𝗲 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺
+```
 https://bit.ly/3zHfPAC
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eAcWiG9B
 Code : https://lnkd.in/d5Bki3Eu
+```
 
-267	
 Neuron Merging	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗡𝗲𝘂𝗿𝗼𝗻 𝗠𝗲𝗿𝗴𝗶𝗻𝗴: Compensating for Pruned Neurons
+```
 https://bit.ly/39DwLNS
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/egRD2rEb
 Code : https://lnkd.in/eYtKsPSW
+```
 
-268	
 Distance IOU Loss	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗶𝘀𝘁𝗮𝗻𝗰𝗲-𝗜𝗼𝗨 𝗟𝗼𝘀𝘀: Faster and Better Learning for Bounding Box Regression
+```
 https://bit.ly/3i7Zj6z
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e_xsUpWh
 Code: https://lnkd.in/exQuJGej
+```
 
-269	
 Deep Imitation learning	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝗲𝗽 𝗜𝗺𝗶𝘁𝗮𝘁𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 for Bimanual Robotic Manipulation
+```
 https://bit.ly/3AzGVd6
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/evZuRbFa
 Code: https://lnkd.in/eZvHages
+```
 
-270	
 Pixel Level Cycle Association	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗶𝘅𝗲𝗹-𝗟𝗲𝘃𝗲𝗹 𝗖𝘆𝗰𝗹𝗲 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗶𝗼𝗻: A New Perspective for Domain Adaptive Semantic Segmentation
+```
 https://bit.ly/3iTZMK6
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gmfNw8jA
 Code: https://lnkd.in/gSpWwm5n
+```
 
-271	
 Deep Model Fusion	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝗲𝗽 𝗠𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝗙𝘂𝘀𝗶𝗼𝗻
+```
 https://bit.ly/2YK45kl
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gyfqmGKM
 Code: https://lnkd.in/ge4crDVG
+```
 
-272	
 Object Representation Network	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗢𝗯𝗷𝗲𝗰𝘁 𝗥𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀: Novel View Synthesis without Target View Supervision
+```
 https://bit.ly/3BA0mnE
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ewj7e9sC
 Code: https://lnkd.in/ehR-QugK
-
-273	
+```
+	
 HOI Analysis	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗛𝗢𝗜 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:Integrating and Decomposing Human-Object Interaction
+```
 https://bit.ly/3FH2Key
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/epHxukYH
 Code: https://lnkd.in/eaKy-mh5
+```
 
-274	
 Deep Equilibrium Models	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝘂𝗹𝘁𝗶𝘀𝗰𝗮𝗹𝗲 𝗗𝗲𝗲𝗽 𝗘𝗾𝘂𝗶𝗹𝗶𝗯𝗿𝗶𝘂𝗺 𝗠𝗼𝗱𝗲𝗹𝘀
+```
 https://bit.ly/3FDH2IB
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNdQna8Y
 Code: https://lnkd.in/ejJ_z_fY
+```
 
-275	
 Sampling from k-DPP	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗮𝗺𝗽𝗹𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗮 𝗸-𝗗𝗣𝗣 without looking at all items
+```
 https://bit.ly/3BAyRuc
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ePDWDNhP
 Code: https://lnkd.in/ebzyFTw7
+```
 
-276	
 Rotated Binary Neural Network	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗼𝘁𝗮𝘁𝗲𝗱 𝗕𝗶𝗻𝗮𝗿𝘆 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸
+```
 https://bit.ly/3mIuYx3
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eiCz3C8X
 Code: https://lnkd.in/eDNUSvhy
-
-277	
+```
+	
 PP-LCNet - LightCNN	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗣-𝗟𝗖𝗡𝗲𝘁:A Lightweight CPU Convolutional Neural Network by Baidu, Inc.
+```
 https://bit.ly/3v1Zh5H
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eYkT3RQe
 Code: https://lnkd.in/erd2zYAg
+```
 
-278	
 MC-Net+	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗖-𝗡𝗲𝘁+:Enforcing Mutual Consistency of Hard Regions for Semi-supervised Medical Image Segmentation by Monash-Airdoc Research, Monash University, Melbourne, VIC 3800, Australia
+```
 https://bit.ly/3v5tYqk
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ecB3tyd9
 Code : https://lnkd.in/ex9MEfpE
+```
 
-279	
 Fake it till you make it	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗙𝗮𝗸𝗲 𝗜𝘁 𝗧𝗶𝗹𝗹 𝗬𝗼𝘂 𝗠𝗮𝗸𝗲 𝗜𝘁: Face analysis in the wild using synthetic data alone by Microsoft
+```
 https://bit.ly/3AyGTSQ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ezqvwk6W
 Dataset: https://lnkd.in/en-K-NWa
+```
 
-280	
 Enformer	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗻𝗳𝗼𝗿𝗺𝗲𝗿:Effective gene expression prediction from sequence by integrating long-range interactions by DeepMind
+```
 https://bit.ly/3AAdCr9
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e_6Np6Av
 Dataset : https://lnkd.in/eDr9KjT7
+```
 
-281	
 VideoClip	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗩𝗶𝗱𝗲𝗼𝗖𝗟𝗜𝗣: Contrastive Pre-training for Zero-shot Video-Text Understanding by Facebook AI
+```
 https://bit.ly/3mOueGu
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e93wiKXe
 Code: https://lnkd.in/eu-Wmr7u
+```
 
-282	
 Moving Fashion	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝘃𝗶𝗻𝗴𝗙𝗮𝘀𝗵𝗶𝗼𝗻: a Benchmark for the Video-to-Shop Challenge by University of Verona
+```
 https://bit.ly/3jdvAtN
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/esfVbRki
 Code: https://lnkd.in/eb-SqYE5
+```
 
-283	
 Convolution to Transformer	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗖𝘃𝗧: Introducing Convolutions to Vision Transformers by Microsoft
+```
 https://bit.ly/3v5yy8f
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ewiJFy6H
 Code: https://lnkd.in/e8KjMs55
+```
 
-284	
-HeadGAN	
+HeadGAN\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗛𝗲𝗮𝗱𝗚𝗔𝗡:One-shot Neural Head Synthesis and Editing by Imperial College London
+```
 https://bit.ly/3BLzRvm
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ePNEu6Xv
 Code : https://lnkd.in/e8YP9CbM
+```
 
-285	
-Focal Transformer	
+Focal Transformer\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗙𝗼𝗰𝗮𝗹 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺:Focal Self-attention for Local-Global Interactions in Vision Transformers by Microsoft
+```
 https://bit.ly/3lvCYSI
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eVZ_Jy2d
 Code: https://lnkd.in/eFgZ4H67
+```
 
-286	
-StyleGAN3	
+StyleGAN3\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘁𝘆𝗹𝗲𝗚𝗔𝗡𝟯: Alias-Free Generative Adversarial Networks by NVIDIA AI
+```
 https://bit.ly/3kvFPKw
+```
 
-287	
-3Detr:3D Object Detection	
+3Detr:3D Object Detection\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 3𝗗𝗲𝘁𝗿: An End-to-End Transformer Model for 3D Object Detection by Facebook AI 
+```
 https://bit.ly/3Hfk6A8
+```
 
-288	
-Do Self-Supervised and Supervised Methods Learn Similar Visual Representations?	
+Do Self-Supervised and Supervised Methods Learn Similar Visual Representations?\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Do Self-Supervised and Supervised Methods Learn Similar Visual Representations? by Apple 
+```
 https://bit.ly/3kyWM6H
+```
 
-289	
-Back to the Features	
+Back to the Features\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗕𝗮𝗰𝗸 𝘁𝗼 𝘁𝗵𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲: Learning Robust Camera Localization from Pixels to Pose by ETH Zurich & Microsoft 
+```
 https://bit.ly/3kvsxh3
+```
 
-290	
-Anticipative Video Transformer	
+Anticipative Video Transformer\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗻𝘁𝗶𝗰𝗶𝗽𝗮𝘁𝗶𝘃𝗲 𝗩𝗶𝗱𝗲𝗼 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿 by Facebook AI 
+```
 https://bit.ly/30mADl2
+```
 
-291	
-Attention Meets Geometry	
+Attention Meets Geometry\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗺𝗲𝗲𝘁𝘀 𝗚𝗲𝗼𝗺𝗲𝘁𝗿𝘆: Geometry Guided Spatial-Temporal Attention for Consistent Self-Supervised Monocular Depth Estimation by Technical University of Munich
+```
 https://bit.ly/3kweSpZ
+```
 
-292	
-DeepMoCaP: Deep Optical Motion Capture	
+DeepMoCaP: Deep Optical Motion Capture\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝗲𝗽𝗠𝗼𝗖𝗮𝗽:Deep Optical Motion Capture Using Multiple Depth Sensors and Retro-Reflectors by National Technical University of Athens, Greece and University of Lincoln, UK
 https://bit.ly/30mjTdT
 
-293	
+
 TrOCR: Transformer-based Optical Character Recognition	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗧𝗿𝗢𝗖𝗥:Transformer-based Optical Character Recognition with Pre-trained Models by Microsoft Asia
 https://bit.ly/3DqenW5
 
-294	
 Moving Fashion	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝘃𝗶𝗻𝗴𝗙𝗮𝘀𝗵𝗶𝗼𝗻: a Benchmark for the Video-to-Shop Challenge by University of Verona
 https://bit.ly/2YGtjA1
 
-295	
 StyleNeRF	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘁𝘆𝗹𝗲𝗡𝗲𝗥𝗙: A Style-based 3D Aware Generator for High-resolution Image Synthesis
 https://bit.ly/31W4Mbz
 
-296	
+
 ECA-Net: :Efficient Channel Attention	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗖𝗔-𝗡𝗲𝘁:Efficient Channel Attention for Deep Convolutional Neural Networks by Tianjin University, China
 https://bit.ly/3n92i1s
 
-297	
+
 Inferring High Resolution Traffic Accident risk maps	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗜𝗻𝗳𝗲𝗿𝗿𝗶𝗻𝗴 𝗵𝗶𝗴𝗵-𝗿𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝘁𝗿𝗮𝗳𝗳𝗶𝗰 𝗮𝗰𝗰𝗶𝗱𝗲𝗻𝘁 𝗿𝗶𝘀𝗸 𝗺𝗮𝗽𝘀 𝗯𝗮𝘀𝗲𝗱 𝗼𝗻 𝘀𝗮𝘁𝗲𝗹𝗹𝗶𝘁𝗲 𝗶𝗺𝗮𝗴𝗲𝗿𝘆
 𝗮𝗻𝗱 𝗚𝗣𝗦 𝘁𝗿𝗮𝗷𝗲𝗰𝘁𝗼𝗿𝗶𝗲𝘀 by Massachusetts Institute of Technology 
 https://bit.ly/3HgovD6
 
-298	
+
 Bias Loss: For Mobile Neural Network	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗕𝗶𝗮𝘀 𝗟𝗼𝘀𝘀 for Mobile Neural Networks by Vrije Universiteit Brussel, Brussels, Belgium
 https://bit.ly/3qvBPNO
 
-299	
+
 ByteTrack: Multi-Object Tracking	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗕𝘆𝘁𝗲𝗧𝗿𝗮𝗰𝗸: Multi-Object Tracking by Associating Every Detection Box by ByteDance
 https://bit.ly/3c3l7wQ
 
-300	
+
 Non-Deep Network	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗡𝗼𝗻-𝗱𝗲𝗲𝗽 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 𝗯𝘆 Intel AI 𝗮𝗻𝗱 Princeton University
 https://bit.ly/3qwZwoV
 
-301	
+
 Temporal Attentive Covariance	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗹-𝗮𝘁𝘁𝗲𝗻𝘁𝗶𝘃𝗲 𝗖𝗼𝘃𝗮𝗿𝗶𝗮𝗻𝗰𝗲 𝗣𝗼𝗼𝗹𝗶𝗻𝗴(𝗧𝗖𝗣) Networks for Video Recognition by Dalian University of Technology, China
 https://bit.ly/3ontCbP
 
-302	
+
 Plan-then-generate: Controlled Data to Text Generation	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗹𝗮𝗻-𝘁𝗵𝗲𝗻-𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲: Controlled Data-to-Text Generation via Planning by Apple 
 https://bit.ly/3DcbsA6
 
-303	
+
 Dynamic Visual Reasoning	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗩𝗶𝘀𝘂𝗮𝗹 𝗥𝗲𝗮𝘀𝗼𝗻𝗶𝗻𝗴 by Learning Differentiable Physics Models from Video and Language by Massachusetts Institute of Technology  
 https://bit.ly/31Q4BhP
 
-304	
+
 MedMNIST: Medical MNIST Dataset	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗲𝗱𝗠𝗡𝗜𝗦𝗧 𝘃𝟮: A Large-Scale Lightweight Benchmark for 2D and 3D Biomedical Image Classification by Shanghai Jiao Tong University, Shanghai, China
 https://bit.ly/3qxuqxq
 
-305	
+
 Colossal-AI: A PyTorch-Based Deep Learning System For Large-Scale Parallel Training	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Researchers of National University of Singapore has  Introduced ‘𝗖𝗼𝗹𝗼𝘀𝘀𝗮𝗹-𝗔𝗜 ’: A PyTorch-Based Deep Learning System For Large-Scale Parallel Training
 https://bit.ly/3wG6Xv8
 
-306	
 Recursively Embedded Atom Neural Network(REANN)	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 USTC Researchers Introduce A 𝗥𝗲𝗰𝘂𝗿𝘀𝗶𝘃𝗲𝗹𝘆 𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱 𝗔𝘁𝗼𝗺 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 (𝗥𝗘𝗔𝗡𝗡) Model To Improve Existing Machine Learning Potential Surface Frameworks
 https://bit.ly/3F1JKqe
 
-307	
 PolyTrack: for fast multi-object tracking and segmentation	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Researcher of Polytechnique Montréal published 𝗣𝗼𝗹𝘆𝗧𝗿𝗮𝗰𝗸 for fast multi-object
 tracking and segmentation
 https://bit.ly/3DeBmmS
 
 
-308	
 Can contrastive learning avoid shortcut solutions?	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗜𝗧 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 Propose A New Method To Prevent Shortcuts In Machine Learning Models By Forcing The Model To Use More Data In Its Decision-Making 
 https://bit.ly/3wHJIk9
 
 
-309	
 ProjectedGAN: To Improve Image Quality	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Researchers Propose ‘𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝗲𝗱-𝗚𝗔𝗡𝘀’, To Improve Image Quality, Sample Efficiency, And Convergence Speed
 https://bit.ly/30hw8Zm
 
 
-310	
 **Arch-Net: A Family Of Neural Networks Built With Operators To Bridge The Gap **	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗿𝗰𝗵-𝗡𝗲𝘁: A Family Of Neural Networks Built With Operators To Bridge The Gap Between Computer Architecture of ASIC Chips And Neural Network Model Architectures
 https://bit.ly/3oFOCef
 
 
-311	
 PP-ShiTu:A Practical Lightweight Image Recognition System	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Baidu, Inc. AI Research Team Introduces ‘𝗣𝗣-𝗦𝗵𝗶𝗧𝘂’: A Practical Lightweight Image Recognition System
 https://bit.ly/3naurFw
 
 
-312	
 EditGAN	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Researchers of Massachusetts Institute of Technology, NVIDIA, University of Toronto has Published 𝗘𝗱𝗶𝘁𝗚𝗔𝗡 for High Precision Semantic Image Editing
 https://bit.ly/30gYd2Z
 
 
-313	
 Panoptic 3D Scene Segmentation	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Researchers of Technical University of Munich  has published 𝗣𝗮𝗻𝗼𝗽𝘁𝗶𝗰 3𝗗 𝗦𝗰𝗲𝗻𝗲 𝗥𝗲𝗰𝗼𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻 𝗙𝗿𝗼𝗺 𝗮 𝗦𝗶𝗻𝗴𝗹𝗲 𝗥𝗚𝗕 𝗜𝗺𝗮𝗴𝗲
 https://bit.ly/3caSvla
 
 
-314	
 PARP: Improve the Efficiency of NN	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 MIT AI Researchers Introduce ‘PARP’: A Method To Improve The Efficiency And Performance Of A Neural Network
 https://bit.ly/3DakTjt
 
 
-315	
 WORD: Organ Segmentation Dataset	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Shanghai AI Lab Research and West China hospital has collaboratively published 𝗪𝗢𝗥𝗗: 𝗥𝗲𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴 𝗢𝗿𝗴𝗮𝗻𝘀 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝗪𝗵𝗼𝗹𝗲 𝗔𝗯𝗱𝗼𝗺𝗶𝗻𝗮𝗹 𝗥𝗲𝗴𝗶𝗼𝗻
 https://bit.ly/3qv5OW2
 
 
-316	
 DenseULearn	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 𝗼𝗳 𝗧𝗲𝗰𝗵𝗻𝗶𝘀𝗰𝗵𝗲 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁ä𝘁 𝗗𝗮𝗿𝗺𝘀𝘁𝗮𝗱𝘁, 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 𝗵𝗮𝘀 𝗣𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗗𝗲𝗻𝘀𝗲𝗨𝗟𝗲𝗮𝗿𝗻:𝗗𝗲𝗻𝘀𝗲 𝗨𝗻𝘀𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗳𝗼𝗿 𝗩𝗶𝗱𝗲𝗼 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
 https://bit.ly/3ohRiyi
 
 
-317	
 Does Thermal data make the detection systems more reliable?	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 𝗼𝗳 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗟𝗮𝗯, 𝗡𝗮𝘃𝗜𝗻𝗳𝗼 𝗘𝘂𝗿𝗼𝗽𝗲, 𝗧𝗵𝗲 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 𝗵𝗮𝘀 𝗣𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗽𝗮𝗽𝗲𝗿 𝗼𝗻 𝗗𝗼𝗲𝘀 𝗧𝗵𝗲𝗿𝗺𝗮𝗹 𝗱𝗮𝘁𝗮 𝗺𝗮𝗸𝗲 𝘁𝗵𝗲 𝗱𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗺𝗼𝗿𝗲 𝗿𝗲𝗹𝗶𝗮𝗯𝗹𝗲
 https://bit.ly/3sQgTSO
 
-
-318	
 MADDNESS: Approximate Matrix Multiplication (AMM)	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗜𝗧 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲𝗱 ‘𝗠𝗔𝗗𝗗𝗡𝗘𝗦𝗦’: An AI Algorithm That Speeds Up Machine Learning Using Approximate Matrix Multiplication (AMM)
 https://bit.ly/3zgVIL4
 
 
-319	
 Deceive D: Adaptive Pseudo Augmentation	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 𝗼𝗳 𝗦𝗲𝗻𝘀𝗲𝗧𝗶𝗺𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗵𝗮𝘀 𝗣𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗽𝗮𝗽𝗲𝗿 𝗼𝗻 𝗗𝗲𝗰𝗲𝗶𝘃𝗲 𝗗: 𝗔𝗱𝗮𝗽𝘁𝗶𝘃𝗲 𝗣𝘀𝗲𝘂𝗱𝗼 𝗔𝘂𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗚𝗔𝗡 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗟𝗶𝗺𝗶𝘁𝗲𝗱 𝗗𝗮𝘁𝗮
 https://bit.ly/3sIG6yA
 
 
-320	
 OadTR	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 𝗼𝗳 𝗔𝗹𝗶𝗯𝗮𝗯𝗮 𝗚𝗿𝗼𝘂𝗽 𝗵𝗮𝘀 𝗣𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗽𝗮𝗽𝗲𝗿 𝗼𝗻 𝗢𝗮𝗱𝗧𝗥: 𝗢𝗻𝗹𝗶𝗻𝗲 𝗔𝗰𝘁𝗶𝗼𝗻 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿𝘀
 https://bit.ly/3JsUHUF
 
 
-321	
 OnePassImageNet	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝗲𝗽𝗠𝗶𝗻𝗱 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 𝗣𝗿𝗲𝘀𝗲𝗻𝘁 𝗧𝗵𝗲 ‘𝗢𝗻𝗲 𝗣𝗮𝘀𝘀 𝗜𝗺𝗮𝗴𝗲𝗡𝗲𝘁’ (𝗢𝗣𝗜𝗡) 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗧𝗼 𝗦𝘁𝘂𝗱𝘆 𝗧𝗵𝗲 𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲𝗻𝗲𝘀𝘀 𝗢𝗳 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗜𝗻 𝗔 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗦𝗲𝘁𝘁𝗶𝗻𝗴
 https://bit.ly/3sKL6Ti
 
 
-322	
 Image-specific Convolutional Kernel Modulation for Single Image Super-resolution	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 𝗵𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗜𝗺𝗮𝗴𝗲-𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝗖𝗼𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗮𝗹 𝗞𝗲𝗿𝗻𝗲𝗹 𝗠𝗼𝗱𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗦𝗶𝗻𝗴𝗹𝗲 𝗜𝗺𝗮𝗴𝗲 𝗦𝘂𝗽𝗲𝗿-𝗿𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻
 https://bit.ly/3FUpA20
 
 
-323	
 TransMix	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗢𝘅𝗳𝗼𝗿𝗱 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿𝘀 𝗵𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗧𝗿𝗮𝗻𝘀𝗠𝗶𝘅: 𝗔𝘁𝘁𝗲𝗻𝗱 𝘁𝗼 𝗠𝗶𝘅 𝗳𝗼𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿𝘀
 https://bit.ly/3EH93gH
 
 
-324	
 PytorchVideo	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝗵𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗣𝘆𝗧𝗼𝗿𝗰𝗵𝗩𝗶𝗱𝗲𝗼: 𝗔 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗟𝗶𝗯𝗿𝗮𝗿𝘆 𝗳𝗼𝗿 𝗩𝗶𝗱𝗲𝗼 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴
 https://bit.ly/3JvgDP7
 
 
-325	
 MetNet-2	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝗜 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗲𝘀 ‘𝗠𝗲𝘁𝗡𝗲𝘁-2’: 𝗔 𝗣𝗿𝗼𝗯𝗮𝗯𝗶𝗹𝗶𝘀𝘁𝗶𝗰 𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗠𝗼𝗱𝗲𝗹 𝗕𝗮𝘀𝗲𝗱 𝗢𝗻 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
 https://bit.ly/3sMZb2M
 
 
-326	
 Unsupervised deep learning identifies semantic disentanglement	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗡𝗲𝘄 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗢𝗻 𝗨𝗻𝘀𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗵𝗼𝘄𝘀 𝗧𝗵𝗮𝘁 𝗧𝗵𝗲 𝗕𝗿𝗮𝗶𝗻 𝗗𝗶𝘀𝗲𝗻𝘁𝗮𝗻𝗴𝗹𝗲𝘀 𝗙𝗮𝗰𝗲𝘀 𝗜𝗻𝘁𝗼 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗠𝗲𝗮𝗻𝗶𝗻𝗴𝗳𝘂𝗹 𝗙𝗮𝗰𝘁𝗼𝗿𝘀, 𝗟𝗶𝗸𝗲 𝗔𝗴𝗲 𝗔𝘁 𝗧𝗵𝗲 𝗦𝗶𝗻𝗴𝗹𝗲 𝗡𝗲𝘂𝗿𝗼𝗻 𝗟𝗲𝘃𝗲𝗹
 https://bit.ly/3JyAwVi
 
 
-327	
 Story Visualization	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 𝗳𝗿𝗼𝗺 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗡𝗼𝗿𝘁𝗵 𝗖𝗮𝗿𝗼𝗹𝗶𝗻𝗮 𝗵𝗮𝘀 𝗶𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗲𝗱 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗻𝗴 𝗩𝗶𝘀𝘂𝗼𝘀𝗽𝗮𝘁𝗶𝗮𝗹, 𝗟𝗶𝗻𝗴𝘂𝗶𝘀𝘁𝗶𝗰 𝗮𝗻𝗱 𝗖𝗼𝗺𝗺𝗼𝗻𝘀𝗲𝗻𝘀𝗲 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗶𝗻𝘁𝗼 𝗦𝘁𝗼𝗿𝘆 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻
 https://bit.ly/3qB554i
 
 
-328	
 MetaFormer	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 𝗳𝗿𝗼𝗺 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗦𝗶𝗻𝗴𝗮𝗽𝗼𝗿𝗲 𝗵𝗮𝘀 𝗶𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗲𝗱 𝗠𝗲𝘁𝗮𝗙𝗼𝗿𝗺𝗲𝗿 𝗶𝘀 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂 𝗡𝗲𝗲𝗱 𝗳𝗼𝗿 𝗩𝗶𝘀𝗶𝗼𝗻
 https://bit.ly/3sLBebP
 
 
-329	
 GauGAN2	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗡𝗩𝗜𝗗𝗜𝗔 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗲𝘀 𝗚𝗮𝘂𝗚𝗔𝗡𝟮: 𝗔𝗻 𝗔𝗜 𝗠𝗼𝗱𝗲𝗹 𝗧𝗵𝗮𝘁 𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝘀 𝗧𝗲𝘅𝘁 𝗜𝗻𝘁𝗼 𝗜𝗺𝗮𝗴𝗲𝘀
 https://bit.ly/3pGrIVH
@@ -13275,28 +13444,44 @@ Huge Data Set Collection	https://www.stats.govt.nz/large-datasets/csv-files-for-
 Machine Learning Projects for Beginners	https://thecleverprogrammer.com/2024/03/14/machine-learning-projects-for-beginners-3/		
 Machine Learning Algorithms	https://thecleverprogrammer.com/2022/12/06/machine-learning-roadmap/		
 			
-COMMON MACHINE LEARNING ALGORITHMS			
-	Linear regression: Linear regression is a simple machine learning algorithm that is used to model the relationship between a dependent variable and one or more independent variables. It is commonly used to predict a continuous numerical outcome based on a set of input features.		
+COMMON MACHINE LEARNING ALGORITHMS	
+
+	Linear regression: Linear regression is a simple machine learning algorithm that is used to model the relationship between a dependent variable and one or more independent variables. It is commonly used to predict a continuous numerical outcome based on a set of input features.	
+
 	Logistic regression: Logistic regression is a type of regression analysis that is used to predict a binary outcome (i.e., a outcome that can only have two possible values, such as “yes” or “no”). It is a widely used method for classification tasks, such as predicting whether a customer will churn or not.		
 	Decision trees: Decision trees are a type of machine learning algorithm that are used to model the decision-making process. They consist of a series of decision nodes, where each node represents a decision point, and leaf nodes, where the final decision is made. Decision trees are often used for classification tasks, such as determining whether a customer will churn or not.		
+
 	Random forests: Random forests are a type of ensemble learning algorithm that combines multiple decision trees to make a prediction. Each tree in the ensemble is trained on a different subset of the data, and the final prediction is made by averaging the predictions of all the trees. Random forests are often used for regression and classification tasks.		
-	K-means clustering: K-means clustering is a type of unsupervised machine learning algorithm that is used to group data points into clusters based on their similarity. It is commonly used for clustering tasks, such as customer segmentation or anomaly detection.		
-	Naive Bayes is a type of machine learning algorithm that is based on the Bayes theorem of probability. It is called “naive” because it makes the assumption that all the features in the data are independent of each other, which is often not the case in real-world data. Despite this assumption, Naive Bayes algorithms can still perform well in many situations and are widely used for classification tasks.		
+
+	K-means clustering: K-means clustering is a type of unsupervised machine learning algorithm that is used to group data points into clusters based on their similarity. It is commonly used for clustering tasks, such as customer segmentation or anomaly detection.
+
+	Naive Bayes is a type of machine learning algorithm that is based on the Bayes theorem of probability. It is called “naive” because it makes the assumption that all the features in the data are independent of each other, which is often not the case in real-world data. Despite this assumption, Naive Bayes algorithms can still perform well in many situations and are widely used for classification tasks.	
+
 	Support Vector Machines (SVMs) are a type of supervised learning algorithm that can be used for classification or regression tasks. The idea behind SVMs is to find the hyperplane in a high-dimensional space that maximally separates the different classes. Once this hyperplane is found, new data can be easily classified by assigning them to the side of the hyperplane on which they fall.		
-	A neural network is a type of machine learning algorithm modeled after the structure and function of the human brain. It is composed of multiple layers of interconnected “neurons,” which process and transmit information. Neural networks are trained using large amounts of data and are able to learn and make predictions or decisions based on that data. They are commonly used in a variety of applications, such as image recognition, natural language processing, and time series forecasting.		
-Deep learning algorithms			
-	Long Short-term Memory (LSTM) Networks		
-	Long Short-term Memoryconvolutional neural networks (CNNs)		
-	recurrent neural networks (RNNs)		
-	https://github.com/patrickloeber/ml-deployment		
-Build a Machine Learning App From Scratch with Flask & Docker	https://www.youtube.com/watch?v=S--SD4QbGps&ab_channel=PatrickLoeber		
-	https://www.kaggle.com/datasets/kazanova/sentiment140		
-	https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/		
-	https://medium.com/@nileshshindeofficial/building-a-machine-learning-model-api-with-flask-a-step-by-step-guide-6f85e9bb9773		
-MEETING REGULARLY:11PM to 12 AM			
-	https://www.statworx.com/en/content-hub/blog/how-to-build-a-machine-learning-api-with-python-and-flask/		
-	https://github.com/gahogg/YouTube-I-mostly-use-colab-now-/tree/master		
-	https://www.youtube.com/watch?v=qNF1HqBvpGE&ab_channel=GregHogg		
+
+	A neural network is a type of machine learning algorithm modeled after the structure and function of the human brain. It is composed of multiple layers of interconnected “neurons,” which process and transmit information. Neural networks are trained using large amounts of data and are able to learn and make predictions or decisions based on that data. They are commonly used in a variety of applications, such as image recognition, natural language processing, and time series forecasting.	
+
+
+Deep learning algorithms	
+
+Long Short-term Memory (LSTM) Networks		
+Long Short-term Memoryconvolutional neural networks (CNNs)		
+recurrent neural networks (RNNs)		
+https://github.com/patrickloeber/ml-deployment	
+
+Build a Machine Learning App From Scratch with Flask & Docker	
+    
+https://www.youtube.com/watch?v=S--SD4QbGps&ab_channel=PatrickLoeber		
+https://www.kaggle.com/datasets/kazanova/sentiment140		
+https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/		
+https://medium.com/@nileshshindeofficial/
+    
+building-a-machine-learning-model-api-with-flask-a-step-by-step-guide-6f85e9bb9773		
+
+https://www.statworx.com/en/content-hub/blog/how-to-build-a-machine-learning-api-with-python-and-flask/		
+https://github.com/gahogg/YouTube-I-mostly-use-colab-now-/tree/master		
+https://www.youtube.com/watch?v=qNF1HqBvpGE&ab_channel=GregHogg		
+
 Desktop-chatbot-app	https://github.com/Kalebu/Desktop-chatbot-app		
 End-to-End-Airbnb-Price-Prediction	https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction		
 Article-Web-Scraping	https://github.com/KalyanM45/Article-Web-Scraping/tree/main		
@@ -13315,7 +13500,3 @@ http://127.0.0.1:5000/"
 End-to-End-Image-Scraping		"works good, 
 http://127.0.0.1:5000/"	
 Reseach Website	https://github.com/topics/nlp-projects
-
-
-
-
