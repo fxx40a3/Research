@@ -3118,962 +3118,1116 @@ https://bit.ly/35vAoqx
 ```
 
 
-401	
-NeuralFusion: Online Depth Fusion in Latent Space	
+	
+NeuralFusion: Online Depth Fusion in Latent Space\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 NeuralFusion: Online Depth Fusion in Latent Space by Microsoft Mixed Reality and AI Zurich Lab
+```
 https://bit.ly/3uFaysA
+```
 
-
-402	
-VOS: Learning what you don't know by VIRTUAL OUTLIER SYNTHESIS	
+VOS: Learning what you don't know by VIRTUAL OUTLIER SYNTHESIS\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 VOS: LEARNING WHAT YOU DON’T KNOW BY
 VIRTUAL OUTLIER SYNTHESIS by University of Wisconsin-Madison
+```
 https://bit.ly/3uPG9rG
+```
 
-
-403	
-Self-Conditioned Generative Adversarial Networks for Image Editing	
+Self-Conditioned Generative Adversarial Networks for Image Editing\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Self-Conditioned Generative Adversarial Networks for Image Editing by Tel Aviv University
+```
 https://bit.ly/3tX8m0u
+```
 
-
-404	
-TransformNet: Self-supervised representation learning through predicting geometric transformations	
+TransformNet: Self-supervised representation learning through predicting geometric transformations\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TransformNet: Self-supervised representation learning through predicting geometric transformations by Mohamed Bin Zayed University of Artificial Intelligence, UAE
+```
 https://bit.ly/3uOCfPM
+```
 
-
-405	
-YOLOv7 - Framework Beyond Detection	
+YOLOv7 - Framework Beyond Detection\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 YOLOv7 - Framework Beyond Detection
+```
 https://bit.ly/3wXU81y
+```
 
-
-406	
-F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization	
+F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization by Snap Inc.
+```
 https://bit.ly/3DzhFXU
+```
 
-
-407	
-Block-NeRF: Scalable Large Scene Neural View Synthesis	
+Block-NeRF: Scalable Large Scene Neural View Synthesis\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Block-NeRF: Scalable Large Scene Neural View Synthesis by Waymo
+```
 https://bit.ly/3LyELk5
+```
 
-
-408	
-Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition	
+Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition by Tongji University
+```
 https://bit.ly/375C76y
+```
 
-
-409	
-COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets	
+COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets by  PSL University
+```
 https://bit.ly/3NCK6bZ
+```
 
-
-410	
-ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification	
+ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification by EPFL
+```
 https://bit.ly/3uJuMBz
+```
 
-
-411	
-Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges	
+Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗲𝗼𝗺𝗲𝘁𝗿𝗶𝗰 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: 𝗚𝗿𝗶𝗱𝘀, 𝗚𝗿𝗼𝘂𝗽𝘀, 𝗚𝗿𝗮𝗽𝗵𝘀, 𝗚𝗲𝗼𝗱𝗲𝘀𝗶𝗰𝘀, 𝗮𝗻𝗱 𝗚𝗮𝘂𝗴𝗲𝘀 𝗯𝘆 𝗜𝗺𝗽𝗲𝗿𝗶𝗮𝗹 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗼𝗳 𝗟𝗼𝗻𝗱𝗼𝗻
+```
 https://bit.ly/388imeT
+```
 
-
-412
-How Do Vision Transformers Work?	
+How Do Vision Transformers Work?\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 How Do Vision Transformers Work? by Yonsei University, South Korea
+```
 https://bit.ly/3NE1mO2
+```
 
-
-413	
-Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors	
+Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors by University of Liverpool, UK
+```
 https://bit.ly/3LBS96P
+```
 
-
-414	
-PENCIL: Deep Learning with Noisy Labels	
+PENCIL: Deep Learning with Noisy Labels\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 PENCIL: Deep Learning with Noisy Labels by National Natural Science
 Foundation of China 
+```
 https://bit.ly/3iXvHc4
+```
 
-
-415	
-VLP: A Survey on Vision-Language Pre-training	
+VLP: A Survey on Vision-Language Pre-training\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 VLP: A Survey on Vision-Language Pre-training by CASIA
+```
 https://bit.ly/3J0v2RZ
+```
 
-
-416	
-Visual Attention Network	
+Visual Attention Network\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Visual Attention Network by Tsinghua University
+```
 https://bit.ly/3Dt7rbv
+```
 
-
-417	
-GroupViT: Semantic Segmentation Emerges from Text Supervision	
+GroupViT: Semantic Segmentation Emerges from Text Supervision\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 GroupViT: Semantic Segmentation Emerges from Text Supervision by Nvidia
+```
 https://bit.ly/3NQv7eG
+```
 
-
-418	
-Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis	
+Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis by Adobe Research
+```
 https://bit.ly/373xs4T
+```
 
-
-419	
-End to End Cascaded Image De-raining and Object Detetion NN	
+End to End Cascaded Image De-raining and Object Detetion NN\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗻 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 𝗖𝗮𝘀𝗰𝗮𝗱𝗲𝗱 𝗜𝗺𝗮𝗴𝗲 𝗗𝗲𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗯𝘆 𝗞𝗮𝗿𝗹𝘀𝗿𝘂𝗵𝗲 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆
+```
 https://bit.ly/375PLGw
+```
 
-
-420	
-Level-K to Nash Equilibrium	
+Level-K to Nash Equilibrium\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗕𝗿𝗶𝗱𝗴𝗶𝗻𝗴 𝗟𝗲𝘃𝗲𝗹-𝗞 𝘁𝗼 𝗡𝗮𝘀𝗵 𝗘𝗾𝘂𝗶𝗹𝗶𝗯𝗿𝗶𝘂𝗺 𝗯𝘆 𝗗𝘂𝗸𝗲 𝗞𝘂𝗻𝘀𝗵𝗮𝗻 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆
+```
 https://bit.ly/3NFRX8t
+```
 
-
-421	
-Machine Learning for Mechanical Ventilation Control	
+Machine Learning for Mechanical Ventilation Control\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Machine Learning for Mechanical Ventilation Control by Google
+```
 https://bit.ly/3JZCMEV
+```
 
-
-422	
-The effect of fatigue on the performance of online writer recognition	
+The effect of fatigue on the performance of online writer recognition\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 The effect of fatigue on the performance of online writer recognition by TecnoCampus
+```
 https://bit.ly/3wXSSLS
+```
 
-
-423	
-State-of-the-Art in the Architecture, Methods and Applications of StyleGAN	
+State-of-the-Art in the Architecture, Methods and Applications of StyleGAN\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 State-of-the-Art in the Architecture, Methods and Applications of StyleGAN by Tel Aviv University
+```
 https://bit.ly/3iRjl5s
+```
 
-
-424	
-Long-Tailed Classification with Gradual Balanced Loss and Adaptive Feature Generation	
+Long-Tailed Classification with Gradual Balanced Loss and Adaptive Feature Generation\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Long-Tailed Classification with Gradual Balanced Loss and Adaptive Feature Generation by Huazhong University of Science and Technology, China
+```
 https://bit.ly/3v5XZXR
-
-
-425	
-Self-supervised Transformer for Deepfake Detection	
+```
+	
+Self-supervised Transformer for Deepfake Detection\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Self-supervised Transformer for Deepfake Detection Microsoft Cloud AI
+```
 https://bit.ly/3tXtUdk
+```
 
-
-426	
-CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size	
+CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation by Toyota Research Institute
+```
 https://bit.ly/3LxkrQa
+```
 
-
-427	
-TCTrack: Temporal Contexts for Aerial Tracking	
+TCTrack: Temporal Contexts for Aerial Tracking\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TCTrack: Temporal Contexts for Aerial Tracking by Alibaba Group.
+```
 https://bit.ly/3uM5O4B
+```
 
-
-428	
-LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction	
+LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction
+```
 https://bit.ly/3uOfKe0
+```
 
-
-429	
-HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening	
+HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening by Johns Hopkins University
+```
 https://bit.ly/35tRV2j
+```
 
-
-430	
-ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization	
+ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization by Computer Vision Lab, ETH Zurich
+```
 https://bit.ly/3LwoMmy
+```
 
-
-431	
-MLSeg: Image and Video Segmentation	
+MLSeg: Image and Video Segmentation\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 MLSeg: Image and Video Segmentation as Multi-Label Classification and Selected-Label Pixel Classification by Microsoft Researchers
+```
 https://bit.ly/38p9iCN
+```
 
-
-432	
-Image Steganography based on Style Transfer	
+Image Steganography based on Style Transfer\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Image Steganography based on Style Transfer by University of Science and Technology of China
+```
 https://bit.ly/3DJHLaN
+```
 
-
-433	
-GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains	
+GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains by Baidu, Inc.
+```
 https://bit.ly/3JYPrIg
+```
 
-
-434	
-AGCN: Augmented Graph Convolutional Network	
+AGCN: Augmented Graph Convolutional Network\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition by Tianjin University, China
+```
 https://bit.ly/3DwZrWN
+```
 
-
-435	
-StyleBabel: Artistic Style Tagging and Captioning	
+StyleBabel: Artistic Style Tagging and Captioning\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 StyleBabel: Artistic Style Tagging and Captioning by Adobe Research
+```
 https://bit.ly/3j1Klit
+```
 
-
-436	
-ROOD-MRI: Benchmarking the robustness of deep learning segmentation models to out-of-distribution and corrupted data in MRI	
+ROOD-MRI: Benchmarking the robustness of deep learning segmentation models to out-of-distribution and corrupted data in MRI\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 ROOD-MRI: Benchmarking the robustness of deep learning segmentation models to out-of-distribution and corrupted data in MRI by University of Toronto
+```
 https://bit.ly/38maN4z
+```
 
-
-437	
-InsetGAN for Full-Body Image Generation	
+InsetGAN for Full-Body Image Generation\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 InsetGAN for Full-Body Image Generation by Adobe Research
+```
 https://bit.ly/3Dsu9At
+```
 
-
-438	
-Implicit Feature Decoupling with Depthwise Quantization	
+Implicit Feature Decoupling with Depthwise Quantization\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Implicit Feature Decoupling with Depthwise Quantization by University of Southern California
+```
 https://bit.ly/3K1mxaA
+```
 
-
-439	
-Bamboo: Building Mega-Scale Vision Dataset	
+Bamboo: Building Mega-Scale Vision Dataset\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy
+```
 https://bit.ly/3wVPalD
+```
 
-
-440	
-TensoRF: Tensorial Radiance Fields	
+TensoRF: Tensorial Radiance Fields\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TensoRF: Tensorial Radiance Fields by Adobe Research
+```
 https://bit.ly/3iWAFWI
+```
 
-
-441	
-FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition	
+FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos by Fudan University, Shanghai
+```
 https://bit.ly/3NCHTxd
+```
 
-
-442	
-One-Shot Adaptation of GAN in Just One CLIP	
+One-Shot Adaptation of GAN in Just One CLIP\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 One-Shot Adaptation of GAN in Just One CLIP by KAIST
+```
 https://bit.ly/36NOPab
+```
 
-
-443	
-SHREC 2021: Classification in cryo-electron tomograms	
+SHREC 2021: Classification in cryo-electron tomograms\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 SHREC 2021: Classification in cryo-electron tomograms by Utrecht University, Netherlands
+```
 https://bit.ly/3iSXpqv
+```
 
-
-444	
-MaskGIT: Masked Generative Image Transformer	
+MaskGIT: Masked Generative Image Transformer\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 MaskGIT: Masked Generative Image Transformer by Google
+```
 https://bit.ly/3qSQz8I
+```
 
-
-445	
-Detection, Recognition, and Tracking: A Survey	
+Detection, Recognition, and Tracking: A Survey\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Detection, Recognition, and Tracking: A Survey 
+```
 https://bit.ly/378G8qw
+```
 
-
-446	
-Mixed Differential Privacy	
+Mixed Differential Privacy\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Mixed Differential Privacy in Computer Vision by amazon
+```
 https://bit.ly/3IZ0MGU
+```
 
-
-447	
-Mixed DualStyleGAN	
+Mixed DualStyleGAN\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Mixed DualStyleGAN: Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer by Nanyang Technological University
+```
 https://bit.ly/3wTyAmD
+```
 
-
-448	
-BigDetection	
+BigDetection\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training by Amazon
+```
 https://bit.ly/3DuZSRk
+```
 
-
-449	
-Feature visualization for convolutional neural network	
+Feature visualization for convolutional neural network\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Feature visualization for convolutional neural network models trained on neuroimaging data
+```
 https://bit.ly/3Dwf6FJ
+```
 
-
-450	
-AutoAvatar	
+AutoAvatar\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 A Long Short-term Memory Based Recurrent Neural Network for Interventional MRI Reconstruction
+```
 https://bit.ly/38m9ClF
+```
 
-
-451	
-A Long Short-term Memory Based Recurrent Neural Network for Interventional MRI Reconstruction	
+A Long Short-term Memory Based Recurrent Neural Network for Interventional MRI Reconstruction\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 A Long Short-term Memory Based Recurrent Neural Network for Interventional MRI Reconstruction
+```
 https://bit.ly/3Dz1idF
+```
 
-
-452	
-StyleT2I	
+StyleT2I\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis by University of Rochester
+```
 https://bit.ly/35u5Wx0
+```
 
-
-453	
-L^3U-net	
+L^3U-net\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 L^3U-net: Low-Latency Lightweight U-net Based Image Segmentation Model for Parallel CNN Processors by Analog Devices Inc.
+```
 https://bit.ly/3iTOq8r
+```
 
-
-454	
-Balanced MSE	
+Balanced MSE\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Balanced MSE for Imbalanced Visual Regression
+```
 https://bit.ly/3rxt7yo
-This paper is published cvpr2022.
-🔸 Github https://lnkd.in/gzyfcEAe
+https://lnkd.in/gzyfcEAe
+```
 
-455	
-BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers	
+BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers by Shanghai AI Laboratory 
+```
 https://bit.ly/36m3HfC
 This paper is published cvpr2022.
 🔸 Github: https://lnkd.in/gUE5YNBC
+```
 
-456	
-TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing	
+TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing by Shanghai AI Laboratory
+```
 https://bit.ly/3JQKZKS
 This paper is published cvpr2022.
 🔸 Github: https://lnkd.in/grcbZc6u
+```
 
-457	
-On the Importance of Asymmetry for Siamese Representation Learning	
+On the Importance of Asymmetry for Siamese Representation Learning\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 On the Importance of Asymmetry for Siamese Representation Learning by Meta
+```
 https://bit.ly/3JNgcyt
 This paper is published cvpr2022.
 🔸 Github: https://lnkd.in/ghikpuYY
-
-458	
-On One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks	
+```
+	
+On One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 On One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks
+```
 https://bit.ly/3uQTC3P
 This paper is published cvpr2022.
 🔸 Github: https://lnkd.in/estn5ARy
+```
 
-459	
-Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth	
+Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth Estimation by Jiangnan University
+```
 https://bit.ly/3KWT6a4
 This paper is published arxiv2022.
 🔸 Github: https://lnkd.in/duC5ER7a
+```
 
-460	
-Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection	
+Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection 
+```
 https://bit.ly/3L8a59H
+```
 
-
-461	
-DaViT: Dual Attention Vision Transformers	
+DaViT: Dual Attention Vision Transformers\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 DaViT: Dual Attention Vision Transformers by Microsoft
+```
 https://bit.ly/3Engc7e
+```
 
-
-462	
-SPAct: Self-supervised Privacy Preservation for Action Recognition	
+SPAct: Self-supervised Privacy Preservation for Action Recognition\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 SPAct: Self-supervised Privacy Preservation for Action Recognition by Ishan Rajendrakumar Dave, Chen Chen, Mubarak Shah, Center for Research in Computer Vision, University of Central Florida, Orlando, USA
+```
 https://bit.ly/3KTNvRW
+```
 
-
-463	
-Class-Incremental Learning with Strong Pre-trained Models	
+Class-Incremental Learning with Strong Pre-trained Models\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Class-Incremental Learning with Strong Pre-trained Models by AWS AI Labs
+```
 https://bit.ly/3MdlcOq
+```
 
-
-464	
-RBGNet: Ray-based Grouping for 3D Object Detection by Center for Data Science	
+RBGNet: Ray-based Grouping for 3D Object Detection by Center for Data Science\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 RBGNet: Ray-based Grouping for 3D Object Detection by Center for Data Science, Peking University
+```
 https://bit.ly/3EqkydH
+```
 
-
-465	
-Event Transformer	
+Event Transformer\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Event Transformer by Vision Lab, Nanjing University, China
+```
 https://bit.ly/3KUsMxc
+```
 
-
-466	
-ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension	
+ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension
+```
 https://bit.ly/3M6RgDE
+```
 
-
-467	
-A9-Dataset: Multi-Sensor Infrastructure-Based Dataset for Mobility Research	
+A9-Dataset: Multi-Sensor Infrastructure-Based Dataset for Mobility Research\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 A9-Dataset: Multi-Sensor Infrastructure-Based Dataset for Mobility Research
+```
 https://bit.ly/3xAyqRj
+```
 
-
-468	
-Simple Baselines for Image Restoration	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Simple Baselines for Image Restoration by MEGVII Technology 
+Simple Baselines for Image Restoration\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Simple Baselines for Image Restoration by MEGVII Technology
+``` 
 https://bit.ly/3vt4tjB
+```
 
-
-469	
-Masked Siamese Networks for Label-Efficient Learning	
+Masked Siamese Networks for Label-Efficient Learning\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Masked Siamese Networks for Label-Efficient Learning by Facebook
+```
 https://bit.ly/3viEs6s
+```
 
-
-470	
-Neighborhood Attention Transformer	
+Neighborhood Attention Transformer\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation
+```
 https://bit.ly/3jNExK3
+```
 
-
-471	
-TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation	
+TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation
+```
 https://bit.ly/3M3EA0K
+```
 
-
-472	
-MVSTER: Epipolar Transformer for Efficient Multi-View Stereo	
+MVSTER: Epipolar Transformer for Efficient Multi-View Stereo\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 MVSTER: Epipolar Transformer for Efficient Multi-View Stereo by Chinese Academy of Sciences
+```
 https://bit.ly/3MaDTCR
+```
 
-
-473	
-Temporally Efficient Vision Transformer for Video Instance Segmentation	
+Temporally Efficient Vision Transformer for Video Instance Segmentation\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Temporally Efficient Vision Transformer for Video Instance Segmentation 
+```
 https://bit.ly/3w6xkf3
+```
 
-
-474	
-EditGAN: High-Precision Semantic Image Editing	
+EditGAN: High-Precision Semantic Image Editing\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 EditGAN: High-Precision Semantic Image Editing by NVIDIA
+```
 https://bit.ly/3yx2JJ2
+```
 
-
-475	
 CenterNet++ for Object Detection	
-
+```
 https://bit.ly/3woxrBG
+```
 
-
-476	
-A case for using rotation invariant features in state of the art feature matchers	
+A case for using rotation invariant features in state of the art feature matchers\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 A case for using rotation invariant features in state of the art feature matchers
+```
 https://bit.ly/3kZ1x9A
-
-
-477	
-WebFace260M: A Benchmark for Million-Scale Deep Face Recognition	
+```
+	
+WebFace260M: A Benchmark for Million-Scale Deep Face Recognition\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 WebFace260M: A Benchmark for Million-Scale Deep Face Recognition by Tsinghua University, Beijing, China
+```
 https://bit.ly/3w2T3Vd
+```
 
-
-478	
-JIFF: Jointly-aligned Implicit Face Function for High-Quality Single View Clothed Human Reconstruction	
+JIFF: Jointly-aligned Implicit Face Function for High-Quality Single View Clothed Human Reconstruction\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 JIFF: Jointly-aligned Implicit Face Function for High-Quality Single View Clothed Human Reconstruction
+```
 https://bit.ly/3N9Me9U
+```
 
 
-479	
 Image Data Augmentation for Deep Learning: A Survey	
-
+```
 https://bit.ly/3PfC1uA
+```
 
 
-480	
-StyleGAN-Human: A Data-Centric Odyssey of Human Generation	
+StyleGAN-Human: A Data-Centric Odyssey of Human Generation\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 StyleGAN-Human: A Data-Centric Odyssey of Human Generation by Shanghai AI Laboratory, China
+```
 https://bit.ly/3PqV710
+```
 
 
-481	
-Few-shot Head Swapping In The Wild Secrets Revealed By Department Of Computer Vision Technology (vis)	
+Few-shot Head Swapping In The Wild Secrets Revealed By Department Of Computer Vision Technology (vis)\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Few-shot Head Swapping In The Wild Secrets Revealed By Department Of Computer Vision Technology (vis), Baidu, Inc. 
+```
 https://bit.ly/3w7xm6c
+```
 
 
-482	
-CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP	
+CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP by ByteDance Inc.
+```
 https://bit.ly/3N3cEKu
+```
 
 
-483	
-HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling	
+HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling
+```
 https://bit.ly/3Nqnevx
+```
 
 
-484	
-Generative Adversarial Networks for Image Super-Resolution: A Survey	
+Generative Adversarial Networks for Image Super-Resolution: A Survey\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Generative Adversarial Networks for Image Super-Resolution: A Survey
+```
 https://bit.ly/39jyL0U
+```
 
 
-485	
-CLIP-Art: Contrastive Pre-training for Fine-Grained Art Classification	
+CLIP-Art: Contrastive Pre-training for Fine-Grained Art Classification\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 CLIP-Art: Contrastive Pre-training for Fine-Grained Art Classification by 
+```
 https://bit.ly/3N7Qd6V
+```
 
 
-486	
-C3-STISR: Scene Text Image Super-resolution with Triple Clues	
+C3-STISR: Scene Text Image Super-resolution with Triple Clues\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 C3-STISR: Scene Text Image Super-resolution with Triple Clues by Shanghai Key Lab of Intelligent Information Processing, China
+```
 https://bit.ly/3l1352C
+```
 
 
-487	
-Barbershop: GAN-based Image Compositing using Segmentation Masks	
+Barbershop: GAN-based Image Compositing using Segmentation Masks\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Barbershop: GAN-based Image Compositing using Segmentation Masks 
+```
 https://bit.ly/39hus6d
+```
 
 
-488	
-DANBO: Disentangled Articulated Neural Body Representations	
+DANBO: Disentangled Articulated Neural Body Representations\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks by The University of British Columbia
+```
 https://bit.ly/3LkqWp3
+```
 
 
-489	
-BlobGAN: Spatially Disentangled Scene Representations	
+BlobGAN: Spatially Disentangled Scene Representations\	
 BlobGAN: Spatially Disent𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Text to artistic image generation by University of Waterlooangled Scene Representations	
-
+```
 https://bit.ly/3sufEYz
+```
 
 
-490	
 Text to artistic image generation	
-
+```
 https://bit.ly/3w6wzmd
+```
 
 
-491	
 Sequencer: Deep LSTM for Image Classification	
-
+```
 https://bit.ly/3sulPvT
+```
 
 
-492	
 IVY: An Open-Source Tool To Make Deep Learning Code Compatible Across Frameworks	
-
+```
 https://bit.ly/3M6MbvJ
+```
 
 
-493	
 Introspective Deep Metric Learning	
-
+```
 https://bit.ly/3w2pZ02
+```
 
 
-494	
-KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints	
+KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints by Reality Labs Research at Meta
+```
 https://bit.ly/3wnRhwF
+```
 
 
-495
-GraphWorld: A Methodology For Analyzing The Performance Of GNN Architectures On Millions Of Synthetic Benchmark Datasets	
+GraphWorld: A Methodology For Analyzing The Performance Of GNN Architectures On Millions Of Synthetic Benchmark Datasets\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Google AI Introduces GraphWorld: A Methodology For Analyzing The Performance Of GNN Architectures On Millions Of Synthetic Benchmark Datasets
+```
 https://bit.ly/3PUQexk
+```
 
 
-496	
-Group R-CNN for Weakly Semi-supervised Object Detection with Points	
+Group R-CNN for Weakly Semi-supervised Object Detection with Points\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Group R-CNN for Weakly Semi-supervised Object Detection with Points 
+```
 https://bit.ly/3zfvU3W
+```
 
-497	
-Few-Shot Head Swapping in the Wild	
+
+Few-Shot Head Swapping in the Wild\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Few-Shot Head Swapping in the Wild by Baidu Inc.
+```
 https://bit.ly/3xapGkn
+```
 
-498	
-StyLandGAN: A StyleGAN based Landscape Image Synthesis using Depth-map	
+
+StyLandGAN: A StyleGAN based Landscape Image Synthesis using Depth-map\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 StyLandGAN: A StyleGAN based Landscape Image Synthesis using Depth-map by Vision AI Lab, AI Center, NCSOFT
+```
 https://bit.ly/3GKX4Bi
+```
 
 
-499	
-Spiking Approximations of the MaxPooling Operation in Deep SNNs	
+Spiking Approximations of the MaxPooling Operation in Deep SNNs\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Spiking Approximations of the MaxPooling Operation in Deep SNNs by University of Waterloo, Canada
+```
 https://bit.ly/3GLp7AG
+```
 
 
-500	
-Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization	
+Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization by University of Oxford
+```
 https://bit.ly/3NTGsJQ
+```
 
-2	
-125+ NLP Language Models Treasure of Transformers
+NLP Language Models Treasure of Transformers
+```
 https://github.com/ashishpatel26/Treasure-of-Transformers?tab=readme-ov-file
+```
 
-1
-https://github.com/EleutherAI/gpt-neo
+1\
 GPT-Neo
+```
+https://github.com/EleutherAI/gpt-neo
 https://bit.ly/3rYanJk
 https://youtu.be/6MI0f6YjJIk
 https://github.com/EleutherAI/gpt-neo
 https://colab.research.google.com/github/EleutherAI/GPTNeo/blob/master/GPTNeo_example_notebook.ipynb
+```
 
-2
-https://arxiv.org/abs/1706.03762v5
+2\
 Transformer
+```
+https://arxiv.org/abs/1706.03762v5
 https://bit.ly/3DNsrIp
 https://youtu.be/iDulhoQ2pro
 https://github.com/tensorflow/models/tree/master/official/nlp/transformer
 https://colab.research.google.com/github/bentrevett/pytorch-seq2seq/blob/master/6%20-%20Attention%20is%20All%20You%20Need.ipynb
+```
 
-3
-https://arxiv.org/abs/1810.04805v2
+3\
 BERT
+```
+https://arxiv.org/abs/1810.04805v2
 https://bit.ly/3pPV8PS
 https://youtu.be/7kLi8u2dJz0
 https://github.com/google-research/bert
 https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT_only_first_wordpiece.ipynb
-
-4
-https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
+```
+4\
 GPT
+```
+https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 https://bit.ly/3ENPuEn
 https://youtu.be/9ebPNEHRwXU
 https://github.com/huggingface/transformers
 https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/generative/ipynb/text_generation_with_miniature_gpt.ipynb
+```
 
-5
-https://arxiv.org/abs/1807.03819v3
+5\
 Universal Transformer
+```
+https://arxiv.org/abs/1807.03819v3
 https://bit.ly/3lRi6VG
 /ashishpatel26/Treasure-of-Transformers/blob/main
 https://github.com/tensorflow/tensor2tensor
 https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb
+```
 
-6
-https://arxiv.org/abs/1801.10198v1
+6\
 T-D
+```
+https://arxiv.org/abs/1801.10198v1
 https://bit.ly/3F17Ba5
 https://youtu.be/__ALQCud-iA
 https://github.com/tensorflow/tensor2tensor
 https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb
+```
 
-7
-https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf
+7\
 GPT-2
+```
+
+https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf
 https://bit.ly/3rXapBi
 https://youtu.be/X-B3nAN7YRM
 https://github.com/openai/gpt-2
 https://colab.research.google.com/github/huggingface/blog/blob/master/notebooks/02_how_to_generate.ipynb
+```
 
-8
+8\
+T5	
+```
+
 https://arxiv.org/abs/1910.10683v3
-T5
 https://bit.ly/3yjbrZf
 https://youtu.be/jgKj-7v2UYU
 https://github.com/google-research/text-to-text-transfer-transformer
 https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/T5/Fine_tune_CodeT5_for_generating_docstrings_from_Ruby_code.ipynb
-9
-https://arxiv.org/abs/1910.13461v1
+```
+
+9\
 BART
+```
+
+https://arxiv.org/abs/1910.13461v1
 https://bit.ly/3yead1D
 https://youtu.be/Xz4fiQNmGSA
 https://github.com/facebookresearch/GENRE
 https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/BART_with_JS_UI.ipynb
+```
 
-10
-https://arxiv.org/abs/1906.08237v2
+10\
 XLNet
+
+```
+https://arxiv.org/abs/1906.08237v2
 https://bit.ly/3EGEHM5
 https://youtu.be/8J8KkuncAmY
 https://github.com/zihangdai/xlnet
 https://colab.research.google.com/drive/1YXojI6USFGV3498Pygllv0z8vTMVIiEt
+```
 
-11
-https://arxiv.org/abs/1909.11942v6
+11\
 ALBERT
+```
+
+https://arxiv.org/abs/1909.11942v6
 https://bit.ly/3lW9L34
 https://youtu.be/Lwtj2yUAMgI
 https://github.com/google-research/ALBERT
 https://colab.research.google.com/github/google-research/albert/blob/master/albert_glue_fine_tuning_tutorial.ipynb
+```
 
-12
-https://arxiv.org/abs/1910.01108v4
+12\
 Distil-BERT
+```
+
+https://arxiv.org/abs/1910.01108v4
 https://bit.ly/3GPQKHN
 https://youtu.be/cCs8exFrGE8
 /ashishpatel26/Treasure-of-Transformers/blob/main
+```
 
-13
+13\
+Transformer-XL	
+```
+
 https://arxiv.org/abs/1901.02860v3
-Transformer-XL
 https://bit.ly/3lW6qkC
 https://youtu.be/mqsRZAJav70
 https://github.com/kimiyoung/transformer-xl
 https://colab.research.google.com/github/lab-ml/nn/blob/master/labml_nn/transformers/xl/experiment.ipynb
+```
 
-14
+14\
+XLM	
+
+```
 https://arxiv.org/abs/1901.07291v1
-XLM
 https://bit.ly/31M5BDH
 https://youtu.be/caZLVcJqsqo
 https://github.com/facebookresearch/XLM
 https://colab.research.google.com/github/Tikquuss/meta_XLM/blob/master/notebooks/demo/tuto.ipynb
+```
 
-15
-https://arxiv.org/abs/1908.02265v1
+15\
 ViLBERT
+```
+
+https://arxiv.org/abs/1908.02265v1
 https://bit.ly/31M5KqJ
 https://youtu.be/dd7nE4nbxN0
 https://github.com/facebookresearch/vilbert-multi-task/
 https://colab.research.google.com/github/facebookresearch/vilbert-multi-task/blob/9d645085b54fac6a781257133edabefdfb23e547/demo.ipynb
+```
 
-16
-https://arxiv.org/abs/1904.10509v1
+16\
 Sparse Transformer
+```
+
+https://arxiv.org/abs/1904.10509v1
 https://bit.ly/3ELosND
 https://youtu.be/jaqjcHmCBfY
 https://github.com/openai/sparse_attention
 https://github.com/ptillet/torch-blocksparse/blob/master/examples/simple.py
+```
 
-17
+17\
+Levenshtein Transformer	
+```
+
 https://arxiv.org/abs/1905.11006v2
-Levenshtein Transformer
 https://bit.ly/3rUU4wQ
 https://youtu.be/FtUbMG3rlFs
 https://github.com/pytorch/fairseq
 /ashishpatel26/Treasure-of-Transformers/blob/main
+```
 
-18
-https://arxiv.org/abs/1909.05858v2
+18\
 CTRL
+```
+
+https://arxiv.org/abs/1909.05858v2
 https://bit.ly/33pJRhX
 https://youtu.be/q5zw2Wh4Rdo
 https://github.com/salesforce/ctrl
 https://colab.research.google.com/drive/1nDh3ayRPJGK5ciPO2D3TFkYZFqclBWHY
+```
 
-19
-https://arxiv.org/abs/1904.01766v2
+19\
 VideoBERT
+```
+
+https://arxiv.org/abs/1904.01766v2
 https://bit.ly/31PHkN2
 https://youtu.be/EkuyLsJX4QM
 https://github.com/MDSKUL/MasterProject
 https://github.com/ammesatyajit/VideoBERT
+```
 
-20
-https://arxiv.org/abs/1911.05507v1
+20\
 Compressive Transformer
+```
+
+https://arxiv.org/abs/1911.05507v1
 https://bit.ly/3rX1q2L
 https://youtu.be/0TMKCQiT1T0
 https://github.com/deepmind/pg19
 https://github.com/lucidrains/compressive-transformer-pytorch
+```
 
-21
+21\
+CuBERT	
+```
+
 https://arxiv.org/abs/2001.00059v3
-CuBERT
 https://bit.ly/3lXcxVH
 https://youtu.be/bCPeg0Tp64s
 https://github.com/google-research/google-research/tree/master/cubert
 https://colab.research.google.com/github/ai-center-kth/cuBERT-source-code-clustering/blob/main/src/evaluation.ipynb
+```
 
-22
-https://arxiv.org/abs/1911.04070v1
+22\
 BP-Transformer
+```
+
+https://arxiv.org/abs/1911.04070v1
 https://bit.ly/3yuzqFj
 https://github.com/yzh119/BPT
+```
 
-23
-https://arxiv.org/abs/1909.00015v2
+23\
 Adaptively Sparse Transformer
+```
+
+https://arxiv.org/abs/1909.00015v2
 https://bit.ly/3lXLbyG
 https://youtu.be/_pYxa50HTBw
 https://github.com/deep-spin/entmax
 https://colab.research.google.com/github/prajjwal1/adaptive_transformer/blob/8f062a7d5c6573ebdb1aa2b57113db918156b15a/nbs/adaptive_train.ipynb
+```
 
-24
-https://arxiv.org/abs/1911.03864v2
+24\
 Sandwich Transformer
+
+```
+https://arxiv.org/abs/1911.03864v2
 https://bit.ly/31V686t
 https://youtu.be/EM8xFAjtZUQ
 https://github.com/ofirpress/sandwich_transformer
 https://github.com/lucidrains/x-transformers
+```
 
 25
-https://arxiv.org/abs/1907.06616
 FSMT
+
+```
+https://arxiv.org/abs/1907.06616
 https://bit.ly/3oIFarp
 https://github.com/pytorch/fairseq/tree/main/examples/wmt19
 https://huggingface.co/transformers/v3.5.1/model_doc/fsmt.html
+```
 
 26
-https://arxiv.org/abs/1908.07490
 LXMERT
+```
+
+https://arxiv.org/abs/1908.07490
 https://bit.ly/3oJq19i
 https://github.com/airsplay/lxmert
 https://colab.research.google.com/drive/18TyuMfZYlgQ_nXo-tr8LCnzUaoX0KS-h?usp=sharing
+```
 
 27
-https://arxiv.org/pdf/1908.03557
 VisualBERT
+```
+
+https://arxiv.org/pdf/1908.03557
 https://bit.ly/3s0AgIq
 https://youtu.be/Lhi1UFsXvpk
 https://github.com/uclanlp/visualbert
 https://colab.research.google.com/github/uclanlp/visualbert/blob/e49b61906dff12f1b2992226ae84c538fcf438e4/unsupervised_visualbert/data/nlvr2/nlvr/nlvr2/NLVR2BiasAnalysis.ipynb
+```
 
 28
-https://arxiv.org/abs/2005.14165v4
 GPT-3
+```
+
+https://arxiv.org/abs/2005.14165v4
 https://bit.ly/3oIFwhJ
 https://youtu.be/SboKeK6FFHQ
 https://github.com/openai/gpt-3
 https://colab.research.google.com/github/rafajak/gpt3_examples/blob/master/GPT3_search_example.ipynb
+```
 
 29
-https://arxiv.org/abs/2003.10555v1
 ELECTRA
+```
+
+https://arxiv.org/abs/2003.10555v1
 https://bit.ly/3lUZGDy
 https://youtu.be/p9c7SoD4AMc
 https://github.com/google-research/electra
 https://colab.research.google.com/drive/1DiOwhRjQbtYRgFWG7e3dybcXJsZcu86l
+```
 
 30
-https://arxiv.org/abs/2012.08561v1
 Electric
+```
+
+https://arxiv.org/abs/2012.08561v1
 https://bit.ly/31SfM9E
 https://github.com/google-research/electra
+```
 
 31
-https://arxiv.org/abs/2004.05150v2
 LongFormer
+```
+https://arxiv.org/abs/2004.05150v2
+
 https://bit.ly/3oJ03mh
 https://youtu.be/_8KNb5iqblE
 https://github.com/allenai/longformer
 https://colab.research.google.com/github/patil-suraj/Notebooks/blob/master/longformer_qa_training.ipynb
+```
 
 32
-https://arxiv.org/abs/2001.08210v2
 mBART
+
+```
+https://arxiv.org/abs/2001.08210v2
 https://bit.ly/3EPC0Ii
 https://youtu.be/oO7k5lH8Oe8
 https://github.com/pytorch/fairseq/tree/master/examples/mbart
 https://colab.research.google.com/github/sdhilip200/Machine-Translation-using-mBART-50-and-Hugging-Face/blob/main/Machine_Translation.ipynb
+```
 
 33
-https://arxiv.org/abs/2009.14794v3
 Performer
+
+```
+https://arxiv.org/abs/2009.14794v3
 https://bit.ly/3pLxvYW
 https://youtu.be/xJrKIPwVwGM
 https://github.com/google-research/google-research
 https://colab.research.google.com/drive/1ICW0DpXfUuVYsnNkt1DHwUyyTduHHvE3?usp=sharing
+```
 
 34
-https://arxiv.org/abs/2004.08483v5
 ETC
+
+```
+https://arxiv.org/abs/2004.08483v5
 https://bit.ly/3rWIy3W
 https://youtu.be/TyydOhj28A4
 https://github.com/google-research/google-research/tree/master/etcmodel
+```
 
 35
-https://arxiv.org/abs/2002.08155v4
 CodeBERT
+
+```
+https://arxiv.org/abs/2002.08155v4
 https://bit.ly/3pPuIhc
 https://youtu.be/YmAXluUDPPI
 https://github.com/microsoft/CodeBERT
 https://colab.research.google.com/github/graykode/commit-autosuggestions/blob/579d7a34f3ebb735d2a9f13afc74eeb66c0d7427/commit_autosuggestions.ipynb
+```
 
 36
-https://arxiv.org/abs/2010.11934v3
 mT5
+
+```
+https://arxiv.org/abs/2010.11934v3
 https://bit.ly/3DJ76jh
 https://colab.research.google.com/github/ejmejm/multilingual-nmt-mt5/blob/main/nmt_full_version.ipynb
+```
 
 37
-https://arxiv.org/abs/2001.04451v2
 Reformer
+```
+
+https://arxiv.org/abs/2001.04451v2
 https://bit.ly/3pPSTMn
 https://youtu.be/i4H0kjxrias
 https://github.com/google/trax/tree/master/trax/models/reformer
 https://colab.research.google.com/github/patrickvonplaten/notebooks/blob/master/PyTorch_Reformer.ipynb
+```
 
 38
-https://arxiv.org/abs/2006.03654v6
 DeBERTa &amp; DeBERTa-v2
+```
+
+https://arxiv.org/abs/2006.03654v6
 https://bit.ly/3GyaT4F
 https://youtu.be/_c6A33Fg5Ns
 https://github.com/microsoft/DeBERTa
 https://colab.research.google.com/github/musthofasyarifudin/Deberta-Language-Modeling-For-NLP/blob/main/MLM_Deberta_Base.ipynb
+```
 
 39
-https://arxiv.org/abs/2006.04768v3
 Linformer
+```
+
+https://arxiv.org/abs/2006.04768v3
 https://bit.ly/3DMx5GH
 https://youtu.be/-_2AF9Lhweo
 https://github.com/kuixu/Linear-Multihead-Attention
 https://colab.research.google.com/drive/1zHenqau3rMo3oS_7EisfGsahSs-1_sok?usp=sharing
+```
 
 40
-https://arxiv.org/abs/2005.11401v4
 RAG
+
+```
+https://arxiv.org/abs/2005.11401v4
 https://bit.ly/30f4ig2
 https://youtu.be/dzChvuZI6D4
 https://huggingface.co/docs/transformers/model_doc/rag?utm_source=catalyzex.com
 https://colab.research.google.com/github/ipavlopoulos/modern_nlp/blob/f2a7af7e9de68d505dd1585c04cc51f30433122b/Modern_NLP_S5.ipynb
+```
 
 41
-https://arxiv.org/abs/2001.04063v3
 ProphetNet
+```
+
+https://arxiv.org/abs/2001.04063v3
 https://bit.ly/31RisVr
 https://youtu.be/9Hoo_qdjSio
 https://github.com/microsoft/ProphetNet
 https://colab.research.google.com/drive/11uPpxZzoTofnHZsyDPaJr5dFKsgOmTD9#scrollTo=j5CRrgNFc_Jq
+```
 
 42
-https://arxiv.org/abs/2007.14062v2
 BigBird
+
+```
+https://arxiv.org/abs/2007.14062v2
 https://bit.ly/3pPTSMz
 https://youtu.be/WVPE62Gk3EM
 https://github.com/google-research/bigbird
 https://colab.research.google.com/github/vasudevgupta7/bigbird/blob/main/notebooks/evaluate_nq.ipynb
+```
 
 43
-https://arxiv.org/abs/2006.16779v4
 PLATO-2
+```
+
+https://arxiv.org/abs/2006.16779v4
 https://bit.ly/3DF7hMA
 https://youtu.be/0zlRRC0jPf4
 https://github.com/PaddlePaddle/Knover
 https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/dialogue/plato-2
+```
 
 44
-https://arxiv.org/abs/2003.05997v5
 Routing Transformer
+```
+
+https://arxiv.org/abs/2003.05997v5
 https://bit.ly/3IGcabW
 https://github.com/lucidrains/routing-transformer
 https://colab.research.google.com/drive/1sw1Hjx3EllhKZh4nhJ3TIZ978HjKVUFQ?usp=sharing
+```
 
 45
-https://arxiv.org/abs/2004.12993v1
 DeeBERT
+```
+
+https://arxiv.org/abs/2004.12993v1
 https://bit.ly/3GB1Ks8
 https://github.com/castorini/DeeBERT
 https://colab.research.google.com/github/castorini/DeeBERT/blob/3efc01db07a0bed88e19551992b8378994195d1c/notebooks/Comparing-TF-and-PT-models-SQuAD.ipynb
+```
 
 46
 https://arxiv.org/abs/2004.04037v2
@@ -13551,21 +13705,32 @@ https://www.statworx.com/en/content-hub/blog/how-to-build-a-machine-learning-api
 https://github.com/gahogg/YouTube-I-mostly-use-colab-now-/tree/master		
 https://www.youtube.com/watch?v=qNF1HqBvpGE&ab_channel=GregHogg		
 
-Desktop-chatbot-app	https://github.com/Kalebu/Desktop-chatbot-app		
-End-to-End-Airbnb-Price-Prediction	https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction		
-Article-Web-Scraping	https://github.com/KalyanM45/Article-Web-Scraping/tree/main		
-House price prediction	https://github.com/KalyanM45/House-Price-Prediction/tree/main		
-Gemini Chat Bot	https://github.com/KalyanM45/Gemini-ChatBot	"python app.py, works good
+Desktop-chatbot-app	
+
+https://github.com/Kalebu/Desktop-chatbot-app		
+
+End-to-End-Airbnb-Price-Prediction	
+
+https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction		
+
+Article-Web-Scraping	
+
+https://github.com/KalyanM45/Article-Web-Scraping/tree/main		
+
+House price prediction	
+
+https://github.com/KalyanM45/House-Price-Prediction/tree/main		
+
+
+Gemini Chat Bot	
+
+https://github.com/KalyanM45/Gemini-ChatBot
 streamlit run app.py
 webmaster.noor@gmail.com
 API KEY: AIzaSyD6hZMBKM58gtBz85ZdBgavgaqHbxD6pS8"	
-AI-Project-Gallery/Chatbot using Langchain	https://github.com/topics/nlp-projects	"streamlit run app.py, Not Working
-API KEY: sk-proj-oMLi8fqkzQDoFoEh43qAT3BlbkFJwCDpnGWk7FS0ndolKZXg
-webmaster.noor@gmail.com"	
-Diabetes Disease Prediction	https://github.com/topics/nlp-projects		
-DocGenius-Revolutionizing-PDFs-with-AI	https://github.com/topics/nlp-projects	works fine but API KEY Issue	
-Heart-Disease-Prediction	https://github.com/topics/nlp-projects	"works good
-http://127.0.0.1:5000/"	
-End-to-End-Image-Scraping		"works good, 
-http://127.0.0.1:5000/"	
-Reseach Website	https://github.com/topics/nlp-projects
+
+AI-Project-Gallery/Chatbot using Langchain	
+
+NLP Projects
+
+https://github.com/topics/nlp-projects
