@@ -4,7 +4,7 @@
 ```
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 ```
-
+---
 1	
 EfficientDet	
 𝗯𝗹𝗼𝗼𝗱 𝗰𝗲𝗹𝗹 𝗱𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
@@ -14,7 +14,7 @@ video link: https://www.youtube.com/watch?v=vuempK2XYhw
 dataset: https://universe.roboflow.com/clg-vtj9f/blood-cell-detection-bsbvn/dataset/4
 tutorial: https://towardsdatascience.com/detection-and-classification-of-blood-cells-with-deep-learning-part-2-training-and-evaluation-53381dbbc565
 ```
-
+---
 
 
 Title: 
