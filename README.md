@@ -88,7 +88,7 @@ https://korlakuntasaikamal10.medium.com/yolov4-a-comprehensive-guide-to-object-d
 https://github.com/kamal3344/v4-Inference
 ```
 
-Detr\	
+Detr\
 Object Detection Learning Detection Transformer
 ```
 https://bit.ly/39S5F57
@@ -157,213 +157,237 @@ Segnet Caffe Official: https://bit.ly/35BYHzR
 𝗞𝗲𝗿𝗮𝘀 𝗦𝗲𝗴𝗻𝗲𝘁 : https://bit.ly/3bvF7sZ
 𝘁𝗳-𝗸𝗲𝗿𝗮𝘀 𝗦𝗲𝗴𝗻𝗲𝘁 : https://bit.ly/39rd2Af
 ```
-14	
-CAM	
+
+CAM\
 Computer Vision Learning CAM: Learning Deep Features for Discriminative Localization (Weakly Supervised Object Localization)
+```
 https://bit.ly/2Y2I8ZR
-
-15	
-R-FCN	
+```
+	
+R-FCN\
 Computer Vision Learning R-FCN — Positive-Sensitive Score Maps (Object Detection) by Microsoft  and Tsinghua University
+```
 https://bit.ly/3iCKsQL
+```
 
-16	
-RepVGG	
+RepVGG\
 Computer Vision Learning SOTA RepVGG: Making VGG-style ConvNets Great Again 
+```
 https://bit.ly/2Y2pGjV
+```
 
-17
 Graph Convolution Network
+```
 https://bit.ly/2LS9RK8
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵: https://lnkd.in/e46_pNw
 Official Blog: https://lnkd.in/e3jEhMR
 Official Tensorflow GCN: https://bit.ly/3sFypa7
 Pytorch GCN: https://lnkd.in/ed4r-GK
 Keras GCN: https://lnkd.in/e_KVemY
+```
 
-18
 DeconvNet
+```
 https://bit.ly/2Mhwzes
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3qyNV5p
 Tensorflow : https://bit.ly/3nOmtis
 Caffe : https://lnkd.in/e-pSxwY
 Pytorch : https://lnkd.in/eZvrpr9
 Keras : https://lnkd.in/ep_6kQU	
-
 https://bit.ly/2Mhwzes
+```
 
-19	
-ENet	
+ENet\
+```
 https://bit.ly/2Y2HgEz
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/fV6DT9B
 Tensorflow : https://bit.ly/3qzbATm
 Tensorflow2 : https://bit.ly/2NcXhW9
 Pytorch : https://bit.ly/39Oin4O
 Keras : https://bit.ly/39MXW8j
-
-20	
+```
+	
 Deeplabv1	
+```
 https://bit.ly/3o7Utqn
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyB-Dzf
 Tensorflow : https://bit.ly/391bnT4, https://bit.ly/3iuKKsM
 Pytorch : https://bit.ly/38XCoXq
+```
 
-21
-CRF-RNN
+CRF-RNN\
 Computer Vision Learning CRF-RNN: CRF-RNN — Conditional Random Fields as Recurrent Neural Networks (Semantic Segmentation)
+```
 https://bit.ly/2Y5nsR4
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/enQQKiU
 official : https://lnkd.in/einEFjc
 Keras: https://bit.ly/3p8f7aU
 Tensorflow : https://bit.ly/39V5lm8
 Pytorch : https://bit.ly/3p4qv7D
+```
 
-22
-Deeplabv2
+Deeplabv2\
 Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+```
 https://bit.ly/2Y9DgSx
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekruWks
 Keras: https://bit.ly/3iFcfzV, https://bit.ly/396wTWL
 Tensorflow : https://bit.ly/3o6q1wJ
 Pytorch : https://bit.ly/3p89nhy, https://bit.ly/3iIAnBW
+```
 
-23
-DPN
+DPN\
 Computer Vision Learning DPN — Deep Parsing Network (Semantic Segmentation) 
+```
 https://bit.ly/363Cye2
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e2-mv_P, https://lnkd.in/eD9SHii
 Keras: https://bit.ly/2Nwxzw7 (2018 Model)
 Tensorflow : https://bit.ly/362fsV1
+```
 
-24
-Grad-CAM
+Grad-CAM\
 Computer Vision Learning Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+```
 https://bit.ly/3iF006q
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ensn6q2
 Lua Programming: https://bit.ly/2MgJygO
 keras : https://bit.ly/2KIPHlr
 Tensorflow : https://bit.ly/3iEQL6r
-Pytorch : https://bit.ly/365HyPk, https://bit.ly/3sLcQES
+Pytorch : https://bit.ly/365HyPk, 
+https://bit.ly/3sLcQES
+```
 
-25
-ParseNet
+ParseNet\
 Computer Vision Learning ParseNet: Looking Wider to see better(Semantic Segmentation)
+```
 https://bit.ly/3oesFk5
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ensn6q2
 Caffe: https://bit.ly/3sNRozf
 keras : https://bit.ly/39eFHcX
 Tensorflow : https://bit.ly/3iKzit3
 Pytorch : https://bit.ly/2MhglCi
+```
 
-26
-ResNeXt
+ResNeXt\
 Computer Vision Learning ResNeXt, by UC San Diego and Facebook Research
+```
 https://bit.ly/2M2sXxe
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEZPMSh
 Official Facebook Code: https://bit.ly/3ccLD88
 keras : https://bit.ly/3ccMaXG
 Tensorflow : https://bit.ly/3a8m8SO
 Pytorch : https://bit.ly/368qFDN
+```
 
-27
-AmoebaNet
+AmoebaNet\
 Computer Vision Learning AmoebaNet — Regularized Evolution for Image Classifier Architecture Search (Image Classification) by Google Brain
+```
 https://bit.ly/2YgRIbN
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEZPMSh
 official tensorflow : https://bit.ly/3t3ssUC
 Keras and tensorflow : https://bit.ly/3t2mXWb
 Pytorch : https://bit.ly/3t0fqab
 Colab : https://bit.ly/3a9sFg6
+```
 
-28
-DilatedNet
+DilatedNet\
 Computer Vision Learning DilatedNet — Dilated Convolution (Semantic Segmentation)
+```
 https://bit.ly/2M9fuDS
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eA9ySQ4
 Official Code : https://lnkd.in/eSAYXSV
 Tensorflow : https://bit.ly/3a92fuV
 Keras : https://bit.ly/3a8DYVX
 Pytorch : https://bit.ly/3t6W03p
+```
 
-29
-DRN
+DRN\
 Computer Vision Learning Dilated Residual Network (DRN) (Image Classification and Semantic Segmentation)
+```
 https://bit.ly/2KXVmUH
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUpNgbJ
 Pytorch : https://bit.ly/3aiBpAR
 Tensorflow : https://bit.ly/2MeiFua
 Keras : https://bit.ly/2NLwUqO
+```
 
-30
-RefineNet
+RefineNet\
 Computer Vision Learning 𝗥𝗲𝗳𝗶𝗻𝗲𝗡𝗲𝘁 — Multi-path Refinement Network (Semantic Segmentation) 
+```
 https://bit.ly/3cpCBVq
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/etCDUBf
 Pytorch : https://bit.ly/3co3ZTL
 Tensorflow : https://bit.ly/3j2o4Av
 Keras : https://bit.ly/2Yve2hG
+```
 
-31
-Preactivation-Resnet
+Preactivation-Resnet\
 Computer Vision Learning 𝗣𝗿𝗲-𝗔𝗰𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 𝗥𝗲𝘀𝗡𝗲𝘁 with Identity Mapping with 𝟭𝟬𝟬𝟬 𝗟𝗮𝘆𝗲𝗿𝘀 (Image Classification)
+```
 https://bit.ly/2MJtgwQ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/etCDUBf
 lua : https://bit.ly/3tdkdFd
 Pytorch : https://bit.ly/3tbpb5n
 Tensorflow and Keras : https://bit.ly/3cqSlb1
+```
 
-32
-SqueezeNet
+SqueezeNet\
 Computer Vision Learning 𝗦𝗾𝘂𝗲𝗲𝘇𝗲𝗡𝗲𝘁
+```
 https://bit.ly/3cv3Ca0
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/etCDUBf
 caffe : https://bit.ly/3oBBu7Q
 Pytorch : https://bit.ly/3pCc1wf
 Keras : https://bit.ly/3jcHJ0D
 Tensorflow : https://bit.ly/39yW84a
+```
 
-33
-FractalNet
+FractalNet\
 Computer Vision Learning 𝗙𝗿𝗮𝗰𝘁𝗮𝗹𝗡𝗲𝘁
+```
 https://bit.ly/3pSv712
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eJGBNQS
 Pytorch : https://bit.ly/3oB8Mnz
 Keras : https://bit.ly/3pBM6Vo
 Tensorflow : https://bit.ly/3oF12kn
+```
 
-34
-PolyNet
+PolyNet\
 Computer Vision Learning PolyNet
+```
 https://bit.ly/3atCQfJ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gjyCkMd
 Pytorch : https://bit.ly/3pPT89m
 Tensorflow : https://bit.ly/3jb4WAp
+```
 
-35
-DeepSim(Image Quality Assessment)
+DeepSim(Image Quality Assessment)\
 Computer Vision Learning 𝗗𝗲𝗲𝗽𝗦𝗶𝗺
+```
 https://bit.ly/3oKJGTi
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gjyCkMd
 Official Matlab : https://lnkd.in/euSzZDQ
 github : https://bit.ly/3oIjMzj
+```
 
-36
-Residual Attention Network
+Residual Attention Network\
 Computer Vision Learning Residual Attention Network
+```
 https://bit.ly/3cIjupL
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eF4q22K
 pytorch: https://bit.ly/3rmDp1I
 keras : https://bit.ly/36KlH08
 tensorflow: https://bit.ly/2MAPHVu
+```
 
-37
-IGCNet / IGCV
+IGCNet / IGCV\
 Computer Vision Learning IGCNet / IGCV1 — Interleaved Group Convolutions (Image Classification)
+```
 https://bit.ly/36LRfTo
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eprHm7P
 Tensorflow : https://lnkd.in/e_sUxXm
 PyTorch : https://bit.ly/3cMOQf5
-
+```
 38
 Resnet38
 Computer Vision Learning ResNet-38 — Wider or Deeper ResNet? (Image Classification & Semantic Segmentation)
