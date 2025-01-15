@@ -4,15 +4,49 @@
 ```
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 ```
+
+1\
+365 Days Computer Vision Learning
+```
+https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post
+```
+
 1\
 EfficientDet\
 𝗯𝗹𝗼𝗼𝗱 𝗰𝗲𝗹𝗹 𝗱𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
 ```
-https://bit.ly/362NWHa
+Link: https://bit.ly/362NWHa
 video link: https://www.youtube.com/watch?v=vuempK2XYhw
 dataset: https://universe.roboflow.com/clg-vtj9f/blood-cell-detection-bsbvn/dataset/4
 tutorial: https://towardsdatascience.com/detection-and-classification-of-blood-cells-with-deep-learning-part-2-training-and-evaluation-53381dbbc565
 ```
+
+Blood Cell detection Model create.
+```
+link: https://cainvas.ai-tech.systems/use-cases/blood-cells-classification-app/
+```
+Blood Cell classification using Deep Learning on Cainvas Platform
+```
+https://medium.com/ai-techsystems/blood-cell-classification-using-deep-learning-on-cainvas-platform-620e1873eaaf
+```
+
+White Blood Cell Classification with Fastai
+```
+https://www.kaggle.com/code/tanlikesmath/white-blood-cell-classification-with-fastai/notebook
+```
+Blood Cell Detection with YOLOv8
+```
+https://www.kaggle.com/code/harpdeci/blood-cell-detection-with-yolov8
+https://www.kaggle.com/code/amirholmd/yolov7-bcd/notebook
+https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells?tab=readme-ov-file
+https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset
+https://github.com/nemo256/cbc
+https://github.com/BTrDung/approach-to-segmentation-and-classification-from-leukocyte-images-to-count-blood-cells
+https://github.com/sam-marhaendra/Blood-Cells-Object-Detection-and-Classification
+https://github.com/luismateoh/blood-cell-classification
+https://github.com/draaslan/blood-cell-detection-dataset
+```
+
 2\
 testing\
 testing number 2
