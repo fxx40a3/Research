@@ -5251,4 +5251,27 @@ hand tracking
 
 
 
+69 and 70 details are here
+69.
+100 + Computer vision Algorithm Implementation
+https://github.com/gmalivenko/awesome-computer-vision-models
 
+AlexNet
+One weird trick for parallelizing convolutional neural networks
+https://arxiv.org/abs/1404.5997
+
+VGG-16
+Very Deep Convolutional Networks for Large-Scale Image Recognition
+https://arxiv.org/abs/1409.1556
+
+ResNet-10
+Deep Residual Learning for Image Recognition
+https://arxiv.org/abs/1512.03385
+
+ResNet-18
+Deep Residual Learning for Image Recognition
+https://arxiv.org/abs/1512.03385
+
+ResNet-34
+Deep Residual Learning for Image Recognition
+https://arxiv.org/abs/1512.03385
