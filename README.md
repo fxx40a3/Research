@@ -4228,1056 +4228,1482 @@ https://bit.ly/3GB1Ks8
 https://github.com/castorini/DeeBERT
 https://colab.research.google.com/github/castorini/DeeBERT/blob/3efc01db07a0bed88e19551992b8378994195d1c/notebooks/Comparing-TF-and-PT-models-SQuAD.ipynb
 ```
-
 46
-https://arxiv.org/abs/2004.04037v2
 DynaBERT
+```
+https://arxiv.org/abs/2004.04037v2
 https://bit.ly/3EGKyRz
 https://youtu.be/UuGYwjCOGQo
 https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/DynaBERT
+```
 
 47
-https://arxiv.org/abs/2009.12812v3
 TernaryBERT
+```
+https://arxiv.org/abs/2009.12812v3
 https://bit.ly/3dECdlu
 https://papertalk.org/papertalks/11743
 https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT
+```
 
 48
-https://arxiv.org/abs/2004.02984v2
 MobileBERT
+```
+https://arxiv.org/abs/2004.02984v2
 https://bit.ly/3yirFlJ
 https://github.com/google-research/google-research
 https://colab.research.google.com/github/sayakpaul/BERT-for-Mobile/blob/master/MobileBERT_Keras.ipynb
+```
 
 49
-https://arxiv.org/abs/2010.10499v2
 Bort
+```
+https://arxiv.org/abs/2010.10499v2
 https://bit.ly/3oMixme
 https://github.com/alexa/bort
+```
 
 50
-https://arxiv.org/abs/2008.00623v2
 DeLighT
+```
+https://arxiv.org/abs/2008.00623v2
 https://bit.ly/3DRXQtq
 https://youtu.be/-AVqR2qZHb4
 https://github.com/sacmehta/delight
+```
 
 51
-https://arxiv.org/abs/2009.04534v3
 PAR Transformer
+```
+https://arxiv.org/abs/2009.04534v3
 https://bit.ly/3s26Nhk
 https://github.com/Jmkernes/PAR-Transformer-XL
 https://github.com/Jmkernes/PAR-Transformer-XL/blob/ee2c2bd5cd672eddbe06d68614298de8283c5b2f/colab.ipynb
+```
 
 52
-https://arxiv.org/abs/2008.02496v3
 ConvBERT
+```
+https://arxiv.org/abs/2008.02496v3
 https://bit.ly/3pKkqPi
 https://bit.ly/321uKKx
 https://github.com/yitu-opensource/ConvBert
 https://colab.research.google.com/drive/1WIu2Cc1C8E7ayZBzEmpfd5sXOhe7Ehhz?usp=sharing
+```
 
 53
-https://arxiv.org/abs/2004.02984v2
 IB-BERT
+```
+https://arxiv.org/abs/2004.02984v2
 https://bit.ly/3dKRvVT
 https://github.com/google-research/google-research
 https://colab.research.google.com/github/lordtt13/transformers-experiments/blob/5ea4537ee0662fb6ca2ba736a50f4894197eec60/Custom%20Tasks/emo-mobilebert.ipynb
+```
 
 54
-https://arxiv.org/abs/2004.13922v2
 MacBERT
+```
+https://arxiv.org/abs/2004.13922v2
 https://bit.ly/3GTTdkv
 https://github.com/ymcui/MacBERT
 https://colab.research.google.com/github/shibing624/nlp-tutorial/blob/c9c00b2160397248381203658194a63044e7d7d5/03_language_model/03_Bert%E5%AE%8C%E5%BD%A2%E5%A1%AB%E7%A9%BA.ipynb
+```
 
 55
-https://arxiv.org/abs/2012.11747v3
 RealFormer
+```
+https://arxiv.org/abs/2012.11747v3
 https://bit.ly/3EQSoYW
 https://bit.ly/3DMWyzG
 https://github.com/google-research/google-research
 https://github.com/jaketae/realformer
+```
 
 56
-https://arxiv.org/abs/2002.11296v1
 Sinkhorn Transformer
+```
+https://arxiv.org/abs/2002.11296v1
 https://bit.ly/3yjJOiV
 https://github.com/lucidrains/sinkhorn-transformer
 https://colab.research.google.com/drive/1Eej8U4pP5ldZOz3tHwpoBFgmQqLhQLUq
+```
 
 57
-https://arxiv.org/abs/2004.08022v2
 SongNet
+```
+https://arxiv.org/abs/2004.08022v2
 https://bit.ly/3ym2hLH
 https://github.com/lipiji/SongNet
+```
 
 58
-https://arxiv.org/abs/2006.03236v1
 Funnel Transformer
+```
+https://arxiv.org/abs/2006.03236v1
 https://bit.ly/31WfMWc
 https://youtu.be/QsIcEqGriGg
 https://github.com/laiguokun/Funnel-Transformer
 https://colab.research.google.com/github/iIsunnyIi/Funnel-Transformer/blob/main/Funnel_IntentRecognition.ipynb
+```
 
 59
-https://arxiv.org/abs/2002.12328v1
 SC-GPT
+```
+https://arxiv.org/abs/2002.12328v1
 https://bit.ly/31VCldV
 https://youtu.be/NWHqFbgHqng
 https://github.com/pengbaolin/SC-GPT
+```
 
 60
-https://arxiv.org/abs/2004.12297v2
 SMITH
+```
+https://arxiv.org/abs/2004.12297v2
 https://bit.ly/3dHyOm2
 https://youtu.be/VHsYJu9VzyI
 https://github.com/google-research/google-research/tree/master/smith
+```
 
 61
-https://arxiv.org/abs/2012.15701v2
 BinaryBERT
+```
+https://arxiv.org/abs/2012.15701v2
 https://bit.ly/3dNguYx
 https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BinaryBERT
+```
 
 62
-https://arxiv.org/abs/2006.11316v1
 SqueezeBERT
+```
+https://arxiv.org/abs/2006.11316v1
 https://bit.ly/3EPfqiT
 https://youtu.be/kPMaEYSywdI
 https://github.com/huggingface/transformers/blob/master/src/transformers/modeling_squeezebert.py
 https://colab.research.google.com/github/urainshah/Use-of-transformers-hugging-face/blob/main/fakenews_squeezebert1.ipynb
+```
 
 63
-https://arxiv.org/abs/2002.09402v3
 Feedback Transformer
+```
+https://arxiv.org/abs/2002.09402v3
 https://bit.ly/31VDQJ5
 https://youtu.be/-QH8fRhqFHM
 https://github.com/facebookresearch/transformer-sequential
 https://colab.research.google.com/github/rajaswa/feedback-and-memory-in-transformers/blob/main/Feedback_and_Memory_in_Transformers.ipynb
+```
 
 64
-https://arxiv.org/abs/1911.03894
 CamemBERT
+```
+https://arxiv.org/abs/1911.03894
 https://bit.ly/3yj1AD0
 https://huggingface.co/docs/transformers/model_doc/camembert
 https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg
 https://colab.research.google.com/github/SimonLembeye/french-sentence-embedding/blob/master/sentence_transformers_camembert.ipynb
+```
 
 65
-https://arxiv.org/abs/2012.00413
 CPM
+```
+https://arxiv.org/abs/2012.00413
 https://bit.ly/30jaW4W
 https://youtu.be/dFTG3ohAcso
+```
 
 66
-https://arxiv.org/abs/1911.00536
 DialoGPT
+```
+https://arxiv.org/abs/1911.00536
 https://bit.ly/3dKCT8T
 https://youtu.be/Zo679MYoJns
 https://github.com/microsoft/DialoGPT
 https://colab.research.google.com/drive/1PslHE4Rl4RqSa20s7HEp0ZKITBir6ezE
+```
 
 67
-https://arxiv.org/abs/2004.04906
 DPR
+```
+https://arxiv.org/abs/2004.04906
 https://bit.ly/3oLM0g0
 https://youtu.be/DBsxUSUhfRg
 https://github.com/facebookresearch/DPR
 https://colab.research.google.com/github/deepset-ai/haystack/blob/master/tutorials/Tutorial1_Basic_QA_Pipeline.ipynb
+```
 
 68
-https://arxiv.org/abs/1912.05372
 FlauBERT
+```
+https://arxiv.org/abs/1912.05372
 https://bit.ly/3GENX40
 https://bit.ly/3GElYkU
 https://github.com/getalp/Flaubert
 https://colab.research.google.com/github/Rushikesh10/FlauBERT-Text-Summarization/blob/main/FlauBERT%20Colab%20Notebook.ipynb
+```
 
 69
-https://www.aclweb.org/anthology/2020.acl-main.111.pdf
 HerBERT
+```
+https://www.aclweb.org/anthology/2020.acl-main.111.pdf
 https://bit.ly/3GyppJM
 https://bit.ly/3dOIR92
 https://github.com/allegro/klejbenchmark-baselines
 https://colab.research.google.com/github/klinkeklinke/TransformersTransferLearning/blob/32aae9ee170a9c7fe4037a9dc7d3cee150805c38/transfer_learning_nlp.ipynb#scrollTo=c4cf3720
+```
 
 70
-https://arxiv.org/abs/1912.13318
 LayoutLM
+```
+https://arxiv.org/abs/1912.13318
 https://bit.ly/3rWIukZ
 https://youtu.be/zazN_yFWlLM
 https://github.com/microsoft/unilm
 https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/LayoutLM/Fine_tuning_LayoutLMForTokenClassification_on_FUNSD.ipynb
+```
 
 71
-https://arxiv.org/abs/2004.05150
 LED
+```
+https://arxiv.org/abs/2004.05150
 https://bit.ly/3pTAGh4
 https://youtu.be/_8KNb5iqblE
 https://github.com/allenai/longformer
 https://colab.research.google.com/github/allenai/longformer/blob/master/scripts/convert_model_to_long.ipynb
+```
 
 72
-https://arxiv.org/abs/2010.01057
 LUKE
+```
+https://arxiv.org/abs/2010.01057
 https://bit.ly/3rYxxiC
 https://youtu.be/oho-i5Ws07g
 https://github.com/studio-ousia/luke
 https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/LUKE/Supervised_relation_extraction_with_LukeForEntityPairClassification.ipynb
+```
 
 73
-https://arxiv.org/abs/2010.11125
 M2M100
+```
+https://arxiv.org/abs/2010.11125
 https://bit.ly/33jc6P3
 https://bit.ly/30u83yw
 https://github.com/pytorch/fairseq
 https://colab.research.google.com/github/harveenchadha/bol/blob/main/demos/gr/hindi/Speech_ASR_plus_Translation_Hindi.ipynb
+```
 
 74
-https://arxiv.org/abs/2001.08210
 MBart and MBart-50
+```
+https://arxiv.org/abs/2001.08210
 https://bit.ly/3lZelh1
 https://youtu.be/oO7k5lH8Oe8
 https://github.com/pytorch/fairseq/tree/master/examples/mbart
 https://colab.research.google.com/github/sdhilip200/Machine-Translation-using-mBART-50-and-Hugging-Face/blob/main/Machine_Translation.ipynb
+```
 
 75
-https://arxiv.org/abs/1909.08053
 MegatronBERT
+```
+https://arxiv.org/abs/1909.08053
 https://bit.ly/3IMtdZO
 https://youtu.be/wBgpMf_KQVw
 https://github.com/NVIDIA/Megatron-LM
 https://colab.research.google.com/github/kssteven418/Q-ASR/blob/0ad68cdeddbd5a4c8edba6a0876470ec48186584/tutorials/nlp/Relation_Extraction-BioMegatron.ipynb
+```
 
 76
-https://arxiv.org/abs/1909.08053
 MegatronGPT2
+```
+https://arxiv.org/abs/1909.08053
 https://bit.ly/33tQMGV
 https://colab.research.google.com/github/877152223/BugInjector/blob/4cf14e237b97a724edbb4b1300170c3cc832fc2f/BugInjector-GPT2.ipynb
+```
 
 77
-https://arxiv.org/abs/2004.09297
 MPNet
+```
+https://arxiv.org/abs/2004.09297
 https://bit.ly/3pPD6gO
 https://youtu.be/WS1uVMGhlWQ
 https://github.com/microsoft/MPNet
 https://colab.research.google.com/github/04mayukh/Neutral-tweet-identification-on-OLID-using-Neutrosophy/blob/45bbd6c57054337e8af6429554f2dda4aef266d1/Models/MPNet.ipynb
+```
 
 78
-https://arxiv.org/pdf/1912.08777.pdf
 Pegasus
+```
+https://arxiv.org/pdf/1912.08777.pdf
 https://bit.ly/3mkVsWb
 https://youtu.be/naRdmLvlEzE
 https://github.com/google-research/pegasus
 https://colab.research.google.com/github/CoGian/pegasus_demo_huggingface/blob/master/pegasus_demo_huggingface.ipynb
+```
 
 
 79
-https://arxiv.org/abs/2003.00744v3
 PhoBERT
+```
+https://arxiv.org/abs/2003.00744v3
 https://bit.ly/31Kahul
 https://youtu.be/7d--8leiZgA
 https://paperswithcode.com/paper/phobert-pre-trained-language-models-for#code
 https://colab.research.google.com/github/ncthuan/text_cls_phobert/blob/master/phobert_clf.ipynb
+```
 
 80
-https://arxiv.org/abs/2004.09602
 QDQBERT
+```
+https://arxiv.org/abs/2004.09602
 https://bit.ly/3pXReVs
 https://youtu.be/mDefFU7rbV0
 https://github.com/huggingface/pytorch-transformers
 https://colab.research.google.com/github/ELS-RD/transformer-deploy/blob/814477ce3b3279cff8f8c3947294119f399903b6/demo/quantization_end_to_end.ipynb
+```
 
 81
-https://arxiv.org/abs/2010.12821
 RemBERT
+```
+https://arxiv.org/abs/2010.12821
 https://bit.ly/31KaNIN
 https://github.com/JK1002497318/RemBERT
 https://colab.research.google.com/github/kldarek/chaii/blob/194f92b808cb1c81b70b889ab8d061344ef34ef9/training_notebooks/REMBERT_pretraining77.ipynb
+```
 
 82
-https://yjernite.github.io/lfqa.html
 RetriBERT
+```
+https://yjernite.github.io/lfqa.html
 https://bit.ly/3s0Ta1O
 https://colab.research.google.com/github/robhaslinger/EALI5-redux/blob/50ce17c33c333a0d9781f00e29888f2844ad6aae/notebooks/qa_step_by_step.ipynb
+```
 
 83
-https://arxiv.org/abs/2010.05171
 Speech2Text
+```
+https://arxiv.org/abs/2010.05171
 https://bit.ly/31ZJWI7
 https://youtu.be/a-OwY2SqKQI
 https://github.com/pytorch/fairseq/tree/master/examples/speech_to_text
+```
 
 84
-https://arxiv.org/abs/2002.05202
 T5v1.1
+```
+https://arxiv.org/abs/2002.05202
 https://bit.ly/3pSWCJm
 https://github.com/google-research/text-to-text-transfer-transformer/
 https://github.com/lucidrains/x-transformers
+```
 
 85
-https://arxiv.org/abs/2004.02349
 TAPAS
+```
+https://arxiv.org/abs/2004.02349
 https://bit.ly/3lZtfnE
 https://youtu.be/ZnuEOQrT4h0
 https://github.com/google-research/tapas
 https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/TAPAS/Evaluating_TAPAS_on_the_Tabfact_test_set.ipynb
+```
 
 86
-https://arxiv.org/abs/2006.11477
 Wav2Vec2
+```
+https://arxiv.org/abs/2006.11477
 https://bit.ly/3GJBADT
 https://youtu.be/aUSXvoWfy3w
 https://github.com/chuachinhon/wav2vec2_transformers
 https://colab.research.google.com/github/chuachinhon/wav2vec2_transformers/blob/main/notebooks/2.2_wav2vec2_poetry_alt.ipynb
+```
 
 87
-https://arxiv.org/abs/2001.04063
 XLM-ProphetNet
+```
+https://arxiv.org/abs/2001.04063
 https://bit.ly/3EQ6KbP
 https://huggingface.co/docs/transformers/model_doc/xlmprophetnet
 https://colab.research.google.com/github/Biswajit7890/ADV-DL-NLP-Notebooks/blob/2258022d0c06599317ef3db3d53ef8d4826fd0c2/custom_language_translation_Training_with_XLMProphetNet_.ipynb
+```
 
 88
-https://arxiv.org/abs/1911.02116
 XLM-RoBERTa
+```
+https://arxiv.org/abs/1911.02116
 https://bit.ly/3IHnHI3
 https://www.youtube.com/watch?v=Ot6A3UFY72c&amp;ab_channel=AISuisse
 https://github.com/facebookresearch/cc_net
 https://colab.research.google.com/github/edoost/pert/blob/29fc78bc36110ea031083a3e7294ce9135026ee1/pos_xlmroberta_multi.ipynb
+```
 
 89
-https://arxiv.org/abs/2006.13979
 XLSR-Wav2Vec2
+```
+https://arxiv.org/abs/2006.13979
 https://bit.ly/33qEO0D
 https://bit.ly/3DSHm4e
 https://github.com/HLasse/wav2vec_finetune
 https://colab.research.google.com/github/kingabzpro/WOLOF-ASR-Wav2Vec2/blob/e389abae6887788894795b7fd0171b306e3ca752/3-asr-fine-tune-wolof-gdrive.ipynb
+```
 
 90
-https://arxiv.org/abs/2101.03961v1
 Switch Transformer
+```
+https://arxiv.org/abs/2101.03961v1
 https://bit.ly/3IHgLup
 https://youtu.be/2pbvnxdaKaw
 https://github.com/tensorflow/mesh
 https://colab.research.google.com/github/LoniQin/english-spanish-translation-switch-transformer/blob/main/english_spanish_translation_switch_transformer.ipynb
+```
 
 91
-https://arxiv.org/abs/2103.00112v3
 TNT
+```
+https://arxiv.org/abs/2103.00112v3
 https://bit.ly/3pRazY7
 https://youtu.be/HWna2c5VXDg
 https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch
 https://colab.research.google.com/github/Rishit-dagli/Transformer-in-Transformer/blob/main/example/tnt-example.ipynb
+```
 
 92
-https://arxiv.org/abs/1905.07799v2
 Adaptive Span Transformer
+```
+https://arxiv.org/abs/1905.07799v2
 https://bit.ly/31SYHwT
 https://bit.ly/3GFNqib
 https://github.com/facebookresearch/adaptive-span
 https://colab.research.google.com/github/prajjwal1/adaptive_transformer/blob/8f062a7d5c6573ebdb1aa2b57113db918156b15a/nbs/adaptive_train.ipynb
+```
 
 93
-https://arxiv.org/abs/2109.08668v1
 Primer
+```
+https://arxiv.org/abs/2109.08668v1
 https://bit.ly/3s1eYKD
 https://youtu.be/ze7poOz-5Pw
 https://github.com/google-research/google-research/tree/master/primer
 https://github.com/lucidrains/x-transformers#relu
+```
 
 94
-https://arxiv.org/abs/2106.12672v2
 Charformer
+```
+https://arxiv.org/abs/2106.12672v2
 https://bit.ly/3GH3tfQ
 https://youtu.be/debgj24BAZE
 https://github.com/google-research/google-research/tree/master/charformer
 https://github.com/lucidrains/charformer-pytorch
+```
 
 95
-https://arxiv.org/abs/2109.04312v1
 MATE
+```
+https://arxiv.org/abs/2109.04312v1
 https://bit.ly/3lZ37cs
 https://youtu.be/TsTib7b0zqU
 https://github.com/google-research/tapas
 https://colab.research.google.com/github/google-research/tapas/blob/master/notebooks/sqa_predictions.ipynb
+```
 
 96
-https://arxiv.org/abs/2102.03902v3
 Nystromformer
+```
+https://arxiv.org/abs/2102.03902v3
 https://bit.ly/3IIzoy4
 https://youtu.be/m-zrcmRd7E4
 https://github.com/mlpen/Nystromformer
+```
 
 97
-https://arxiv.org/abs/2101.00234v3
 Subformer
+```
+https://arxiv.org/abs/2101.00234v3
 https://bit.ly/3IKod7X
 https://github.com/machelreid/subformer
+```
 
 98
-https://arxiv.org/abs/2108.11992v1
 ESACL
+```
+https://arxiv.org/abs/2108.11992v1
 https://bit.ly/33qph0M
 https://youtu.be/dHHvdubDnYM
 https://github.com/chz816/esacl
+```
 
 99
-https://arxiv.org/abs/2109.02377v2
 PermuteFormer
+```
+https://arxiv.org/abs/2109.02377v2
 https://bit.ly/3pT0ABv
 https://github.com/cpcp1998/permuteformer
+```
 
 100
-https://arxiv.org/abs/2110.09456v2
 NormFormer
+```
+https://arxiv.org/abs/2110.09456v2
 https://bit.ly/3DSZbQq
 https://github.com/pytorch/fairseq
+```
 
 101
-https://arxiv.org/abs/2108.09084v6
 Fastformer
+```
+https://arxiv.org/abs/2108.09084v6
 https://bit.ly/3lZ4nME
 https://youtu.be/qgUegkefocg
 https://github.com/microsoft/fastformers
 https://colab.research.google.com/github/wuch15/Fastformer/blob/main/Fastformer.ipynb
+```
 
 102
-https://arxiv.org/abs/2107.13686v1
 AutoTinyBERT
+```
+https://arxiv.org/abs/2107.13686v1
 https://bit.ly/31Kfxy5
 https://github.com/huawei-noah/Pretrained-Language-Model
 https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/AutoTinyBERT
+```
 
 103
-https://arxiv.org/abs/2108.03348v2
 EGT
+```
+https://arxiv.org/abs/2108.03348v2
 https://bit.ly/3rXLWvt
 https://youtu.be/51_K8RDVlXY
 https://github.com/shamim-hussain/egt
+```
 
 104
-https://arxiv.org/abs/2109.05729v3
 Chinese Pre-trained Unbalanced   Transformer
+```
+https://arxiv.org/abs/2109.05729v3
 https://bit.ly/3oOI6mr
 https://github.com/fastnlp/cpt
 https://github.com/fastnlp/CPT
+```
 
 105
-https://arxiv.org/abs/2103.01209v3
 GANFormer
+```
+https://arxiv.org/abs/2103.01209v3
 https://bit.ly/3dJjZzt
 https://youtu.be/HO-_t0UArd4
 https://colab.research.google.com/github/GiorgiaAuroraAdorni/gansformer-reproducibility-challenge/blob/83c145d9e706d3814cf0eef7036a8e59c2accb2b/colab%20notebooks/Reproducibility_model_trainer.ipynb
+```
 
 106
-https://arxiv.org/abs/2102.06183v1
 ClipBERT
+```
+https://arxiv.org/abs/2102.06183v1
 https://bit.ly/3ERUCY6
 https://youtu.be/cBVdz1FjwVM
 https://github.com/jayleicn/ClipBERT
+```
 
 107
-https://arxiv.org/abs/2109.00859v1
 CodeT5
+```
+https://arxiv.org/abs/2109.00859v1
 https://bit.ly/3oMJp5t
 https://colab.research.google.com/github/Dehbaiyor/IDLFall2021Project/blob/b100172b4477447db82a5c1c96dcef2349592ae4/Baselines/codet5-baseline.ipynb
+```
 
 108
-https://paperswithcode.com/method/i-bert
 I-BERT
+```
+https://paperswithcode.com/method/i-bert
 https://bit.ly/3yiN521
 https://huggingface.co/docs/transformers/model_doc/ibert
+```
 
 109
-https://arxiv.org/abs/2105.13626
 ByT5
+```
+https://arxiv.org/abs/2105.13626
 https://bit.ly/3dLRpxh
 https://youtu.be/vEOYfPPu3ik
 https://github.com/google-research/byt5
 https://colab.research.google.com/drive/1rxpI8IlKk-D2crFqi2hdzbTBIezqgsCg?usp=sharing
+```
 
 110
-https://arxiv.org/abs/2103.06874
 CANINE
+```
+https://arxiv.org/abs/2103.06874
 https://bit.ly/3EQym0N
 https://youtu.be/E17qE148aSM
 https://github.com/google-research/language/tree/master/language/canine
 https://github.com/NielsRogge/Transformers-Tutorials/blob/master/CANINE/Fine_tune_CANINE_on_IMDb_(movie_review_binary_classification).ipynb
+```
 
 111
-https://arxiv.org/abs/2105.03824
 FNet
+```
+https://arxiv.org/abs/2105.03824
 https://bit.ly/3DR2yrl
 https://youtu.be/JJR3pBl78zw
 https://github.com/rishikksh20/FNet-pytorch
 https://colab.research.google.com/github/vishal-burman/PyTorch-Architectures/blob/master/modeling_FNet/test_sample_FNet.ipynb
+```
 
 112
-https://arxiv.org/abs/2012.14740
 LayoutLMV2
+```
+https://arxiv.org/abs/2012.14740
 https://bit.ly/3dQwpFq
 https://bit.ly/3DRodzt
 https://github.com/microsoft/unilm
 https://colab.research.google.com/github/jdegange/MultimodalDocumentTransformers/blob/cc03caeca7efc1b17789567cc7a0b7e1c8bdac1a/Fine_tuning_LayoutLMv2ForTokenClassification_on_CORD.ipynb
+```
 
 113
-https://arxiv.org/abs/2104.08836
 LayoutXLM
+```
+https://arxiv.org/abs/2104.08836
 https://bit.ly/3DPjZZ6
 /ashishpatel26/Treasure-of-Transformers/blob/main
 https://github.com/microsoft/unilm/tree/master/layoutxlm
 https://github.com/hieuthehungry/layout_xlm_vnm/blob/b35c9f13cd9ea75832d39a74587ca84610d8c659/fine_tuning_layoutxlm_fortokenclassification_on_cord.py
+```
 
 114
-https://huggingface.co/docs/transformers/model_doc/gptj
 GPT-J
+```
+https://huggingface.co/docs/transformers/model_doc/gptj
 https://bit.ly/3EV9WmI
 https://youtu.be/S9FhhhQEqiE
 https://github.com/kingoflolz/mesh-transformer-jax
 https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/GPT-J-6B/Inference_with_GPT_J_6B.ipynb
+```
 
 115
-https://arxiv.org/abs/2106.07447
 Hubert
+```
+https://arxiv.org/abs/2106.07447
 https://bit.ly/3ETLjGU
 https://youtu.be/p5M7CYZAqfA
 https://github.com/huseinzol05/malaya-speech
 https://colab.research.google.com/github/shamik-biswas-rft/Speech2Text/blob/8c8663b6cd3dbff557e90a6e813b58b17005a2bf/notebooks/automatic_transcriptions.ipynb
+```
 
 116
-https://arxiv.org/abs/2107.14795
 Perceiver
+```
+https://arxiv.org/abs/2107.14795
 https://bit.ly/3dNUWLE
 https://youtu.be/WJWBq4NZfvY
 https://github.com/deepmind/deepmind-research/tree/master/perceiver
 https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/Perceiver/Perceiver_for_masked_language_modeling_and_image_classification.ipynb
+```
 
 117
-https://arxiv.org/pdf/2104.09864v1.pdf
 RoFormer
+```
+https://arxiv.org/pdf/2104.09864v1.pdf
 https://bit.ly/31TNbAX
 https://youtu.be/rNG_hpSyZcE
 https://github.com/ZhuiyiTechnology/roformer
 https://github.com/JunnYu/RoFormer_pytorch
+```
 
 118
-https://arxiv.org/abs/2105.15203
 SegFormer
-2021
+```
+https://arxiv.org/abs/2105.15203
 https://bit.ly/3ESxzw3
 https://youtu.be/J0MoRQzZe8U
 https://github.com/NVlabs/SegFormer
 https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/SegFormer/Segformer_inference_notebook.ipynb
+```
 
 119
-https://arxiv.org/abs/2109.06870
 SEW
+```
+https://arxiv.org/abs/2109.06870
 https://bit.ly/3EQ4n8V
 /ashishpatel26/Treasure-of-Transformers/blob/main
 https://github.com/asappresearch/sew
 https://huggingface.co/docs/transformers/model_doc/sew
+```
 
 120
-https://arxiv.org/abs/2109.06870
 SEW-D
+```
+https://arxiv.org/abs/2109.06870
 https://bit.ly/3dI3iV3
 /ashishpatel26/Treasure-of-Transformers/blob/main
 https://github.com/asappresearch/sew
 https://huggingface.co/docs/transformers/model_doc/sew_d
+```
 
 121
-https://arxiv.org/abs/2104.06678
 Speech2Text2
+```
+https://arxiv.org/abs/2104.06678
 https://bit.ly/3dNMGLn
 https://youtu.be/dJAoK5zK36M
 https://arxiv.org/abs/2104.06678
+```
 
 122
-https://arxiv.org/abs/2101.00438
 Splinter
+```
+https://arxiv.org/abs/2101.00438
 https://bit.ly/3dLX86f
 https://bit.ly/3oUTyNi
 https://github.com/oriram/splinter
 https://colab.research.google.com/github/Qiwei97/Machine-Learning-Models/blob/67c713c411ec824a2dfcb0d75f1185d2d1b6e354/NLP%20Projects/Question%20Answering/Splinter%20TPU.ipynb
+```
 
 123
-https://arxiv.org/abs/2109.10282
 TrOCR
+```
+https://arxiv.org/abs/2109.10282
 https://bit.ly/30mlLmR
 https://github.com/microsoft/unilm/tree/master/trocr
 https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/TrOCR/Inference_with_TrOCR_%2B_Gradio_demo.ipynb
+```
 
 124
-https://arxiv.org/abs/2101.07597
 UniSpeech
+```
+https://arxiv.org/abs/2101.07597
 https://bit.ly/3rZ5Aaq
 https://youtu.be/hS42xD3O55E
 https://github.com/microsoft/UniSpeech
 https://huggingface.co/docs/transformers/model_doc/unispeech
+```
 
 125
-https://arxiv.org/abs/2110.05752
 UniSpeech-SAT
+```
+https://arxiv.org/abs/2110.05752
 https://bit.ly/3rY9wZ1
 https://youtu.be/l4t_ENqo5rE
 https://github.com/microsoft/unispeech
 https://huggingface.co/docs/transformers/model_doc/unispeech_sat
+```
 
 126
-https://huggingface.co/docs/transformers/model_doc/marian
 MarianMT
+```
 https://huggingface.co/docs/transformers/model_doc/marian
+```
 
-
-3	Andrew NG ML notes
+Andrew NG ML notes
+```
 https://github.com/ashishpatel26/Andrew-NG-Notes
+```
 
-4	10 Machine Learning Projects on Time Series Forecasting	
+Machine Learning Projects on Time Series Forecasting	
+```
 https://medium.com/coders-camp/10-machine-learning-projects-on-time-series-forecasting-ee0368420ccd
+```
 
-1
+1\
 Covid-19 Cases Predictions for Next 30 Days
-https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/"
+```
+https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/
+```
 
-2
+2\
 Stock Price Prediction using Linear Regression   
+```
 https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
+```
 
-3
+3\
 Earthquake Prediction Model
+```
 https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/
+```
 
-4
+4\
 Predict Migration
+```
 https://thecleverprogrammer.com/2020/09/08/predict-migration-with-machine-learning/
+```
 
-5
+5\
 Weather Prediction Model
+```
 https://thecleverprogrammer.com/2020/08/30/predict-weather-with-machine-learning/
+```
 
-6
+6\
 Time Series with LSTM
+```
 https://thecleverprogrammer.com/2020/08/29/time-series-with-lstm-in-machine-learning/
+```
 
-7
+7\
 Daily Births Forecasting
+```
 https://thecleverprogrammer.com/2020/08/27/daily-births-forecasting-with-machine-learning/
+```
 
-8
+8\
 Google Stock Price Prediction
+```
 https://thecleverprogrammer.com/2020/08/09/stock-price-prediction-with-facebook-prophet-model/
+```
 
-9
+9\
 Anomaly Detection using ARIMA Model
+```
 https://thecleverprogrammer.com/2020/08/04/arima-model-in-machine-learning/
+```
 
-10
+10\
 Rainfall Prediction Model
+```
 https://thecleverprogrammer.com/2020/09/11/rainfall-prediction-with-machine-learning/
+```
 
-5	
+5\	
 20 Deep Learning Projects Solved and Explained with Python
+```
 https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/
+```
 
 Pneumonia Detection
+```
 https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/
+```
 
 Face Mask Detection
+```
 https://thecleverprogrammer.com/2020/11/17/face-mask-detection-with-machine-learning/
+```
 
 Earthquake Prediction Model
+```
 https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/
+```
 
 Landmark Detection Model
+```
 https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/
+```
 
 Chatbot with Deep Learning
+```
 https://thecleverprogrammer.com/2020/11/01/chatbot-with-machine-learning-and-python/
+```
 
 Title Generator
+```
 https://thecleverprogrammer.com/2020/10/05/title-generator-with-machine-learning/
+```
 
-Deepfake Detectionhttps://thecleverprogrammer.com/2020/10/03/deepfake-detection-with-python/
+Deepfake Detection
+```
+https://thecleverprogrammer.com/2020/10/03/deepfake-detection-with-python/
+```
 
-Classify Nationalitieshttps://thecleverprogrammer.com/2020/09/27/classify-nationalities-with-machine-learning/
+Classify Nationalities
+```
+https://thecleverprogrammer.com/2020/09/27/classify-nationalities-with-machine-learning/
+```
 
-Predict Car Priceshttps://thecleverprogrammer.com/2020/09/21/predict-car-prices-with-machine-learning/
+Predict Car Prices
+```
+https://thecleverprogrammer.com/2020/09/21/predict-car-prices-with-machine-learning/
+```
 
-Predict Fuel Efficiency   https://thecleverprogrammer.com/2020/09/02/predict-fuel-efficiency-with-machine-learning/
+Predict Fuel Efficiency   
+```
+https://thecleverprogrammer.com/2020/09/02/predict-fuel-efficiency-with-machine-learning/
+
+```
 
 Text Classification
+```
 https://thecleverprogrammer.com/2020/08/31/text-classification-with-tensorflow-in-machine-learning/
 
-
-Image Classificationhttps://thecleverprogrammer.com/2020/08/30/image-classification-with-tensorflow-in-machine-learning/
-
-
-Image Recognitionhttps://thecleverprogrammer.com/2020/08/26/image-recognition-with-machine-learning-using-pytorch/
-
-
-Fashion Recommendation Systemhttps://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/
-
-
-Named Entity Recognitionhttps://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/
-
-
-Machine Translation Modelhttps://thecleverprogrammer.com/2020/07/28/machine-translation-model/
-
-Face Landmarks Detection
-https://thecleverprogrammer.com/2020/07/22/face-landmarks-detection/
-
-
-Next Word Prediction Modelhttps://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
-
-
-Covid-19 Detectionhttps://thecleverprogrammer.com/2020/07/09/covid-19-detection/
-
-Dog and Cat Classification
-https://thecleverprogrammer.com/2020/06/16/dog-and-cat-classification-using-convolutional-neural-networks-cnn/
-
-
-https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
-
-100+ Machine Learning Projects Solved and Explained
-
-6	
-20 Machine learning Project	
-
-Online Shopping Intention Analysis
-https://thecleverprogrammer.com/2020/12/04/online-shopping-intention-analysis-with-python/
-
-Amazon Bestselling Books Analysis
-https://thecleverprogrammer.com/2020/11/30/amazon-bestselling-books-analysis-with-python/
-
-Covid-19 Cases prediction for next 30 days
-https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/
-
-YouTube Trending Videos Analysis
-https://thecleverprogrammer.com/2020/11/28/youtube-trending-videos-analysis-with-python/
-
-Calories Burned Prediction
-https://thecleverprogrammer.com/2020/11/26/calories-burned-prediction-with-python/
-
-Gender Classification Model
-https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/
-
-Air Quality Index Analysis
-https://thecleverprogrammer.com/2020/11/23/air-quality-index-analysis-with-python/
-
-Pneumonia Detection
-https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/
-
-Employee Attrition Prediction
-https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/
-
-Restaurant Recommendation System
-https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/
-
-Face Mask Detection
-https://thecleverprogrammer.com/2020/11/17/face-mask-detection-with-machine-learning/
-
-Breast Cancer Detection Model
-https://thecleverprogrammer.com/2020/11/14/breast-cancer-detection-with-machine-learning/
-
-Stock Price Prediction
-https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
-
-Earthquake Prediction Model
-https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/
-
-Heart Disease Prediction Model
-https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/
-
-Google Landmark Detection Model
-https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/
-
-Title Generator
-https://thecleverprogrammer.com/2020/10/05/title-generator-with-machine-learning/
-
-Election Results Prediction
-https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/
-
-Named Entity Recognition
-https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/
+```
+Image Classification
+```
+https://thecleverprogrammer.com/2020/08/30/image-classification-with-tensorflow-in-machine-learning/
+```
+Image Recognition
+```
+https://thecleverprogrammer.com/2020/08/26/image-recognition-with-machine-learning-using-pytorch/
+```
 
 Fashion Recommendation System
+```
 https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/
+```
 
 
-7	
-30 Python Project Solved and Explained	
+Named Entity Recognition
+```
+https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/
+```
+
+
+Machine Translation Model
+```
+https://thecleverprogrammer.com/2020/07/28/machine-translation-model/
+```
+
+Face Landmarks Detection
+```
+https://thecleverprogrammer.com/2020/07/22/face-landmarks-detection/
+```
+
+
+Next Word Prediction Model
+```
+https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
+```
+
+
+Covid-19 Detection
+```
+https://thecleverprogrammer.com/2020/07/09/covid-19-detection/
+```
+
+Dog and Cat Classification
+```
+https://thecleverprogrammer.com/2020/06/16/dog-and-cat-classification-using-convolutional-neural-networks-cnn/
+```
+
+Online Shopping Intention Analysis
+```
+https://thecleverprogrammer.com/2020/12/04/online-shopping-intention-analysis-with-python/
+```
+
+Amazon Bestselling Books Analysis
+```
+https://thecleverprogrammer.com/2020/11/30/amazon-bestselling-books-analysis-with-python/
+```
+
+Covid-19 Cases prediction for next 30 days
+```
+https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/
+```
+
+YouTube Trending Videos Analysis
+```
+https://thecleverprogrammer.com/2020/11/28/youtube-trending-videos-analysis-with-python/
+```
+
+Calories Burned Prediction
+```
+https://thecleverprogrammer.com/2020/11/26/calories-burned-prediction-with-python/
+```
+
+Gender Classification Model
+```
+https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/
+```
+
+Air Quality Index Analysis
+```
+https://thecleverprogrammer.com/2020/11/23/air-quality-index-analysis-with-python/
+```
+
+Pneumonia Detection
+```
+https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/
+```
+
+Employee Attrition Prediction
+```
+https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/
+```
+
+Restaurant Recommendation System
+```
+https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/
+```
+
+Face Mask Detection
+```
+https://thecleverprogrammer.com/2020/11/17/face-mask-detection-with-machine-learning/
+```
+
+Breast Cancer Detection Model
+```
+https://thecleverprogrammer.com/2020/11/14/breast-cancer-detection-with-machine-learning/
+```
+
+Stock Price Prediction
+```
+https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
+```
+
+Earthquake Prediction Model
+```
+https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/
+```
+
+Heart Disease Prediction Model
+```
+https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/
+```
+
+Google Landmark Detection Model
+```
+https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/
+```
+
+Title Generator
+```
+https://thecleverprogrammer.com/2020/10/05/title-generator-with-machine-learning/
+```
+
+Election Results Prediction
+```
+https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/
+```
+
+Named Entity Recognition
+```
+https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/
+```
+
+Fashion Recommendation System
+```
+https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/
+```
 
 Calculator GUI with Python
+```
 https://thecleverprogrammer.com/2020/12/05/calculator-gui-with-python/
+```
 
 Number Guessing Game
+```
 https://thecleverprogrammer.com/2020/12/04/number-guessing-game-with-python-and-c/
+```
 
 Image Converter GUI
+```
 https://thecleverprogrammer.com/2020/12/02/image-converter-gui-with-python/
+```
 
 Spelling Correction with Python
+```
 https://thecleverprogrammer.com/2020/11/30/correct-spellings-with-python/
+```
 
 Weight Converter GUI
+```
 https://thecleverprogrammer.com/2020/11/28/weight-converter-gui-with-python/
+```
 
 Chessboard with Python
+```
 https://thecleverprogrammer.com/2020/11/27/chessboard-with-python/
+```
 
 Bar Code and QRcode Reader
+```
 https://thecleverprogrammer.com/2020/10/23/barcode-and-qr-code-reader-with-python/
+```
 
 Card Game with Python
+```
 https://thecleverprogrammer.com/2020/10/04/card-game-with-python/
+```
 
 Quiz Game with Python
+```
 https://thecleverprogrammer.com/2020/10/02/quiz-game-with-python/
+```
 
 Creating a Web Scraper with Python
+```
 https://thecleverprogrammer.com/2020/10/01/web-scraper-with-python/
+```
 
 Pencil Sketch with Python
+```
 https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/
+```
 
 Text Editor GUI
+```
 https://thecleverprogrammer.com/2020/09/25/text-editor-gui-with-python/
+```
 
 Instagram Filters with Python
+```
 https://thecleverprogrammer.com/2020/09/24/instagram-filters-with-python/
+```
 
 Send Custom Emails with Python
+```
 https://thecleverprogrammer.com/2020/09/15/send-emails-with-python/
+```
 
 Create a 3D Video with Python
+```
 https://thecleverprogrammer.com/2020/09/14/3d-video-with-python/
+```
 
 OTP Verification GUI
+```
 https://thecleverprogrammer.com/2020/08/24/otp-verification-gui-with-python/
+```
 
 Scraping and Download Youtube Videos with Python
+```
 https://thecleverprogrammer.com/2020/08/23/scraping-youtube-with-python/
+```
 
 Deploy a Chatbot with HTML, CSS, and Python
+```
 https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/
+```
 
 Telegram Bot with Python
+```
 https://thecleverprogrammer.com/2020/08/18/telegram-bot-with-python/
+```
 
 Scraping Twitter without API
+```
 https://thecleverprogrammer.com/2020/08/17/scraping-twitter-with-python/
+```
 
 Unique Password Generator GUI
+```
 https://thecleverprogrammer.com/2020/08/17/password-generator-with-python/
+```
 
 Text to Speech with Python
+```
 https://thecleverprogrammer.com/2020/08/16/text-to-speech-with-python/
+```
 
 Bar Chart Race with Python
+```
 https://thecleverprogrammer.com/2020/08/14/bar-chart-race-with-python/
+```
 
 Scrape Wikipedia with Python
+```
 https://thecleverprogrammer.com/2020/08/10/scrape-wikipedia-with-python/
+```
 
 Translate using Python
+```
 https://thecleverprogrammer.com/2020/08/10/translate-using-python/
+```
 
 Scraping Instagram with Python
+```
 https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/
+```
 
 Generate Interactive Maps
+```
 https://thecleverprogrammer.com/2020/06/30/generate-interactive-maps-using-folium-in-python/
+```
 
 Python Calendar GUI
+```
 https://thecleverprogrammer.com/2020/04/23/python-gui-app-for-calendar/
+```
 
+python-gui-app-for-student-details
+```
 https://thecleverprogrammer.com/2020/04/30/python-gui-app-for-student-details/
+```
 
 Creating Graphics with Python
+```
 https://thecleverprogrammer.com/2020/05/05/creating-graphics-with-python/
+```
 
-8	
 Machine learning Course for Free	
+```
 https://thecleverprogrammer.com/2020/09/24/machine-learning-course/
+```
 
-1. Introduction To Machine Learning
+1. Introduction To Machine Learning\
 
 What is Machine Learning &amp; When we need to use Machine Learning?
+```
 https://thecleverprogrammer.com/2020/09/21/when-do-we-need-machine-learning/ 
+```
 
 
 Types of Machine Learning Systems.
+```
 https://thecleverprogrammer.com/2020/07/24/all-machine-learning-systems/ 
+```
 
 Machine Learning Algorithms and its Types
+```
 https://thecleverprogrammer.com/2020/08/11/machine-learning-algorithms/ 
+```
 
-2. Getting Started with Data
+2. Getting Started with Data\
 
 Process of Data Science
+```
 https://thecleverprogrammer.com/2020/09/01/process-of-data-science/ 
+```
 
 Numerical Computing for Machine Learning
+```
 https://thecleverprogrammer.com/2020/06/06/numpy-tutorial-for-data-science/ 
+```
 
 Data Manipulation with Pandas
+```
 https://thecleverprogrammer.com/2020/06/07/pandas-tutorial-for-data-science/ 
+```
 
 Data Cleaning with Pandas
+```
 https://thecleverprogrammer.com/2020/08/24/data-cleaning-with-python/ 
+```
 
 Handling Data Leakage 
+```
 https://thecleverprogrammer.com/2020/09/05/data-leakage-in-machine-learning/ 
+```
 
 Data Visualization with Matplotlib
+```
 https://thecleverprogrammer.com/2020/06/08/matplotlib-tutorial-for-data-science/ 
+```
 
 Data Visualization with Seaborn
+```
 https://thecleverprogrammer.com/2020/07/03/data-visualization-with-seaborn/ 
+```
 
 Data Visualization with Plotly
+```
 https://thecleverprogrammer.com/2020/07/25/data-visualization-with-plotly/ 
+```
 
-3. Getting Started with Algorithms
+3. Getting Started with Algorithms\
 
 Linear Regression Model
+```
 https://thecleverprogrammer.com/2020/07/03/train-and-run-a-linear-regression-model/ 
+```
 
 Logistic Regression Model
+```
 https://thecleverprogrammer.com/2020/07/02/logistic-regression-in-machine-learning-with-python/ 
+```
 
 K-Means Algorithm
+```
 https://thecleverprogrammer.com/2020/07/12/k-means-in-machine-learning/ 
+```
 
 Support Vector Machines
+```
 https://thecleverprogrammer.com/2020/07/06/support-vector-machines-svm-in-machine-learning/ 
+```
 
 Decision Trees
+```
 https://thecleverprogrammer.com/2020/07/07/decision-trees-in-machine-learning/ 
+```
 
 Neural Networks
+```
 https://thecleverprogrammer.com/2020/05/24/artificial-neural-networks-with-machine-learning/ 
+```
 
 How Neural Networks Works?
+```
 https://thecleverprogrammer.com/2020/09/05/what-are-neural-networks-in-machine-learning/ 
+```
 
 All Machine Learning Algorithms
+```
 https://thecleverprogrammer.com/2020/06/05/all-machine-learning-algorithms-explained/ 
+```
 
 How to Choose an algorithm?
+```
 https://thecleverprogrammer.com/2020/09/18/choose-algorithm-in-machine-learning/ 
+```
 
-4. Getting Started with Deep Learning
+4. Getting Started with Deep Learning\
 
 What is Deep Learning?
+```
 https://thecleverprogrammer.com/2020/08/16/what-is-deep-learning/ 
+```
 
 TensorFlow for Deep Learning
+```
 https://thecleverprogrammer.com/2020/07/10/tensorflow-tutorial/ 
+```
 
 PyTorch For Deep Learning
+```
 https://thecleverprogrammer.com/2020/07/16/pytorch-for-deep-learning/ 
+```
 
-5. Important Concepts in Machine Learning
+5. Important Concepts in Machine Learning\
 
 How To Become a Machine Learning Expert?
+```
 https://thecleverprogrammer.com/2020/09/16/machine-learning-roadmap/ 
+```
 
 How to Launch a Machine Learning Model?
+```
 https://thecleverprogrammer.com/2020/09/11/launch-a-machine-learning-model/ 
+```
 
 How To Deploy a Machine Learning Model?
+```
 https://thecleverprogrammer.com/2020/07/14/deploy-a-machine-learning-model/ 
+```
 
 The Future of Machine Learning
+```
 https://thecleverprogrammer.com/2020/08/15/future-of-machine-learning/ 
+```
 
-9	
-5 Web Scraping Projects with Python	
+Web Scraping Projects with Python	
+```
 https://amankharwal.medium.com/5-web-scraping-projects-with-python-4bcc25ff039
+```
 
 Scraping Youtube and Download Videos
+```
 https://thecleverprogrammer.com/2020/08/23/scraping-youtube-with-python/ 
+```
 
 Scraping Twitter without API
+```
 https://thecleverprogrammer.com/2020/08/17/scraping-twitter-with-python/ 
+```
 
 Scraping and storing data to CSV
+```
 https://thecleverprogrammer.com/2020/08/08/web-scraping-to-create-csv/ 
+```
 
 Scraping Instagram with Python
+```
 https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/
+```
 
 Build Your Web Scraper with Python
+```
 https://thecleverprogrammer.com/2020/10/01/web-scraper-with-python/ 
+```
 
-10	
-20 Machine Learning Projects on Future Prediction with Python
-
+Machine Learning Projects on Future Prediction with Python
+```
 https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
-
+```
 Covid-19 Cases Prediction for Next 30 Days
+```
 https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/ 
+```
 
 Employee Attrition Prediction
+```
 https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/ 
+```
 
 Stock Price Prediction
+```
 https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/ 
+```
 
 Earthquake Prediction Model    
+```
 https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/ 
+```
 
 Predict Tinder Matches
+```
 https://thecleverprogrammer.com/2020/09/28/predict-tinder-matches-with-machine-learning/ 
+```
 
 Predict Car Prices
+```
 https://thecleverprogrammer.com/2020/09/21/predict-car-prices-with-machine-learning/ 
+```
 
 Rainfall Prediction Model
+```
 https://thecleverprogrammer.com/2020/09/11/rainfall-prediction-with-machine-learning/ 
+```
 
 Predict Migration
+```
 https://thecleverprogrammer.com/2020/09/08/predict-migration-with-machine-learning/ 
+```
 
 Predict Fuel Efficiency
+```
 https://thecleverprogrammer.com/2020/09/02/predict-fuel-efficiency-with-machine-learning/ 
+```
 
 Weather Prediction Model
+```
 https://thecleverprogrammer.com/2020/08/30/predict-weather-with-machine-learning/ 
+```
 
 Daily Births Forecasting
+```
 https://thecleverprogrammer.com/2020/08/27/daily-births-forecasting-with-machine-learning/ 
+```
 
 Stock Price Prediction with Facebook Prophet Model
+```
 https://thecleverprogrammer.com/2020/08/09/stock-price-prediction-with-facebook-prophet-model/ 
+```
 
 Next Word Prediction
+```
 https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/ 
+```
 
 Predict Diabetes
+```
 https://thecleverprogrammer.com/2020/07/13/predict-diabetes-with-machine-learning/ 
+```
 
 Employee Turnover Prediction
+```
 https://thecleverprogrammer.com/2020/07/12/employee-turnover-prediction/ 
+```
 
 Weather Forecasting Model
+```
 https://thecleverprogrammer.com/2020/06/11/weather-forecasting-with-machine-learning/ 
+```
 
 Predict Customer Churn
+```
 https://thecleverprogrammer.com/2020/05/26/predict-customer-churn-with-python-and-machine-learning/ 
+```
 
 Bitcoin Price Prediction
+```
 https://thecleverprogrammer.com/2020/05/23/bitcoin-price-prediction-with-machine-learning/ 
+```
 
 Heart Disease Prediction
+```
 https://thecleverprogrammer.com/2020/05/20/heart-disease-prediction-with-machine-learning/ 
+```
 
 Stock Price Prediction for Beginners
+```
 https://thecleverprogrammer.com/2020/05/11/stock-price-prediction-with-machine-learning/ 
+```
 
 11	
 4 Chatbot Project With Python
