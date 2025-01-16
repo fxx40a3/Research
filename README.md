@@ -6229,34 +6229,49 @@ https://github.com/src-d/awesome-machine-learning-on-source-code
 
 48 
 100 + AutoML Projects with code 
+```
 https://github.com/hibayesian/awesome-automl-papers
+```
 
 49 
 100 + Machine Learning Model Interpretability Code Frameworks 
+```
 https://github.com/jphall663/awesome-machine-learning-interpretability
+```
 
 50 
 120 + Multi Model Machine learning Code Projects 
+```
 https://github.com/pliang279/awesome-multimodal-ml
+```
 
 51 
 Awesome Chatbot Projects 
+```
 https://github.com/fendouai/Awesome-Chatbot
+```
 
 52 
 Awesome ML Demo Project with iOS 
+```
 https://github.com/tucan9389/awesome-ml-demos-with-ios
+```
 
 53 
 100 + Python based Machine learning Application Projects 
+```
 https://github.com/prateekiiest/Code-Sleep-Python
+```
 
 54 
 100 + Reproducible Research Projects of ML and DL 
+```
 https://github.com/leipzig/awesome-reproducible-research
+```
 
 55 
 25 + Python Projects 
+```
 https://github.com/saadhaxxan/Awesome-Python-Projects
 A-Path-Finding-Visualization
 Android-Apps-Downloader
@@ -6276,11 +6291,12 @@ speech recognition
 usb port disabler
 web automation
 Repository files navigation
+```
 
 56 
 8 + OpenCV Projects 
+```
 https://github.com/moadmmh/Awesome-OpenCV
-
 Body_Detection
 Face_Eye_Detection
 Hand_Written_digits_recognition
@@ -6289,27 +6305,36 @@ Road_Line_Detection
 Screen_Recording
 Take_Screenshot
 Turn_Your_PC_To_A_Security_Cam
+```
 
 57 
 1000 + Awesome Deep learning Collection 
+```
 https://github.com/ChristosChristofidis/awesome-deep-learning
+```
 
 58 
 200 + Awesome NLP learning Collection 
+```
 https://github.com/keon/awesome-nlp
+```
 
 61 
 364 + Machine Learning Projects definition 
+```
 https://projectworlds.in/free-projects/machine-learning-projects-with-source-code/
+```
 
 62 
 300+ Google Earth Engine Jupyter Notebooks to Analyze Geospatial Data 
+```
 https://github.com/giswqs/earthengine-py-notebooks
+```
 
 64. 
 11 Computer Vision Projects with code 
+```
 https://github.com/akshaybhatia10/ComputerVision-Projects
-
 CarPedestrianDetection
 DigitRecognition
 FaceEyeDetection
@@ -6322,111 +6347,152 @@ ObjectDetection
 ObjectTracking
 TemplateMatching
 hand tracking
+```
 
 
 
-69 and 70 details are here
-69. 
+
 100 + Computer vision Algorithm Implementation 
+```
 https://github.com/gmalivenko/awesome-computer-vision-models
-
+```
 
 AlexNet
 One weird trick for parallelizing convolutional neural networks
+```
 https://arxiv.org/abs/1404.5997
+```
 
 
 VGG-16
 Very Deep Convolutional Networks for Large-Scale Image Recognition
+```
 https://arxiv.org/abs/1409.1556
+```
 
 
 ResNet-10 
 Deep Residual Learning for Image Recognition
+```
 https://arxiv.org/abs/1512.03385
+```
 
 
 ResNet-18 
 Deep Residual Learning for Image Recognition
+```
 https://arxiv.org/abs/1512.03385
+```
 
 
 ResNet-34
 Deep Residual Learning for Image Recognition
+```
 https://arxiv.org/abs/1512.03385
+```
 
 
 ResNet-50
 Deep Residual Learning for Image Recognition
+```
 https://arxiv.org/abs/1512.03385
+```
 
 
 InceptionV3 
 Rethinking the Inception Architecture for Computer Vision
+```
 https://arxiv.org/abs/1512.00567
+```
 
 
 PreResNet-18 
 Identity Mappings in Deep Residual Networks
+```
 https://arxiv.org/abs/1603.05027
+```
 
 
 PreResNet-34 
 Identity Mappings in Deep Residual Networks
+```
 https://arxiv.org/abs/1603.05027
+```
 
 
 PreResNet-50
 Identity Mappings in Deep Residual Networks
+```
 https://arxiv.org/abs/1603.05027
+```
 
 
 DenseNet-121
 Densely Connected Convolutional Networks
+```
 https://arxiv.org/abs/1608.06993
+```
 
 DenseNet-161
 Densely Connected Convolutional Networks
+```
 https://arxiv.org/abs/1608.06993
+```
 
 PyramidNet-101
 Deep Pyramidal Residual Networks
+```
 https://arxiv.org/abs/1610.02915
+```
 
 
 ResNeXt-14(32x4d)
 Aggregated Residual Transformations for Deep Neural Networks
+```
 http://arxiv.org/abs/1611.05431
+```
 
 
 ResNeXt-26(32x4d)
 Aggregated Residual Transformations for Deep Neural Networks
+```
 http://arxiv.org/abs/1611.05431
+```
 
 
 WRN-50-2
 Wide Residual Networks
+```
 https://arxiv.org/abs/1605.07146
+```
 
 
 Xception
 Xception: Deep Learning with Depthwise Separable Convolutions
+```
 https://arxiv.org/abs/1610.02357
+```
 
 
 InceptionV4
 Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+```
 https://arxiv.org/abs/1602.07261
+```
 
 
 InceptionResNetV2
 Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+```
 https://arxiv.org/abs/1602.07261
+```
 
 
 PolyNet
 PolyNet: A Pursuit of Structural Diversity in Very Deep Networks
+```
 https://arxiv.org/abs/1611.05725
+```
 
 SqueezeResNet1.1
 SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and &lt;0.5MB model size
@@ -6456,450 +6522,630 @@ https://arxiv.org/abs/1707.01629
 
 ShuffleNet x1.0 (g=1)
 ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+```
 https://arxiv.org/abs/1707.01083
+```
 
 
 DiracNetV2-18
 DiracNets: Training Very Deep Neural Networks Without Skip-Connections
+```
 https://arxiv.org/abs/1706.00388
+```
 
 
 DiracNetV2-34
 DiracNets: Training Very Deep Neural Networks Without Skip-Connections
+```
 https://arxiv.org/abs/1706.00388
+```
 
 
 SENet-16
 Squeeze-and-Excitation Networks
+```
 https://arxiv.org/abs/1709.01507
+```
 
 
 SENet-154
 Squeeze-and-Excitation Networks
+```
 https://arxiv.org/abs/1709.01507
+```
 
 
 MobileNet
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+```
 https://arxiv.org/abs/1704.04861
+```
 
 
 NASNet-A 4@1056
 Learning Transferable Architectures for Scalable Image Recognition
+```
 https://arxiv.org/abs/1707.07012
+```
 
 
 NASNet-A 6@4032
 Learning Transferable Architectures for Scalable Image Recognition
+```
 https://arxiv.org/abs/1707.07012
+```
 
 
 DLA-34
 Deep Layer Aggregation
+```
 https://arxiv.org/abs/1707.06484
+```
 
 
 
 AirNet50-1x64d (r=2)
 Attention Inspiring Receptive-Fields Network for Learning Invariant Representations
+```
 https://ieeexplore.ieee.org/document/8510896
+```
 
 
 BAM-ResNet-50
 BAM: Bottleneck Attention Module
+```
 https://arxiv.org/abs/1807.06514
+```
 
 
 CBAM-ResNet-50
 CBAM: Convolutional Block Attention Module
+```
 https://arxiv.org/abs/1807.06521
+```
 
 
 1.0-SqNxt-23v5
 SqueezeNext: Hardware-Aware Neural Network Design
+```
 https://arxiv.org/abs/1803.10615
+```
 
 
 1.5-SqNxt-23v5
 SqueezeNext: Hardware-Aware Neural Network Design
+```
 https://arxiv.org/abs/1803.10615
+```
 
 
 2.0-SqNxt-23v5
 SqueezeNext: Hardware-Aware Neural Network Design
+```
 https://arxiv.org/abs/1803.10615
+```
 
 
 ShuffleNetV2
 ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
+```
 https://arxiv.org/abs/1807.11164
+```
 
 
 
 456-MENet-24×1(g=3)
 Merging and Evolution: Improving Convolutional Neural Networks for Mobile Applications
+```
 https://arxiv.org/abs/1803.09127
+```
 
 
 
 FD-MobileNet
 FD-MobileNet: Improved MobileNet with A Fast Downsampling Strategy
+```
 https://arxiv.org/abs/1802.03750
+```
 
 
 MobileNetV2
 MobileNetV2: Inverted Residuals and Linear Bottlenecks
+```
 https://arxiv.org/abs/1801.04381
+```
 
 
 
 IGCV3
 IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks
+```
 https://arxiv.org/abs/1806.00178
+```
 
 
 DARTS
 DARTS: Differentiable Architecture Search
+```
 https://arxiv.org/abs/1806.09055
+```
 
 
 
 PNASNet-5
 Progressive Neural Architecture Search
+```
 https://arxiv.org/abs/1712.00559
+```
 
 
 
 AmoebaNet-C
 Regularized Evolution for Image Classifier Architecture Search
+```
 https://arxiv.org/abs/1802.01548
+```
 
 
 
 MnasNet
 MnasNet: Platform-Aware Neural Architecture Search for Mobile
+```
 https://arxiv.org/abs/1807.11626
+```
 
 
 
 IBN-Net50-a
 Two at Once: Enhancing Learning andGeneralization Capacities via IBN-Net
+```
 https://arxiv.org/abs/1807.09441
+```
 
 
 
 MarginNet
 Large Margin Deep Networks for Classification
+```
 http://papers.nips.cc/paper/7364-large-margin-deep-networks-for-classification.pdf
+```
 
 A^2 Net
 A^2-Nets: Double Attention Networks
+```
 http://papers.nips.cc/paper/7318-a2-nets-double-attention-networks.pdf
+```
 
 
 FishNeXt-150
 FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction
+```
 http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf
+```
 
 
 
 Shape-ResNet
 IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS
+```
 https://arxiv.org/pdf/1811.12231v2.pdf
+```
 
 
 SimCNN(k=3 train)
 Greedy Layerwise Learning Can Scale to ImageNet
+```
 https://arxiv.org/pdf/1812.11446.pdf
+```
 
 SKNet-50
 Selective Kernel Networks
+```
 https://arxiv.org/pdf/1903.06586.pdf
+```
 
 
 SRM-ResNet-50
 SRM : A Style-based Recalibration Module for Convolutional Neural Networks
+```
 https://arxiv.org/pdf/1903.10829.pdf
+```
 
 
 EfficientNet-B0 
 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+```
 http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
+```
 
 
 EfficientNet-B7b
 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+```
 http://proceedings.mlr.press/v97/tan19a/tan19a.pdf
+```
 
 
 
 ProxylessNAS
 PROXYLESSNAS: DIRECT NEURAL ARCHITECTURE SEARCH ON TARGET TASK AND HARDWARE
+```
 https://arxiv.org/pdf/1812.00332.pdf
+```
 
 
 MixNet-L
 MixNet: Mixed Depthwise Convolutional Kernels
+```
 https://arxiv.org/abs/1907.09595
+```
 
 
 ECA-Net50
 ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks
+```
 https://arxiv.org/pdf/1910.03151v1.pdf
+```
 
 
 ECA-Net101
 ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks
+```
 https://arxiv.org/pdf/1910.03151v1.pdf
+```
 
 
 
 ACNet-Densenet121
 ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks
+```
 https://arxiv.org/abs/1908.03930
+```
 
 
 LIP-ResNet-50
 LIP: Local Importance-based Pooling
+```
 https://arxiv.org/abs/1908.04156
+```
 
 
 LIP-ResNet-101
 LIP: Local Importance-based Pooling
+```
 https://arxiv.org/abs/1908.04156
+```
 
 
 LIP-DenseNet-BC-121
 LIP: Local Importance-based Pooling
+```
 https://arxiv.org/abs/1908.04156
+```
 
 
 MuffNet_1.0
 MuffNet: Multi-Layer Feature Federation for Mobile Deep Learning
+```
 http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Chen_MuffNet_Multi-Layer_Feature_Federation_for_Mobile_Deep_Learning_ICCVW_2019_paper.pdf
+```
 
 
 MuffNet_1.5
 MuffNet: Multi-Layer Feature Federation for Mobile Deep Learning
+```
 http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Chen_MuffNet_Multi-Layer_Feature_Federation_for_Mobile_Deep_Learning_ICCVW_2019_paper.pdf
+```
 
 
 ResNet-34-Bin-5
 Making Convolutional Networks Shift-Invariant Again
+```
 https://arxiv.org/abs/1904.11486
+```
 
 
 ResNet-50-Bin-5
 Making Convolutional Networks Shift-Invariant Again
+```
 https://arxiv.org/abs/1904.11486
+```
 
 
 MobileNetV2-Bin-5
 Making Convolutional Networks Shift-Invariant Again
+```
 https://arxiv.org/abs/1904.11486
+```
 
 
 
 FixRes ResNeXt101 WSL
 Fixing the train-test resolution discrepancy
+```
 https://arxiv.org/abs/1906.06423
+```
 
 
 Noisy Student*(L2)
 Self-training with Noisy Student improves ImageNet classification
+```
 https://arxiv.org/abs/1911.04252
+```
 
 
 
 TResNet-M
 TResNet: High Performance GPU-Dedicated Architecture
+```
 https://arxiv.org/abs/2003.13630
+```
 
 
 DA-NAS-C
 DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search
+```
 https://arxiv.org/abs/2003.12563v1
+```
 
 
 ResNeSt-50
 ResNeSt: Split-Attention Networks
+```
 https://arxiv.org/abs/2004.08955
+```
 
 
 ResNeSt-101
 ResNeSt: Split-Attention Networks
+```
 https://arxiv.org/abs/2004.08955
+```
 
 
 
 ResNet-50-FReLU
 Funnel Activation for Visual Recognition
+```
 https://arxiv.org/abs/2007.11824v2
+```
 
 
 ResNet-101-FReLU
 Funnel Activation for Visual Recognition
+```
 https://arxiv.org/abs/2007.11824v2
+```
 
 
 ResNet-50-MEALv2
 MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
+```
 https://arxiv.org/abs/2009.08453v1
+```
 
 
 ResNet-50-MEALv2 + CutMix
 MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
+```
 https://arxiv.org/abs/2009.08453v1
+```
 
 
 MobileNet V3-Large-MEALv2
 MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
+```
 https://arxiv.org/abs/2009.08453v1
+```
 
 
 EfficientNet-B0-MEALv2
 MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
+```
 https://arxiv.org/abs/2009.08453v1
+```
 
 
 T2T-ViT-7 
 Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
+```
 https://arxiv.org/abs/2101.11986v1
+```
 
 
 T2T-ViT-14
 Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
+```
 https://arxiv.org/abs/2101.11986v1
+```
 
 
 T2T-ViT-19
 Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
+```
 https://arxiv.org/abs/2101.11986v1
+```
 
 
 NFNet-F0
 High-Performance Large-Scale Image Recognition Without Normalization
+```
 https://arxiv.org/abs/2102.06171
+```
 
 
 NFNet-F1
 High-Performance Large-Scale Image Recognition Without Normalization
+```
 https://arxiv.org/abs/2102.06171
+```
 
 
 NFNet-F6+SAM
 High-Performance Large-Scale Image Recognition Without Normalization
+```
 https://arxiv.org/abs/2102.06171
+```
 
 
 EfficientNetV2-S
 EfficientNetV2: Smaller Models and Faster Training
+```
 https://arxiv.org/abs/2104.00298
+```
 
 
 EfficientNetV2-M
 EfficientNetV2: Smaller Models and Faster Training
+```
 https://arxiv.org/abs/2104.00298
+```
 
 
 EfficientNetV2-L
 EfficientNetV2: Smaller Models and Faster Training
+```
 https://arxiv.org/abs/2104.00298
+```
 
 
 EfficientNetV2-S (21k)
 EfficientNetV2: Smaller Models and Faster Training
+```
 https://arxiv.org/abs/2104.00298
+```
 
 
 EfficientNetV2-M (21k)
 EfficientNetV2: Smaller Models and Faster Training
+```
 https://arxiv.org/abs/2104.00298
+```
 
 
 EfficientNetV2-L (21k)
 EfficientNetV2: Smaller Models and Faster Training
+```
 https://arxiv.org/abs/2104.00298
+```
 
 
 U-Net
 U-Net: Convolutional Networks for Biomedical Image Segmentation
+```
 https://arxiv.org/pdf/1505.04597.pdf
+```
 
 
 DeconvNet
 Learning Deconvolution Network for Semantic Segmentation
+```
 https://arxiv.org/pdf/1505.04366.pdf
+```
 
 
 ParseNet
 ParseNet: Looking Wider to See Better
+```
 https://arxiv.org/abs/1506.04579
+```
 
 Piecewise
 Efficient piecewise training of deep structured models for semantic segmentation
+```
 https://arxiv.org/abs/1504.01013
+```
 
 SegNet
 SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+```
 https://arxiv.org/pdf/1511.00561.pdf
+```
 
 FCN
 Fully Convolutional Networks for Semantic Segmentation
+```
 https://arxiv.org/pdf/1605.06211.pdf
+```
 
 ENet
 ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation
+```
 https://arxiv.org/pdf/1606.02147.pdf
+```
 
 DilatedNet
 MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS
+```
 https://arxiv.org/pdf/1511.07122.pdf
+```
 
 PixelNet
 PixelNet: Towards a General Pixel-Level Architecture
+```
 https://arxiv.org/pdf/1609.06694.pdf
+```
 
 RefineNet
 RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
+```
 https://arxiv.org/pdf/1611.06612.pdf
+```
 
 LRR
 Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
+```
 https://arxiv.org/pdf/1605.02264.pdf
+```
 
 FRRN
 Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes
+```
 https://arxiv.org/pdf/1611.08323.pdf
+```
 
 MultiNet
 MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving
+```
 https://arxiv.org/pdf/1612.07695.pdf
+```
 
 DeepLab
 DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+```
 https://arxiv.org/pdf/1606.00915.pdf
+```
 
 
 LinkNet
 LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation
+```
 https://arxiv.org/pdf/1707.03718.pdf
+```
 
 Tiramisu
 The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation
+```
 https://arxiv.org/pdf/1611.09326.pdf
+```
 
 ICNet
 ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+```
 https://arxiv.org/pdf/1704.08545.pdf
+```
 
 ERFNet
 Efficient ConvNet for Real-time Semantic Segmentation
+```
 http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf
+```
 
 PSPNet
 Pyramid Scene Parsing Network
+```
 https://arxiv.org/pdf/1612.01105.pdf
+```
 
 GCN
 Large Kernel Matters — Improve Semantic Segmentation by Global Convolutional Network
@@ -6907,769 +7153,1093 @@ https://arxiv.org/pdf/1703.02719.pdf
 
 Segaware
 Segmentation-Aware Convolutional Networks Using Local Attention Masks
+```
 https://arxiv.org/pdf/1708.04607.pdf
+```
 
 
 PixelDCN
 PIXEL DECONVOLUTIONAL NETWORKS
+```
 https://arxiv.org/pdf/1705.06820.pdf
+```
 
 DeepLabv3
 Rethinking Atrous Convolution for Semantic Image Segmentation
+```
 https://arxiv.org/pdf/1706.05587.pdf
-
+```
 DUC, HDC
 Understanding Convolution for Semantic Segmentation
+```
 https://arxiv.org/pdf/1702.08502.pdf
+```
 
 ShuffleSeg
 SHUFFLESEG: REAL-TIME SEMANTIC SEGMENTATION NETWORK
+```
 https://arxiv.org/pdf/1803.03816.pdf
+```
 
 
 AdaptSegNet
 Learning to Adapt Structured Output Space for Semantic Segmentation
+```
 https://arxiv.org/pdf/1802.10349.pdf
+```
 
 TuSimple-DUC
 Understanding Convolution for Semantic Segmentation
+```
 https://arxiv.org/pdf/1702.08502.pdf
+```
 
 R2U-Net
 Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation
+```
 https://arxiv.org/pdf/1802.06955.pdf
-
+```
 
 Attention U-Net
 Attention U-Net: Learning Where to Look for the Pancreas
+```
 https://arxiv.org/pdf/1804.03999.pdf
+```
 
 DANet
 Dual Attention Network for Scene Segmentation
+```
 https://arxiv.org/pdf/1809.02983.pdf
+```
 
 
 
 ENCNet
 Context Encoding for Semantic Segmentation
+```
 https://arxiv.org/abs/1803.08904
+```
 
 ShelfNet
 ShelfNet for Real-time Semantic Segmentation
+```
 https://arxiv.org/pdf/1811.11254.pdf
+```
 
 LadderNet
 LADDERNET: MULTI-PATH NETWORKS BASED ON U-NET FOR MEDICAL IMAGE SEGMENTATION
+```
 https://arxiv.org/pdf/1810.07810.pdf
+```
 
 CCC-ERFnet
 Concentrated-Comprehensive Convolutions for lightweight semantic segmentation
+```
 https://arxiv.org/pdf/1812.04920v1.pdf
+```
 
 
 DifNet-101
 DifNet: Semantic Segmentation by Diffusion Networks
+```
 http://papers.nips.cc/paper/7435-difnet-semantic-segmentation-by-diffusion-networks.pdf
+```
 
 
 BiSeNet(Res18)
 BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
+```
 https://arxiv.org/pdf/1808.00897.pdf
+```
 
 
 ESPNet
 ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
+```
 https://arxiv.org/pdf/1803.06815.pdf
+```
 
 SPADE
 Semantic Image Synthesis with Spatially-Adaptive Normalization
+```
 https://arxiv.org/pdf/1903.07291.pdf
+```
 
 SeamlessSeg
 Seamless Scene Segmentation
+```
 https://arxiv.org/pdf/1905.01220v1.pdf
+```
 
 EMANet
 Expectation-Maximization Attention Networks for Semantic Segmentation
+```
 https://arxiv.org/pdf/1907.13426.pdf
+```
 
 R-CNN
 Rich feature hierarchies for accurate object detection and semantic segmentation
+```
 https://arxiv.org/pdf/1311.2524.pdf
+```
 
 OverFeat 
 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
+```
 https://arxiv.org/pdf/1312.6229.pdf
+```
 
 MultiBox
 Scalable Object Detection using Deep Neural Networks
+```
 https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Erhan_Scalable_Object_Detection_2014_CVPR_paper.pdf
+```
 
 SPP-Net 
 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+```
 https://arxiv.org/pdf/1406.4729.pdf
+```
 
 MR-CNN 
 Object detection via a multi-region &amp; semantic segmentation-aware CNN model
+```
 https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Gidaris_Object_Detection_via_ICCV_2015_paper.pdf
+```
 
 AttentionNet
 AttentionNet: Aggregating Weak Directions for Accurate Object Detection
+```
 https://arxiv.org/pdf/1506.07704.pdf
+```
 
 Fast R-CNN
+```
 https://arxiv.org/pdf/1504.08083.pdf
+```
 
 Fast R-CNN
 Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+```
 https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf
+```
 
 YOLO v1
 You Only Look Once: Unified, Real-Time Object Detection
+```
 https://arxiv.org/pdf/1506.02640.pdf
+```
 
 G-CNN
 G-CNN: an Iterative Grid Based Object Detector
+```
 https://arxiv.org/pdf/1512.07729.pdf
+```
 
 AZNet
 Adaptive Object Detection Using Adjacency and Zoom Prediction
+```
 https://arxiv.org/pdf/1512.07711.pdf
+```
 
 ION
 Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
+```
 https://arxiv.org/pdf/1512.04143.pdf
+```
 
 HyperNet
 HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection
+```
 https://arxiv.org/pdf/1604.00600.pdf
+```
 
 
 OHEM
 Training Region-based Object Detectors with Online Hard Example Mining
+```
 https://arxiv.org/pdf/1604.03540.pdf
+```
 
 MPN
 A MultiPath Network for Object Detection
+```
 https://arxiv.org/pdf/1604.02135.pdf
+```
 
 SSD
 SSD: Single Shot MultiBox Detector
+```
 https://arxiv.org/pdf/1512.02325.pdf
+```
 
 GBDNet
 Crafting GBD-Net for Object Detection
+```
 https://arxiv.org/pdf/1610.02579.pdf
+```
 
 CPF
 Contextual Priming and Feedback for Faster R-CNN
+```
 https://pdfs.semanticscholar.org/40e7/4473cb82231559cbaeaa44989e9bbfe7ec3f.pdf
+```
 
 
 MS-CNN 
 A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection
+```
 https://arxiv.org/pdf/1607.07155.pdf
+```
 
 R-FCN
 R-FCN: Object Detection via Region-based Fully Convolutional Networks
+```
 https://arxiv.org/pdf/1605.06409.pdf
+```
 
 PVANET
 PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection
+```
 https://arxiv.org/pdf/1608.08021.pdf
+```
 
 DeepID-Net
 DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection
+```
 https://arxiv.org/pdf/1412.5661.pdf
+```
 
 NoC
 Object Detection Networks on Convolutional Feature Maps
+```
 https://arxiv.org/pdf/1504.06066.pdf
+```
 
 DSSD
 DSSD : Deconvolutional Single Shot Detector
+```
 https://arxiv.org/pdf/1701.06659.pdf
+```
 
 TDM
 Beyond Skip Connections: Top-Down Modulation for Object Detection
+```
 https://arxiv.org/pdf/1612.06851.pdf
+```
 
 FPN
 Feature Pyramid Networks for Object Detection
+```
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf
+```
 
 YOLO v2
 YOLO9000: Better, Faster, Stronger
+```
 https://arxiv.org/pdf/1612.08242.pdf
+```
 
 RON
 RON: Reverse Connection with Objectness Prior Networks for Object Detection
+```
 https://arxiv.org/pdf/1707.01691.pdf
+```
 
 DCN
 Deformable Convolutional Networks
+```
 http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf
+```
 
 DeNet
 DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling
+```
 https://arxiv.org/pdf/1703.10295.pdf
+```
 
 CoupleNet
 CoupleNet: Coupling Global Structure with Local Parts for Object Detection
+```
 https://arxiv.org/pdf/1708.02863.pdf
+```
 
 RetinaNet
 Focal Loss for Dense Object Detection
+```
 https://arxiv.org/pdf/1708.02002.pdf
-
+```
 Mask R-CNN
-Mask R-CNN
+```
 http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf
+```
 
 
 DSOD
 DSOD: Learning Deeply Supervised Object Detectors from Scratch
+```
 https://arxiv.org/pdf/1708.01241.pdf
+```
 
 SMN
 Spatial Memory for Context Reasoning in Object Detection
+```
 http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Spatial_Memory_for_ICCV_2017_paper.pdf
+```
 
 YOLO v3
 YOLOv3: An Incremental Improvement
+```
 https://pjreddie.com/media/files/papers/YOLOv3.pdf
+```
 
 
 SIN
 Structure Inference Net: Object Detection Using Scene-Level Context and Instance-Level Relationships
+```
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Structure_Inference_Net_CVPR_2018_paper.pdf
+```
 
 STDN
 Scale-Transferrable Object Detection
+```
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Scale-Transferrable_Object_Detection_CVPR_2018_paper.pdf
+```
 
 
 RefineDet
 Single-Shot Refinement Neural Network for Object Detection
+```
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf
+```
 
 MegDet
 MegDet: A Large Mini-Batch Object Detector
+```
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Peng_MegDet_A_Large_CVPR_2018_paper.pdf
+```
 
 
 RFBNet
 Receptive Field Block Net for Accurate and Fast Object Detection
+```
 https://arxiv.org/pdf/1711.07767.pdf
+```
 
 
 CornerNet
 CornerNet: Detecting Objects as Paired Keypoints
+```
 https://arxiv.org/pdf/1808.01244.pdf
+```
 
 LibraRetinaNet
 Libra R-CNN: Towards Balanced Learning for Object Detection
+```
 https://arxiv.org/pdf/1904.02701v1.pdf
+```
 
 YOLACT-700
 YOLACT Real-time Instance Segmentation
+```
 https://arxiv.org/pdf/1904.02689v1.pdf
+```
 
 
 DetNASNet(3.8)
 DetNAS: Backbone Search for Object Detection
+```
 https://arxiv.org/pdf/1903.10979v2.pdf
+```
 
 YOLOv4
 YOLOv4: Optimal Speed and Accuracy of Object Detection
+```
 https://arxiv.org/pdf/2004.10934.pdf
+```
 
 
 SOLO
 SOLO: Segmenting Objects by Locations
+```
 https://arxiv.org/pdf/1912.04488v3.pdf
+```
 
 D-SOLO
 SOLO: Segmenting Objects by Locations
+```
 https://arxiv.org/pdf/1912.04488v3.pdf
+```
 
 SNIPER
 Scale Normalized Image Pyramids with AutoFocus for Object Detection
+```
 https://arxiv.org/pdf/2102.05646v1.pdf
+```
 
 AutoFocus
 Scale Normalized Image Pyramids with AutoFocus for Object Detection
+```
 https://arxiv.org/pdf/2102.05646v1.pdf
+```
 
 70. 
 80 + Computer vision Learning code 
+```
 https://github.com/spmallick/learnopencv
+```
 
 SimSiam: Streamlining SSL with Stop-Gradient Mechanism
+```
 https://learnopencv.com/simsiam/
 https://github.com/spmallick/learnopencv/tree/master/SimSiam-Streamlining-SSL-with-Stop-Gradient-Mechanism
+```
 
 
 Image Captioning using ResNet and LSTM
+```
 https://learnopencv.com/image-captioning/
 https://github.com/spmallick/learnopencv/tree/master/Image-Captioning-using-ResNet-and-LSTM
+```
 
 
 Molmo VLM: Paper Explanation and Demo
+```
 https://learnopencv.com/molmo-vlm
 https://github.com/spmallick/learnopencv/tree/master/Molmo-VLM-SAM2
+```
 
 
 3D Gaussian Splatting Paper Explanation: Training Custom Datasets with NeRF-Studio Gsplats
+```
 https://learnopencv.com/3d-gaussian-splatting/
 https://github.com/spmallick/learnopencv/tree/master/3D-Gaussian-Splatting-Code
+```
 
 
 FLUX Image Generation: Experimenting with the Parameters
+```
 https://learnopencv.com/flux-ai-image-generator/
 https://github.com/spmallick/learnopencv/tree/master/Flux-Image-Generation
+```
 
 
 Contrastive-Learning-SimCLR-and-BYOL(With Code Example)
+```
 https://learnopencv.com/contrastive-learning-simclr-and-byol-with-code-example/
 https://github.com/spmallick/learnopencv/tree/master/Contrastive-Learning-SimCLR-and-BYOL
+```
 
 
 The Annotated NeRF : Training on Custom Dataset from Scratch in Pytorch
+```
 https://learnopencv.com/annotated-nerf-pytorch/
 https://github.com/spmallick/learnopencv/tree/master/Annotated-NeRF
+```
 
 
 Stable Diffusion 3 and 3.5: Paper Explanation and Inference
+```
 https://learnopencv.com/stable-diffusion-3/
 https://github.com/spmallick/learnopencv/tree/master/Stable-Diffusion-3
+```
 
 
 LightRAG - Legal Document Analysis
+```
 https://learnopencv.com/lightrag/
 https://github.com/spmallick/learnopencv/tree/master/LightRAG-Legal
+```
 
-
-https://learnopencv.com/nvidia-ai-summit-2024-india-overview/
 NVIDIA AI Summit 2024 – India Overview
+```
+https://learnopencv.com/nvidia-ai-summit-2024-india-overview/
+```
+
 
 
 
 Introduction to Speech to Speech: Most Efficient Form of NLP
+```
 https://learnopencv.com/speech-to-speech/
 https://github.com/spmallick/learnopencv/tree/master/speech-to-speech
+```
 
 
 Training 3D U-Net for Brain Tumor Segmentation (BraTS-GLI)
+```
 https://learnopencv.com/3d-u-net-brats/
 https://github.com/spmallick/learnopencv/tree/master/Training_3D_U-Net_Brain_Tumor_Seg
+```
 
 
 DETR: Overview and Inference
+```
 https://learnopencv.com/detr-overview-and-inference/
 https://github.com/spmallick/learnopencv/tree/master/DETR-Overview_and_Inference
+```
 
 
 YOLO11: Faster Than You Can Imagine!
+```
 https://learnopencv.com/yolo11/
 https://github.com/spmallick/learnopencv/tree/master/YOLO11
+```
 
 
 Exploring DINO: Self-Supervised Transformers for Road Segmentation with ResNet50 and U-Net
+```
 https://learnopencv.com/fine-tune-dino-self-supervised-learning-segmentation/
 https://github.com/spmallick/learnopencv/tree/master/Exploring-DINO-dino-road-segmentation
+```
 
 
 Sapiens: Foundation for Human Vision Models by Meta
+```
 https://learnopencv.com/sapiens-human-vision-models
 https://github.com/spmallick/learnopencv/tree/master/Sapiens-Human-Vision-Model-Meta
+```
 
 
 Multimodal RAG with ColPali and Gemini
+```
 https://learnopencv.com/multimodal-rag-with-colpali
 https://github.com/spmallick/learnopencv/tree/master/Multimodal-RAG-with-ColPali-Gemini
+```
 
 
 Building Autonomous Vehicle in Carla: Path Following with PID Control &amp; ROS 2
+```
 https://learnopencv.com/pid-controller-ros-2-carla/
 https://github.com/spmallick/learnopencv/tree/master/Building_Autonomous_Vehicle_in_Carla_Path_Following_with_PID_Control_ROS2
+```
 
 
 Handwritten Text Recognition using OCR
+```
 https://learnopencv.com/handwritten-text-recognition-using-ocr/
 https://github.com/spmallick/learnopencv/tree/master/Handwritten_Text_Recognition_using_OCR
+```
 
 
 Training CLIP from Sratch for Image Retrieval
+```
 https://learnopencv.com/clip-model
 https://github.com/spmallick/learnopencv/tree/master/Training-CLIP-from-Scratch-for-Image-Retrieval
+```
 
 
 Introduction to LiDAR SLAM: LOAM and LeGO-LOAM Paper and Code Explanation with ROS 2 Implementation
+```
 https://learnopencv.com/lidar-slam-with-ros2
 https://github.com/spmallick/learnopencv/tree/master/LeGO-LOAM-ROS2
+```
 
 
 Recommendation System using Vector Search
+```
 https://learnopencv.com/recommendation-system-using-vector-search
 https://github.com/spmallick/learnopencv/tree/master/Recommendation-System-using-Vector-Search
+```
 
 
 Fine Tuning Whisper on Custom Dataset
+```
 https://learnopencv.com/fine-tuning-whisper-on-custom-dataset/
 https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-Whisper-on-Custom-Dataset
+```
 
 
 SAM 2 – Promptable Segmentation for Images and Videos
+```
 https://learnopencv.com/sam-2/
 https://github.com/spmallick/learnopencv/tree/master/SAM_2_Segment_Anything_Model_2
+```
 
 
 Introduction to Feature Matching Using Neural Networks
+```
 https://learnopencv.com/feature-matching/
 https://github.com/spmallick/learnopencv/tree/master/Feature-Matching-Using-Neural-Networks
+```
 
 
 Introduction to ROS2 (Robot Operating System 2): Tutorial on ROS2 Working, DDS, ROS1 RMW, Topics, Nodes, Publisher, Subscriber in Python
+```
 https://learnopencv.com/robot-operating-system-introduction
 https://github.com/spmallick/learnopencv/tree/master/Introduction-to-ROS2-in-python
+```
 
 
 CVPR 2024 Research Papers - Part- 2
+```
 https://learnopencv.com/cvpr-2024-research-papers
 https://github.com/spmallick/learnopencv/tree/master/cvpr-2024-research-papers-part2
+```
 
 
 CVPR 2024: An Overview and Key Papers
+```
 https://learnopencv.com/cvpr2024/
 https://github.com/spmallick/learnopencv/tree/master/CVPR-2024
+```
 
 
 Object Detection on Edge Device - OAK-D-Lite
+```
 https://learnopencv.com/object-detection-on-edge-device
 https://github.com/spmallick/learnopencv/tree/master/Object-Detection-on-Edge-Devices
+```
 
 
 Fine-Tuning YOLOv10 Models on Custom Dataset
+```
 https://learnopencv.com/fine-tuning-yolov10/
 https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-YOLOv10-Models-Custom-Dataset
+```
 
 
 ROS2 and Carla Setup Guide for Ubuntu 22.04
+```
 https://learnopencv.com/ros2-and-carla-setup-guide/
+```
 
 
 
 
 Understanding Visual SLAM for Robotics Perception: Building Monocular SLAM from Scratch in Python
+```
 https://learnopencv.com/monocular-slam-in-python/
 https://github.com/spmallick/learnopencv/tree/master/Monocular%20SLAM%20for%20Robotics%20implementation%20in%20python
+```
 
 
 Enhancing Image Segmentation using U2-Net: An Approach to Efficient Background Removal
+```
 https://learnopencv.com/u2-net-image-segmentation/
 https://github.com/spmallick/learnopencv/tree/master/Efficient-Background-Removal-using-U2-Net
+```
 
 
 YOLOv10: The Dual-Head OG of YOLO Series
+```
 https://learnopencv.com/yolov10/
 https://github.com/spmallick/learnopencv/tree/master/YOLOv10
+```
 
 
 Fine-tuning Faster R-CNN on Sea Rescue Dataset
+```
 https://learnopencv.com/fine-tuning-faster-r-cnn/
 https://github.com/spmallick/learnopencv/tree/master/Fine-tuning-Faster-R-CNN-on-SeaRescue-Dataset
+```
 
 
 Mastering Recommendation System: A Complete Guide
+```
 https://learnopencv.com/recommendation-system/
+```
 
 
 
 Automatic Speech Recognition with Diarization : Speech-to-Text
+```
 https://learnopencv.com/automatic-speech-recognition/
 https://github.com/spmallick/learnopencv/tree/master/Automatic-Speech-Recognition-with-Diarization-Speech-to-Text
+```
 
 
 Building MobileViT Image Classification Model from Scratch In Keras 3
+```
 https://learnopencv.com/mobilevit-keras-3/
 https://github.com/spmallick/learnopencv/tree/master/Building%20MobileViT%20from%20Scratch%20in%20Keras%203
+```
 
 
 SDXL Inpainting: Fusing Image Inpainting with Stable Diffusion
+```
 https://learnopencv.com/sdxl-inpainting/
 https://github.com/spmallick/learnopencv/tree/master/SDXL-inpainting
+```
 
 
 YOLOv9 Instance Segmentation on Medical Dataset
+```
 https://learnopencv.com/yolov9-instance-segmentation-on-medical-dataset/
 https://github.com/spmallick/learnopencv/tree/master/YOLOv9-Instance-Segmentation-on-Medical-Dataset
+```
 
 
 A Comprehensive Guide to Robotics
+```
 https://learnopencv.com/a-comprehensive-guide-to-robotics/
+```
 
 
 
 Integrating Gradio with OpenCV DNN
+```
 https://learnopencv.com/integrating-gradio-with-opencv-dnn/
 https://github.com/spmallick/learnopencv/tree/master/Integrating-Gradio-with-OpenCV-DNN
+```
 
 
 Fine-Tuning YOLOv9 on Custom Dataset
+```
 https://learnopencv.com/fine-tuning-yolov9/
 https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-YOLOv9-Models-Custom-Dataset
+```
 
 
 Dreambooth using Diffusers
+```
 https://learnopencv.com/dreambooth-using-diffusers/
 https://github.com/spmallick/learnopencv/tree/master/Dreambooth_using_Diffusers
+```
 
 
 Introduction to Hugging Face Diffusers
+```
 https://learnopencv.com/hugging-face-diffusers/
 https://github.com/spmallick/learnopencv/tree/master/Introduction_to_Diffusers
+```
 
 
 Introduction to Ultralytics Explorer API
+```
 https://learnopencv.com/ultralytics-explorer-api/
 https://github.com/spmallick/learnopencv/tree/master/Introduction-to-Ultralytics-Explorer-API
+```
 
 
 YOLOv9: Advancing the YOLO Legacy
+```
 https://learnopencv.com/yolov9-advancing-the-yolo-legacy/
 https://github.com/spmallick/learnopencv/tree/master/YOLOv9-Advancing-the-YOLO-Legacy
+```
 
 
 Fine-Tuning LLMs using PEFT
+```
 https://learnopencv.com/fine-tuning-llms-using-peft/
 https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-LLMs-using-PEFT
+```
 
 
 Depth Anything: Accelerating Monocular Depth Perception
+```
 https://learnopencv.com/deciphering-llms/
 https://github.com/spmallick/learnopencv/tree/master/Depth-Anything
+```
 
 
 Deciphering LLMs: From Transformers to Quantization
+```
 https://learnopencv.com/deciphering-llms/
 https://github.com/spmallick/learnopencv/tree/master/Deciphering-LLMs
+```
 
 
 YOLO Loss Function Part 2: GFL and VFL Loss
+```
 https://learnopencv.com/yolo-loss-function-gfl-vfl-loss/
 https://github.com/spmallick/learnopencv/tree/master/YOLO-Loss-Functions-Part2
+```
 
 
 YOLOv8-Object-Tracking-and-Counting-with-OpenCV
+```
 https://learnopencv.com/yolov8-object-tracking-and-counting-with-opencv/
 https://github.com/spmallick/learnopencv/tree/master/YOLOv8-Object-Tracking-and-Counting-with-OpenCV
+```
 
 
 Stereo Vision in ADAS: Pioneering Depth Perception Beyond LiDAR
+```
 https://learnopencv.com/adas-stereo-vision/
 https://github.com/spmallick/learnopencv/tree/master/ADAS-Stereo-Vision
+```
 
 
 YOLO Loss Function Part 1: SIoU and Focal Loss
+```
 https://learnopencv.com/yolo-loss-function-siou-focal-loss/
 https://github.com/spmallick/learnopencv/tree/master/YOLO-Loss-Functions-Part1
+```
 
 
 Moving Object Detection with OpenCV
+```
 https://learnopencv.com/moving-object-detection-with-opencv/
 https://github.com/spmallick/learnopencv/tree/master/Moving-Object-Detection-with-OpenCV
+```
 
 
 Integrating ADAS with Keypoint Feature Pyramid Network for 3D LiDAR Object Detection
+```
 https://learnopencv.com/3d-lidar-object-detection/
 https://www.dropbox.com/scl/fi/3n1s68jtfkjmw2f5e5ctv/3D-LiDAR-Object-Detection.zip?rlkey=d8q6xvlxis4oxso4qki87omvc&amp;dl=1
 Code
+```
 
 
 Mastering All YOLO Models from YOLOv1 to YOLO-NAS: Papers Explained (2024)
+```
 https://learnopencv.com/mastering-all-yolo-models
+```
 
 
 
 GradCAM: Enhancing Neural Network Interpretability in the Realm of Explainable AI
+```
 https://learnopencv.com/intro-to-gradcam/
 https://www.dropbox.com/scl/fo/3p3sg5fnvhrvi9vp00i0w/h?rlkey=1x01uz5o7esex7p6c8r534iyn&amp;dl=1
 Code
+```
 
 
 Text Summarization using T5: Fine-Tuning and Building Gradio App
+```
 https://learnopencv.com/text-summarization-using-t5/
 https://github.com/spmallick/learnopencv/tree/master/Text-Summarization-using-T5-Fine-Tuning-and-Building-Gradio-App
+```
 
 
 3D LiDAR Visualization using Open3D: A Case Study on 2D KITTI Depth Frames for Autonomous Driving
+```
 https://learnopencv.com/3d-lidar-visualization/
 https://github.com/spmallick/learnopencv/tree/master/3D-LiDAR-Perception
+```
 
 
 Fine Tuning T5: Text2Text Transfer Transformer for Building a Stack Overflow Tag Generator
+```
 https://learnopencv.com/fine-tuning-t5/
 https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-T5-Text2Text-Transformer-for-Strack-Overflow-Tag-Generation
+```
 
 
 SegFormer 🤗 : Fine-Tuning for Improved Lane Detection in Autonomous Vehicles
+```
 https://learnopencv.com/segformer-fine-tuning-for-lane-detection
 https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-SegFormer-For-Lane-Detection
+```
 
 
 Fine-Tuning BERT using Hugging Face Transformers
+```
 https://learnopencv.com/fine-tuning-bert
 https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-BERT-using-Hugging-Face-Transformers
+```
 
 
 YOLO-NAS Pose
+```
 https://learnopencv.com/yolo-nas-pose
 https://github.com/spmallick/learnopencv/tree/master/YOLO-NAS-Pose
+```
 
 
 BERT: Bidirectional Encoder Representations from Transformers
+```
 https://learnopencv.com/bert-bidirectional-encoder-representations-from-transformers/
 https://github.com/spmallick/learnopencv/tree/master/BERT-Bidirectional-Encoder-Representations-from-Transformers
+```
 
 
 Comparing KerasCV YOLOv8 Models on the Global Wheat Data 2020
+```
 https://learnopencv.com/comparing-kerascv-yolov8-models/
 https://github.com/spmallick/learnopencv/tree/master/Comparing-KerasCV-YOLOv8-Models-on-the-Global-Wheat-Data-2020
+```
 
 
 Top 5 AI papers of September 2023
+```
 https://learnopencv.com/top-5-ai-papers-of-september-2023/
+```
 
 
 
 Empowering Drivers: The Rise and Role of Advanced Driver Assistance Systems
+```
 https://learnopencv.com/advanced-driver-assistance-systems/
+```
 
 
 
 Semantic Segmentation using KerasCV DeepLabv3+
+```
 https://learnopencv.com/kerascv-deeplabv3-plus-semantic-segmentation/
 https://github.com/spmallick/learnopencv/tree/master/Semantic-Segmentation-using-KerasCV-with-DeepLabv3-Plus
+```
 
 
 Object Detection using KerasCV YOLOv8
+```
 https://learnopencv.com/object-detection-using-kerascv-yolov8/
 https://github.com/spmallick/learnopencv/tree/master/Object-Detection-using-KerasCV-YOLOv8
+```
 
 
 Fine-tuning YOLOv8 Pose Models for Animal Pose Estimation
+```
 https://learnopencv.com/animal-pose-estimation/
 https://github.com/spmallick/learnopencv/tree/master/Fine-tuning-YOLOv8-Pose-Models-for-Animal-Pose-Estimation
+```
 
 
 Top 5 AI papers of August 2023
+```
 https://learnopencv.com/top-5-ai-papers-of-august-2023/
+```
 
 
 Fine Tuning TrOCR - Training TrOCR to Recognize Curved Text
+```
 https://learnopencv.com/fine-tuning-trocr-training-trocr-to-recognize-curved-text/
 https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-TrOCR
+```
 
 
 TrOCR - Getting Started with Transformer Based OCR
+```
 https://learnopencv.com/trocr-getting-started-with-transformer-based-ocr/
 https://github.com/spmallick/learnopencv/tree/master/TrOCR-Getting-Started-with-Transformer-Based-OCR
+```
 
 
 Facial Emotion Recognition
+```
 https://learnopencv.com/facial-emotion-recognition/
 https://github.com/spmallick/learnopencv/tree/master/Facial-Emotion-Recognition
+```
 
 
 Object Keypoint Similarity in Keypoint Detection
+```
 https://learnopencv.com/object-keypoint-similarity/
 https://github.com/spmallick/learnopencv/tree/master/Object-Keypoint-Similarity-in-Keypoint-Detection
+```
 
 
 Real Time Deep SORT with Torchvision Detectors
+```
 https://learnopencv.com/real-time-deep-sort-with-torchvision-detectors/
 https://github.com/spmallick/learnopencv/tree/master/Real_Time_Deep_SORT_using_Torchvision_Detectors
+```
 
 
 Top 5 AI papers of July 2023
+```
 https://learnopencv.com/top-5-ai-papers-of-july-2023/
+```
 
 
 
 Medical Image Segmentation
+```
 https://learnopencv.com/medical-image-segmentation/
 https://github.com/spmallick/learnopencv/tree/master/Medical-Image-Segmentation-Using-HuggingFace-&amp;-PyTorch
+```
 
 
 Weighted Boxes Fusion in Object Detection: A Comparison with Non-Maximum Suppression
+```
 https://learnopencv.com/weighted-boxes-fusion/
 https://github.com/spmallick/learnopencv/tree/master/Weighted-Boxes-Fusion-in-Object-Detection
+```
 
 
 Medical Multi-label Classification with PyTorch &amp; Lightning
+```
 https://learnopencv.com/medical-multi-label/
 https://github.com/spmallick/learnopencv/tree/master/Medical_Multi-label_Classification_with_PyTorch_&amp;_Lightning
+```
 
 
 Getting Started with PaddlePaddle: Exploring Object Detection, Segmentation, and Keypoints
+```
 https://learnopencv.com/paddlepaddle/
 https://github.com/spmallick/learnopencv/tree/master/Introduction-to-PaddlePaddle
+```
 
 How to Build a Pip Installable Package &amp; Upload to PyPi
+```
 https://learnopencv.com/building-pip-installable-package-pypi/
+```
 
 
 
 IoU Loss Functions for Faster &amp; More Accurate Object Detection
+```
 https://learnopencv.com/iou-loss-functions-object-detection/
+```
 
 
 
 Exploring Slicing Aided Hyper Inference for Small Object Detection
+```
 https://learnopencv.com/slicing-aided-hyper-inference/
 https://github.com/spmallick/learnopencv/tree/master/Exploring-Slicing-Aided-Hyper-Inference
+```
 
 
 Advancements in Face Recognition Models, Toolkit and Datasets
+```
 https://learnopencv.com/face-recognition-models/
+```
 
 
 
 Train YOLO NAS on Custom Dataset
+```
 https://learnopencv.com/train-yolo-nas-on-custom-dataset/
 https://github.com/spmallick/learnopencv/tree/master/Train-YOLO-NAS-on-Custom-Dataset
+```
 
 
 Train YOLOv8 Instance Segmentation on Custom Data
+```
 https://learnopencv.com/train-yolov8-instance-segmentation/
 https://github.com/spmallick/learnopencv/tree/master/Train-YOLOv8-Instance-Segmentation-on-Custom-Data
+```
 
 
 YOLO-NAS: New Object Detection Model Beats YOLOv6 &amp; YOLOv8
+```
 https://learnopencv.com/yolo-nas/
 https://github.com/spmallick/learnopencv/tree/master/YOLO-NAS_Introduction
+```
 
 
 Segment Anything – A Foundation Model for Image Segmentation
+```
 https://learnopencv.com/segment-anything/
 https://github.com/spmallick/learnopencv/tree/master/Segment-Anything-A-Foundation-Model-for-Image-Segmentation
+```
 
 
 Build a Video to Slides Converter Application using the Power of Background Estimation and Frame Differencing in OpenCV
+```
 https://learnopencv.com/video-to-slides-converter-using-background-subtraction/
 https://github.com/spmallick/learnopencv/tree/master/
+```
 
 
 A Closer Look at CVAT: Perfecting Your Annotations
+```
 https://learnopencv.com/a-closer-look-at-cvat-perfecting-your-annotations/
 https://www.youtube.com/watch?v=yxX_0-zr-2U&amp;list=PLfYPZalDvZDLvFhjuflhrxk_lLplXUqqB
+```
 
 
 
 ControlNet - Achieving Superior Image Generation Results
+```
 https://learnopencv.com/controlnet/
 https://github.com/spmallick/learnopencv/tree/master/ControlNet-Achieving-Superior-Image-Generation-Results
+```
 
 
 InstructPix2Pix - Edit Images With Prompts
@@ -7678,202 +8248,275 @@ https://github.com/spmallick/learnopencv/tree/master/InstructPix2Pix-Edit-Images
 
 
 NVIDIA Spring GTC 2023 Day 4: Ending on a High Note with Top Moments from the Finale!
+```
 https://learnopencv.com/nvidia-spring-gtc-2023-day-4/
+```
 
 
 
 NVIDIA Spring GTC 2023 Day 3: Digging deeper into Deep Learning, Semiconductors &amp; more!
+```
 https://learnopencv.com/nvidia-spring-gtc-2023-day-3-digging-deeper-into-deep-learning-semiconductors-more/
+```
 
 
 
 NVIDIA Spring GTC 2023 Day 2: Jensen’s keynote &amp; the iPhone moment of AI is here!
+```
 https://learnopencv.com/nvidia-spring-gtc-2023-day-2-jensens-keynote-the-iphone-moment-of-ai-is-here/
+```
 
 
 
 NVIDIA Spring GTC 2023 Day 1: Welcome to the future!
+```
 https://learnopencv.com/nvidia-spring-gtc-2023-day-1-highlights-welcome-to-the-future/
+```
 
 
 
 NVIDIA GTC Spring 2023 Curtain Raiser
+```
 https://learnopencv.com/nvidia-gtc-spring-2023-curtain-raiser/
+```
 
 
 
 Stable Diffusion - A New Paradigm in Generative AI
+```
 https://learnopencv.com/stable-diffusion-generative-ai/
 https://github.com/spmallick/learnopencv/tree/master/Stable-Diffusion-A-New-Paradigm-in-Generative-AI
+```
 
 
 OpenCV Face Recognition – Does Face Recognition Work on AI-Generated Images?
+```
 https://learnopencv.com/opencv-face-recognition-api/
+```
 
 
 
 An In-Depth Guide to Denoising Diffusion Probabilistic Models – From Theory to Implementation
+```
 https://learnopencv.com/denoising-diffusion-probabilistic-models/
 https://github.com/spmallick/learnopencv/tree/master/Guide-to-training-DDPMs-from-Scratch
+```
 
 
 From Pixels to Paintings: The Rise of Midjourney AI Art
+```
 https://learnopencv.com/rise-of-midjourney-ai-art/
-
-
+```
 
 Mastering DALL·E 2: A Breakthrough in AI Art Generation
+```
 https://learnopencv.com/mastering-dall-e-2/
-
-
+```
 
 Top 10 AI Art Generation Tools using Diffusion Models
+```
 https://learnopencv.com/ai-art-generation-tools/
-
-
+```
 
 The Future of Image Recognition is Here: PyTorch Vision Transformer
+```
 https://learnopencv.com/the-future-of-image-recognition-is-here-pytorch-vision-transformer/
 https://github.com/spmallick/learnopencv/tree/master/Vision_Transformer_PyTorch
-
+```
 
 Understanding Attention Mechanism in Transformer Neural Networks
+```
 https://learnopencv.com/attention-mechanism-in-transformer-neural-networks/
 https://github.com/spmallick/learnopencv/tree/master/Attention_Mechanism_Introduction
+```
 
 
 Deploying a Deep Learning Model using Hugging Face Spaces and Gradio
+```
 https://learnopencv.com/deploy-deep-learning-model-huggingface-spaces/
 https://github.com/spmallick/learnopencv/tree/master/Deploying-a-Deep-Learning-Model-using-Hugging-Face-Spaces-and-Gradio
+```
 
 
 Train YOLOv8 on Custom Dataset – A Complete Tutorial
+```
 https://learnopencv.com/train-yolov8-on-custom-dataset/
 https://github.com/spmallick/learnopencv/tree/master/Train-YOLOv8-on-Custom-Dataset-A-Complete-Tutorial
+```
 
 
 Introduction to Diffusion Models for Image Generation
+```
 https://learnopencv.com/image-generation-using-diffusion-models/
 https://github.com/spmallick/learnopencv/tree/master/Introduction-to-Diffusion-Models-for-Image-Generation
+```
 
 
 Building An Automated Image Annotation Tool: PyOpenAnnotate
+```
 https://learnopencv.com/building-automated-image-annotation-tool-pyopenannotate/
 https://github.com/spmallick/learnopencv/tree/master/Building-An-Automated-Image-Annotation-Tool-PyOpenAnnotate/
+```
 
 
 Ultralytics YOLOv8: State-of-the-Art YOLO Models
+```
 https://learnopencv.com/ultralytics-yolov8/
 https://github.com/spmallick/learnopencv/tree/master/Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models
+```
 
 
 Getting Started with YOLOv5 Instance Segmentation
+```
 https://learnopencv.com/getting-started-with-yolov5-instance-segmentation/
 https://github.com/spmallick/learnopencv/tree/master/Getting-Started-with-YOLOv5-Instance-Segmentation
+```
 
 
 The Ultimate Guide To DeepLabv3 - With PyTorch Inference
+```
 https://learnopencv.com/deeplabv3-ultimate-guide/
 https://github.com/spmallick/learnopencv/tree/master/The-ultimate-guide-to-deeplabv3
+```
 
 
 AI Fitness Trainer using MediaPipe: Squats Analysis
+```
 https://learnopencv.com/ai-fitness-trainer-using-mediapipe/
 https://github.com/spmallick/learnopencv/tree/master/AI-Fitness-Trainer-Using-MediaPipe-Analyzing-Squats
+```
 
 
 YoloR - Paper Explanation &amp; Inference -An In-Depth Analysis
+```
 https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/
 https://github.com/spmallick/learnopencv/tree/master/YoloR-paper-explanation-analysis
+```
 
 
 Roadmap To an Automated Image Annotation Tool Using Python
+```
 https://learnopencv.com/automated-image-annotation-tool-using-opencv-python/
 https://github.com/spmallick/learnopencv/tree/master/Roadmap-To-an-Automated-Image-Annotation-Tool-Using-Python
+```
 
 
 Performance Comparison of YOLO Object Detection Models – An Intensive Study
+```
 https://learnopencv.com/performance-comparison-of-yolo-models/
+```
 
 
 
 FCOS - Anchor Free Object Detection Explained
+```
 https://learnopencv.com/fcos-anchor-free-object-detection-explained/
 https://github.com/spmallick/learnopencv/tree/master/FCOS-Inference-using-PyTorch
+```
 
 
 YOLOv6 Custom Dataset Training – Underwater Trash Detection
+```
 https://learnopencv.com/yolov6-custom-dataset-training/
 https://github.com/spmallick/learnopencv/tree/master/YOLOv6-Custom-Dataset-Training-Underwater-Trash-Detection
+```
 
 
 What is EXIF Data in Images?
+```
 https://www.learnopencv.com/what-is-exif-data-in-images/
 https://github.com/spmallick/learnopencv/tree/master/What-is-EXIF-Data-in-Images
+```
 
 
 t-SNE: T-Distributed Stochastic Neighbor Embedding Explained
+```
 https://learnopencv.com/t-sne-t-distributed-stochastic-neighbor-embedding-explained/
 https://github.com/spmallick/learnopencv/tree/master/t-SNE-with-Tensorboard
+```
 
 
 CenterNet: Objects as Points – Anchor-free Object Detection Explained
+```
 https://learnopencv.com/centernet-anchor-free-object-detection-explained/
 https://github.com/spmallick/learnopencv/tree/master/centernet-with-tf-hub
+```
 
 
 YOLOv7 Pose vs MediaPipe in Human Pose Estimation
+```
 https://learnopencv.com/yolov7-pose-vs-mediapipe-in-human-pose-estimation/
 https://github.com/spmallick/learnopencv/tree/master/YOLOv7-Pose-vs-MediaPipe-in-Human-Pose-Estimation
+```
 
 
 YOLOv6 Object Detection – Paper Explanation and Inference
+```
 https://learnopencv.com/yolov6-object-detection/
 https://github.com/spmallick/learnopencv/tree/master/YOLOv6-Object-Detection-Paper-Explanation-and-Inference
+```
 
 
 YOLOX Object Detector Paper Explanation and Custom Training
+```
 https://learnopencv.com/yolox-object-detector-paper-explanation-and-custom-training/
 https://github.com/spmallick/learnopencv/tree/master/YOLOX-Object-Detection-Paper-Explanation-and-Custom-Training
+```
 
 
 Driver Drowsiness Detection Using Mediapipe In Python
+```
 https://learnopencv.com/driver-drowsiness-detection-using-mediapipe-in-python/
 https://github.com/spmallick/learnopencv/tree/master/Driver-Drowsiness-detection-using-Mediapipe-in-Python
+```
 
 
 GTC 2022 Big Bang AI announcements: Everything you need to know
+```
 https://learnopencv.com/gtc-2022-big-bang-ai-announcements-everything-you-need-to-know/
+```
 
 
 
 NVIDIA GTC 2022 : The most important AI event this Fall
+```
 https://learnopencv.com/nvidia-gtc-2022-the-most-important-ai-event-this-fall/
+```
 
 
 Object Tracking and Reidentification with FairMOT
+```
 https://learnopencv.com/object-tracking-and-reidentification-with-fairmot/
 https://github.com/spmallick/learnopencv/tree/master/Object-Tracking-and-Reidentification-with-FairMOT
+```
 
 
 What is Face Detection? – The Ultimate Guide for 2022
+```
 https://learnopencv.com/what-is-face-detection-the-ultimate-guide/
 https://github.com/spmallick/learnopencv/tree/master/Face-Detection-Ultimate-Guide
+```
 
 
 Document Scanner: Custom Semantic Segmentation using PyTorch-DeepLabV3
+```
 https://learnopencv.com/custom-document-segmentation-using-deep-learning/
 https://github.com/spmallick/learnopencv/tree/master/Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3
+```
 
 
 Fine Tuning YOLOv7 on Custom Dataset
+```
 https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/
 https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-YOLOv7
+```
 
 
 Center Stage for Zoom Calls using MediaPipe
+```
 https://learnopencv.com/Center-Stage-for-zoom-call-using-mediapipe/
 https://github.com/spmallick/learnopencv/tree/master/CenterStage
+```
 
 
 Mean Average Precision (mAP) in Object Detection
