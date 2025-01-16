@@ -13445,625 +13445,740 @@ pip install DroneBlocksTelloSimulator
 ```
  
 
+```
+30-ai-robotics-projects-step-into-the-future
+```
+https://coincodecap.com/top-30-ai-robotics-projects-step-into-the-future
+```
+
+25-robotics-project-ideas
+```
+https://www.electronicsforu.com/electronics-projects/hardware-diy/25-robotics-project-ideas
+https://www.electronicsforu.com/iot-projects-ideas
+```
+
+
+Machine Learning Projects
+```
+deploy-ml-tensorflow-model-using-flask-backend-frontend-12a38ce53b7f
+https://github.com/hasan-haider/Deploy-ML-tensorflow-model-using-Flask/tree/8727f2402d2fe8c2a5a8d0e3f588ec0334a8bcc4
+Speech-To-Text
+Convert Audio to Text 
+https://medium.com/codex/google-speech-to-text-api-tutorial-with-python-2e049ae3f525
+Dataset 
+https://www.voiptroubleshooter.com/open_speech/american.html
+Article 
+
+Article 
+
+Convert Voice to Text 
+https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/
+Convert Text to Speech 
+
+Convert PDF File Text to Audio 
+https://www.geeksforgeeks.org/convert-pdf-file-text-to-audio-speech-using-python/?ref=oin_asr3
+Convert Speech to text and text to Speech 
+
+Convert Text and Text File to PDF 
+https://www.geeksforgeeks.org/convert-text-and-text-file-to-pdf-using-python/?ref=oin_asr2
+convert PDF file to Excel 
+https://www.geeksforgeeks.org/how-to-convert-pdf-file-to-excel-file-using-python/?ref=oin_asr5
+convert CSV File to PDF 
+
+TensorFlow Machine Learning Projects 
+https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master
+Machine Learning Projects 
+
+Deep Learning Projects 
+https://www.interviewbit.com/blog/deep-learning-projects/
+Machine Learning Projects 
+
+Face-and-hand-landmarks-detection 
+
+Human-activity-recognition 
+https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/?ref=rp
+Tensorflow-to-be-used-with-abalone-dataset 
+
+Age-detection 
+
+AI Driven Snake Game using Deep Q Learning 
+https://medium.com/@nancy.q.zhou/teaching-an-ai-to-play-the-snake-game-using-reinforcement-learning-6d2a6e8f3b1c
+
+https://github.com/aiden200/rl_snake?source=post_page-----17f03397b060--------------------------------
+https://www.thetutelab.com/artificial-intelligence/python/reinforcement-learning-snake-tutorial/
+
+Detect-and-recognize-car-license-plate-from-a-video 
+https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/
+License-plate-recognition 
+
+Intrusion-detection-system 
+```
+
+```
+https://projectworlds.in/python-projects-with-source-code/
+```
+ 
+Breast-Cancer-Prediction-app-using-Flask-Python
+```
+steps
+Project: Breast-Cancer-Prediction-app-using-Flask-Python
+Model Git link: 
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin
+Tutorial: 
+
+Steps
+Dataset: 
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 1
+Step 1: Define Problem Statement
+Step 2: Data Source
+Step 3: Cleaning the Data
+Step 4: Data Analysis and Exploration
+
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Exploratory_Data_Analysis_Part%201.ipynb
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin
+https://www.kaggle.com/code/itsmohammadshahid/eda-breast-cancer-prediction?scriptVersionId=101471043
+Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 2
+Step 5: Feature Selection
+building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Feature_Selection_Part%202.ipynb
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin
+Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 3
+Step 6: Data Modeling
+Step 7: Model Validation
+https://medium.com/@shahid_dhn/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-d6cf8b47f49a
+https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin
+
+Building ML Model to Predict Whether the Cancer Is Benign or Malignant on Breast Cancer Wisconsin Data Set !! Part 4
+Step 8: Hyperparameter Tuning
+Step 9: Deployment
+https://medium.com/swlh/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-8654994ca20a
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Optimization_and_Deployment_Part%204.ipynb
+Deploying Breast Cancer Prediction Model Using Flask APIs and Heroku
+https://medium.com/swlh/deploying-breast-cancer-prediction-model-using-flask-apis-and-heroku-4fd3b65b2f26
+https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data
+python app.py
+http://127.0.0.1:5000
+http://127.0.0.1:5000/predict
+conda activate myenv3125
+works fine
+```
+ 
+ 
+Computer Vision Projects
+``` 
+https://www.analyticsvidhya.com/blog/2022/06/deploying-a-keras-flower-classification-model/ Not OK
+Language Translator
+https://github.com/leeqv/kana-board/blob/master/media/insert-kanji.gif
+https://www.geeksforgeeks.org/python-classifying-handwritten-digits-with-tensorflow/
+Course/Research/Study
+https://www.geeksforgeeks.org/courses/full-stack-applied-data-science-program?utm_campaign=554_abt&utm_medium=gfgcontent_abt&utm_source=geeksforgeeks
+Visualizing Convolutional Neural Networks \| Layer by Layer
+https://www.youtube.com/watch?v=JboZfxUjLSk&ab_channel=far1din
+Blur image detection using SVM
+https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/comments
+OK
+Blur image detection using SVM
+Code 
+https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/notebook
+Dataset 
+https://www.kaggle.com/datasets/kwentar/blur-dataset
+OK
+Code 
+https://www.kaggle.com/code/valentinld/blurdetection/notebook
+Dataset 
+https://www.kaggle.com/datasets/kwentar/blur-dataset
+/kaggle/input/blur-dataset/blur_dataset_scaled/
+OK
+Code 
+https://github.com/avs-abhishek123/Computer-Vision-Projects/tree/main/Contour_detection
+OK
+Code 
+https://www.kaggle.com/code/deshwalmahesh/image-processing-2-contour-edge-threshold
+OK
+https://machinelearningprojects.net/sketch-making-flask-app/
+https://github.com/sharmaji27/sketchy-sketch-making-flask-app
+OK
+```
+
+``` 
+Code 
+https://www.kaggle.com/code/dev523/leaf-disease-detection/notebook
+Dataset 
+https://www.kaggle.com/code/dev523/leaf-disease-detection/input
+OK
+Code 
+https://www.kaggle.com/code/divyanshurajput75/leaf-disease-detection/notebook
+Dataset 
+https://www.kaggle.com/code/dev523/leaf-disease-detection/input
+working on
+Code 
+https://www.kaggle.com/code/eyadgk/leafdiseasepred-imageclassificationtemp-densenet/notebook
+Dataset 
+https://www.kaggle.com/code/dev523/leaf-disease-detection/input
+working on
+```
 
 
 
+``` 
+100 Computer Vision Projects for 2023
+```
+https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
+00:57 Object Size Measurement
+01:22 Document Scanner
+01:39 Traffic Sign Detection
+02:22 Face Tracking with 2-axis PID Control
+02:49 Face Door Lock
+03:31 Face Emotion Detection
+03:44 Face Detection
+03:55 Shape Detection
+04:26 Custom Object Detection
+04:42 Obstacle Avoiding Robot
+05:03 Optical Mark Recognition
+05:42 Object Tracking
+06:17 QR Code Detection
+06:52 Text Detection
+07:18 Face Filter
+07:50 Feature Detection
+08:16 Augmented Reality with Aruco Markers
+08:47 Self-Driving Simulation
+09:09 Angle Finder
+09:29 Panorama Sticking
+10:12 OCR in Forms
+10:43 Self-Driving a Car using Neural Networks with Raspberry Pi
+11:12 Sudoku Solver
+11:40 Deep Fake
+11:58 Drone Path Visualiser
+12:16 Lane Following Drone
+12:14 Eye Trakcing with Jetson Nano
+13:47 Lane Following for self-driving car
+14:27 Object Tracking with Jetson Nano Robot
+15:00 Augmented Reality
+15:35 Finger Counter
+15:59 Track and Shoot using Computer Vision
+16:18 Object Classification
+16:42 Drone Face Following
+17:00 Background Removal
+17:21 Selfie Drone
+18:17 Drone Flip using Hand Gestures
+19:01 Drone Object Following
+19:37 Ai Virtual Keyboard
+19:59 Multiple Hand Gesture Control
+20:20 Virtual Zoom Gesture
+20:43 Hand Pose Detection
+20:57 Virtual Quiz Game
+21:21 Robot Hand Gesture Controlled
+21:52 Custom Object Counter on Conveyor Belt
+22:31 Cookie Cutter Squid Game
+22:59 Green Light Red Light Squid Game
+23:15 Automated Velcro Dart Board
+23:29 Ballon Pop Game
+23:52 Hand Distance Measurement
+24:32 Virtual Paint
+24:46 Fruit Classifier
+25:01 Color Detection
+25:46 Face Mesh
+25:59 Body Pose Detection
+26:17 MCQ Automated Grading
+26:34 Virtual Gym
+26:53 Drowsiness Detection
+27:07 ID card Recognition
+27:17 PPE Detection
+27:34 Pistol Detection
+27:56 Virtual Drag and Drop
+28:10 Text Extraction on the web
+28:25 Real-time Digit Classification
+28:49 Virtual Calculator
+29:21 Face Mask Detection
+29:34 Kids Educational Game using Computer Vision
+30:02 Waste Classifier
+30:30 Glasses Try On
+30:49 AI Robot Arm
+31:23 Blink Counter
+31:32 Face Distance Measurement
+31:49 3d Motion Capture
+32:06 Computer Vision Snake Game
+32:39 3d Ball Tracking
+33:35 Hand Gesture Fruit Ninja
+34:01 Pong Game using Hand Gestures
+34:42 AI Typing Tutor
+35:20 Rotate 3D Objects with Your Head
+36:06 Rock Paper Scissor
+37:03 Hand Sign Detection
+37:30 Object Detection on the web
+37:45 AI Virtual Mouse
+38:06 Car Counter
+38:17 3d Hand Tracking
+39:02 Suspicious luggage
+39:12 Coffee Machine Virtual Interface
+39:49 Computer Vision Pop Game
+40:08 Basketball Shot Predictor
+40:34 Gesture Controlled Presentation
+40:52 Intruder Detection
+41:07Face Recognition with Real-time Database
+41:34 Customer Engagement
+41:56 Shop traffic counter
+42:10 Drone Body Following
+42:43 License Plate Recognition
+42:59 Gesture Volume Control
+43:15 Shirt Size Measurement
+```
+
+```
 
 
+Optical Character Recognition (OCR) for Handwritten Text
+Plant Disease Detection
+Honey Bee Detection
+Clothing Classifier
+Food Image Classification
+Multi-object Tracking in Video
+Image Captioning
+3D Object Reconstruction From Multiple Views
+Gesture Recognition For Human-Computer Interaction
+Visual Question Answering (VQA)
+Insurance Code Extraction
+Image Deblurring
+Video Summarization
+Face De-Aging/Aging
+Human Pose Estimation And Action Recognition in Crowded Scenes
+Unsupervised Anomaly Detection in Industrial Inspection
+```
 
+```
+https://www.geeksforgeeks.org/computer-vision-projects/
+Detect the RGB color from a webcam using Python – OpenCV
+Face Detection using Python and OpenCV with a webcam
+Face and Hand Landmarks Detection using Python – Mediapipe, OpenCV
+Real-Time Edge Detection using OpenCV
+Implement Canny Edge Detector in Python using OpenCV
+Gun Detection using Python-OpenCV
+Real-time object color detection using OpenCV
+Right and Left Hand Detection Using Python
+Age Detection Using Deep Learning in OpenCV
+OpenCV – Drowsiness Detection
+Build GUI Application Pencil Sketch from Photo in Python
+Measure Size of an Object Using Python OpenCV
+Brightness Control With Hand Detection using OpenCV in Python
+Car driving using hand detection in Python
+Contour Detection with Custom Seeds using Python – OpenCV
+Find Co-ordinates of Contours using OpenCV \| Python
+Live Webcam Drawing using OpenCV
+Black and white image colorization with OpenCV and Deep Learning
+Detect and Recognize Car License Plate from a video in real-time
+License Plate Recognition with OpenCV and Tesseract OCR
+Handwritten Digit Recognition using Neural Network
+Image Classification with Convolutional Neural Networks (CNNs) Using Pytorch
+Human Pose Estimation with OpenCVUsing
+Age and Gender Prediction from Image Using Pytorch
+Face detection using Cascade Classifier using OpenCV-Python
+Face recognition using Artificial Intelligence
+Face recognition using GUI
+FaceMask Detection using TensorFlow in Python
+Python OpenCV – Super-resolution with deep learning
+Real-Time Road Lane Detection
+CIFAR-10 Image Classification in TensorFlow
+Dog Breed Classification Using Transfer Learning
+Flower Recognition Using Convolutional Neural Network
+Emojify using Face Recognition with Machine Learning
+Cat & Dog Classification using Convolutional Neural Network in Python
+Video Analysis with Convolutional LSTM Networks
+Autonomous Driving with Deep Learning
+Visual Question Answering with Neural Networks
+Scene Recognition with Convolutional Neural Networks
+Text Recognition from Image with Convolutional Recurrent Neural Networks
+Image Captioning Using Pytorch
+Medical Image Analysis Using Deep Learning
+Document Layout Analysis with Deep Learning
+Deep Learning for Artistic Style Transfer
+Landmark Recognition with Deep Neural Networks
+Image Restoration with Generative Adversarial Networks
+Satellite Image Analysis Using Convolutional Neural Network
+Image generation with Convolutional Autoencoders
+Lung Cancer Detection using Convolutional Neural Network (CNN) Tensorflow
+Lung Cancer Detection Using Transfer Learning
+Lung cancer detection using PyTorch
+Pneumonia Detection Using Deep Learning
+Detecting Covid-19 with Chest X-ray
+Skin Cancer Detection Using TensorFlow
+Hand Gesture Recognition with Convolutional Neural Networks
+Optical Character Recognition Using Pytorch
+Video Object Segmentation with Convolutional Networks
+Traffic Signs Recognition using CNN and Keras in Python
+Vehicle license plate recognition
+Image Inpainting with Deep Neural Networks
+Image Deblurring with Deep Neural Networks
+Object Detection Using YOLO Using Pytorch
+Object Detection Using YOLO Using Tensorflow
+Object Detection with Faster R-CNN and Mask R-CNN
+Image Segmentation with U-Net using Tensorflow
+Image Segmentation with SegNet using Tensorflow
+Image Segmentation with U-Net using Pytorch
+Neural Style Transfer Using Pytorch
+Image Synthesis using Generative Adversarial Networks (GANs)
+Emotion Recognition through Facial Expressions
+Facial expression detection using the Deepface module in Python
+Instance segmentation using Pytorch
+Semantic segmentation using Pytorch
+Face similarity Detection using PyTorch
+Age Conversion Using GANs Algorithm
+Business Card Recognization Using Deep Learning
+Traffic light detection using Deep Learning
+People Counting Using Deep Learning
+DeepDream using CNNs
+Cartoonifying an Image Using Deep Learning
+Road Condition Monitoring Project Using Deep Learning
+Image colourization using GANs algorithm
+Image Classifier using Tensorflow Object Detection API
 
+```
+Excellant Repository 
+```
+https://github.com/avs-abhishek123/Computer-Vision-Projects
+```
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 
+```
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+```
 
+```
+https://machinelearningprojects.net/computer-vision-projects/
+Background-Remover-Flask-App
+Leaf Disease Detection Flask App
+Drowsiness Detection using cv2
+Number Plate Detection using Yolov7
+Train yolov7 on the custom dataset
+Blur Faces in Live Feed
+Sketch making Flask App
+Generating cifar 10 fake images using DCGAN
+Helmet and Number Plate Detection and Recognition using YOLOv3
+healthcure an all in one medical solution
+Invisible Man using Mask RCNN
+Sudoku Solver
+Object Detection using SSD
+Social Distancing using YOLOv3
+Face Recognition based Attendance System
+detect shapes using cv2
+Document Scanner using OpenCV
+Face Landmarks Detection using dlib
+Make your Sketch using OpenCV
+How to perform Face Recognition using KNN
+Immortal Snake game in Python
+find the most dominant colors in an image using KMeans clustering
+types of thresholding techniques
+Face and eye detection in cv2
+Harrys Invisibility Cloak
+split and merge channels in cv2
+edge detection using Sobel X and Sobel Y
+Rotating and Scaling Images in cv2
+use mouse clicks to draw circles in Python
+repair damaged images using inpainting methods
+generate negative images in Python
+detect edges using Laplacian 2nd order derivative
+plot a Histogram of a grayscale image 1
+denoise an Image using Median Blur
+perform Morphological Operations like Erosion Dilation and Gradient 1
+detect contours in an Image
+plot Color Channels Histogram of an Image
+Blurrings in cv2
+BGR Palette in OpenCV
+draw basic shapes on Images
+resize an image in Python
+read an image in python
+```
 
+```
+https://neptune.ai/blog/15-computer-visions-projects
+Edge & Contour Detection
+Colour Detection & Invisibility Cloak
+Text Recognition using OpenCV and Tesseract (OCR)
+Face Recognition with Python and OpenCV
+Object Detection
+Hand Gesture Recognition
+Human Pose Detection
+Road Lane Detection in Autonomous Vehicles
+Pathology Classification
+Fashion MNIST for Image Classification
+Image Deblurring using Generative Adversarial Networks
+Image Transformation
+Automatic Colorization of Photos using Deep Neural Networks
+Vehicle Counting and Classification
+Vehicle license plate scanners
+```
 
-</body>
-</html>
+```
+https://www.youtube.com/watch?v=BFlRmIvqwSA&t=291s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
+Background Removal: • Background Removal Like Zoom \| OpenCV...
+Virtual Calculator: • Virtual Calculator using OpenCV Pytho...
+Velcro Dart Game: • Computer Vision Game using OpenCV Pyt...
+Red Light Green Light (Paid): 
+https://www.computervision.zone/cv-ga...
+Cookie Cutter(Paid): 
+https://www.computervision.zone/cv-ga...
+Personal AI Trainer: • Build a Personal AI Trainer \| OpenCV ...
+Track and Shoot: • Track and Shoot using Computer Vision...
+Elbow pose detector (Paid): 
+https://www.computervision.zone/ardui...
+AI Mouse Control: • AI Virtual Mouse \| OpenCV Python \| Co...
+Custom Object Counter on Conveyor belt (Paid): 
+https://www.computervision.zone/ardui...
+Robot Hand Gesture Arduino (Paid): 
+https://www.computervision.zone/ardui...
+Virtual Keyboard: • AI Virtual Keyboard using OpenCV \| Co...
+Self Driving (MegaBot): • Is this the best Raspberry Pi Robotic...
+AI Virtual Painter: • AI Virtual Painter \| OpenCV Python \| ...
+Balloon Pop Pygame (Paid): 
+https://www.computervision.zone/cv-ga...
+Object Detection Mobile APP (Paid): 
+https://www.computervision.zone/cv-mo...
+Face Tracking (Paid): 
+https://www.computervision.zone/ardui...
+Eye Tracking (Paid): 
+https://www.computervision.zone/ardui...
+Deep Fake: • Deepfake Tutorial and Explanation Ste...
+Balloon Pop Game: • I tried building a Computer Vision Ga...
+Basketball Shot Predictor: • Basket Ball Shot Predictor using Open...
+Hand Distance measurement: • Hand Distance Measurement with Normal...
+Parking Space Counter: • Parking Space Counter using OpenCV Py...
+Volume Gesture Control: • Gesture Volume Control \| OpenCV Pytho...
+Drone Body Following (Paid): 
+https://www.computervision.zone/adv-d...
 
+https://www.projectpro.io/article/object-detection-project-ideas-with-source-code/490
+Monkey, Cat, and Dog Detection System
+Train your Own Object Detection Model
+Vehicle Counting Model
+Furniture Recognition Model
+Vehicle Detection in Video Data
+Surveillance Camera Object Detection System
+Build an Object Detection Web Application
+Motion Detection System
+```
+ 
+Excellant Tutorials AI
+```
+1 Loan Approval 
+https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/ 
+https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view OK
+2 Loan analysis 
+https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis 
+https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis/input OK
+https://stackoverflow.com/questions/tagged/tensorflow
+https://www.kaggle.com/search?q=natural+language+processing
+3 Natural Language Processing 
+https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook 
+https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK
+4 Diabetes Prediction-EDA + 10 Models 
+https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models
 
-<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
-Robotics |  
--- | --
-  |  
-Reinforcement learning |  
-gaming |  
-Tic-Tac-Toe AI https://editor.p5js.org/codingtrain/sketches/0zyUhZdJD |  
-Chess AI |  
-Connect-4 AI |  
-, robotics, manufacturing, and aerospace |  
-snake AI |  
-30-ai-robotics-projects-step-into-the-future |  
-https://coincodecap.com/top-30-ai-robotics-projects-step-into-the-future |  
-25-robotics-project-ideas |  
-https://www.electronicsforu.com/electronics-projects/hardware-diy/25-robotics-project-ideas |  
-https://www.electronicsforu.com/iot-projects-ideas |  
+```
 
+```
+https://www.kaggle.com/search?q=diabetes+prediction
+https://www.kaggle.com/zabihullah18/code
+Car price Prediction  
+https://www.kaggle.com/code/zabihullah18/car-price-prediction/notebook    
+https://www.kaggle.com/code/zabihullah18/car-price-prediction/input    OK
+Global Countries \|\| EDA   
+https://www.kaggle.com/code/zabihullah18/global-countries-eda    
+https://www.kaggle.com/code/zabihullah18/global-countries-eda/input    OK
+Student Performance  
+https://www.kaggle.com/code/zabihullah18/student-performance    
+https://www.kaggle.com/code/zabihullah18/student-performance/input    OK
+Email Spam Detection  
+https://www.kaggle.com/code/zabihullah18/email-spam-detection    
+https://www.kaggle.com/code/zabihullah18/email-spam-detection/input    OK
 
+https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision/Deploy%20Image%20Classifier%20With%20Flask          OK
+app.run(port=5002)
+```
+ 
+Advance AI
+```
+ML Data Science FULL Course for Beginners in 27 HOURS - 2024 Edition
+https://www.youtube.com/watch?v=gDZ6czwuQ18&ab_channel=WsCubeTech
+Excellant tutorial
+Youtube 
+https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org
+Source 
+https://github.com/datapublishings/Course-python-data-science/tree/master
+Path C:\カーン\ml\Course-python-data-science\Course-python-data-science
+cmd jupyter notebook
+MasteringPythonZeroToHero_part1.ipynb
+MasteringPythonZeroToHero_part2.ipynb
+Machine Learning Algorithm
+```
 
+```
+https://www.geeksforgeeks.org/machine-learning-algorithms/
+Chatbot using Python, NLP, and Data Science \| Build Your Own Chatbot \| Intellipaat
 
-<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
-Machine Learning Projects |  
--- | --
-https://medium.com/analytics-vidhya/deploy-ml-tensorflow-model-using-flask-backend-frontend-12a38ce53b7f |   |  
-https://github.com/hasan-haider/Deploy-ML-tensorflow-model-using-Flask/tree/8727f2402d2fe8c2a5a8d0e3f588ec0334a8bcc4 |   |  
-  |   |  
-Speech-To-Text |   |  
-Convert Audio to Text https://medium.com/codex/google-speech-to-text-api-tutorial-with-python-2e049ae3f525#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImE1MGY2ZTcwZWY0YjU0OGE1ZmQ5MTQyZWVjZDFmYjhmNTRkY2U5ZWUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDU2NDE2Mzg0MTMwMDE2NjE2ODQiLCJlbWFpbCI6ImZ4eDQwYTNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTcyODUxNTE4MSwibmFtZSI6ImZ4WDQwYTMgZnhYNDBhMyIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLMjJBaUF1dW5FdXRrNzY1RkNfWjhteWNzZFQ2T09vYndKQnVuLW9oejZUTzRYT0E9czk2LWMiLCJnaXZlbl9uYW1lIjoiZnhYNDBhMyIsImZhbWlseV9uYW1lIjoiZnhYNDBhMyIsImlhdCI6MTcyODUxNTQ4MSwiZXhwIjoxNzI4NTE5MDgxLCJqdGkiOiJjOWM5NDAxOTY1ZGU5NjBhODAwYzExZjYwMWRjZmQ3ODE0MGVhN2RiIn0.tfGghWRmr7IaRSwpofSbccEk7ZNuwM3aEEF8YkXak6WIYFGFq7F4mFIrzB-OpFaFSU62Fuu-9gCA4pUBLfOvhKx7xdqBRNdvy7K0iOFMxbUrnHPlQX-MsM_wOoOY4-MwYq_bDTZNwRnQss5tzm6d8EcrRNY4lbfkrHrxho7qYtwfhQ5hwOKZabguVXw2JXn-q2KD7voagxAnQ988TjiFrRLF-CYR4mvr_aO_CiKvOy4uBCeU0cL4azyihMEwqCE8tV2Ihz5iUbRquHuQ2v7CNGzrYEfjEuM-7OOvsK0VlkS3LNGNBgFswXvO4ZdmNtFOLwnGYaX2QtjVvgPmUJDrjA |   |  
-Dataset https://www.voiptroubleshooter.com/open_speech/american.html |   |  
-Article https://cloud.google.com/speech-to-text/docs/reference/rest/v1/RecognitionConfig |   |  
-Article https://pypi.org/project/SpeechRecognition/ |   |  
-Convert Voice to Text https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/ |   |  
-Convert Text to Speech https://www.geeksforgeeks.org/convert-text-speech-python-using-win32com-client/?ref=oin_asr2 |   |  
-Convert PDF File Text to Audio https://www.geeksforgeeks.org/convert-pdf-file-text-to-audio-speech-using-python/?ref=oin_asr3 |   |  
-Convert Speech to text and text to Speech https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/?ref=oin_asr1 |   |  
-Convert Text and Text File to PDF https://www.geeksforgeeks.org/convert-text-and-text-file-to-pdf-using-python/?ref=oin_asr2 |   |  
-convert PDF file to Excel https://www.geeksforgeeks.org/how-to-convert-pdf-file-to-excel-file-using-python/?ref=oin_asr5 |   |  
-convert CSV File to PDF https://www.geeksforgeeks.org/how-to-convert-csv-file-to-pdf-file-using-python/?ref=oin_asr6 |   |  
-TensorFlow Machine Learning Projects https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master |   |  
-Machine Learning Projects https://www.geeksforgeeks.org/machine-learning-projects/ |   |  
-Deep Learning Projects https://www.interviewbit.com/blog/deep-learning-projects/ |   |  
-Machine Learning Projects https://www.geeksforgeeks.org/machine-learning-projects/ |   |  
-Face-and-hand-landmarks-detection https://www.geeksforgeeks.org/face-and-hand-landmarks-detection-using-python-mediapipe-opencv/ |   |  
-Human-activity-recognition https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/?ref=rp |   |  
-Tensorflow-to-be-used-with-abalone-dataset https://www.geeksforgeeks.org/how-can-tensorflow-be-used-with-abalone-dataset-to-build-a-sequential-model/ |   |  
-Age-detection https://www.geeksforgeeks.org/age-detection-using-deep-learning-in-opencv/ |   |  
-AI Driven Snake Game using Deep Q Learning https://medium.com/@nancy.q.zhou/teaching-an-ai-to-play-the-snake-game-using-reinforcement-learning-6d2a6e8f3b1c |   |  
-https://github.com/vedantgoswami/SnakeGameAI |   |  
-https://github.com/aiden200/rl_snake?source=post_page-----17f03397b060-------------------------------- |   |  
-https://www.thetutelab.com/artificial-intelligence/python/reinforcement-learning-snake-tutorial/ |   |  
-https://github.com/patrickloeber/snake-ai-pytorch |   |  
-Detect-and-recognize-car-license-plate-from-a-video https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/ |   |  
-License-plate-recognition https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/ |   |  
-Intrusion-detection-system https://www.geeksforgeeks.org/intrusion-detection-system-using-machine-learning-algorithms/ |   |  
-https://github.com/mudgalabhay/intrusion-detection-system/blob/master/main.ipynb |   |  
-https://github.com/mudgalabhay/Intrusion-Detection-System/tree/master |   |  
-  |   |  
-  |   |  
-https://projectworlds.in/python-projects-with-source-code/ |   |  
-  |   |  
-Breast-Cancer-Prediction-app-using-Flask-Python |  
-  |   |  
-  |   |  
-steps |   |  
-  |   |  
-Project: Breast-Cancer-Prediction-app-using-Flask-Python |   |  
-Model Git link: https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
-Tutorial: https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8 |   |  
-Steps |   |  
-  |   |  
-Step 1: Define Problem Statement |   |  
-Step 2: Data Source |   |  
-Step 3: Cleaning the Data |   |  
-Step 4: Data Analysis and Exploration |   |  
-Step 5: Feature Selection |   |  
-Step 6: Data Modelling |   |  
-Step 7: Model Validation |   |  
-Step 8: Hyperparameter Tuning |   |  
-Step 9: Deployment |   |  
-Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29 |   |  
-Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 1 |   |  
-Step 1: Define Problem Statement |   |  
-Step 2: Data Source |   |  
-Step 3: Cleaning the Data |   |  
-Step 4: Data Analysis and Exploration |   |  
-https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8 |   |  
-https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Exploratory_Data_Analysis_Part%201.ipynb |   |  
-https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
-https://www.kaggle.com/code/itsmohammadshahid/eda-breast-cancer-prediction?scriptVersionId=101471043 |   |  
-Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 2 |   |  
-Step 5: Feature Selection |   |  
-https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62 |   |  
-https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Feature_Selection_Part%202.ipynb |   |  
-https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
-Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 3 |   |  
-Step 6: Data Modeling |   |  
-Step 7: Model Validation |   |  
-https://medium.com/@shahid_dhn/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-d6cf8b47f49a |   |  
-https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data |   |  
-https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
-https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Building_Evaluation_Part3.ipynb |   |  
-Building ML Model to Predict Whether the Cancer Is Benign or Malignant on Breast Cancer Wisconsin Data Set !! Part 4 |   |  
-Step 8: Hyperparameter Tuning |   |  
-Step 9: Deployment |   |  
-https://medium.com/swlh/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-8654994ca20a |   |  
-https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin |   |  
-https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Optimization_and_Deployment_Part%204.ipynb |   |  
-Deploying Breast Cancer Prediction Model Using Flask APIs and Heroku |   |  
-https://medium.com/swlh/deploying-breast-cancer-prediction-model-using-flask-apis-and-heroku-4fd3b65b2f26 |   |  
-https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data |   |  
-python app.py |   |  
-http://127.0.0.1:5000 |   |  
-http://127.0.0.1:5000/predict |   |  
-conda activate myenv3125 |   |  
-works fine |   |  
-  |   |  
-  |   |  
-Computer Vision Projects |  
-  |   |  
-https://www.analyticsvidhya.com/blog/2022/06/deploying-a-keras-flower-classification-model/ Not OK |   |  
-Language Translator |   |  
-https://github.com/leeqv/kana-board/blob/master/media/insert-kanji.gif |   |  
-https://www.geeksforgeeks.org/python-classifying-handwritten-digits-with-tensorflow/ |   |  
-Course/Research/Study |   |  
-https://www.geeksforgeeks.org/courses/full-stack-applied-data-science-program?utm_campaign=554_abt&utm_medium=gfgcontent_abt&utm_source=geeksforgeeks |   |  
-Visualizing Convolutional Neural Networks \| Layer by Layer |   |  
-https://www.youtube.com/watch?v=JboZfxUjLSk&ab_channel=far1din |   |  
-Blur image detection using SVM |   |  
-https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/comments |   |  
-OK |   |  
-Blur image detection using SVM |   |  
-Code https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/notebook |   |  
-Dataset https://www.kaggle.com/datasets/kwentar/blur-dataset |   |  
-OK |   |  
-Code https://www.kaggle.com/code/valentinld/blurdetection/notebook |   |  
-Dataset https://www.kaggle.com/datasets/kwentar/blur-dataset |   |  
-/kaggle/input/blur-dataset/blur_dataset_scaled/ |   |  
-OK |   |  
-Code https://github.com/avs-abhishek123/Computer-Vision-Projects/tree/main/Contour_detection |   |  
-OK |   |  
-Code https://www.kaggle.com/code/deshwalmahesh/image-processing-2-contour-edge-threshold |   |  
-OK |   |  
-https://machinelearningprojects.net/sketch-making-flask-app/ |   |  
-https://github.com/sharmaji27/sketchy-sketch-making-flask-app |   |  
-OK |   |  
-  |   |  
-Explain |   |  
-  |   |  
-  |   |  
-Code https://www.kaggle.com/code/dev523/leaf-disease-detection/notebook |   |  
-Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input |   |  
-OK |   |  
-Code https://www.kaggle.com/code/divyanshurajput75/leaf-disease-detection/notebook |   |  
-Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input |   |  
-working on |   |  
-Code https://www.kaggle.com/code/eyadgk/leafdiseasepred-imageclassificationtemp-densenet/notebook |   |  
-Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input |   |  
-working on |   |  
-  |   |  
-100 Computer Vision Projects for 2023 |   |  
-  |   |  
-https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI |   |  
-00:57 Object Size Measurement |   |  
-01:22 Document Scanner |   |  
-01:39 Traffic Sign Detection |   |  
-02:22 Face Tracking with 2-axis PID Control |   |  
-02:49 Face Door Lock |   |  
-03:31 Face Emotion Detection |   |  
-03:44 Face Detection |   |  
-03:55 Shape Detection |   |  
-04:26 Custom Object Detection |   |  
-04:42 Obstacle Avoiding Robot |   |  
-05:03 Optical Mark Recognition |   |  
-05:42 Object Tracking |   |  
-06:17 QR Code Detection |   |  
-06:52 Text Detection |   |  
-07:18 Face Filter |   |  
-07:50 Feature Detection |   |  
-08:16 Augmented Reality with Aruco Markers |   |  
-08:47 Self-Driving Simulation |   |  
-09:09 Angle Finder |   |  
-09:29 Panorama Sticking |   |  
-10:12 OCR in Forms |   |  
-10:43 Self-Driving a Car using Neural Networks with Raspberry Pi |   |  
-11:12 Sudoku Solver |   |  
-11:40 Deep Fake |   |  
-11:58 Drone Path Visualiser |   |  
-12:16 Lane Following Drone |   |  
-12:14 Eye Trakcing with Jetson Nano |   |  
-13:47 Lane Following for self-driving car |   |  
-14:27 Object Tracking with Jetson Nano Robot |   |  
-15:00 Augmented Reality |   |  
-15:35 Finger Counter |   |  
-15:59 Track and Shoot using Computer Vision |   |  
-16:18 Object Classification |   |  
-16:42 Drone Face Following |   |  
-17:00 Background Removal |   |  
-17:21 Selfie Drone |   |  
-18:17 Drone Flip using Hand Gestures |   |  
-19:01 Drone Object Following |   |  
-19:37 Ai Virtual Keyboard |   |  
-19:59 Multiple Hand Gesture Control |   |  
-20:20 Virtual Zoom Gesture |   |  
-20:43 Hand Pose Detection |   |  
-20:57 Virtual Quiz Game |   |  
-21:21 Robot Hand Gesture Controlled |   |  
-21:52 Custom Object Counter on Conveyor Belt |   |  
-22:31 Cookie Cutter Squid Game |   |  
-22:59 Green Light Red Light Squid Game |   |  
-23:15 Automated Velcro Dart Board |   |  
-23:29 Ballon Pop Game |   |  
-23:52 Hand Distance Measurement |   |  
-24:32 Virtual Paint |   |  
-24:46 Fruit Classifier |   |  
-25:01 Color Detection |   |  
-25:46 Face Mesh |   |  
-25:59 Body Pose Detection |   |  
-26:17 MCQ Automated Grading |   |  
-26:34 Virtual Gym |   |  
-26:53 Drowsiness Detection |   |  
-27:07 ID card Recognition |   |  
-27:17 PPE Detection |   |  
-27:34 Pistol Detection |   |  
-27:56 Virtual Drag and Drop |   |  
-28:10 Text Extraction on the web |   |  
-28:25 Real-time Digit Classification |   |  
-28:49 Virtual Calculator |   |  
-29:21 Face Mask Detection |   |  
-29:34 Kids Educational Game using Computer Vision |   |  
-30:02 Waste Classifier |   |  
-30:30 Glasses Try On |   |  
-30:49 AI Robot Arm |   |  
-31:23 Blink Counter |   |  
-31:32 Face Distance Measurement |   |  
-31:49 3d Motion Capture |   |  
-32:06 Computer Vision Snake Game |   |  
-32:39 3d Ball Tracking |   |  
-33:35 Hand Gesture Fruit Ninja |   |  
-34:01 Pong Game using Hand Gestures |   |  
-34:42 AI Typing Tutor |   |  
-35:20 Rotate 3D Objects with Your Head |   |  
-36:06 Rock Paper Scissor |   |  
-37:03 Hand Sign Detection |   |  
-37:30 Object Detection on the web |   |  
-37:45 AI Virtual Mouse |   |  
-38:06 Car Counter |   |  
-38:17 3d Hand Tracking |   |  
-39:02 Suspicious luggage |   |  
-39:12 Coffee Machine Virtual Interface |   |  
-39:49 Computer Vision Pop Game |   |  
-40:08 Basketball Shot Predictor |   |  
-40:34 Gesture Controlled Presentation |   |  
-40:52 Intruder Detection |   |  
-41:07Face Recognition with Real-time Database |   |  
-41:34 Customer Engagement |   |  
-41:56 Shop traffic counter |   |  
-42:10 Drone Body Following |   |  
-42:43 License Plate Recognition |   |  
-42:59 Gesture Volume Control |   |  
-43:15 Shirt Size Measurement |   |  
-https://www.datacamp.com/blog/computer-vision-projects?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=152984011814&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=714994855825&utm_targetid=aud-1459190388940:dsa-2222697810918&utm_loc_interest_ms=&utm_loc_physical_ms=9197070&utm_content=DSA~blog~Machine-Learning&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p1_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-oct24odp&gad_source=1&gclid=Cj0KCQjw6oi4BhD1ARIsAL6pox3jGI1p_TmDtJjepgdnI6mC9BbWazyehEP_mrCab2WtIIRcWMIF4dMaAuEAEALw_wcB |   |  
-Optical Character Recognition (OCR) for Handwritten Text |   |  
-Plant Disease Detection |   |  
-Honey Bee Detection |   |  
-Clothing Classifier |   |  
-Food Image Classification |   |  
-Multi-object Tracking in Video |   |  
-Image Captioning |   |  
-3D Object Reconstruction From Multiple Views |   |  
-Gesture Recognition For Human-Computer Interaction |   |  
-Visual Question Answering (VQA) |   |  
-Insurance Code Extraction |   |  
-Image Deblurring |   |  
-Video Summarization |   |  
-Face De-Aging/Aging |   |  
-Human Pose Estimation And Action Recognition in Crowded Scenes |   |  
-Unsupervised Anomaly Detection in Industrial Inspection |   |  
-https://www.geeksforgeeks.org/computer-vision-projects/ |   |  
-Detect the RGB color from a webcam using Python – OpenCV |   |  
-Face Detection using Python and OpenCV with a webcam |   |  
-Face and Hand Landmarks Detection using Python – Mediapipe, OpenCV |   |  
-Real-Time Edge Detection using OpenCV |   |  
-Implement Canny Edge Detector in Python using OpenCV |   |  
-Gun Detection using Python-OpenCV |   |  
-Real-time object color detection using OpenCV |   |  
-Right and Left Hand Detection Using Python |   |  
-Age Detection Using Deep Learning in OpenCV |   |  
-OpenCV – Drowsiness Detection |   |  
-Build GUI Application Pencil Sketch from Photo in Python |   |  
-Measure Size of an Object Using Python OpenCV |   |  
-Brightness Control With Hand Detection using OpenCV in Python |   |  
-Car driving using hand detection in Python |   |  
-Contour Detection with Custom Seeds using Python – OpenCV |   |  
-Find Co-ordinates of Contours using OpenCV \| Python |   |  
-Live Webcam Drawing using OpenCV |   |  
-Black and white image colorization with OpenCV and Deep Learning |   |  
-Detect and Recognize Car License Plate from a video in real-time |   |  
-License Plate Recognition with OpenCV and Tesseract OCR |   |  
-Handwritten Digit Recognition using Neural Network |   |  
-Image Classification with Convolutional Neural Networks (CNNs) Using Pytorch |   |  
-Human Pose Estimation with OpenCVUsing |   |  
-Age and Gender Prediction from Image Using Pytorch |   |  
-Face detection using Cascade Classifier using OpenCV-Python |   |  
-Face recognition using Artificial Intelligence |   |  
-Face recognition using GUI |   |  
-FaceMask Detection using TensorFlow in Python |   |  
-Python OpenCV – Super-resolution with deep learning |   |  
-Real-Time Road Lane Detection |   |  
-CIFAR-10 Image Classification in TensorFlow |   |  
-Dog Breed Classification Using Transfer Learning |   |  
-Flower Recognition Using Convolutional Neural Network |   |  
-Emojify using Face Recognition with Machine Learning |   |  
-Cat & Dog Classification using Convolutional Neural Network in Python |   |  
-Video Analysis with Convolutional LSTM Networks |   |  
-Autonomous Driving with Deep Learning |   |  
-Visual Question Answering with Neural Networks |   |  
-Scene Recognition with Convolutional Neural Networks |   |  
-Text Recognition from Image with Convolutional Recurrent Neural Networks |   |  
-Image Captioning Using Pytorch |   |  
-Medical Image Analysis Using Deep Learning |   |  
-Document Layout Analysis with Deep Learning |   |  
-Deep Learning for Artistic Style Transfer |   |  
-Landmark Recognition with Deep Neural Networks |   |  
-Image Restoration with Generative Adversarial Networks |   |  
-Satellite Image Analysis Using Convolutional Neural Network |   |  
-Image generation with Convolutional Autoencoders |   |  
-Lung Cancer Detection using Convolutional Neural Network (CNN) Tensorflow |   |  
-Lung Cancer Detection Using Transfer Learning |   |  
-Lung cancer detection using PyTorch |   |  
-Pneumonia Detection Using Deep Learning |   |  
-Detecting Covid-19 with Chest X-ray |   |  
-Skin Cancer Detection Using TensorFlow |   |  
-Hand Gesture Recognition with Convolutional Neural Networks |   |  
-Optical Character Recognition Using Pytorch |   |  
-Video Object Segmentation with Convolutional Networks |   |  
-Traffic Signs Recognition using CNN and Keras in Python |   |  
-Vehicle license plate recognition |   |  
-Image Inpainting with Deep Neural Networks |   |  
-Image Deblurring with Deep Neural Networks |   |  
-Object Detection Using YOLO Using Pytorch |   |  
-Object Detection Using YOLO Using Tensorflow |   |  
-Object Detection with Faster R-CNN and Mask R-CNN |   |  
-Image Segmentation with U-Net using Tensorflow |   |  
-Image Segmentation with SegNet using Tensorflow |   |  
-Image Segmentation with U-Net using Pytorch |   |  
-Neural Style Transfer Using Pytorch |   |  
-Image Synthesis using Generative Adversarial Networks (GANs) |   |  
-Emotion Recognition through Facial Expressions |   |  
-Facial expression detection using the Deepface module in Python |   |  
-Instance segmentation using Pytorch |   |  
-Semantic segmentation using Pytorch |   |  
-Face similarity Detection using PyTorch |   |  
-Age Conversion Using GANs Algorithm |   |  
-Business Card Recognization Using Deep Learning |   |  
-Traffic light detection using Deep Learning |   |  
-People Counting Using Deep Learning |   |  
-DeepDream using CNNs |   |  
-Cartoonifying an Image Using Deep Learning |   |  
-Road Condition Monitoring Project Using Deep Learning |   |  
-Image colourization using GANs algorithm |   |  
-Image Classifier using Tensorflow Object Detection API |   |  
-Excellant Repository https://github.com/avs-abhishek123/Computer-Vision-Projects |   |  
-500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code |   |  
-https://machinelearningprojects.net/computer-vision-projects/ |   |  
-Background-Remover-Flask-App |   |  
-Leaf Disease Detection Flask App |   |  
-Drowsiness Detection using cv2 |   |  
-Number Plate Detection using Yolov7 |   |  
-Train yolov7 on the custom dataset |   |  
-Blur Faces in Live Feed |   |  
-Sketch making Flask App |   |  
-Generating cifar 10 fake images using DCGAN |   |  
-Helmet and Number Plate Detection and Recognition using YOLOv3 |   |  
-healthcure an all in one medical solution |   |  
-Invisible Man using Mask RCNN |   |  
-Sudoku Solver |   |  
-Object Detection using SSD |   |  
-Social Distancing using YOLOv3 |   |  
-Face Recognition based Attendance System |   |  
-detect shapes using cv2 |   |  
-Document Scanner using OpenCV |   |  
-Face Landmarks Detection using dlib |   |  
-Make your Sketch using OpenCV |   |  
-How to perform Face Recognition using KNN |   |  
-Immortal Snake game in Python |   |  
-find the most dominant colors in an image using KMeans clustering |   |  
-types of thresholding techniques |   |  
-Face and eye detection in cv2 |   |  
-Harrys Invisibility Cloak |   |  
-split and merge channels in cv2 |   |  
-edge detection using Sobel X and Sobel Y |   |  
-Rotating and Scaling Images in cv2 |   |  
-use mouse clicks to draw circles in Python |   |  
-repair damaged images using inpainting methods |   |  
-generate negative images in Python |   |  
-detect edges using Laplacian 2nd order derivative |   |  
-plot a Histogram of a grayscale image 1 |   |  
-denoise an Image using Median Blur |   |  
-perform Morphological Operations like Erosion Dilation and Gradient 1 |   |  
-detect contours in an Image |   |  
-plot Color Channels Histogram of an Image |   |  
-Blurrings in cv2 |   |  
-BGR Palette in OpenCV |   |  
-draw basic shapes on Images |   |  
-resize an image in Python |   |  
-read an image in python |   |  
-https://neptune.ai/blog/15-computer-visions-projects |   |  
-Edge & Contour Detection |   |  
-Colour Detection & Invisibility Cloak |   |  
-Text Recognition using OpenCV and Tesseract (OCR) |   |  
-Face Recognition with Python and OpenCV |   |  
-Object Detection |   |  
-Hand Gesture Recognition |   |  
-Human Pose Detection |   |  
-Road Lane Detection in Autonomous Vehicles |   |  
-Pathology Classification |   |  
-Fashion MNIST for Image Classification |   |  
-Image Deblurring using Generative Adversarial Networks |   |  
-Image Transformation |   |  
-Automatic Colorization of Photos using Deep Neural Networks |   |  
-Vehicle Counting and Classification |   |  
-Vehicle license plate scanners |   |  
-https://www.youtube.com/watch?v=BFlRmIvqwSA&t=291s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI |   |  
-Background Removal: • Background Removal Like Zoom \| OpenCV... |   |  
-Virtual Calculator: • Virtual Calculator using OpenCV Pytho... |   |  
-Velcro Dart Game: • Computer Vision Game using OpenCV Pyt... |   |  
-Red Light Green Light (Paid): https://www.computervision.zone/cv-ga... |   |  
-Cookie Cutter(Paid): https://www.computervision.zone/cv-ga... |   |  
-Personal AI Trainer: • Build a Personal AI Trainer \| OpenCV ... |   |  
-Track and Shoot: • Track and Shoot using Computer Vision... |   |  
-Elbow pose detector (Paid): https://www.computervision.zone/ardui... |   |  
-AI Mouse Control: • AI Virtual Mouse \| OpenCV Python \| Co... |   |  
-Custom Object Counter on Conveyor belt (Paid): https://www.computervision.zone/ardui... |   |  
-Robot Hand Gesture Arduino (Paid): https://www.computervision.zone/ardui... |   |  
-Virtual Keyboard: • AI Virtual Keyboard using OpenCV \| Co... |   |  
-Self Driving (MegaBot): • Is this the best Raspberry Pi Robotic... |   |  
-AI Virtual Painter: • AI Virtual Painter \| OpenCV Python \| ... |   |  
-Balloon Pop Pygame (Paid): https://www.computervision.zone/cv-ga... |   |  
-Object Detection Mobile APP (Paid): https://www.computervision.zone/cv-mo... |   |  
-Face Tracking (Paid): https://www.computervision.zone/ardui... |   |  
-Eye Tracking (Paid): https://www.computervision.zone/ardui... |   |  
-Deep Fake: • Deepfake Tutorial and Explanation Ste... |   |  
-Balloon Pop Game: • I tried building a Computer Vision Ga... |   |  
-Basketball Shot Predictor: • Basket Ball Shot Predictor using Open... |   |  
-Hand Distance measurement: • Hand Distance Measurement with Normal... |   |  
-Parking Space Counter: • Parking Space Counter using OpenCV Py... |   |  
-Volume Gesture Control: • Gesture Volume Control \| OpenCV Pytho... |   |  
-Drone Body Following (Paid): https://www.computervision.zone/adv-d... |   |  
-https://www.projectpro.io/article/object-detection-project-ideas-with-source-code/490 |   |  
-Monkey, Cat, and Dog Detection System |   |  
-Train your Own Object Detection Model |   |  
-Vehicle Counting Model |   |  
-Furniture Recognition Model |   |  
-Vehicle Detection in Video Data |   |  
-Surveillance Camera Object Detection System |   |  
-Build an Object Detection Web Application |   |  
-Motion Detection System |   |  
-  |   |  
-Excellant Tutorials AI |  
-1 Loan Approval https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/ https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view OK |   |  
-2 Loan analysis https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis/input OK |   |  
-https://stackoverflow.com/questions/tagged/tensorflow |   |  
-https://www.kaggle.com/search?q=natural+language+processing |   |  
-3 Natural Language Processing https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK |   |  
-4 Diabetes Prediction-EDA + 10 Models https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models |   |  
-  |   |  
-Explain |   |  
-  |   |  
-  |   |  
-https://www.kaggle.com/search?q=diabetes+prediction |   |  
-https://www.kaggle.com/zabihullah18/code |   |  
-Car price Prediction  https://www.kaggle.com/code/zabihullah18/car-price-prediction/notebook    https://www.kaggle.com/code/zabihullah18/car-price-prediction/input    OK |   |  
-Global Countries \|\| EDA   https://www.kaggle.com/code/zabihullah18/global-countries-eda    https://www.kaggle.com/code/zabihullah18/global-countries-eda/input    OK |   |  
-Student Performance  https://www.kaggle.com/code/zabihullah18/student-performance    https://www.kaggle.com/code/zabihullah18/student-performance/input    OK |   |  
-Email Spam Detection  https://www.kaggle.com/code/zabihullah18/email-spam-detection    https://www.kaggle.com/code/zabihullah18/email-spam-detection/input    OK |   |  
-https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision/Deploy%20Image%20Classifier%20With%20Flask          OK |   |  
-app.run(port=5002) |   |  
-  |   |  
-Advance AI |  
-  |   |  
-ML Data Science FULL Course for Beginners in 27 HOURS - 2024 Edition |   |  
-https://www.youtube.com/watch?v=gDZ6czwuQ18&ab_channel=WsCubeTech |   |  
-Excellant tutorial |   |  
-Youtube https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org |   |  
-Source https://github.com/datapublishings/Course-python-data-science/tree/master |   |  
-Path C:\カーン\ml\Course-python-data-science\Course-python-data-science |   |  
-cmd jupyter notebook |   |  
-MasteringPythonZeroToHero_part1.ipynb |   |  
-MasteringPythonZeroToHero_part2.ipynb |   |  
-Machine Learning Algorithm |   |  
-https://www.geeksforgeeks.org/machine-learning-algorithms/ |   |  
-Chatbot using Python, NLP, and Data Science \| Build Your Own Chatbot \| Intellipaat |   |  
-https://www.youtube.com/watch?v=JzPgeRJfNo4&ab_channel=Intellipaat |   |  
-Deep Learning for Computer Vision with Python and TensorFlow – Complete Course |   |  
-https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=11s&ab_channel=freeCodeCamp.org |   |  
-37 hours |   |  
-https://www.tensorflow.org/api_docs/python |   |  
-Fun |   |  
-Number Guessing Game |   |  
-https://thecleverprogrammer.com/2020/12/04/number-guessing-game-with-python-and-c/ |   |  
-Google Search tensorflow advanced techniques github |   |  
-https://www.google.com/search?q=tensorflow+advanced+techniques+github&sca_esv=012f470da02fcbcc&sxsrf=ADLYWIKinHYbNxTplandUPfg78EUFZYVSw%3A1719973592251&ei=2LaEZoCGD-3r1e8P8tWuyAw&oq=tensorflow+advanced+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3RlbnNvcmZsb3cgYWR2YW5jZWQgZ2l0KgIIADIGEAAYFhgeMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRItxdQhwFYzwtwAXgBkAEAmAHjAaABuwaqAQUwLjIuMrgBA8gBAPgBAZgCBaACwgbCAgoQABiwAxjWBBhHwgILEAAYgAQYkQIYigXCAgUQABiABMICCxAAGIAEGIYDGIoFmAMAiAYBkAYIkgcFMS4yLjKgB_cR&sclient=gws-wiz-serp |   |  
-https://upload.wikimedia.org/wikipedia/commons/d/d9/Kodaki_fuji_frm_shojinko.jpg |   |  
-https://gate-to-hokkaido.jp/assets/img/spot/detail/672.jpg |   |  
-AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch |   |  
-https://www.youtube.com/watch?v=jSgdL1zX4h8&ab_channel=Murtaza%27sWorkshop-RoboticsandAI |   |  
-Computer Vision Game Development in 3 Hours \| OpenCV Python |   |  
-https://www.youtube.com/watch?v=lDfplevUWRw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI |   |  
-Computer Vision Projects by Rifat Murtaza |   |  
-https://github.com/Chando0185/Chest_x_ray_Detection |   |  
-https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD |   |  
-Reinforcement Learning in 3 Hours \| Full Course using Python |   |  
-https://www.youtube.com/watch?v=Mut_u40Sqz4&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&ab_channel=NicholasRenotte |   |  
-Top 10 Machine Learning Projects Idea With Free Source Code \| Opencv \| Tensorflow \| Keras \| Pytorch |   |  
-https://www.youtube.com/watch?v=C18ELHXw31A&ab_channel=KNOWLEDGEDOCTOR |   |  
-Deep Learning for Computer Vision with Python and TensorFlow – Complete Course https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=34s&ab_channel=freeCodeCamp.org |   |  
-Sample Video File https://samplelib.com/sample-mp4.html |   |  
-Data Camp https://www.datacamp.com/ |   |  
-google colab |   |  
-pyTorch https://github.com/ritchieng/the-incredible-pytorch |   |  
-Algorithms https://www.datacamp.com/blog/top-machine-learning-use-cases-and-algorithms |   |  
-10 Algorithms |   |  
-DEEP LEARNING |   |  
-Deep Learning and Generative Models https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L15_intro-rnn__slides.pdf |   |  
-L15.7 An RNN Sentiment Classifier in PyTorch https://www.youtube.com/watch?v=KgrdifrlDxg&ab_channel=SebastianRaschka |   |  
-deeplearning-models https://github.com/rasbt/deeplearning-models?tab=readme-ov-file |   |  
-L15.7 An RNN Sentiment Classifier in PyTorch |   |  
-Introduction to Deep Learning https://sebastianraschka.com/blog/2021/dl-course.html |   |  
-  |   |  
-Explain |   |  
-  |   |  
-  |   |  
-L15.6 RNNs for Classification: A Many-to-One Word RNN |   |  
-L15.7 An RNN Sentiment Classifier in PyTorch |   |  
-How to Use RNNs for Sentiment Analysis (Coding RNNs in Python) |   |  
-http://localhost:8888/notebooks/rnn_example.ipynb |   |  
-https://www.youtube.com/watch?v=FTCpdNuIiZM&ab_channel=ritvikmath |   |  
-https://github.com/ritvikmath/YouTubeVideoCode/tree/main |   |  
-https://github.com/ritvikmath/YouTubeVideoCode/blob/main/RNNExample.ipynb |   |  
-KNN |   |  
-Dataset  https://drive.google.com/drive/folders/1YylTjWxmkUVdurMSDjl84dstCKZL6wH8 |   |  
-Machine Learning and Data Science Applications in Industry |   |  
-https://github.com/ashishpatel26/Real-time-ML-Project |   |  
-Image Classification Webapp \| Flask |   |  
-https://github.com/noumannahmad/Flask/tree/master |   |  
-Multi-Class Image Classification Flask App \| Complete Project |   |  
-https://buffml.com/multi-class-image-classification-flask-app-complete-project/ |   |  
-https://github.com/noumannahmad/Flask/tree/master/CIFAR-10-image-classification |   |  
-Python 3.7 Works fine |   |  
-python main.py |   |  
-Successfully runs like a charm |   |  
-https://www.javatpoint.com/image-forgery-detection-using-machine-learning |   |  
-  |   |  
-https://www.geeksforgeeks.org/machine-learning-projects/ |   |  
-https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265 |   |  
-https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566 |   |  
+https://www.youtube.com/watch?v=JzPgeRJfNo4&ab_channel=Intellipaat
+Deep Learning for Computer Vision with Python and TensorFlow – Complete Course
 
+https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=11s&ab_channel=freeCodeCamp.org
+37 hours
+
+https://www.tensorflow.org/api_docs/python
+Fun
+Number Guessing Game
+
+https://thecleverprogrammer.com/2020/12/04/number-guessing-game-with-python-and-c/
+Google Search tensorflow advanced techniques github
+
+https://www.google.com/search?q=tensorflow+advanced+techniques+github&sca_esv=012f470da02fcbcc&sxsrf=ADLYWIKinHYbNxTplandUPfg78EUFZYVSw%3A1719973592251&ei=2LaEZoCGD-3r1e8P8tWuyAw&oq=tensorflow+advanced+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3RlbnNvcmZsb3cgYWR2YW5jZWQgZ2l0KgIIADIGEAAYFhgeMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRItxdQhwFYzwtwAXgBkAEAmAHjAaABuwaqAQUwLjIuMrgBA8gBAPgBAZgCBaACwgbCAgoQABiwAxjWBBhHwgILEAAYgAQYkQIYigXCAgUQABiABMICCxAAGIAEGIYDGIoFmAMAiAYBkAYIkgcFMS4yLjKgB_cR&sclient=gws-wiz-serp
+
+https://upload.wikimedia.org/wikipedia/commons/d/d9/Kodaki_fuji_frm_shojinko.jpg
+
+https://gate-to-hokkaido.jp/assets/img/spot/detail/672.jpg
+AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch
+
+https://www.youtube.com/watch?v=jSgdL1zX4h8&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
+Computer Vision Game Development in 3 Hours \| OpenCV Python
+
+https://www.youtube.com/watch?v=lDfplevUWRw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
+Computer Vision Projects by Rifat Murtaza
+
+https://github.com/Chando0185/Chest_x_ray_Detection
+
+https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD
+Reinforcement Learning in 3 Hours \| Full Course using Python
+
+https://www.youtube.com/watch?v=Mut_u40Sqz4&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&ab_channel=NicholasRenotte
+Top 10 Machine Learning Projects Idea With Free Source Code \| Opencv \| Tensorflow \| Keras \| Pytorch
+
+https://www.youtube.com/watch?v=C18ELHXw31A&ab_channel=KNOWLEDGEDOCTOR
+Deep Learning for Computer Vision with Python and TensorFlow – Complete Course 
+https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=34s&ab_channel=freeCodeCamp.org
+Sample Video File 
+https://samplelib.com/sample-mp4.html
+Data Camp 
+https://www.datacamp.com/
+google colab
+pyTorch 
+https://github.com/ritchieng/the-incredible-pytorch
+Algorithms 
+https://www.datacamp.com/blog/top-machine-learning-use-cases-and-algorithms
+10 Algorithms
+DEEP LEARNING
+Deep Learning and Generative Models 
+https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L15_intro-rnn__slides.pdf
+L15.7 An RNN Sentiment Classifier in PyTorch 
+https://www.youtube.com/watch?v=KgrdifrlDxg&ab_channel=SebastianRaschka
+deeplearning-models 
+https://github.com/rasbt/deeplearning-models?tab=readme-ov-file
+L15.7 An RNN Sentiment Classifier in PyTorch
+Introduction to Deep Learning 
+https://sebastianraschka.com/blog/2021/dl-course.html
+```
+ 
+ 
+
+``` 
+L15.6 RNNs for Classification: A Many-to-One Word RNN
+L15.7 An RNN Sentiment Classifier in PyTorch
+How to Use RNNs for Sentiment Analysis (Coding RNNs in Python)
+http://localhost:8888/notebooks/rnn_example.ipynb
+
+https://www.youtube.com/watch?v=FTCpdNuIiZM&ab_channel=ritvikmath
+
+https://github.com/ritvikmath/YouTubeVideoCode/tree/main
+
+https://github.com/ritvikmath/YouTubeVideoCode/blob/main/RNNExample.ipynb
+KNN
+Dataset  
+https://drive.google.com/drive/folders/1YylTjWxmkUVdurMSDjl84dstCKZL6wH8
+Machine Learning and Data Science Applications in Industry
+
+https://github.com/ashishpatel26/Real-time-ML-Project
+Image Classification Webapp \| Flask
+
+https://github.com/noumannahmad/Flask/tree/master
+Multi-Class Image Classification Flask App \| Complete Project
+
+https://buffml.com/multi-class-image-classification-flask-app-complete-project/
+
+https://github.com/noumannahmad/Flask/tree/master/CIFAR-10-image-classification
+Python 3.7 Works fine
+python main.py
+Successfully runs like a charm
+```
+
+```
+https://www.javatpoint.com/image-forgery-detection-using-machine-learning
+
+https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
+https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566
 Machine Learning Projects		
-https://medium.com/analytics-vidhya/deploy-ml-tensorflow-model-using-flask-backend-frontend-12a38ce53b7f		
+deploy-ml-tensorflow-model-using-flask-backend-frontend-12a38ce53b7f		
 https://github.com/hasan-haider/Deploy-ML-tensorflow-model-using-Flask/tree/8727f2402d2fe8c2a5a8d0e3f588ec0334a8bcc4		
+
+https://cloud.google.com/speech-to-text/docs/reference/rest/v1/RecognitionConfig
+Article 
+https://pypi.org/project/SpeechRecognition/
+Convert Voice to Text 
+https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/		
+Convert Text to Speech 
+https://www.geeksforgeeks.org/convert-text-speech-python-using-win32com-client/?ref=oin_asr2
+Convert PDF File Text to Audio 
+https://www.geeksforgeeks.org/convert-pdf-file-text-to-audio-speech-using-python/?ref=oin_asr3		
+Convert Speech to text and text to Speech 
+https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/?ref=oin_asr1
+Convert Text and Text File to PDF 
+https://www.geeksforgeeks.org/convert-text-and-text-file-to-pdf-using-python/?ref=oin_asr2		
+convert PDF file to Excel 
+https://www.geeksforgeeks.org/how-to-convert-pdf-file-to-excel-file-using-python/?ref=oin_asr5		
+convert CSV File to PDF 
+https://www.geeksforgeeks.org/how-to-convert-csv-file-to-pdf-file-using-python/?ref=oin_asr6
+TensorFlow Machine Learning Projects 
+https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master	
+Machine Learning Projects 
+https://www.geeksforgeeks.org/machine-learning-projects/
+Deep Learning Projects 
+https://www.interviewbit.com/blog/deep-learning-projects/				
+Face-and-hand-landmarks-detection 
+https://www.geeksforgeeks.org/face-and-hand-landmarks-detection-using-python-mediapipe-opencv/
+Human-activity-recognition 
+https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/?ref=rp	
+Tensorflow-to-be-used-with-abalone-dataset 
+https://www.geeksforgeeks.org/how-can-tensorflow-be-used-with-abalone-dataset-to-build-a-sequential-model/
+Age-detection 
+https://www.geeksforgeeks.org/age-detection-using-deep-learning-in-opencv/		
+AI Driven Snake Game using Deep Q Learning 
+https://medium.com/@nancy.q.zhou/teaching-an-ai-to-play-the-snake-game-using-reinforcement-learning-6d2a6e8f3b1c		
+https://github.com/vedantgoswami/SnakeGameAI
 		
-Speech-To-Text		
-Convert Audio to Text https://medium.com/codex/google-speech-to-text-api-tutorial-with-python-2e049ae3f525#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImE1MGY2ZTcwZWY0YjU0OGE1ZmQ5MTQyZWVjZDFmYjhmNTRkY2U5ZWUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDU2NDE2Mzg0MTMwMDE2NjE2ODQiLCJlbWFpbCI6ImZ4eDQwYTNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTcyODUxNTE4MSwibmFtZSI6ImZ4WDQwYTMgZnhYNDBhMyIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLMjJBaUF1dW5FdXRrNzY1RkNfWjhteWNzZFQ2T09vYndKQnVuLW9oejZUTzRYT0E9czk2LWMiLCJnaXZlbl9uYW1lIjoiZnhYNDBhMyIsImZhbWlseV9uYW1lIjoiZnhYNDBhMyIsImlhdCI6MTcyODUxNTQ4MSwiZXhwIjoxNzI4NTE5MDgxLCJqdGkiOiJjOWM5NDAxOTY1ZGU5NjBhODAwYzExZjYwMWRjZmQ3ODE0MGVhN2RiIn0.tfGghWRmr7IaRSwpofSbccEk7ZNuwM3aEEF8YkXak6WIYFGFq7F4mFIrzB-OpFaFSU62Fuu-9gCA4pUBLfOvhKx7xdqBRNdvy7K0iOFMxbUrnHPlQX-MsM_wOoOY4-MwYq_bDTZNwRnQss5tzm6d8EcrRNY4lbfkrHrxho7qYtwfhQ5hwOKZabguVXw2JXn-q2KD7voagxAnQ988TjiFrRLF-CYR4mvr_aO_CiKvOy4uBCeU0cL4azyihMEwqCE8tV2Ihz5iUbRquHuQ2v7CNGzrYEfjEuM-7OOvsK0VlkS3LNGNBgFswXvO4ZdmNtFOLwnGYaX2QtjVvgPmUJDrjA		
-Dataset https://www.voiptroubleshooter.com/open_speech/american.html		
-Article https://cloud.google.com/speech-to-text/docs/reference/rest/v1/RecognitionConfig		
-Article https://pypi.org/project/SpeechRecognition/		
-Convert Voice to Text https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/		
-Convert Text to Speech https://www.geeksforgeeks.org/convert-text-speech-python-using-win32com-client/?ref=oin_asr2		
-Convert PDF File Text to Audio https://www.geeksforgeeks.org/convert-pdf-file-text-to-audio-speech-using-python/?ref=oin_asr3		
-Convert Speech to text and text to Speech https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/?ref=oin_asr1		
-Convert Text and Text File to PDF https://www.geeksforgeeks.org/convert-text-and-text-file-to-pdf-using-python/?ref=oin_asr2		
-convert PDF file to Excel https://www.geeksforgeeks.org/how-to-convert-pdf-file-to-excel-file-using-python/?ref=oin_asr5		
-convert CSV File to PDF https://www.geeksforgeeks.org/how-to-convert-csv-file-to-pdf-file-using-python/?ref=oin_asr6		
-TensorFlow Machine Learning Projects https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master		
-Machine Learning Projects https://www.geeksforgeeks.org/machine-learning-projects/		
-Deep Learning Projects https://www.interviewbit.com/blog/deep-learning-projects/		
-Machine Learning Projects https://www.geeksforgeeks.org/machine-learning-projects/		
-Face-and-hand-landmarks-detection https://www.geeksforgeeks.org/face-and-hand-landmarks-detection-using-python-mediapipe-opencv/		
-Human-activity-recognition https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/?ref=rp		
-Tensorflow-to-be-used-with-abalone-dataset https://www.geeksforgeeks.org/how-can-tensorflow-be-used-with-abalone-dataset-to-build-a-sequential-model/		
-Age-detection https://www.geeksforgeeks.org/age-detection-using-deep-learning-in-opencv/		
-AI Driven Snake Game using Deep Q Learning https://medium.com/@nancy.q.zhou/teaching-an-ai-to-play-the-snake-game-using-reinforcement-learning-6d2a6e8f3b1c		
-https://github.com/vedantgoswami/SnakeGameAI		
+
 https://github.com/aiden200/rl_snake?source=post_page-----17f03397b060--------------------------------		
+
 https://www.thetutelab.com/artificial-intelligence/python/reinforcement-learning-snake-tutorial/		
-https://github.com/patrickloeber/snake-ai-pytorch		
-Detect-and-recognize-car-license-plate-from-a-video https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/		
-License-plate-recognition https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/		
-Intrusion-detection-system https://www.geeksforgeeks.org/intrusion-detection-system-using-machine-learning-algorithms/		
-https://github.com/mudgalabhay/intrusion-detection-system/blob/master/main.ipynb		
-https://github.com/mudgalabhay/Intrusion-Detection-System/tree/master		
-		
-		
-https://projectworlds.in/python-projects-with-source-code/		
-		
-Breast-Cancer-Prediction-app-using-Flask-Python		
-		
-		
+
+https://github.com/patrickloeber/snake-ai-pytorch
+Detect-and-recognize-car-license-plate-from-a-video 
+https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/		
+License-plate-recognition 
+https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/	
+https://www.geeksforgeeks.org/intrusion-detection-system-using-machine-learning-algorithms/		
+https://github.com/mudgalabhay/intrusion-detection-system/blob/master/main.ipynb
+https://github.com/mudgalabhay/Intrusion-Detection-System/tree/master	
+```
+
+
+Breast-Cancer-Prediction-app-using-Flask-Python	
+```	
+
 steps		
-		
+
 Project: Breast-Cancer-Prediction-app-using-Flask-Python		
-Model Git link: https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
-Tutorial: https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8		
+Model Git link: 
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
+Tutorial: 
+building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8
 Steps		
-		
+
 Step 1: Define Problem Statement		
 Step 2: Data Source		
 Step 3: Cleaning the Data		
@@ -14073,88 +14188,127 @@ Step 6: Data Modelling
 Step 7: Model Validation		
 Step 8: Hyperparameter Tuning		
 Step 9: Deployment		
-Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29		
+Dataset: 
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29		
 Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 1		
 Step 1: Define Problem Statement		
 Step 2: Data Source		
 Step 3: Cleaning the Data		
 Step 4: Data Analysis and Exploration		
-https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-a09b6c32e7b8		
+
+https://medium.com/analytics-vidhya/
+
 https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Exploratory_Data_Analysis_Part%201.ipynb		
+
 https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
+
 https://www.kaggle.com/code/itsmohammadshahid/eda-breast-cancer-prediction?scriptVersionId=101471043		
 Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 2		
 Step 5: Feature Selection		
-https://medium.com/analytics-vidhya/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62		
+
+building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-b8249b55fc62		
+
 https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Feature_Selection_Part%202.ipynb		
+
 https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
 Building ML Model to predict whether the cancer is benign or malignant on Breast Cancer Wisconsin Data Set !! Part 3		
 Step 6: Data Modeling		
 Step 7: Model Validation		
+
 https://medium.com/@shahid_dhn/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-d6cf8b47f49a		
+
 https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data		
+
 https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
-https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Building_Evaluation_Part3.ipynb		
+
+https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Building_Evaluation_Part3.ipynb
 Building ML Model to Predict Whether the Cancer Is Benign or Malignant on Breast Cancer Wisconsin Data Set !! Part 4		
 Step 8: Hyperparameter Tuning		
 Step 9: Deployment		
+
 https://medium.com/swlh/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-8654994ca20a		
+
 https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin		
+
 https://github.com/Muhd-Shahid/Breast-Cancer-Wisconsin/blob/master/BCW_Model_Optimization_and_Deployment_Part%204.ipynb		
 Deploying Breast Cancer Prediction Model Using Flask APIs and Heroku		
+
 https://medium.com/swlh/deploying-breast-cancer-prediction-model-using-flask-apis-and-heroku-4fd3b65b2f26		
+
 https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data		
 python app.py		
 http://127.0.0.1:5000/		
 http://127.0.0.1:5000/predict		
 conda activate myenv3125		
-works fine		
-		
-		
+works fine	
+```	
+
+
 Computer Vision Projects		
-		
+```
 https://www.analyticsvidhya.com/blog/2022/06/deploying-a-keras-flower-classification-model/ Not OK		
 Language Translator		
+
 https://github.com/leeqv/kana-board/blob/master/media/insert-kanji.gif		
+
 https://www.geeksforgeeks.org/python-classifying-handwritten-digits-with-tensorflow/		
 Course/Research/Study		
+
 https://www.geeksforgeeks.org/courses/full-stack-applied-data-science-program?utm_campaign=554_abt&utm_medium=gfgcontent_abt&utm_source=geeksforgeeks		
 Visualizing Convolutional Neural Networks | Layer by Layer		
+
 https://www.youtube.com/watch?v=JboZfxUjLSk&ab_channel=far1din		
 Blur image detection using SVM		
+
 https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/comments		
 OK		
 Blur image detection using SVM		
-Code https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/notebook		
-Dataset https://www.kaggle.com/datasets/kwentar/blur-dataset		
+Code 
+https://www.kaggle.com/code/norod78/blur-image-detection-using-svm/notebook		
+Dataset 
+https://www.kaggle.com/datasets/kwentar/blur-dataset		
 OK		
-Code https://www.kaggle.com/code/valentinld/blurdetection/notebook		
-Dataset https://www.kaggle.com/datasets/kwentar/blur-dataset		
+Code 
+https://www.kaggle.com/code/valentinld/blurdetection/notebook		
+Dataset 
+https://www.kaggle.com/datasets/kwentar/blur-dataset		
 /kaggle/input/blur-dataset/blur_dataset_scaled/		
 OK		
-Code https://github.com/avs-abhishek123/Computer-Vision-Projects/tree/main/Contour_detection		
+Code 
+https://github.com/avs-abhishek123/Computer-Vision-Projects/tree/main/Contour_detection		
 OK		
-Code https://www.kaggle.com/code/deshwalmahesh/image-processing-2-contour-edge-threshold		
+Code 
+https://www.kaggle.com/code/deshwalmahesh/image-processing-2-contour-edge-threshold		
 OK		
+
 https://machinelearningprojects.net/sketch-making-flask-app/		
+
 https://github.com/sharmaji27/sketchy-sketch-making-flask-app		
 OK		
-		
-Explain		
-		
-		
-Code https://www.kaggle.com/code/dev523/leaf-disease-detection/notebook		
-Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input		
+
+Code 
+https://www.kaggle.com/code/dev523/leaf-disease-detection/notebook		
+Dataset 
+https://www.kaggle.com/code/dev523/leaf-disease-detection/input		
 OK		
-Code https://www.kaggle.com/code/divyanshurajput75/leaf-disease-detection/notebook		
-Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input		
+Code 
+https://www.kaggle.com/code/divyanshurajput75/leaf-disease-detection/notebook		
+Dataset 
+https://www.kaggle.com/code/dev523/leaf-disease-detection/input		
 working on		
-Code https://www.kaggle.com/code/eyadgk/leafdiseasepred-imageclassificationtemp-densenet/notebook		
-Dataset https://www.kaggle.com/code/dev523/leaf-disease-detection/input		
+Code 
+https://www.kaggle.com/code/eyadgk/leafdiseasepred-imageclassificationtemp-densenet/notebook		
+Dataset 
+https://www.kaggle.com/code/dev523/leaf-disease-detection/input		
 working on		
-		
-100 Computer Vision Projects for 2023		
-		
+```
+
+
+
+
+
+100 Computer Vision Projects for 2023	
+```
 https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
 00:57 Object Size Measurement		
 01:22 Document Scanner		
@@ -14254,7 +14408,11 @@ https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-Robot
 42:43 License Plate Recognition		
 42:59 Gesture Volume Control		
 43:15 Shirt Size Measurement		
-https://www.datacamp.com/blog/computer-vision-projects?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=152984011814&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=714994855825&utm_targetid=aud-1459190388940:dsa-2222697810918&utm_loc_interest_ms=&utm_loc_physical_ms=9197070&utm_content=DSA~blog~Machine-Learning&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p1_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-oct24odp&gad_source=1&gclid=Cj0KCQjw6oi4BhD1ARIsAL6pox3jGI1p_TmDtJjepgdnI6mC9BbWazyehEP_mrCab2WtIIRcWMIF4dMaAuEAEALw_wcB		
+```
+
+19 Computer Vision Projects From Beginner to Advanced	
+```
+https://www.datacamp.com/blog/computer-vision-projects	
 Optical Character Recognition (OCR) for Handwritten Text		
 Plant Disease Detection		
 Honey Bee Detection		
@@ -14271,6 +14429,9 @@ Video Summarization
 Face De-Aging/Aging		
 Human Pose Estimation And Action Recognition in Crowded Scenes		
 Unsupervised Anomaly Detection in Industrial Inspection		
+```	
+50+ Top Computer Vision Projects
+```	
 https://www.geeksforgeeks.org/computer-vision-projects/		
 Detect the RGB color from a webcam using Python – OpenCV		
 Face Detection using Python and OpenCV with a webcam		
@@ -14355,9 +14516,19 @@ Cartoonifying an Image Using Deep Learning
 Road Condition Monitoring Project Using Deep Learning		
 Image colourization using GANs algorithm		
 Image Classifier using Tensorflow Object Detection API		
-Excellant Repository https://github.com/avs-abhishek123/Computer-Vision-Projects		
-500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code		
+```	
+
+Excellant Repository 
+```
+https://github.com/avs-abhishek123/Computer-Vision-Projects
+```
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 
+```
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code		
+```
+
 https://machinelearningprojects.net/computer-vision-projects/		
+```
 Background-Remover-Flask-App		
 Leaf Disease Detection Flask App		
 Drowsiness Detection using cv2		
@@ -14400,7 +14571,10 @@ BGR Palette in OpenCV
 draw basic shapes on Images		
 resize an image in Python		
 read an image in python		
+```
+
 https://neptune.ai/blog/15-computer-visions-projects		
+```
 Edge & Contour Detection		
 Colour Detection & Invisibility Cloak		
 Text Recognition using OpenCV and Tesseract (OCR)		
@@ -14416,32 +14590,46 @@ Image Transformation
 Automatic Colorization of Photos using Deep Neural Networks		
 Vehicle Counting and Classification		
 Vehicle license plate scanners		
+```
+
 https://www.youtube.com/watch?v=BFlRmIvqwSA&t=291s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
+```
 Background Removal: • Background Removal Like Zoom | OpenCV...		
 Virtual Calculator: • Virtual Calculator using OpenCV Pytho...		
 Velcro Dart Game: • Computer Vision Game using OpenCV Pyt...		
-Red Light Green Light (Paid): https://www.computervision.zone/cv-ga...		
-Cookie Cutter(Paid): https://www.computervision.zone/cv-ga...		
+Red Light Green Light (Paid): 
+https://www.computervision.zone/cv-ga...		
+Cookie Cutter(Paid): 
+https://www.computervision.zone/cv-ga...		
 Personal AI Trainer: • Build a Personal AI Trainer | OpenCV ...		
 Track and Shoot: • Track and Shoot using Computer Vision...		
-Elbow pose detector (Paid): https://www.computervision.zone/ardui...		
+Elbow pose detector (Paid): 
+https://www.computervision.zone/ardui...		
 AI Mouse Control: • AI Virtual Mouse | OpenCV Python | Co...		
-Custom Object Counter on Conveyor belt (Paid): https://www.computervision.zone/ardui...		
-Robot Hand Gesture Arduino (Paid): https://www.computervision.zone/ardui...		
+Custom Object Counter on Conveyor belt (Paid): 
+https://www.computervision.zone/ardui...		
+Robot Hand Gesture Arduino (Paid): 
+https://www.computervision.zone/ardui...		
 Virtual Keyboard: • AI Virtual Keyboard using OpenCV | Co...		
 Self Driving (MegaBot): • Is this the best Raspberry Pi Robotic...		
 AI Virtual Painter: • AI Virtual Painter | OpenCV Python | ...		
-Balloon Pop Pygame (Paid): https://www.computervision.zone/cv-ga...		
-Object Detection Mobile APP (Paid): https://www.computervision.zone/cv-mo...		
-Face Tracking (Paid): https://www.computervision.zone/ardui...		
-Eye Tracking (Paid): https://www.computervision.zone/ardui...		
+Balloon Pop Pygame (Paid): 
+https://www.computervision.zone/cv-ga...		
+Object Detection Mobile APP (Paid): 
+https://www.computervision.zone/cv-mo...		
+Face Tracking (Paid): 
+https://www.computervision.zone/ardui...		
+Eye Tracking (Paid): 
+https://www.computervision.zone/ardui...		
 Deep Fake: • Deepfake Tutorial and Explanation Ste...		
 Balloon Pop Game: • I tried building a Computer Vision Ga...		
 Basketball Shot Predictor: • Basket Ball Shot Predictor using Open...		
 Hand Distance measurement: • Hand Distance Measurement with Normal...		
 Parking Space Counter: • Parking Space Counter using OpenCV Py...		
 Volume Gesture Control: • Gesture Volume Control | OpenCV Pytho...		
-Drone Body Following (Paid): https://www.computervision.zone/adv-d...		
+Drone Body Following (Paid): 
+https://www.computervision.zone/adv-d...		
+
 https://www.projectpro.io/article/object-detection-project-ideas-with-source-code/490		
 Monkey, Cat, and Dog Detection System		
 Train your Own Object Detection Model		
@@ -14451,172 +14639,251 @@ Vehicle Detection in Video Data
 Surveillance Camera Object Detection System		
 Build an Object Detection Web Application		
 Motion Detection System		
-		
+```
+
 Excellant Tutorials AI		
-1 Loan Approval https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/ https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view OK		
-2 Loan analysis https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis/input OK		
+```
+1 Loan Approval 
+https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/ 
+https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view OK		
+2 Loan analysis 
+https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis 
+https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis/input OK		
+
 https://stackoverflow.com/questions/tagged/tensorflow		
+
 https://www.kaggle.com/search?q=natural+language+processing		
-3 Natural Language Processing https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK		
-4 Diabetes Prediction-EDA + 10 Models https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models		
-		
+3 Natural Language Processing 
+https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook 
+https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK		
+4 Diabetes Prediction-EDA + 10 Models 
+https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models		
+
 Explain		
-		
-		
-https://www.kaggle.com/search?q=diabetes+prediction		
-https://www.kaggle.com/zabihullah18/code		
-Car price Prediction  https://www.kaggle.com/code/zabihullah18/car-price-prediction/notebook    https://www.kaggle.com/code/zabihullah18/car-price-prediction/input    OK		
-Global Countries || EDA   https://www.kaggle.com/code/zabihullah18/global-countries-eda    https://www.kaggle.com/code/zabihullah18/global-countries-eda/input    OK		
-Student Performance  https://www.kaggle.com/code/zabihullah18/student-performance    https://www.kaggle.com/code/zabihullah18/student-performance/input    OK		
-Email Spam Detection  https://www.kaggle.com/code/zabihullah18/email-spam-detection    https://www.kaggle.com/code/zabihullah18/email-spam-detection/input    OK		
-https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision/Deploy%20Image%20Classifier%20With%20Flask          OK		
-app.run(port=5002)		
-		
-Advance AI		
-		
-ML Data Science FULL Course for Beginners in 27 HOURS - 2024 Edition		
-https://www.youtube.com/watch?v=gDZ6czwuQ18&ab_channel=WsCubeTech		
-Excellant tutorial		
-Youtube https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org		
-Source https://github.com/datapublishings/Course-python-data-science/tree/master		
-Path C:\カーン\ml\Course-python-data-science\Course-python-data-science		
-cmd jupyter notebook		
-MasteringPythonZeroToHero_part1.ipynb		
-MasteringPythonZeroToHero_part2.ipynb		
-Machine Learning Algorithm		
+```
+
+
+```
 https://www.geeksforgeeks.org/machine-learning-algorithms/		
 Chatbot using Python, NLP, and Data Science | Build Your Own Chatbot | Intellipaat		
+
 https://www.youtube.com/watch?v=JzPgeRJfNo4&ab_channel=Intellipaat		
 Deep Learning for Computer Vision with Python and TensorFlow – Complete Course		
+
 https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=11s&ab_channel=freeCodeCamp.org		
 37 hours		
+
 https://www.tensorflow.org/api_docs/python		
 Fun		
 Number Guessing Game		
+
 https://thecleverprogrammer.com/2020/12/04/number-guessing-game-with-python-and-c/		
 Google Search tensorflow advanced techniques github		
+
 https://www.google.com/search?q=tensorflow+advanced+techniques+github&sca_esv=012f470da02fcbcc&sxsrf=ADLYWIKinHYbNxTplandUPfg78EUFZYVSw%3A1719973592251&ei=2LaEZoCGD-3r1e8P8tWuyAw&oq=tensorflow+advanced+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3RlbnNvcmZsb3cgYWR2YW5jZWQgZ2l0KgIIADIGEAAYFhgeMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRItxdQhwFYzwtwAXgBkAEAmAHjAaABuwaqAQUwLjIuMrgBA8gBAPgBAZgCBaACwgbCAgoQABiwAxjWBBhHwgILEAAYgAQYkQIYigXCAgUQABiABMICCxAAGIAEGIYDGIoFmAMAiAYBkAYIkgcFMS4yLjKgB_cR&sclient=gws-wiz-serp		
+
 https://upload.wikimedia.org/wikipedia/commons/d/d9/Kodaki_fuji_frm_shojinko.jpg		
+
 https://gate-to-hokkaido.jp/assets/img/spot/detail/672.jpg		
 AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch		
+
 https://www.youtube.com/watch?v=jSgdL1zX4h8&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
 Computer Vision Game Development in 3 Hours | OpenCV Python		
+
 https://www.youtube.com/watch?v=lDfplevUWRw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
 Computer Vision Projects by Rifat Murtaza		
+
 https://github.com/Chando0185/Chest_x_ray_Detection		
+
 https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD		
 Reinforcement Learning in 3 Hours | Full Course using Python		
+
 https://www.youtube.com/watch?v=Mut_u40Sqz4&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&ab_channel=NicholasRenotte		
 Top 10 Machine Learning Projects Idea With Free Source Code | Opencv | Tensorflow | Keras | Pytorch		
+
 https://www.youtube.com/watch?v=C18ELHXw31A&ab_channel=KNOWLEDGEDOCTOR		
-Deep Learning for Computer Vision with Python and TensorFlow – Complete Course https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=34s&ab_channel=freeCodeCamp.org		
-Sample Video File https://samplelib.com/sample-mp4.html		
-Data Camp https://www.datacamp.com/		
+Deep Learning for Computer Vision with Python and TensorFlow – Complete Course 
+https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=34s&ab_channel=freeCodeCamp.org		
+Sample Video File 
+https://samplelib.com/sample-mp4.html		
+Data Camp 
+https://www.datacamp.com/		
 google colab		
-pyTorch https://github.com/ritchieng/the-incredible-pytorch		
-Algorithms https://www.datacamp.com/blog/top-machine-learning-use-cases-and-algorithms		
+pyTorch 
+https://github.com/ritchieng/the-incredible-pytorch		
+Algorithms 
+https://www.datacamp.com/blog/top-machine-learning-use-cases-and-algorithms		
 10 Algorithms		
 DEEP LEARNING		
-Deep Learning and Generative Models https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L15_intro-rnn__slides.pdf		
-L15.7 An RNN Sentiment Classifier in PyTorch https://www.youtube.com/watch?v=KgrdifrlDxg&ab_channel=SebastianRaschka		
-deeplearning-models https://github.com/rasbt/deeplearning-models?tab=readme-ov-file		
+Deep Learning and Generative Models 
+https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L15_intro-rnn__slides.pdf		
+L15.7 An RNN Sentiment Classifier in PyTorch 
+https://www.youtube.com/watch?v=KgrdifrlDxg&ab_channel=SebastianRaschka		
+deeplearning-models 
+https://github.com/rasbt/deeplearning-models?tab=readme-ov-file		
 L15.7 An RNN Sentiment Classifier in PyTorch		
-Introduction to Deep Learning https://sebastianraschka.com/blog/2021/dl-course.html		
-		
+Introduction to Deep Learning 
+https://sebastianraschka.com/blog/2021/dl-course.html		
+
 Explain		
-		
-		
+
+
 L15.6 RNNs for Classification: A Many-to-One Word RNN		
 L15.7 An RNN Sentiment Classifier in PyTorch		
 How to Use RNNs for Sentiment Analysis (Coding RNNs in Python)		
 http://localhost:8888/notebooks/rnn_example.ipynb		
+
 https://www.youtube.com/watch?v=FTCpdNuIiZM&ab_channel=ritvikmath		
+
 https://github.com/ritvikmath/YouTubeVideoCode/tree/main		
+
 https://github.com/ritvikmath/YouTubeVideoCode/blob/main/RNNExample.ipynb		
 KNN		
-Dataset  https://drive.google.com/drive/folders/1YylTjWxmkUVdurMSDjl84dstCKZL6wH8		
+Dataset  
+https://drive.google.com/drive/folders/1YylTjWxmkUVdurMSDjl84dstCKZL6wH8		
 Machine Learning and Data Science Applications in Industry		
+
 https://github.com/ashishpatel26/Real-time-ML-Project		
 Image Classification Webapp | Flask		
+
 https://github.com/noumannahmad/Flask/tree/master		
 Multi-Class Image Classification Flask App | Complete Project		
+
 https://buffml.com/multi-class-image-classification-flask-app-complete-project/		
+
 https://github.com/noumannahmad/Flask/tree/master/CIFAR-10-image-classification		
 Python 3.7 Works fine		
 python main.py		
 Successfully runs like a charm		
+
 https://www.javatpoint.com/image-forgery-detection-using-machine-learning		
+
+
 		
-https://www.geeksforgeeks.org/machine-learning-projects/		
+
 https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265		
+
 https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566
 
+ 
 
-<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
-different Models and Flask Dev |  
--- | --
-  |   |   |  
-https://machinelearningprojects.net/milk-production-prediction/ |   |   |  
-Machine learning projects at a glance |   |   |  
-https://codegnan.com/machine-learning-projects/ |   |   |  
-Artificial Intelligence Project For Students With Source Code and Example in 2024 |   |   |  
-https://www.fynd.academy/blog/artificial-intelligence-project-for-students |   |   |  
-Code https://www.kaggle.com/code/eyabalaya/analysis-of-musical-trends-on-spotify |   |   |  
-Datasets https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year |   |   |  
-Breast Cancer Detection App |   |   |  
-https://www.youtube.com/watch?v=SHgh2q0D3Vo&ab_channel=IndianAIProduction |   |   |  
-https://github.com/IndianAIProduction-Channel/Breast-Cancer-Detection-App |   |   |  
-https://indianaiproduction.com/breast-cancer-detection-using-machine-learning-classifier/ |   |   |  
-https://github.com/vaibhavhariramani/Breast_Cancer_Detection_ML-with-Web-End-Deployment |   |   |  
-https://medium.com/geeky-bawa/end-to-end-deployment-of-breast-cancer-prediction-through-machine-learning-using-flask-5442ef4c586d |   |   |  
-https://vaibhavji.medium.com/end-to-end-deployment-of-breast-cancer-prediction-through-machine-learning-using-flask-part-2-67470b23dee9 |   |   |  
-https://medium.com/swlh/deploying-breast-cancer-prediction-model-using-flask-apis-and-heroku-4fd3b65b2f26 |   |   |  
-https://github.com/Muhd-Shahid/Breast-Cancer-Prediction-app-using-Flask-Python |   |   |  
-https://github.com/srimani-programmer/Breast-Cancer-Predictor/tree/master |   |   |  
-https://towardsdatascience.com/deploying-keras-models-using-tensorflow-serving-and-flask-508ba00f1037 |   |   |  
-https://github.com/himanshurawlani/keras-and-tensorflow-serving |   |   |  
-Sentiment Analysis using Flask |   |   |  
-https://www.analyticsvidhya.com/blog/2024/03/how-to-deploy-a-machine-learning-model-using-flask/ |   |   |  
-Heart-Disease-Diagnosis |   |   |  
-https://github.com/simplesaad/Heart-Disea |   |   |  
-https://blog.aiensured.com/part-iii-end-to-end-guide-for-heart-disease-prediction-deployment-with-flask/se-Diagnosis |   |   |  
-https://blog.aiensured.com/p/d71ac74d-ac67-4ef7-8527-48bceabc468e/ |   |   |  
-https://medium.com/swlh/end-to-end-deployment-of-heart-disease-prediction-through-flask-with-machine-learning-algorithm-5cedd1e31b46 |   |   |  
-https://github.com/swarnava-96/Heart-Disease-Prediction |   |   |  
-https://towardsdatascience.com/deploying-a-heart-failure-prediction-model-using-flask-and-heroku-55fdf51ee18e |   |   |  
-https://github.com/Ifeoluwa-hub/Heart-Failure-Prediction-and-Deployment-with-Flask-and-Heroku |   |   |  
-https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data |   |   |  
-https://www.sciencedirect.com/science/article/pii/S2666521223000145 |   |   |  
-https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data/code |   |   |  
-https://vtupulse.com/ |   |   |  
-Image Classification |   |   |  
-https://github.com/faizan170/tensorflow-image-classification-flask-deployment |   |   |  
-https://medium.com/@pg2196577/building-an-image-classifier-with-tensorflow-and-flask-a-beginners-journey-8f76ecd90603 |   |   |  
-https://github.com/soumyapriyagoswami/Image-Classifier |   |   |  
-https://peerdh.com/uk/blogs/programming-insights/integrating-tensorflow-with-flask-for-real-time-image-classification |   |   |  
-https://buffml.com/multi-class-image-classification-flask-app-complete-project/ |   |   |  
-https://drive.google.com/file/d/1GOsM_o01mvd8ljlwdcoiFPM6ZofA9FC-/view?usp=sharing%20noopener |   |   |  
-https://blog.gopenai.com/building-an-multiple-image-classification-web-app-with-cifar-10-and-flask-894ffcd9b121 |   |   |  
-https://geekpython.in/flask-app-for-image-recognition |   |   |  
-https://github.com/Sachin-crypto/Flask_Image_Recognition |   |   |  
-https://www.geeksforgeeks.org/deploying-a-tensorflow-2-1-cnn-model-on-the-web-with-flask/ |   |   |  
-face mask detection |   |   |  
-https://github.com/memudualimatou/FACE-MASK-DETECTION-WEB-APP-FLASK-PYTHON |   |   |  
-https://github.com/cabani/MaskedFace-Net |   |   |  
-https://github.com/GalileoParise/CV-Mask-detection |   |   |  
-https://www.geeksforgeeks.org/facemask-detection-using-tensorflow-in-python/ |   |   |  
-https://github.com/pik1989/FaceMaskDetection/tree/main |   |   |  
-https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/ |   |   |  
-https://makeoptim.com/en/deep-learning/yiai-object-detection |   |   |  
-Others |   |   |  
-https://www.geeksforgeeks.org/deploying-a-tensorflow-2-1-cnn-model-on-the-web-with-flask/ |   |   |  
-https://medium.com/analytics-vidhya/deploy-ml-tensorflow-model-using-flask-backend-frontend-12a38ce53b7f |   |   |  
-https://github.com/muhammadarslanidrees/Deploying-Deep-Learning-Models-using-TensorFlow-Serving-with-Docker-and-Flask/tree/master |   |   |  
-https://www.analyticsvidhya.com/blog/2020/04/how-to-deploy-machine-learning-model-flask/ |   |   |  
-Income Prediction App |   |   |  
-https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/ |   |   |  
-Question Classifier |   |   |  
-https://towardsdatascience.com/model-deployment-using-flask-c5dcbb6499c9 |   |   |  
+https://machinelearningprojects.net/milk-production-prediction/
+Machine learning projects at a glance
+
+https://codegnan.com/machine-learning-projects/
+Artificial Intelligence Project For Students With Source Code and Example in 2024
+
+https://www.fynd.academy/blog/artificial-intelligence-project-for-students
+Code 
+https://www.kaggle.com/code/eyabalaya/analysis-of-musical-trends-on-spotify
+Datasets 
+https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
+Breast Cancer Detection App
+
+https://www.youtube.com/watch?v=SHgh2q0D3Vo&ab_channel=IndianAIProduction
+
+https://github.com/IndianAIProduction-Channel/Breast-Cancer-Detection-App
+
+https://indianaiproduction.com/breast-cancer-detection-using-machine-learning-classifier/
+
+https://github.com/vaibhavhariramani/Breast_Cancer_Detection_ML-with-Web-End-Deployment
+
+https://medium.com/geeky-bawa/end-to-end-deployment-of-breast-cancer-prediction-through-machine-learning-using-flask-5442ef4c586d
+
+https://vaibhavji.medium.com/end-to-end-deployment-of-breast-cancer-prediction-through-machine-learning-using-flask-part-2-67470b23dee9
+
+https://medium.com/swlh/deploying-breast-cancer-prediction-model-using-flask-apis-and-heroku-4fd3b65b2f26
+
+https://github.com/Muhd-Shahid/Breast-Cancer-Prediction-app-using-Flask-Python
+
+https://github.com/srimani-programmer/Breast-Cancer-Predictor/tree/master
+
+https://towardsdatascience.com/deploying-keras-models-using-tensorflow-serving-and-flask-508ba00f1037
+
+https://github.com/himanshurawlani/keras-and-tensorflow-serving
+Sentiment Analysis using Flask
+
+https://www.analyticsvidhya.com/blog/2024/03/how-to-deploy-a-machine-learning-model-using-flask/
+Heart-Disease-Diagnosis
+
+https://github.com/simplesaad/Heart-Disea
+
+https://blog.aiensured.com/part-iii-end-to-end-guide-for-heart-disease-prediction-deployment-with-flask/se-Diagnosis
+
+https://blog.aiensured.com/p/d71ac74d-ac67-4ef7-8527-48bceabc468e/
+
+https://medium.com/swlh/end-to-end-deployment-of-heart-disease-prediction-through-flask-with-machine-learning-algorithm-5cedd1e31b46
+
+https://github.com/swarnava-96/Heart-Disease-Prediction
+
+https://towardsdatascience.com/deploying-a-heart-failure-prediction-model-using-flask-and-heroku-55fdf51ee18e
+
+https://github.com/Ifeoluwa-hub/Heart-Failure-Prediction-and-Deployment-with-Flask-and-Heroku
+
+https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
+
+https://www.sciencedirect.com/science/article/pii/S2666521223000145
+
+https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data/code
+
+https://vtupulse.com/
+Image Classification
+
+https://github.com/faizan170/tensorflow-image-classification-flask-deployment
+
+https://medium.com/@pg2196577/building-an-image-classifier-with-tensorflow-and-flask-a-beginners-journey-8f76ecd90603
+
+https://github.com/soumyapriyagoswami/Image-Classifier
+
+https://peerdh.com/uk/blogs/programming-insights/integrating-tensorflow-with-flask-for-real-time-image-classification
+
+https://buffml.com/multi-class-image-classification-flask-app-complete-project/
+
+https://drive.google.com/file/d/1GOsM_o01mvd8ljlwdcoiFPM6ZofA9FC-/view?usp=sharing%20noopener
+
+https://blog.gopenai.com/building-an-multiple-image-classification-web-app-with-cifar-10-and-flask-894ffcd9b121
+
+https://geekpython.in/flask-app-for-image-recognition
+
+https://github.com/Sachin-crypto/Flask_Image_Recognition
+
+https://www.geeksforgeeks.org/deploying-a-tensorflow-2-1-cnn-model-on-the-web-with-flask/
+face mask detection
+
+https://github.com/memudualimatou/FACE-MASK-DETECTION-WEB-APP-FLASK-PYTHON
+
+https://github.com/cabani/MaskedFace-Net
+
+https://github.com/GalileoParise/CV-Mask-detection
+
+https://www.geeksforgeeks.org/facemask-detection-using-tensorflow-in-python/
+
+https://github.com/pik1989/FaceMaskDetection/tree/main
+
+https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+
+https://makeoptim.com/en/deep-learning/yiai-object-detection
+Others
+
+https://www.geeksforgeeks.org/deploying-a-tensorflow-2-1-cnn-model-on-the-web-with-flask/
+
+deploy-ml-tensorflow-model-using-flask-backend-frontend-12a38ce53b7f
+
+https://github.com/muhammadarslanidrees/Deploying-Deep-Learning-Models-using-TensorFlow-Serving-with-Docker-and-Flask/tree/master
+
+https://www.analyticsvidhya.com/blog/2020/04/how-to-deploy-machine-learning-model-flask/
+Income Prediction App
+
+https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/
+Question Classifier
+
+https://towardsdatascience.com/model-deployment-using-flask-c5dcbb6499c9
+```
+
+
+
+
+
 
 
 <google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
