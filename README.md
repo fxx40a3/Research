@@ -13378,7 +13378,9 @@ Python - Visual Studios - Tello Drone Setup!
 
 https://www.youtube.com/watch?v=XP7bT2jmatQ
 Easy Programming of Tello Drone \| Python OpenCV Object Tracking
+```
 
+```
 https://www.computervision.zone/courses/drone-programming-course/
 https://www.youtube.com/watch?v=LmEcyQnfpDA
 https://github.com/topics/dji-tello
@@ -13392,8 +13394,10 @@ https://github.com/dbaldwin/tello-adv-setup/blob/master/tello_camera_fly.py#L25-
 https://github.com/dbaldwin/tello-adv-setup/blob/master/tello_camera_fly.py#L23-L24
 https://www.instructables.com/Tello-Drone-Python-Programming-Control-Drone-With-/
 https://sites.google.com/lisaacademy.org/lisa-academy-maker-space/resources/tello-drone/tello-drone-programming-with-python
+```
 
 droneblocks tello simulator
+```
 https://pypi.org/project/tello-python/
 https://pypi.org/project/djitellopy/
 https://tello.oneoffcoder.com/index.html
@@ -13427,6 +13431,8 @@ https://jckantor.github.io/CBE30338/B.02-Visual-Tracking-of-an-Object-with-a-Dro
 pip install droneblocks-python-utils
 pip install DroneBlocksTelloSimulator
 ```
+
+
 
 
 
