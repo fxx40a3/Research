@@ -11391,6 +11391,1125 @@ Insurance Prediction
 ```
 https://thecleverprogrammer.com/2021/09/03/insurance-prediction-with-machine-learning/
 ```
+500 Machine Learning Projects
+```
+https://www.scribd.com/document/639203821/500-machine-learning-projects
+https://www.studocu.vn/vn/document/truong-dai-hoc-bach-khoa-ha-noi/structured-programming/550-machine-learning-projects-ideas/55971764
+https://github.com/hemansnation/Data-Science-ML-Full-Stack/tree/master/projects
+```
+```
+Customer Segmentation
+Breast Cancer Detection
+Car And Pedestrian Tracker
+Car Price Prediction
+Cifar-10
+Income Classification using ML
+Startups Success Rate Prediction
+Bigmart Sales Prediction Analysis
+Wine Quality Prediction Analysis
+Turkiye Student Evaluation Analysis
+Traffic Forecast
+Million Songs Dataset
+Loan Prediction Analysis
+Iris dataset analysis
+Image to Text Conversion & Extraction
+Face Detection (OpenCV)
+IMDb sentiment review Analysis using ML
+Boston Housing Prediction Analysis
+Black Friday Sales Prediction Analysis
+Bike Sharing Demand Analysis
+Data Scientist's Salary Prediction
+Diabetes Classification
+Heart Disease Prediction
+First Innings Score Prediction
+Mall Customer Segmentation
+Predicting Admission into UCLA
+Predicting House Prices in Bengaluru
+Advandced Hyperparameter Tunning
+House Price Prediction Detailed Analysis
+Heart Disease Prediction
+Sentiment Analysis
+Clustering - Mall Customer Segmentation
+Clustering - KMeans Clustering for Imaginary Analysis
+China GDP Estimation
+Clustering -Turkiye Student Evaluation Analysis
+SMS Spam Detection Analysis
+Text Summarization using Word Frequency
+California Housing
+Ad Demand Forecast 40.Article Recording System.
+Autoencoder for customer churn
+Bayesian Logistic Regression Bank marketing
+Bayesian Statistics 44.BOW TFIDF XGboost Update
+Autoencoder For Bank Employee Retention 46.Mercari Price Suggestion Lightgbm
+Modeling House Price with Regularized 48.Linear Model _ XGboost
+Nhanes Confidence Intervals
+Nhanes hypothesis testing
+Practical Statistics House Demand Analysis. Price Elasticity of Demand Analysis
+Promotional Time Series
+PySpark Advance Algorithms Practice Recommender Systems
+Regression Diagnostics Seattle Hotels Recommender
+Solving A Simple Classification Problem with Python Beef analysis
+Text Classification Keras
+Text Classification Keras consumer complaints
+Time Series Forecastings
+TPOT Mercedes 60.Weather Data Classification using Decision Trees Weather Data Clustering using k
+Working with Databases
+Xgboost_bow_tfidf
+Building Recommended system 64.Building Recommender system with surprise
+CLV _non_contractual
+CLV_online_Retail
+Collaborative Filtering Model with TensorFlow 68.Consumer complaints
+Customer Segmentation Online Retail
+Customer Segmentation Whosale Employee Turnover
+Logistic Regression
+LSTM Time Series Power Consumption for Diabetes
+Movies Recommendation system
+Language Translation Model using ML
+U.S. Gasoline and Diesel Retail Prices 1995
+Twitter Sentiment Analysis
+Image Captioning
+Sentiment Analysis for Tweets
+911 Calls - Exploratory Analysis. 80.General Election Poll Analysis
+Cross-Language Information Retrieval
+Digit Recognition Model
+Stock Market Analysis for Tech Stocks 84.Time Series - Indian Nifty Next 25-day Performance Prediction.
+Introvert & Extrovert People Clustering based on Social media activity. 86.Image to Text Conversion & Extraction
+Autoencoder Fashion MNIST 88.Movie Recommendation Engine
+Spam Email Classification 90.Traffic Sign Recognizer
+Forbes 100 Billionaires Wealth Spending Analysis.
+Online Payments Fraud Detection
+Future Sales Prediction 94.Waiter Tips Analysis & Prediction
+Stock Price Prediction
+Flipkart Reviews Sentiment Analysis
+Stock Price Prediction with LSTM Neural Network 98.Cryptocurrency Price Prediction for the next 30 days
+Article Recommendation System
+Netflix Stock Price Prediction 101.Time Series Analysis
+Classification with Neural Networks
+Stress Detection
+AlexNet Neural Network Architecture
+Visualizing a Algorithm
+Training and Giving Inputs to a Model
+Product Demand Prediction
+Electricity Price Prediction
+Language Detection 110.Adding Labels to a Dataset for Sentiment Analysis
+Pfizer Vaccine Sentiment Analysis 112.News Classification 113.Omicron Variant Sentiment Analysis
+Iris Flower Classification 115.Water Quality Analysis 116.Twitter Sentiment Analysis 117.Squid Game Sentiment Analysis 118.Comparison of Classification Algorithms 119.Tata Motors Stock Price Prediction
+Health Insurance Premium Prediction 121.Movie Rating Analysis for Beginners
+Number of Orders Prediction
+Apple Stock Price Prediction
+Insurance Prediction
+Worldwide Billionaires Analysis
+Unemployment Analysis
+Car Price Prediction Model
+Spam Detection
+Count Objects in Image
+WhatsApp Chats Sentiment Analysis 131.WhatsApp Chats Analysis
+Microsoft Stock Price Prediction
+Covid-19 Vaccine Analysis
+Video Game Sales Prediction Model
+Student Grades Prediction Model
+Saving a Model
+Uber Trips Analysis
+Google Search Analysis
+Tesla Stock Price Prediction Model
+Financial Budget Analysis 141.Click-Through Rate Prediction Model
+Interactive Language Translator
+Language Detection
+Create a Chatbot with Python
+Best Streaming Service Analysis
+Data Science Project on President Heights
+Data Science Project on Birth Rate Analysis
+Data Science Project on Time Series
+Data Science Project on Area and Population
+A Complete Project Walkthrough 151.Text Summarization
+Keyword Extraction
+Data Science on Finance
+Data Science on Marketing
+End-to-end
+on Binary Classification
+Data Science Based on Domains
+Sarcasm Detection
+Social Media Followers Prediction
+Amazon Product Reviews Sentiment Analysis 161.Hate Speech Detection
+End-to-end Hate Speech Detection System
+End-to-end Fake News Detection System
+End-to-end Spam Detection System
+Hotel Reviews Sentiment Analysis
+Real-time Gender Detection System
+Dogecoin Price Prediction
+Google Play Store Sentiment Analysis
+Amazon Alexa Reviews Sentiment Analysis
+Social Media Ads Classification 171.Fake News Detection
+End-to-End Model
+Gender Detection
+Sales Prediction
+Currency Exchange Rate Prediction
+End-to-end Project
+Profit Prediction Model
+Automatic Time Series Forecasting
+Ted-Talks Recommendation System
+Real-time Sentiment Analysis 181.Amazon Recommendation System
+Mobile Price Classification
+House Price Prediction
+Real-Time Face Mask Detection
+Gold Price Prediction
+Object Detection
+Next Word Prediction Model
+Age and Gender Detection with Python
+Autocorrect Keyboard with Python and .
+in 5 lines of code. 191.Deepfake Detection with .
+Predict US Elections with Python.
+Fake Currency Detection with .
+Predict Tinder Matches with .
+Pencil Sketch with Python.
+OpenAI Gym in
+Fraud Detection with .
+Topic Modeling with Python
+WhatsApp Group Chat Analysis
+Network Security Analysis
+Handwriting Recognition
+Visualize a Solar System with Python.
+Hate Speech Detection Model
+Learning Gladiator
+Time Series - Covid-19 Cases Predictions for Next 30 Days
+Time Series - Stock Price Prediction using Linear Regression
+Time Series - Earthquake Prediction Model
+Time Series - Predict Migration
+Time Series - Weather Prediction Model
+Contact Tracing with 211.Covid-19 Telegram Bot with Python
+Covid-19 Detection with
+Covid-19 Death Rate Analysis with
+HealthCare - Heart Disease Prediction
+HealthCare - Skin Cancer Classification
+HealthCare -Lung Segmentation
+HealthCare -Predict Diabetes
+Face Mask Detection using ML
+Face Expression Identifier
+Employee Turnover Prediction
+Earthquake Prediction
+Software Developer Salary Prediction
+Advanced Credit Card Fraud Detection
+Cotton Disease Prediction
+NLP Disaster or Not Disaster
+Outliers Detection
+Titanic Dataset & Advanced Analysis
+Boston Housing Analysis
+Pneumonia Classification
+Gold Price Prediction.
+Rain Fall Prediction
+IPL First Inning Score Predictor
+Live Smile Detector
+Spam Classifier
+Student Performance Analysis
+Text Summarization
+Time Series Forecasting
+Time Series With LSTM
+Indian Cricket Team Player's Next Match Performance Prediction
+Titanic Survival Prediction
+Tracking of Covid-19 in Animals.
+Traffic Sign Recognition
+Wine Quality Prediction
+Play Money Ball
+Baseball
+Predict Stock Prices
+Stock Price Predictor
+Handwritten Text Recognition with TensorFlow
+Investigate Enron Fraud Analysis with
+Write ML Algorithms from Scratch
+Social Media Sentiment
+Improve Health Care
+Iris Data
+Loan Prediction Data
+Bigmart Sales Data
+Boston Housing Data
+Time Series Analysis Data
+Wine Quality Data
+Turkiye Student Evaluation Data
+Heights and Weights Data
+Intermediate Level
+Black Friday Data
+Human Activity Recognition Data
+Siam Competition Data
+Trip History Data
+Million Song Data
+Census Income Data
+Movie Lens Data
+Twitter Classification Data
+Advanced Level
+Identify your Digits
+Urban Sound Classification
+Vox Celebrity Data
+ImageNet Data
+Chicago Crime Data
+Age Detection of Indian Actors Data
+Recommendation Engine Data
+VisualQA Data
+Nonlinear Reconstruction of Genetic Networks Implicated
+Identifying Gender From Facial Features
+Intensity prediction using DYFI
+Artificial Intelligence on the Final Frontier
+Life Expectancy Post Thoracic Surgery
+Making Sense of the Mayhem
+Better Reading Levels through
+What are People Saying about Net Neutrality
+Bird Species Identification from an Image
+A bigram extension to a word vector representation
+Mining for Confusion – Classifying Affect in MOOC Learners’ Discussion Forum Posts
+Cardiac Arrhythmias Patients
+Prediction of Average and Perceived Polarity in Online Journalism
+Cardiac Dysrhythmia Detection with GPU-Accelerated Neural Networks
+Nicolas Sanchez Ruck Those Stats
+Classifying Wikipedia People Into Occupations
+Classification of Soil Contamination
+Automated Essay Grading
+Relative and absolute equity return prediction using supervised learning
+Seizure Prediction from Intracranial EEG Recordings
+Predicting Seizure Onset with Intracranial Electroencephalogram(EEG)
+Classifying Complex Legal Documents
+Applied to the Detection of Retinal Blood Vessels
+Survival Outcome Prediction for Cancer Patients
+Predicting Cellular Link Failures to Improve User Experience on Smartphones
+Yelp Personalized Reviews
+KMeans
+Strength in numbers_ Modelling the impact of businesses on each other
+Correlation-Based Multi-Label Classification
+Landmark Recognition Using
+CarveML is an application to file fragment classification 311.classifier
+Using Vector Representations to Augment Sentiment Analysis
+Analyzing Vocal Patterns to Determine Emotion
+Predicting the Commercial Success of Songs Based on Lyrics and Other Metrics
+Application Of To Aircraft Conceptual Design
+Extracting Word Relationships from Unstructured Data
+for Predicting Delayed Onset Trauma Following Ischemic Stroke
+Classifying Online User Behavior Using Contextual Data
+Real-Time Flight Path Optimization Under Constraints Using Surrogate Flutter Function
+Real-Time Dense Map Matching with Naive Hidden Markov Models Delay versus Accuracy
+Prediction Function from Sequence in Venom Peptide Families
+Restaurant Recommendation System
+Home Electricity Load Forecasting
+Learning Dota 2 Team Compositions
+Applying Deep Learning to derive insights about non-coding regions of the genome
+Classification of Higgs Jets as Decay Products of a Randall-Sundrum Graviton at the ATLAS Experiment
+SemenFertilityPrediction.Axel Guyon,Florence Koskas,Yoann Buratti
+Sentiment Analysis Using Semi-Supervised Recursive Autoencoders and Support Vector Machines
+Classifying Syllables in Imagined Speech using EEG Data
+Abraham Starosta-Typeguess
+Predicting Usefulness of Yelp Reviews
+Predicting Soccer Results in the English Premier League
+Detecting Heart Abnormality using ECG with CART
+Down and Dirty with Data
+Hierarchical Classification of Amazon Products
+Predicting high-risk countries for political instability and conflict
+Implementation in live-cell tracking
+Any Given Sunday
+P300 Error Detection
+Automated Canvas Analysis for Painting Conservation
+Office Appliance Classification
+Sentiment Analysis on Movie Reviews
+Predicting Mobile Application Success
+Modeling Activity Recognition Using Physiological Data Collected from Wearable Technology
+Neural Network Joint Language Model.Charles Qi.[pdf]
+Yelp Recommendation System Using Advanced Collaborative Filtering
+Prediction of Yelp Review Star Rating using Sentiment Analysis
+Classification of Bad Accounts in the Credit Card Industry
+Classification Of Musical Playing Styles
+Email Filtering By Response Required
+Forecasting Utilization in City Bike-Share Program
+Recommender.Christopher Aberger
+Predicting Cell Type-Specific Chromatin States from Genetic Regulatory Networks
+Pose Estimation Based on 3D Models
+Visual Localization and POMDP for Autonomous Indoor Navigation
+Contours and Kernels-The Art of Sketching
+Indoor Positioning System Using Wifi Fingerprint
+Predicting air pollution level in a specific city
+Prediction of Transcription Factors that Regulate Common Binding Motifs
+Multi-class motif discovery in keratinocyte differentiation
+Defensive Unit Performance Analysis
+Diagnosing Malignant versus Benign Breast Tumors via Techniques in High Dimensions
+Hacking the Hivemind
+Diagnosing Parkinson’s from Gait
+Implementing Algorithms on GPUs for Real-Time Traffic Sign Classification
+Vignette
+In JavaScript
+Searching for exoplanets in the Kepler public data
+Model Clustering via Group Lasso
+Improving Positron Emission Tomography Imaging with
+Algorithmic Trading of Futures via .David Montague
+Topic-based comments exploration for online articles
+Personal Legal Counselor and Interpreter of the Law via
+Personalized Web Search
+Detecting Ads in a Approach
+Predicting Mitochondrial tRNA Modification
+Collaborative Neighborhoods
+Estimation of Causal Effects from Observational Study of Job Training Program
+Deep Learning Architecture for Univariate Time Series Forecasting
+Solomon
+Automatic detection of nanoparticles in tissue sections
+Implementation of Deep Convolutional NeuralNet on a DSP
+Evergreen or Ephemeral – Predicting Webpage Longevity Through Relevancy Features
+MacMalware
+Extractive Fiction Summarization Using Sentence Significance Scoring Models
+Identifying And Predicting Market Reactions To Information Shocks In Commodity Markets
+An EM-Derived Approach to Blind HRTF Estimation
+The Many Dimensions of Net Neutrality
+Learning To Predict Dental Caries For Preschool Children
+Information based feature selection
+Identifying Elephant Vocalizations
+Predicting Protein Fragment Binding
+Bike Share Usage Prediction in London
+Localized Explicit Semantic Analysis
+Robo Brain Massive Knowledge Base for Robots
+Understanding Music Genre Similarity
+Correlated Feature Selection for Single-Cell Phenotyping
+Activity Recognition in Construction Sites Using 3D Accelerometer and Gyrometer
+Event-based stock market prediction
+Recommendation Based On User Experience
+Spectrum Adaptation in Multicarrier Interference Channels
+Exploring Potential for on Data About K-12 Teacher Professional Development
+Player Behavior and Optimal Team Compositions for Online Multiplayer Games
+Algorithmic Trading Strategy Based On Massive Data Mining
+Face Detection And Recognition Of Drawn Characters
+Gene Expression Analysis Of HCMV Latent Infection
+A New Kalman Filter Method
+Using Tweets for single stock price prediction
+Naïve Bayes Classifier And Profitability of Options Gamma Trading
+Vector-based Sentiment Analysis of Movie Reviews
+A General-Purpose Sentence-Level Nonsense Detector
+Characterizing Genetic Variation in Three Southeast Asian Populations for the Smart Grid
+Predicting Africa Soil Properties
+Automated Bitcoin Trading via Algorithms
+SkatBot
+Tradeshift Text Classification
+New York City Bike Share
+Predicting Seizure Onset in Epileptic Patients Using Intracranial EEG Recordings
+Predicting Foster Care Exit
+Yelp Recommendation System
+Predicting National Basketball Association Game Winners
+Predicting Yelp Ratings From Business and User Characteristics
+Predicting Popularity of Pornography Videos
+Accurate Campaign Targeting Using Classification Algorithms
+Forecasting Bike Rental Demand
+Predicting User Following Behavior On Tencent Weibo
+Improving Taxi Revenue With Reinforcement Learning
+Learning Facial Expressions From an Image
+All Your Base Are Belong To Us English Texts Written by Non-Native Speakers
+Identifying Regions High Turbidity
+A Comparison of Classification Methods for Expression Quantitative Trait
+Predicting Mobile Users' Future Location
+Semi-Supervised Learning For Sentiment Analysis
+Legal Issue Spotting
+A novel way to Soccer Match Prediction
+Morphological Galaxy Classification
+Predicting Helpfulness Ratings of Amazon Product Reviews
+Predicting Course Completions For Online Courses
+An Adaptive System For Standardized Test Preparation
+Single Molecule Biophysics For Automated Data Processing
+Understanding Comments Submitted to FCC on Net Neutrality
+Direct Data-Driven Methods for Decision Making under Uncertainty
+Classifying Legal Questions into Topic Areas Using
+Predicting Hit Songs with MIDI Musical Features
+Methods for Biological Data Curation
+Classifying Forest Cover Type using Cartographic Features
+Peer Lending Risk Predictors
+Learning Distributed Representations of Phrases
+Estimation Of Word Representations Using Recurrent Neural Networks And Its Application In Generating Business Fingerprints
+Gender Identification by Voice
+Applications Of To Predict Yelp Ratings
+Methodology for Sparse Classification Learning Arrhythmia
+Predicting March Madness
+Net Neutrality Language Analysis
+Characterizing Atrial Fibrillation Burden for Stroke Prevention
+Predict Seizures in Intracranial EEG Recordings
+Automated Music Track Generation
+Characterizing Overlapping Galaxies
+Understanding Player Positions in the NBA
+Cross-Domain Product Classification with Deep Learning
+Predicting Heart Attacks
+Prediction of Bike Sharing Demand for Casual and Registered Users
+Classification Of Arrhythmia Using ECG Data
+What Can You Learn From Accelerometer Data
+Speaker Recognition for Multi-Source Single-Channel Recordings
+Prediction of consumer credit risk
+for Network Intrusion Detection
+Predicting Paper Counts in the Biological Sciences
+Prediction of Price Increase for MTG Cards
+Twitter Classification into the Amazon Browse Node Hierarchy
+Determining Mood From Facial Expressions
+Visualizing Personalized Cancer Risk Prediction
+Predicting the Total Number of Points Scored in NFL Games
+Short-Term Power Forecasting Of Solar PV Systems Using Techniques
+Star-Galaxy Separation in the Era of Precision Cosmology
+Artist Attribution via Song Lyrics
+Accelerometer Gesture Recognition
+Arrhythmia Classification for Heart Attack Prediction
+#ML#NLP-Autonomous Tagging Of Stack Overflow Posts
+Scheduling Tasks Under Constraints
+Classification Of Beatles Authorship
+Classification of Accents of English Speakers by Native Language
+Exposing commercial value in social networks matching online communities and businesses
+Hacking the genome
+How Hot Will It Get Modeling Scientific Discourse About Literature
+Permeability Prediction of 3-D Binary Segmented Images Using Neural Networks
+Automated Identification of Artist Given Unknown Paintings and Quantification of Artistic Style
+Predicting Lecture Video Complexity
+Result Prediction of Wikipedia Administrator Elections based on Network Features
+Predicting The Treatment Status
+Error Detection based on neural signals
+Speech Similarity
+Data-Driven Modeling and Control of an Autonomous Race Car
+Predicting the Diagnosis of Type 2 Diabetes Using Electronic Medical Records
+A Novel Approach to Predicting the Results of NBA Matches
+Automatically Generating Musical Playlists
+Solar Flare Prediction
+Application of techniques for well pad identification in the Bakken oil field
+Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods
+Two-step Semi-supervised Approach for Music Structural Classification
+Domain-specific sentiment analysis using cross-domain data
+Instrumental Solo Generator
+Cross-Domain Text Understanding in Online SocialData
+From Paragraphs to Vectors and Back Again
+handwriting recognition
+Chemical Identification with Chemical Sensor Arrays
+Genre Classification Using Graph Representations of Music
+Collaborative Filtering Recommender Systems
+Detecting The Direction Of Sound With A Compact Microphone Array
+Finding Undervalued Stocks 511.Multilevel Local Search Algorithms for Modularity Clustering
+Automated Detection and Classification of Cardiac Arrhythmias
+Predicting Kidney Cancer Survival From Genomic Data
+Multiclass Sentiment Analysis of Movie Reviews
+Classification and Regression Approaches to Predicting US Senate Elections
+Learning from Quantified Self-Data
+Predict Influencers in the Social Network
+Bias Detector
+Constructing Personal Networks Through Communication History
+Modeling Protein Interactions Using Bayesian Networks
+Topic Analysis of the FCC’s Public Comments on Net Neutrality
+Predicting Hospital Readmissions
+Analyzing Positional Play in Chess Using
+Yelp Restaurants’ Open Hours
+Identifying Arrhythmia from Electrocardiogram Data
+Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans M
+chine Learning
+Exploring the Genetic Basis of Congenital Heart Defects
+Attribution of Contested and Anonymous Ancient Greek Works
+Object Detection for Semantic SLAM using Convolutional Neural Networks
+Sentiment as a Predictor of Wikipedia Editor Activity
+Blowing Up The Twittersphere- Predicting the Optimal Time to Tweet
+Evergreen Classification_ Exploring New Features
+Detecting Lane Departures Using Weak Visual Features
+Re-clustering of Constellations through
+Application of Neural Network In Handwriting Recognition
+Recognition and Classification of Fast Food Images
+Reduced Order Greenhouse Gas Flaring Estimation
+Blood Pressure Detection from PPG
+Predicting Low Voltage Events on Rural Micro-Grids in Tanzania
+Amazon Employee Access Control System_Updated_Version
+Prediction Onset Epileptic
+Evaluating Pinch Quality of Underactuated Robotic Hands
+Reinforcement Learning With Deeping Learning in Pacman
+Language identification and accent variation detection in spoken language recordings
+Enhancing Cortana User Experience Using
+Who Matters
+Predicting Heart Attacks
+Predicting Seizures in Intracranial EEG Recordings
+structural Health Monitoring in Extreme Events from Perspective
+Online Kernel Learning for Active Sensor Networks
+ECommerce Sales Prediction Using Listing Keywords
+Review Scheduling for Maximum Long-Term Retention of Knowledge
+Adaptive Spaced Repetition
+Do a Barrel Roll
+Oil Field Production using
+Predicting Success for Musical Artists through Network and Quantitative Data
+Better Models for Prediction of Bond Prices
+Classifying the Brain 27s Motor Activity via Deep Learning
+Prediction of Bike Rentals
+Classification of Alzheimer’s Disease Based on White Matter Attributes
+MoralMachines- Developing a Crowdsourced Moral Framework for Autonomous Vehicle Decisions
+Context-Specific Sequence Preference Of DNA Binding Proteins
+Predicting Reddit Post Popularity ViaInitial Commentary
+for Continuous Human Action Recognition
+Predicting Pace Based on Previous Training Runs
+Probabilistic Driving Models and Lane Change Prediction
+Multiple Sensor Indoor Mapping Using a Mobile Robot
+Bone Segmentation MRI Scans
+Recorder Anticipating Music Motifs In Real Time
+Prediction and Classification of Cardiac Arrhythmia
+Predicting DJIA Movements from the Fluctuation of a Subset of Stocks
+Sentiment Analysis for Hotel Reviews
+Mood Detection with Tweets
+Comparison of Techniques for Magnetic Resonance Image Analysis
+Object Recognition in Images
+3D Scene Retrieval from Text
+Predicting Breast Cancer Survival Using Treatment and Patient Factors
+Parking Occupancy Prediction and Pattern Analysis
+Supervised DeepLearning For MultiClass Image Classification
+User Behaviors Across Domains
+Seizure forecasting
+Stock Trend Prediction with Technical Indicators using SVM
+Predicting Usefulness of Yelp Reviews
+Multiclass Classifier Building with Amazon Data to Classify Customer Reviews into Product Categories
+An Energy Efficient Seizure Prediction Algorithm
+Classifier Comparisons On Credit Approval Prediction
+Appliance-Based Model for Energy Consumption Segmentation
+Phishing Detection System Using a
+Self Driving car project using
+OpenCV Python Neural Network Autonomous RC C
+Stock prediction using sentimental analysis –
+Illness Tracker | Final Year Project
+neural network JAVA
+Credit Card Fraud Detection Using Neural Network
+Detecting Phishing Websites using Technique
+Final Project: Classification of Neural Responses to Threat
+A Computer-Aided Diagnosis System for Lung Cancer Detection using Machine
+Prediction of Diabetes and cancer using SVM
+Efficient Heart Disease Prediction System
+```
+
+
+
+
+Machine Learning custom projects List
+```
+https://data-flair.training/blogs/machine-learning-project-ideas/
+
+Sequence Classification with LSTM RNN in Python with Keras
+Cats vs Dogs
+Image Classification
+Music Genre Classification
+Colourizing Old B&W Images
+Language Translator
+Human Face Detection Project
+Human Face recognition
+Lane-Line Detection System
+Text Summarizer
+Human Pose Estimation
+Brain Tumor Detection Project
+Plagiarism checker
+Handwritten Digit Recognition using TensorFlow
+Handwritten character Recognition using TensorFlow
+Dog’s Breed Identification Project
+Traffic Sign Classification
+Predicting House Prices Using Linear Regression
+Chatbot Project Using Deep Learning
+Pneumonia detection Project using deep learning
+Object Detection using Tensorflow
+Tensorflow hand detection Project
+Unsupervised Face Clustering Pipeline
+Saving Operated Video from a webcam
+Opening multiple color windows
+Play a video in reverse mode
+Yolo object detection Project
+Face Emotion recognition project
+Face Mask Detection
+Pedestrian Detection
+Cartoonifying an Image
+Sentiment Analysis
+Credit Card Fraud Detection Project
+Customer Segmentation using Machine Learning
+Movie recommendation using collaborative filtering
+Customer Spending classification using K means clustering
+Titanic data clustering on survived data
+Titanic Survival Prediction Project
+Recipe Recommendation system using K means clustering
+Crude Oil Prediction using SVR & Linear Regression
+Face Recognition based Criminal Identification system
+Converting voice to text
+Face detection based attendance system
+Automatic Landmark classification using Deep Learning
+Automatic Brand Logo detection using Deep learning
+Fake News Detection Project
+Color recognition using neural networks to determine the ripeness of a banana
+Wal-Mart Sales Prediction
+Vehicle counting for traffic management
+Gender classification
+Spam Detector
+Detecting Parkinson’s Disease
+Stock Price Prediction Project
+Emojify – Create your own emoji
+Speech Emotion Recognition
+Breast Cancer Classification Project
+Gender and Age Detection
+Driver Drowsiness Detection System
+Image Caption Generator Project
+Video Surveillance
+Emoji Prediction
+Photo to Emoji
+Automatic Music Generation
+Text Summarizer
+Gender Recognition Using Voice
+Face Aging Project
+Generate Human Faces
+Grocery Recommender System Using Collaborative Filtering
+Build a Virtual Assistant
+Stress Detection in words
+Youtube video recommendation system
+Twitter Hashtag Prediction
+Detection and counting of blood cells with deep learning
+Instance Segmentation Project
+Fake Currency Detection
+Flower Recognition
+Deepfake Detection
+Human Activity Recognition using Smartphone Data
+Named Entity Recognition
+Image Recognition using PyTorch
+Resume Screening
+Keyword Extraction Project
+Autocorrect with Python
+Hate Speech Detection
+Keyword Research with Python & ml
+Next Word Prediction
+SMS Spam Detection with Machine Learning
+Amazon Product Reviews Sentiment Analysis
+Earthquake Prediction Project with Machine Learning
+Predict Migration with Machine Learning
+Weather Prediction
+Time Series with LSTM
+Births Forecasting with Machine Learning
+Anomaly Detection with ARIMA Model
+Rainfall Prediction with Machine Learning
+Covid-19 Cases Prediction Project
+Title Generator with Machine Learning
+Predict Car Prices with Machine Learning
+Online Shopping Intention Analysis
+Amazon Bestselling Books Analysis
+YouTube Trending Videos Analysis
+Air Quality Index Analysis
+Employee Attrition Prediction Project
+Heart Disease Prediction using Machine Learning
+Fashion Recommendation System
+Predict Tinder Matches with Machine Learning
+Predict Diabetes with Machine Learning
+Predict Customer Churn
+Bitcoin Price Prediction with Machine Learning
+Skin Cancer Classification with Machine Learning
+Book Recommendation System
+Lung Segmentation Project with Machine Learning
+Food Classification with Deep Learning in Keras / Tensorflow
+Deep Learning food image recognition system for cooking recipe retrieval
+Assessing Car Damage with Convolutional Neural Networks
+Crime Data Analysis in Machine Learning
+Fake Product Review Detection using Machine Learning
+Hypo Thyroid Disease prediction Machine Learning
+Salary Prediction Project using Machine Learning
+Insurance Claim Prediction Machine Learning Project
+Artificial Intelligence Project Chess Game Python
+Learning Gladiator Machine Learning projects
+Investigate Enron Fraud Analysis
+Boston Housing Data analysis
+Automated Essay Grading
+Real-Time Flight Path Optimization
+Restaurant Recommendation System
+Home Electricity Load Forecasting
+Email Filtering Project
+Automatic detection of nanoparticles in tissue sections
+Bike Share Usage Prediction in London
+Yelp Recommendation Project
+Prediction of consumer credit risk
+Network Intrusion Detection
+Determining Mood From Facial Expressions
+Recognition and Classification of Fast Food Images
+Bone Segmentation MRI Scans
+Mood Detection with Tweets
+Detecting Impersonators in Examination Centres using AI
+Movie Character Recognition From Video And Images
+Students’ Marks Prediction Using Linear Regression
+Crop Yield Prediction using KNN classification
+Spam Comments Detection
+3D Face Reconstruction using CNN
+Editing natural photos using Generative Neural Networks
+Image Deblurring using Generative Adversarial Networks
+Painting AI – Deep Reinforcement Learning model that produces paintings using strokes
+Lip Reading – Cross Audio-Visual Recognition using 3D Architectures
+Image Animation using First Order Motion Model
+Birth Rate Analysis
+Gold Price Prediction
+Text Generation Project
+Income Classification
+Market Basket Analysis using Apriori Algorithm
+Outlier Detection Project
+OpenAI Gym in Machine Learning
+Create a 3D Video Animation
+Rainfall Prediction with Machine Learning
+Network Security Analysis
+Diamonds Analysis
+Predict Fuel Efficiency
+RFM Analysis Project
+Supermarket Sales Analysis
+GDP Analysis
+San Francisco Crime Analysis
+Cervical Cancer Prediction
+Poker Hand Prediction
+Chess AI
+Sign language recognition
+```
+Machine Learning custom projects List
+```
+Learning Gladiator Machine Learning projects
+Play Money Ball Machine Learning projects
+Machine Learning Baseball
+Predict Stock Prices Machine Learning projects
+Stock Price Predictor Machine Learning Projects
+Handwritten Text Recognition with TensorFlow Machine Learning projects
+Investigate Enron Fraud Analysis with Machine Learning projects
+Write ML Algorithms from Scratch Machine Learning projects
+Mine Social Media Sentiment Machine Learning projects
+Improve Health Care Machine Learning projects
+Iris Data Machine Learning projects
+Loan Prediction Data Machine Learning projects
+Bigmart Sales Data Machine Learning projects
+Boston Housing Data Machine Learning projects
+Time Series Analysis Data Machine Learning projects
+Wine Quality Data Machine Learning projects
+Turkiye Student Evaluation Data Machine Learning projects
+Heights and Weights Data Machine Learning projects
+Intermediate Level Machine Learning projects
+Black Friday Data Machine Learning projects
+Human Activity Recognition Data Machine Learning projects
+Siam Competition Data Machine Learning projects
+Trip History Data Machine Learning projects
+Million Song Data Machine Learning projects
+Census Income Data Machine Learning projects
+Movie Lens Data Machine Learning projects
+Twitter Classification Data Machine Learning projects
+Advanced Level Machine Learning projects
+Identify your Digits Machine Learning projects
+Urban Sound Classification Machine Learning projects
+Vox Celebrity Data Machine Learning projects
+ImageNet Data Machine Learning projects
+Chicago Crime Data Machine Learning projects
+Age Detection of Indian Actors Data Machine Learning projects
+Recommendation Engine Data Machine Learning projects
+VisualQA Data Machine Learning projects
+Nonlinear Reconstruction of Genetic Networks Implicated Machine Learning projects
+Identifying Gender From Facial Features Machine Learning projects
+Equation to LaTeX Machine Learning projects
+Intensity prediction using DYFI Machine Learning projects
+Artificial Intelligence on the Final Frontier Machine Learning projects
+Life Expectancy Post Thoracic Surgery Machine Learning projects
+Making Sense of the Mayhem- Machine Learning and March Madness Machine Learning projects
+Better Reading Levels through Machine Learning
+What are People Saying about Net Neutrality Machine Learning projects
+Bird Species Identification from an Image Machine Learning projects
+Stay Alert.Aditya Sarkar Machine Learning projects
+A bigram extension to word vector representation Machine Learning projects
+Mining for Confusion – Classifying Affect in MOOC Learners’ Discussion Forum Posts Machine Learning projects
+Cardiac Arrhythmias Patients Machine Learning projects
+Prediction of Average and Perceived Polarity in Online Journalism Machine Learning projects
+Cardiac Dysrhythmia Detection with GPU-Accelerated Neural Networks Machine Learning projects
+Nicolas Sanchez Ruck Those Stats Machine Learning projects
+Classifying Wikipedia People Into Occupations Machine Learning projects
+Classification of Soil Contamination Machine Learning projects
+Automated Essay Grading Machine Learning projects
+Relative and absolute equity return prediction using supervised learning Machine Learning projects
+Seizure Prediction from Intracranial EEG Recordings Machine Learning projects
+Predicting Seizure Onset with Intracranial Electroencephalogram(EEG)Machine Learning projects
+Classifying Complex Legal Documents Machine Learning projects
+Machine Learning Applied to the Detection of Retinal Blood Vessels Machine Learning projects
+Survival Outcome Prediction for Cancer Patients Machine Learning projects
+Predicting Cellular Link Failures to Improve User Experience on Smartphones Machine Learning projects
+Yelp Personalized Reviews Machine Learning projects
+KMeansSL Machine Learning projects
+Strength in numbers_ Modelling the impact of businesses on each other Machine Learning projects
+Correlation Based Multi-Label Classification Machine Learning projects
+Landmark Recognition Using Machine Learning Machine Learning projects
+CarveML an application of machine learning to file fragment classification Machine Learning projects
+rClassifier Machine Learning projects
+Using Vector Representations to Augment Sentiment Analysis Machine Learning projects
+Analyzing Vocal Patterns to Determine Emotion Machine Learning projects
+Predicting the Commercial Success of Songs Based on Lyrics and Other Metrics Machine Learning projects
+Application Of Machine Learning To Aircraft Conceptual Design Machine Learning projects
+Extracting Word Relationships from Unstructured Data Machine Learning projects
+Machine Learning for Predicting Delayed Onset Trauma Following Ischemic Stroke Machine Learning projects
+Classifying Online User Behavior Using Contextual Data Machine Learning projects
+Real Time Flight Path Optimization Under Constraints Using Surrogate Flutter Function Machine Learning projects
+Real-Time Dense Map Matching with Naive Hidden Markov Models Delay versus Accuracy Machine Learning projects
+Prediction Function from Sequence in Venom Peptide Families Machine Learning projects
+Restaurant Recommendation System Machine Learning projects
+Home Electricity Load Forecasting Machine Learning projects
+Learning Dota 2 Team Compositions Machine Learning projects
+Applying Deep Learning to derive insights about non-coding regions of the genome Machine Learning projects
+Classification of Higgs Jets as Decay Products of a Randall-Sundrum Graviton at the ATLAS Experiment Machine Learning projects
+SemenFertilityPrediction.Axel Guyon,Florence Koskas,Yoann Buratti Machine Learning projects
+Sentiment Analysis Using Semi-Supervised Recursive Autoencoders and Support Vector Machines Machine Learning projects
+Classifying Syllables in Imagined Speech using EEG Data Machine Learning projects
+Abraham Starosta-Typeguess Machine Learning projects
+Predicting Usefulness of Yelp Reviews Machine Learning projects
+Predicting Soccer Results in the English Premier League Machine Learning projects
+Detecting Heart Abnormality using ECG with CART Machine Learning projects
+Down and Dirty with Data Machine Learning projects
+Hierarchical Classification of Amazon Products Machine Learning projects
+Predicting high-risk countries for political instability and conflict Machine Learning projects
+Machine Learning Implementation in live-cell tracking Machine Learning projects
+Any Given Sunday Machine Learning projects
+P300 Error Detection Machine Learning projects
+Automated Canvas Analysis for Painting Conservation Machine Learning projects
+Office Appliance Classification Machine Learning projects
+Sentiment Analysis on Movie Reviews Machine Learning projects
+Predicting Mobile Application Success Machine Learning projects
+Modeling Activity Recognition Using Physiological Data Collected from Wearable Technology Machine Learning projects
+Neural Network Joint Language Model.Charles Qi.[pdf]
+Yelp Recommendation System Using Advanced Collaborative Filtering Machine Learning projects
+Prediction of Yelp Review Star Rating using Sentiment Analysis Machine Learning projects
+Classification of Bad Accounts in Credit Card Industry Machine Learning projects
+Classification Of Musical Playing Styles Machine Learning projects
+Email Filtering By Response Required Machine Learning projects
+Forecasting Utilization in City Bike-Share Program Machine Learning projects
+Recommender.Christopher Aberger Machine Learning projects
+Predicting Cell Type-Specific Chromatin States from Genetic Regulatory Networks Machine Learning projects
+Pose Estimation Based on 3D Models Machine Learning projects
+Visual Localization and POMDP for Autonomous Indoor Navigation Machine Learning projects
+Contours and Kernels-The Art of Sketching Machine Learning projects
+Indoor Positioning System Using Wifi Fingerprint Machine Learning projects
+Predicting air pollution level in a specific city Machine Learning projects
+Prediction of Transcription Factors that Regulate Common Binding Motifs Machine Learning projects
+Multi-class motif discovery in keratinocyte differentiation Machine Learning projects
+Defensive Unit Performance Analysis Machine Learning projects
+Diagnosing Malignant versus Benign Breast Tumors via Machine Learning Techniques in High Dimensions Machine Learning projects
+Hacking the Hivemind Machine Learning projects
+Diagnosing Parkinson’s from Gait Machine Learning projects
+Implementing Machine Learning Algorithms on GPUs for Real-Time Traffic Sign Classification Machine Learning projects
+Vignette Machine Learning projects
+Machine Learning In JavaScript Machine Learning projects
+Searching for exoplanets in the Kepler public data Machine Learning projects
+Model Clustering via Group Lasso Machine Learning projects
+Improving Positron Emission Tomography Imaging with Machine Learning Machine Learning projects
+Algorithmic Trading of Futures via Machine Learning.David Montague Machine Learning projects
+Topic based comments exploration for online articles Machine Learning projects
+Personal Legal Counselor and Interpreter of the Law via Machine Learning Machine Learning projects
+Personalized Web Search Machine Learning projects
+Detecting Ads in a Machine Learning Approach Machine Learning projects
+Predicting Mitochondrial tRNA Modification Machine Learning projects
+Collaborative Neighborhoods Machine Learning projects
+Estimation of Causal Effects from Observational Study of Job Training Program Machine Learning projects
+Deep Leraning Architecture for Univariate Time Series Forecasting Machine Learning projects
+Solomon Machine Learning projects
+Automatic detection of nanoparticles in tissue sections Machine Learning projects
+Implementation of Deep Convolutional NeuralNet on a DSP Machine Learning projects
+Evergreen or Ephemeral – Predicting Webpage Longevity Through Relevancy Features Machine Learning projects
+MacMalware Machine Learning projects
+Extractive Fiction Summarization Using Sentence Significance Scoring Models Machine Learning projects
+Identifying And Predicting Market Reactions To Information Shocks In Commodity Markets Machine Learning projects
+An EM-Derived Approach to Blind HRTF Estimation Machine Learning projects
+The Many Dimensions of Net Neutrality Machine Learning projects
+Learning To Predict Dental Caries For Preschool Children Machine Learning projects
+Information based feature selection Machine Learning projects
+Identifying Elephant Vocalizations Machine Learning projects
+Predicting Protein Fragment Binding Machine Learning projects
+Bike Share Usage Prediction in London Machine Learning projects
+Localized Explicit Semantic Analysis Machine Learning projects
+Robo Brain Massive Knowledge Base for Robots Machine Learning projects
+Understanding Music Genre Similarity Machine Learning projects
+Correlated Feature Selection for Single-Cell Phenotyping Machine Learning projects
+Activity Recognition in Construction Sites Using 3D Accelerometer and Gyrometer Machine Learning projects
+Event-based stock market prediction Machine Learning projects
+Recommendation Based On User Experience Machine Learning projects
+Spectrum Adaptation in Multicarrier Interference Channels Machine Learning projects
+Exploring Potential for Machine Learning on Data About K-12 Teacher Professional Development Machine Learning projects
+Player Behavior and Optimal Team Compositions for Online Multiplayer Games Machine Learning projects
+Algorithmic Trading Strategy Based On Massive Data Mining Machine Learning projects
+Face Detection And Recognition Of Drawn Characters Machine Learning projects
+Gene Expression Analysis Of HCMV Latent Infection Machine Learning projects
+A New Kalman Filter Method Machine Learning projects
+Using Tweets for single stock price prediction Machine Learning projects
+Naïve Bayes Classifier And Profitability of Options Gamma Trading Machine Learning projects
+Vector-based Sentiment Analysis of Movie Reviews Machine Learning projects
+A General-Purpose Sentence-Level Nonsense Detector Machine Learning projects
+Characterizing Genetic Variation in Three Southeast Asian Populations Machine Learning projects
+Machine Learning for the Smart Grid Machine Learning projects
+Predicting Africa Soil Properties Machine Learning projects
+Automated Bitcoin Trading via Machine Learning Algorithms Machine Learning projects
+SkatBot Machine Learning projects
+Tradeshift Text Classification Machine Learning projects
+New York City Bike Share Machine Learning projects
+Predicting Seizure Onset in Epileptic Patients Using Intercranial EEG Recordings Machine Learning projects
+Predicting Foster Care Exit Machine Learning projects
+Yelp Recommendation System Machine Learning projects
+Predicting National Basketball Association Game Winners Machine Learning projects
+Predicting Yelp Ratings From Business and User Characteristics Machine Learning projects
+Predicting Popularity of Pornography Videos Machine Learning projects
+Accurate Campaign Targeting Using Classification Algorithms Machine Learning projects
+Forecasting Bike Rental Demand Machine Learning projects
+Predicting User Following Behavior On Tencent Weibo Mac
+ine Learning projects
+Improving Taxi Revenue With Reinforcement Learning Machine Learning projects
+Learning Facial Expressions From an Image Machine Learning projects
+All Your Base Are Belong To Us English Texts Written by Non-Native Speakers Machine Learning projects
+Identifying Regions High Turbidity Machine Learning projects
+A Comparison of Classification Methods for Expression Quantitative Trait Loci Machine Learning projects
+Predicting Mobile Users Future Location Machine Learning projects
+Machine Learning Madness Machine Learning projects
+Semi-Supervised Learning For Sentiment Analysis Machine Learning projects
+Legal Issue Spotting Machine Learning projects
+A novel way to Soccer Match Prediction Machine Learning projects
+Morphological Galaxy Classification Machine Learning projects
+Predicting Helpfulness Ratings of Amazon Product Reviews Machine Learning projects
+Predicting Course Completions For Online Courses Machine Learning projects
+An Adaptive System For Standardized Test Preparation Machine Learning projects
+Single Molecule Biophysics Machine Learning For Automated Data Processing Machine Learning projects
+Understanding Comments Submitted to FCC on Net Neutrality Machine Learning projects
+Direct Data-Driven Methods for Decision Making under Uncertainty Machine Learning project
+From Food To Winev
+Classifying Legal Questions into Topic Areas Using Machine Learning Machine Learning projects
+Predicting Hit Songs with MIDI Musical Featuresv
+Machine Learning Methods for Biological Data Curation Machine Learning projects
+Classifying Forest Cover Type using Cartographic Features Machine Learning projects
+Peer Lending Risk Predictorv
+Learning Distributed Representations of Phrases Machine Learning projects
+Estimation Of Word Representations Using Recurrent Neural Networks And Its Application In Generating Business Fingerprints Machine Learning projects
+Gender Identification by Voice Machine Learning projects
+Applications Of Machine Learning To Predict Yelp Ratings Machine Learning projects
+Methodology for Sparse Classification Learning Arrhythmia Machine Learning projects
+Predicting March Madness Machine Learning projects
+Net Neutrality Language Analysis Machine Learning projects
+Characterizing Atrial Fibrillation Burden for Stroke Prevention Machine Learning projects
+Predict Seizures in Intracranial EEG Recordings Machine Learning projects
+Automated Music Track Generation Machine Learning projects
+Characterizing Overlapping Galaxies Machine Learning projects
+Understanding Player Positions in the NBA Machine Learning projects
+Cross-Domain Product Classification with Deep Learning Machine Learning projects
+Predicting Heart Attacks Machine Learning projects
+Prediction of Bike Sharing Demand for Casual and Registered Users Machine Learning projects
+Classification Of Arrhythmia Using ECG Data Machine Learning projects
+What Can You Learn From Accelerometer Data Machine Learning projects
+Speaker Recognition for Multi-Source Single-Channel Recordings Machine Learning projects
+Prediction of consumer credit risk Machine Learning projects
+Machine Learning for Network Intrusion Detection Machine Learning projects
+Predicting Paper Counts in the Biological Sciences Machine Learning projects
+Prediction of Price Increase for MTG Cards Machine Learning projects
+Twitter Classification into the Amazon Browse Node Hierarchy Machine Learning projects
+Determining Mood From Facial Expressions Machine Learning projects
+Visualizing Personalized Cancer Risk Prediction Machine Learning projects
+Predicting the Total Number of Points Scored in NFL Games Machine Learning projects
+Short Term Power Forecasting Of Solar PV Systems Using Machine Learning Techniques Machine Learning projects
+Star-Galaxy Separation in the Era of Precision Cosmology Machine Learning projects
+Artist Attribution via Song Lyrics Machine Learning projects
+Accelerometer Gesture Recognition Machine Learning projects
+Arrythmia Classification for Heart Attack Prediction Machine Learning projects
+#ML#NLP-Autonomous Tagging Of Stack Overflow Posts Machine Learning projects
+Scheduling Tasks Under Constraints Machine Learning projects
+Classification Of Beatles Authorshipv
+Classification of Accents of English Speakers by Native Language Machine Learning projects
+Exposing commercial value in social networks matching online communities and businesses Machine Learning projects
+Hacking the genome Machine Learning projects
+How Hot Will It Get Modeling Scientific Discourse About Literature Machine Learning projects
+Permeability Prediction of 3-D Binary Segmented Images Using Neural Networks Machine Learning projects
+Automated Identification of Artist Given Unknown Paintings and Quantification of Artistic Style Machine Learning projects
+Predicting Lecture Video Complexity Machine Learning projects
+Result Prediction of Wikipedia Administrator Elections based ondNetwork Features Machine Learning projects
+Predicting The Treatment Status Machine Learning projects
+Error Detection based on neural signals Machine Learning projects
+Speech Similarity Machine Learning projects
+Data-Driven Modeling and Control of an Autonomous Race Car Machine Learning projects
+Predicting the Diagnosis of Type 2 Diabetes Using Electronic Medical Records Machine Learning projects
+A Novel Approach to Predicting the Results of NBA Matches Machine Learning projects
+Automatically Generating Musical Playlists Machine Learning projects
+Solar Flare Prediction Machine Learning projects
+Application of machine learning techniques for well pad identification inathe Bakken oil fielda Machine Learning projects
+Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods Machine Learning projects
+Two-step Semi-supervised Approach for Music Structural Classificiation Machine Learning projects
+Domain specific sentiment analysis using cross-domain data Machine Learning projects
+Instrumental Solo Generator Machine Learning projects
+Cross-Domain Text Understanding in Online SocialData Machine Learning projects
+From Paragraphs to Vectors and Back Again Machine Learning projects
+HandwritingRecognition Machine Learning projects
+Chemical Identification with Chemical Sensor Arrays Machine Learning projects
+Genre Classification Using Graph Representations of Music Machine Learning projects
+Collaborative Filtering Recommender Systems Machine Learning projects
+Detecting The Direction Of Sound With A Compact Microphone Array Machine Learning projects
+Finding Undervalued Stocks With Machine Learning Machine Learning project
+Multilevel Local Search Algorithms for Modularity Clustering Machine Learning projects
+Automated Detection and Classification of Cardiac Arrhythmias Machine Learning projects
+Predicting Kidney Cancer Survival From Genomic Data Machine Learning projects
+Multiclass Sentiment Analysis of Movie Reviews Machine Learning projects
+Classification and Regression Approaches to Predicting US Senate Elections Machine Learning projects
+Learning from Quantified Self Data Machine Learning projects
+Predict Influencers in the Social Network Machine Learning projects
+Bias Detector Machine Learning projects
+Constructing Personal Networks Through Communication History Machine Learning projects
+Modeling Protein Interactions Using Bayesian Networks Machine Learning projects
+Topic Analysis of the FCC’s Public Comments on Net Neutrality Machine Learning projects
+Predicting Hospital Readmissions Machine Learning projects
+Analyzing Positional Play in Chess Using Machine Learning Machine Learning projects
+Yelp Restaurants’ Open Hours Machine Learning projects
+Identifying Arrhythmia from Electrocardiogram Data Machine Learning projects
+Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans M
+chine Learning projects
+Exploring the Genetic Basis of Congenital Heart Defects Machine Learning projects
+Attribution of Contested and Anonymous Ancient Greek Works Machine Learning projects
+Object Detection for Semantic SLAM using Convolutional Neural Networks Machine Learning projects
+Sentiment as a Predictor of Wikipedia Editor Activity Machine Learning projects
+Blowing Up The Twittersphere- Predicting the Optimal Time to Tweet Machine Learning projects
+Evergreen Classification_ Exploring New Features Machine Learning projects
+Detecting Lane Departures Using Weak Visual Features Machine Learning projects
+Re-clustering of Constellations through Machine Learning Machine Learning projects
+Application of Neural Network In Handwriting Recognition Machine Learning projects
+Recognition and Classification of Fast Food Images Machine Learning projects
+Reduced Order Greenhouse Gas Flaring Estimation Machine Learning projects
+Blood Pressure Detection from PPG Machine Learning projects
+Predicting Low Voltage Events on Rural Micro-Grids in Tanzania Machine Learning projects
+Amazon Employee Access Control System_Updated_Version Machine Learning projects
+Prediction Onset Epileptic Machine Learning projects
+Evaluating Pinch Quality of Underactuated Robotic Hands Machine Learning projects
+Reinforcement Learning With Deeping Learning in Pacman Machine Learning projects
+Language identification and accent variation detection in spoken language recordings Machine Learning projects
+Enhancing Cortana User Experience Using Machine Learning Machine Learning projects
+Who Matters Machine Learning projects
+Predicting Heart Attacks Machine Learning projects
+Predicting Seizures in Intracranial EEG Recordings Machine Learning projects
+tructural Health Monitoring in Extreme Events from Machine Learning Perspective Machine Learning projects
+On-line Kernel Learning for Active Sensor Networks Machine Learning projects
+ECommerce Sales Prediction Using Listing Keywords Machine Learning projects
+Review Scheduling for Maximum Long-Term Retention of Knowledge Machine Learning projects
+Adaptive Spaced Repetition Machine Learning projects
+Do a Barrel Roll Machine Learning projects
+Oil Field Production using Machine Learning Machine Learning projects
+Predicting Success for Musical Artists through Network and Quantitative Data Machine Learning projects
+Better Models for Prediction of Bond Prices Machine Learning projects
+Classifying the Brain 27s Motor Activity via Deep Learning Machine Learning projects
+Prediction of Bike Rentals Machine Learning projects
+Classification of Alzheimer’s Disease Based on White Matter Attributes Machine Learning projects
+MoralMachines- Developing a Crowdsourced Moral Framework for Autonomous Vehicle Decisions Machine Learning projects
+Context Specific Sequence Preference Of DNA Binding Proteins Machine Learning projects
+Predicting Reddit Post Popularity ViaInitial Commentary Machine Learning projects
+Machine Learning for Continuous Human Action Recognition Machine Learning projects
+Predicting Pace Based on Previous Training Runs Machine Learning projects
+Probabilistic Driving Models and Lane Change Prediction Machine Learning projects
+Multiple Sensor Indoor Mapping Using a Mobile Robot Machine Learning projects
+Bone Segmentation MRI Scans Machine Learning projects
+#Rechorder Anticipating Music Motifs In Real Time Machine Learning projects
+Prediction and Classification of Cardiac Arrhythmia Machine Learning projects
+Predicting DJIA Movements from the Fluctuation of a Subset of Stocks Machine Learning projects
+Sentiment Analysis for Hotel Reviews Machine Learning projects
+Mood Detection with Tweets Machine Learning projects
+Comparison of Machine Learning Techniques for Magnetic Resonance Image Analysis Machine Learning projects
+Object Recognition in Images Machine Learning projects
+3D Scene Retrieval from Text Machine Learning projects
+Predicting Breast Cancer Survival Using Treatment and Patient Factors Machine Learning projects
+Parking Occupancy Prediction and Pattern Analysis Machine Learning projects
+Supervised DeepLearning For MultiClass Image Classification Machine Learning projects
+User Behaviors Across Domains Machine Learning projects
+Seizure forecasting Machine Learning projects
+Stock Trend Prediction with Technical Indicators using SVM Machine Learning projects
+Predicting Usefulness of Yelp Reviews Machine Learning projects
+Multiclass Classifier Building with Amazon Data to Classify Customer Reviews into Product Categories Machine Learning projects
+An Energy Efficient Seizure Prediction Algorithm Machine Learning projects
+Classifier Comparisons On Credit Approval Prediction Machine Learning projects
+Appliance Based Model for Energy Consumption Segmentation Machine Learning projects
+analysis on 1s1r array Machine Learning projects
+Phishing Detection System Using Machine Learning a
+Self Driving car project using Machine Learning
+OpenCV Python Neural Network Autonomous RC C
+Stock prediction using sentimental analysis – Machine Learning projects
+Illness Tracker | Final Year Project
+machine learning neural network JAVA PROJECTS
+Credit Card Fraud Detection Using Neural Network
+Detecting Phishing Websites using Machine Learning Technique
+Machine Learning Final Project: Classification of Neural Responses to Threat
+A Computer Aided Diagnosis System for Lung Cancer Detection using Machine
+Prediction of Diabetes and cancer using SVM
+Efficient Heart Disease Prediction System
+```
+
 
 
 
