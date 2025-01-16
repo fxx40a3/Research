@@ -12513,601 +12513,315 @@ Efficient Heart Disease Prediction System
 
 
 
-
 34
 Worldwide Billionaires Analysis
+```
 https://thecleverprogrammer.com/2021/06/24/billionaires-analysis-with-python/
+```
 
 35
 Unemployment Analysis
+```
 https://thecleverprogrammer.com/2021/07/12/unemployment-analysis-with-python/
+```
 
 36
 Car Price Prediction Model
+```
 https://thecleverprogrammer.com/2021/08/04/car-price-prediction-with-machine-learning/
+```
 
 37
 Spam Detection
+```
 https://thecleverprogrammer.com/2021/06/27/spam-detection-with-machine-learning/
+```
 
 38
 Count Objects in Image
+```
 https://thecleverprogrammer.com/2021/05/11/count-objects-in-image-using-python/
+```
 
 39
 WhatsApp Chats Sentiment Analysis
+```
 https://thecleverprogrammer.com/2021/06/06/whatsapp-chat-sentiment-analysis-using-python/
+```
 
 40
 WhatsApp Chats Analysis
+```
 https://thecleverprogrammer.com/2021/04/09/whatsapp-chat-analysis-with-python/
+```
 
 41
 Microsoft Stock Price Prediction
+```
 https://thecleverprogrammer.com/2021/06/21/microsoft-stock-price-prediction-with-machine-learning/
+```
 
 42
 Covid-19 Vaccine Analysis
+```
 https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
+```
 
 43
 Video Game Sales Prediction Model
+```
 https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/
+```
 
 44
 Student Grades Prediction Model
+```
 https://thecleverprogrammer.com/2021/04/16/student-grades-prediction-with-machine-learning/
+```
 
 45
 Saving a Machine Learning Model
+```
 https://thecleverprogrammer.com/2021/05/13/how-to-save-a-machine-learning-model/
+```
 
 46
 Uber Trips Analysis
+```
 https://thecleverprogrammer.com/2021/04/21/uber-trips-analysis-using-python/
+```
 
 47
 Google Search Analysis
+```
 https://thecleverprogrammer.com/2021/04/27/google-search-analysis-with-python/
+```
 
 48
 Tesla Stock Price Prediction Model
+```
 https://thecleverprogrammer.com/2021/03/27/tesla-stock-price-prediction-with-machine-learning/
+```
 
 49
 Financial Budget Analysis
+```
 https://thecleverprogrammer.com/2021/04/05/financial-budget-analysis-with-python/
+```
 
 50
 Click-Through Rate Prediction Model
+```
 https://thecleverprogrammer.com/2021/01/24/click-through-rate-prediction-with-machine-learning/
+```
 
 51
 Interactive Language Translator
-https://thecleverprogrammer.com/2021/04/02/language-translator-using-python/
+```
+/https://thecleverprogrammer.com/2021/04/02/language-translator-using-python
+```
+```
 
 52
 Language Detection
+```
 https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
+```
 
 53
 Create a Chatbot with Python
+```
 https://thecleverprogrammer.com/2021/03/25/chatbot-using-python/
+```
 
 54
 Best Streaming Service Analysis
+```
 https://thecleverprogrammer.com/2021/01/21/best-streaming-service-analysis-with-python/
+```
 
 55
 Data Science Project on President Height
+```
 https://thecleverprogrammer.com/2020/05/08/data-science-project-on-president-heights/
+```
 
 56
 Data Science Project on Birth Rate Analysis
+```
 https://thecleverprogrammer.com/2020/05/08/data-science-project-on-birth-rate-analysis/
+```
 
 57
 Data Science Project on Time Series
+```
 https://thecleverprogrammer.com/2020/05/08/data-science-project-on-time-series/
+```
 
 58
 Data Science Project on Area and Population
+```
 https://thecleverprogrammer.com/2020/05/09/data-science-project-on-area-and-population/
+```
 
 59
 A Complete Machine Learning Project Walkthrough
+```
 https://thecleverprogrammer.com/2020/12/18/machine-learning-project-walkthrough-with-python/
+```
 
 60
 Text Summarization
+```
 https://thecleverprogrammer.com/2020/12/31/text-summarization-with-python/
+```
 
 61
 Keyword Extraction
+```
 https://thecleverprogrammer.com/2021/02/07/extract-keywords-using-python/
+```
 
 62
 Data Science Projects on Finance
+```
 https://thecleverprogrammer.com/2021/06/02/data-science-projects-on-finance/
+```
 
 63
 Data Science Projects on Marketing
+```
 https://thecleverprogrammer.com/2021/05/30/data-science-projects-on-marketing/
+```
 
 64
 End to end Machine Learning Projects
+```
 https://thecleverprogrammer.com/2021/06/21/machine-learning-projects-with-source-code/
+```
 
 65
 Machine Learning Projects on Binary Classification
+```
 https://thecleverprogrammer.com/2021/08/29/machine-learning-projects-on-binary-classification/
+```
 
 66
 Data Science Projects Based on Domains
+```
 https://thecleverprogrammer.com/2021/08/14/data-science-projects-based-on-domains/
+```
 
 67
 Sarcasm Detection
+```
 https://thecleverprogrammer.com/2021/08/24/sarcasm-detection-with-machine-learning/
+```
 
 68
 Social Media Followers Prediction
+```
 https://thecleverprogrammer.com/2021/08/09/social-media-followers-prediction-with-machine-learning/
+```
 
 69
 Amazon Product Reviews Sentiment Analysis
+```
 https://thecleverprogrammer.com/2021/07/20/amazon-product-reviews-sentiment-analysis-with-python/
+```
 
 70
 Hate Speech Detection
+```
 https://thecleverprogrammer.com/2021/07/25/hate-speech-detection-with-machine-learning/
+```
 
 71
 End-to-end Hate Speech Detection System
+```
 https://thecleverprogrammer.com/2021/07/30/end-to-end-hate-speech-detection-with-python/
+```
 
 72
 End-to-end Fake News Detection System
+```
 https://thecleverprogrammer.com/2021/07/09/end-to-end-fake-news-detection-with-python/
+```
 
 73
 End-to-end Spam Detection System
+```
 https://thecleverprogrammer.com/2021/07/06/end-to-end-spam-detection-with-python/
+```
 
 74
 Hotel Reviews Sentiment Analysis
+```
 https://thecleverprogrammer.com/2021/07/03/hotel-reviews-sentiment-analysis-with-python/
+```
 
 75
 Real-time Gender Detection System
+```
 https://thecleverprogrammer.com/2021/06/18/real-time-gender-detection-using-python/
+```
 
 76
 Dogecoin Price Prediction
+```
 https://thecleverprogrammer.com/2021/05/25/dogecoin-price-prediction-with-machine-learning/
+```
 
 77
 Google Play Store Sentiment Analysis
+```
 https://thecleverprogrammer.com/2021/05/31/google-play-store-sentiment-analysis-using-python/
+```
 
 78
 Amazon Alexa Reviews Sentiment Analysis
+```
 https://thecleverprogrammer.com/2021/06/12/amazon-alexa-reviews-sentiment-analysis-using-python/
+```
 
 79
 Social Media Ads Classification
+```
 https://thecleverprogrammer.com/2021/06/15/social-media-ads-classification-with-machine-learning/
+```
 
 80
 Fake News Detection
+```
 https://thecleverprogrammer.com/2021/06/30/fake-news-detection-with-machine-learning/
+```
 
 81
 End-to-End Machine Learning Model
+```
 https://thecleverprogrammer.com/2021/06/03/end-to-end-machine-learning-model/
+```
 
 82
 Gender Detection
+```
 https://thecleverprogrammer.com/2021/05/15/gender-detection-with-machine-learning/
-
-83
-Sales Prediction
-https://thecleverprogrammer.com/2021/05/19/sales-prediction-with-machine-learning/
-
-84
-Currency Exchange Rate Prediction
-https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/
-
-85
-End-to-end Machine Learning Project
-https://thecleverprogrammer.com/2021/03/21/end-to-end-machine-learning-project/
-
-86
-Profit Prediction Model
-https://thecleverprogrammer.com/2021/04/29/profit-prediction-with-machine-learning/
-
-87
-Automatic Time Series Forecasting
-https://thecleverprogrammer.com/2021/04/19/autots-in-python-tutorial/
-
-88
-Ted-Talks Recommendation System
-https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/
-
-89
-Real-time Sentiment Analysis
-https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/
-
-90
-Amazon Recommendation System
-https://thecleverprogrammer.com/2021/03/23/amazon-recommendation-system-using-python/
-
-91
-Mobile Price Classification
-https://thecleverprogrammer.com/2021/03/05/mobile-price-classification-with-machine-learning/
-
-92
-Netflix Data Analysis
-https://thecleverprogrammer.com/2021/01/16/netflix-data-analysis-with-python/
-
-93
-Life Expectancy Analysis
-https://thecleverprogrammer.com/2021/01/06/life-expectancy-analysis-with-python/
-
-94
-Bitcoin Price Prediction
-https://thecleverprogrammer.com/2021/01/05/bitcoin-price-prediction-with-python/
-
-95
-FastAI Model
-https://thecleverprogrammer.com/2021/01/22/fastai-in-machine-learning/
-
-96
-House Price Prediction
-https://thecleverprogrammer.com/2020/12/29/house-price-prediction-with-python/
-
-97
-Real-Time Face Mask Detection
-https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
-
-98
-Netflix Recommendation System
-https://thecleverprogrammer.com/2020/12/26/netflix-recommendation-system-with-python/
-
-99
-Gold Price Prediction
-https://thecleverprogrammer.com/2020/12/23/gold-price-prediction-with-python/
-
-100
-Object Detection
-https://thecleverprogrammer.com/2020/12/22/object-detection-with-python/
-
-101
-Highest-Paid Athletes Analysis
-https://thecleverprogrammer.com/2020/12/21/highest-paid-athletes-analysis-with-python/
-
-102
-Employee Attrition Prediction
-https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/
-
-103
-Next Word Prediction Model
-https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
-
-104
-Age and Gender Detection with Python
-https://thecleverprogrammer.com/2020/10/29/age-and-gender-detection-with-python/
-
-105
-Autocorrect Keyboard with Python and Machine Learning
-https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/
-
-106
-Machine Learning in 5 lines of code
-https://thecleverprogrammer.com/2020/11/07/machine-learning-in-5-lines-with-mindsdb/
-
-107
-Predict US Elections with Python
-https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/
-
-108
-Fake Currency Detection with Machine Learning
-https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-learning/
-
-109
-Predict Tinder Matches with Machine Learning
-https://thecleverprogrammer.com/2020/09/28/predict-tinder-matches-with-machine-learning/
-
-110
-OpenAI Gym in Machine Learning
-https://thecleverprogrammer.com/2020/07/26/openai-gym-in-machine-learning/
-
-111
-Covid 19 Analysis
-https://thecleverprogrammer.com/2020/10/05/covid-19-analysis-with-python/
-
-112
-Analyze ILP Matches
-https://thecleverprogrammer.com/2020/09/23/analyze-ipl-with-python/
-
-113
-Barcode and QR code Reader with Python
-https://thecleverprogrammer.com/2020/10/23/barcode-and-qr-code-reader-with-python/
-
-114
-Extract Text From PDF with Python
-https://thecleverprogrammer.com/2020/10/06/extract-text-from-pdf-using-python/
-
-115
-Predict Car Prices
-https://thecleverprogrammer.com/2020/09/21/predict-car-prices-with-machine-learning/
-116
-Fraud Detection with Machine Learning
-https://thecleverprogrammer.com/2020/08/04/fraud-detection-with-machine-learning/
-
-117
-Topic Modeling with Python
-https://thecleverprogrammer.com/2020/10/24/topic-modeling-with-python/
-
-118
-WhatsApp Group Chat Analysis
-https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/
-
-119
-Translate Languages Using Python
-https://thecleverprogrammer.com/2020/08/10/translate-using-python/
-
-120
-Network Security Analysis
-https://thecleverprogrammer.com/2020/08/12/network-security-with-machine-learning/
-
-121
-Bar Chart Race with Python
-https://thecleverprogrammer.com/2020/08/14/bar-chart-race-with-python/
-
-122
-Keyword Research with Python
-https://thecleverprogrammer.com/2020/08/14/keyword-research-with-python/
-
-123
-Fashion Recommendation System
-https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/
-
-124
-Face Detection with Python
-https://thecleverprogrammer.com/2020/10/09/face-detection-with-python/
-
-125
-Telegram Bot with Python
-https://thecleverprogrammer.com/2020/08/18/telegram-bot-with-python/
-
-126
-Handwriting Recognition
-https://thecleverprogrammer.com/2020/10/10/handwriting-recognition-with-python/
-
-127
-Hate Speech Detection Model
-https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/
-
-128
-Build Instagram Filters with Python
-https://thecleverprogrammer.com/2020/09/24/instagram-filters-with-python/
-
-129
-Contact Tracing with Machine Learning
-https://thecleverprogrammer.com/2020/08/20/contact-tracing-with-machine-learning/
-
-Language Classification with Machine Learning
-https://thecleverprogrammer.com/2021/10/30/language-detection-with-machine-learning/
-
-Titanic Survival Analysis
-https://thecleverprogrammer.com/2020/08/25/titanic-survival-with-machine-learning/
-
-Image Recognition with PyTorch
-https://thecleverprogrammer.com/2020/08/26/image-recognition-with-machine-learning-using-pytorch/
-
-133
-Time Series with LSTM Model
-https://thecleverprogrammer.com/2020/08/29/time-series-with-lstm-in-machine-learning/
-
-134
-Image Classification with TensorFlow
-https://thecleverprogrammer.com/2020/08/30/image-classification-with-tensorflow-in-machine-learning/
-
-135
-Text Classification with TensorFlow
-
-
-136
-Ridge and Lasso Regression
-https://thecleverprogrammer.com/2020/10/09/ridge-and-lasso-regression-with-python/
-
-137
-Predict Fuel Efficiency
-https://thecleverprogrammer.com/2020/09/02/predict-fuel-efficiency-with-machine-learning/
-
-138
-Build Neural Network with Python Code
-https://thecleverprogrammer.com/2020/09/07/neural-network-with-python-code/
-
-139
-Genetic Algorithm with Python
-https://thecleverprogrammer.com/2020/09/08/genetic-algorithm-with-python/
-
-140
-Analyze Healthcare Data
-https://thecleverprogrammer.com/2020/09/09/analyze-healthcare-data-with-python/
-
-141
-Data Science Project on Text and Annotations
-https://thecleverprogrammer.com/2020/05/09/data-science-project-on-text-and-annotations/
-
-142
-Data Science Project — Stock Price Prediction with Machine Learning
-https://thecleverprogrammer.com/2020/05/11/data-science-project-stock-price-prediction-with-machine-learning/
-
-143
-Data Science Project on — Classification of Text
-https://thecleverprogrammer.com/2020/05/14/data-science-project-on-classification-of-text/
-
-144
-Data Science Project on-Extracting HOG Features
-https://thecleverprogrammer.com/2020/05/15/data-science-project-on-extracting-hog-features/
-
-145
-Data Science Project — Email spam Detection with Machine Learning
-https://thecleverprogrammer.com/2020/05/17/data-science-project-email-spam-detection-with-machine-learning/
-
-146
-Data Science Project — Heart Disease Prediction with Machine
-https://thecleverprogrammer.com/2020/05/20/data-science-project-heart-disease-prediction-with-machine-learning/
-
-147
-Data Science Project — Movie Recommendation System
-https://thecleverprogrammer.com/2020/05/20/data-science-project-movie-recommendation-system/
-
-148
-Data Science Project — Student Performance Analysis with Machine Learning
-https://thecleverprogrammer.com/2020/05/21/data-science-project-student-performance-analysis-with-machine-learning/
-
-149
-Data science project — Fake News Classification
-https://thecleverprogrammer.com/2020/05/22/data-science-project-fake-news-classification/
-
-150
-Data Science Project — Bitcoin Price Prediction with Machine Learning
-https://thecleverprogrammer.com/2020/05/23/data-science-project-bitcoin-price-prediction-with-machine-learning/
-
-151
-Machine Learning Project — Artificial Neural Networks
-https://thecleverprogrammer.com/2020/05/24/machine-learning-project-artificial-neural-networks/
-
-152
-Credit Card Fraud Detection with Machine Learning
-https://thecleverprogrammer.com/2020/06/10/credit-card-fraud-detection-with-machine-learning/
-
-153
-SMS Spam Detection with Machine Learning
-https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/
-
-154
-Time Series Forecasting with ARIMA Model
-https://thecleverprogrammer.com/2020/07/01/time-series-analysis-and-forecasting-with-python/
-
-155
-Natural Language Processing on WhatsApp Chats
-https://thecleverprogrammer.com/2020/07/16/nlp-for-whatsapp-chats/
-
-156
-Fake News Detection Model
-https://thecleverprogrammer.com/2020/07/18/fake-news-detection-model/
-
-157
-Image Classification with Artificial Neural Networks
-https://thecleverprogrammer.com/2020/07/19/image-classification-with-ann/
-
-158
-Binary Classification Model
-https://thecleverprogrammer.com/2020/07/20/binary-classification-model/
-
-159
-Image Filtering with Machine Learning
-https://thecleverprogrammer.com/2020/07/25/image-filtering-with-machine-learning/
-
-160
-WhatsApp Group Chat Analysis
-https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/
-
-161
-Data Science Projects on Finance
-https://thecleverprogrammer.com/2021/06/02/data-science-projects-on-finance/
-
-162
-Data Science Projects on Marketing
-https://thecleverprogrammer.com/2021/05/30/data-science-projects-on-marketing/
-
-163
-End to end Machine Learning Projects
-https://thecleverprogrammer.com/2021/06/21/machine-learning-projects-with-source-code/
-
-164
-Machine Learning Projects on Binary Classification
-https://thecleverprogrammer.com/2021/08/29/machine-learning-projects-on-binary-classification/
-
-165
-Data Science Projects Based on Domains
-https://thecleverprogrammer.com/2021/08/14/data-science-projects-based-on-domains/
-
-166
-Microsoft Stock Price Prediction
-https://thecleverprogrammer.com/2021/06/21/microsoft-stock-price-prediction-with-machine-learning/
-
-167
-Covid-19 Vaccine Analysis
-https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
-
-168
-Video Game Sales Prediction Model
-https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/
-
-169
-Language Detection
-https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
-
-170
-Create a Chatbot with Python
-https://thecleverprogrammer.com/2021/03/25/chatbot-using-python/
-
-171
-Best Streaming Service Analysis
-https://thecleverprogrammer.com/2021/01/21/best-streaming-service-analysis-with-python/
-
-172
-Data Science Project on President Heights
-https://thecleverprogrammer.com/2020/05/08/data-science-project-on-president-heights/
-
-173
-Data Science Project on Birth Rate Analysis
-https://thecleverprogrammer.com/2020/05/08/data-science-project-on-birth-rate-analysis/
-
-174
-Movie Rating Analysis for Beginners
-https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/
-
-175
-Number of Orders Prediction
-https://thecleverprogrammer.com/2021/09/27/number-of-orders-prediction-with-machine-learning/
-
-176
-Apple Stock Price Prediction
-https://thecleverprogrammer.com/2021/09/08/apple-stock-price-prediction-with-machine-learning/
-
-177
-Click-Through Rate Prediction Model
-https://thecleverprogrammer.com/2021/01/24/click-through-rate-prediction-with-machine-learning/
-
-178
-Interactive Language Translator
-https://thecleverprogrammer.com/2021/04/02/language-translator-using-python/
-
-179
-Language Detection
-https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
-
-180
-Sarcasm Detection
-https://thecleverprogrammer.com/2021/08/24/sarcasm-detection-with-machine-learning/
-
+```
 82 
 Amazing Hackthon Project Collection 
+```
 https://github.com/analyticsindiamagazine/MachineHack/tree/master/Hackathon_Solutions
+```
 
 83 
 Awesome NLP Project Ideas 
+```
 https://nirantk.com/awesome-project-ideas/
+```
 
 84 
 12 NLP Projects 
+```
 https://github.com/gaoisbest/NLP-Projects
 
 0_Word2vec
@@ -13124,12 +12838,10 @@ https://github.com/gaoisbest/NLP-Projects
 8_Information_extraction
 9_Knowledge_graph
 
-85 
-Advance NLP Projects 
-https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0
+```
 
-86 
 6 Amazing NLP Projects 
+```
 https://github.com/anujvyas/Natural-Language-Processing-Projects
 
 Fake News Classification
@@ -13139,211 +12851,159 @@ Movies Genre Classification
 Sentiment Analysis - Dow Jones (DJIA) Stock using News Headlines
 Sentiment Analysis - Restaurant Reviews
 Spam SMS Classification
+```
 
 87 
 NLP Beginner Projects 
+```
 https://github.com/positivepeng/nlp-beginner-projects
+```
 
 88 
 Paper with Code by PwC Collection 
+```
 https://github.com/zziz/pwc
+```
 
 89 
 SOTA Models(State of the Art Results) 
+```
 https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
+```
 
 90 
 Best AI Papers 
+```
 https://github.com/louisfb01/Best_AI_paper_2020
+```
 
 91 
 Generative Adversarial nets 
+```
 https://github.com/zhangqianhui/AdversarialNetsPapers
+```
 
 92 
 Computer Vision Paper with Code 
+```
 https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo
+```
 
 93 
 NILMS Paper with code 
+```
 https://github.com/klemenjak/nilm-papers-with-code
+```
 
 94 
 3D Computer Vision Research Projects 
+```
 https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision
+```
 
 95 
 NLP and Computer Vision Project Collection 
+```
 https://github.com/NELSONZHAO/zhihu
+```
 
 96 
 Udacity Collection of Computer Vision Projects 
+```
 https://github.com/Bjarten/computer-vision-ND
+```
 
 97 
 Zero to Hero Tensorflow Tutorial 
+```
 https://github.com/mrdbourke/tensorflow-deep-learning
+```
 
 98 
 Deep learning in Production 
+```
 https://github.com/The-AI-Summer/Deep-Learning-In-Production
+```
 
 99 
 GANs Collection 
+```
 https://github.com/The-AI-Summer/GANs-in-Computer-Vision
+```
 
 100 
 Time Series Projects Code 
+```
 https://github.com/deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-"
+```
 
 101 
 12 Machine learning Object Detection 
+```
 https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37
-
-Flower Recognition
-https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/
-
-Google Landmark Detection Model
-https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/
-
-Face Detection
-https://thecleverprogrammer.com/2020/10/09/face-detection-with-python/
-
-Deepfake Detection
+```
 
 
-Fake Currency Detection
-https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-learning/
-
-Colour Recognition
-https://thecleverprogrammer.com/2020/09/14/colour-recognition-with-python/
-
-Image Recognition
-
-
-Named Entity Recognition
-https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/
-
-Face Landmarks Detection
-https://thecleverprogrammer.com/2020/07/22/face-landmarks-detection/
-
-Object Detection with Yolo and TensorFlow
-https://thecleverprogrammer.com/2020/06/12/object-detection-with-deep-learning-using-yolo-and-tensorflow/
-
-Human Activity Recognition Model
-https://thecleverprogrammer.com/2020/05/27/human-activity-recognition-using-smartphone-data-with-machine-learning/
-
-102 
-20 NLP Project with Python 
-https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
-
-Resume Screening with Python
-https://thecleverprogrammer.com/2020/12/06/resume-screening-with-python/
-
-Named Entity Recognition with Python
-https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/
-
-Sentiment Analysis with Python
-https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/
-
-Keyword Extraction with Python
-https://thecleverprogrammer.com/2020/12/01/keyword-extraction-with-python/
-
-Spelling Correction Model with Python
-https://thecleverprogrammer.com/2020/11/30/correct-spellings-with-python/
-
-Keyboard Autocorrection Model
-https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/
-
-Election Results Prediction by analyzing Tweets
-https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/
-
-NLP for Other languages
-https://thecleverprogrammer.com/2020/09/09/nlp-for-other-languages-with-machine-learning/
-
-Text Classification using Deep Learning
-
-
-Summarize Text with Machine Learning
-https://thecleverprogrammer.com/2020/08/24/summarize-text-with-machine-learning/
-
-Hate Speech Detection Model
-https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/
-
-Keyword Research with Python
-https://thecleverprogrammer.com/2020/08/14/keyword-research-with-python/
-
-Whatsapp Group Chat Analysis
-https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/
-
-Next Word Prediction Model
-https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
-
-Fake News detection Model
-https://thecleverprogrammer.com/2020/07/18/fake-news-detection-model/
-
-NLP for Whatsapp Chats
-https://thecleverprogrammer.com/2020/07/16/nlp-for-whatsapp-chats/
 
 Twitter Sentiment Analysis
+```
 https://thecleverprogrammer.com/2020/06/13/twitter-sentiment-analysis/
-
-SMS Spam Detection Model
-https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/
-
-Movie Reviews Sentiment analysis
-https://thecleverprogrammer.com/2020/05/25/movie-reviews-sentiment-analysis-binary-classification-with-machine-learning/
-
-Amazon Product Reviews Sentiment Analysis
-https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/
+```
 
 103 
 Learning Material for Deep Learning, ML, Computer Vision and NLP 
+```
 https://github.com/kmario23/deep-learning-drizzle
-
-
-Image Classification  
+```
 
 Image Segmentation
+```
 https://www.geeksforgeeks.org/image-segmentation-using-k-means-clustering/
+```
 
 Lesion Segmentation  
 Lung Nodule Segmentation  
 Medical Image Classification  
 
 Medical Image Segmentation  
+```
 https://www.kaggle.com/datasets?search=Medical+Image+Segmentation
+```
 
 Retinal Vessel Segmentation
+```
 https://www.kaggle.com/datasets?search=Retinal+Vessel+Segmentation
-Segmentation  
+```
 
 Semantic Segmentation  
+```
 https://www.kaggle.com/datasets?search=semantic+segmentation
 https://www.kaggle.com/code/bulentsiyah/deep-learning-based-semantic-segmentation-keras
+```
 
 
 Skin Cancer Segmentation
+```
 https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification/code
+```
 
+```
 https://www.kaggle.com/code/mostafaessam33/skin-cancer-segmentation/notebook
 https://www.kaggle.com/code/nguyntrngkhnh/final-project-deep-learning/notebook
 https://www.kaggle.com/code/ahmedmoneimm/pr-assign-2
 https://www.kaggle.com/code/rohan0000099/skin-cancer-segmentation-using-unet/notebook
+```
 
 skin_cancer_detection_webapp
+```
 https://github.com/samtuleen/skin-cancer-image-classification/blob/main/reports/notebook.ipynb
 https://github.com/sid321axn/skin_cancer_detection_webapp/tree/master
+```
 
 
-Drone
-Drone
-Drone Programming With Computer Vision A Beginners Guide
-https://learnopencv.com/drone-programming-with-computer-vision/
-https://github.com/spmallick/learnopencv/tree/master/Drone-Programming-With-Computer-Vision-A-Beginners-Guide
+DRONE Technology
 
-drone
-
+```
 Become a DJI Developer
 https://developer.dji.com/
 
@@ -13376,50 +13036,47 @@ Single_Tello_Test, Tello_Video, and Tello_Video (With_Pose_Recognition). Tello_s
 https://github.com/dji-sdk/Tello-Python
 https://tellopilots.com/threads/recording-storing-video-stream-using-python.3807/
 
-https://github.com/hanyazou/TelloPy
-
-DJITelloEDUPython: https://github.com/PerfecXX/DJITelloEDUPython
+DJITelloEDUPython
+https://github.com/PerfecXX/DJITelloEDUPython
 
 Drone Programming With Python Course | 3 Hours | Including x4 Projects | Computer Vision
 https://www.youtube.com/watch?v=LmEcyQnfpDA
 
-tello-tracking: https://github.com/msoftware/tello-tracking
+tello-tracking
+https://github.com/msoftware/tello-tracking
 
 DJITelloPy Drone Coding
 https://learn.droneblocks.io/p/djitellopy
-https://github.com/dbaldwin/DroneBlocks-DJITelloPy-Tutorial
-Course Curriculum Available
 
 https://github.com/dawsonc/tello-x
 
-important article: https://jckantor.github.io/CBE30338/B.02-Visual-Tracking-of-an-Object-with-a-Drone.html
 
-Taking Pictures with Tello Drones using Python and OpenCV | Save as .png file | Programming Tutorial
-https://www.youtube.com/watch?v=e-gfODYr8Nc
+Tello Autonomous drone Python
+https://blog.gopenai.com/tello-autonomous-drone-python-dd396c459e86
 
-Tello Autonomous drone Python: https://blog.gopenai.com/tello-autonomous-drone-python-dd396c459e86
-
-Tello Drone for real-time object detection: https://github.com/dp-betalock/DJITelloDrone-YOLOv8
+Tello Drone for real-time object detection
+https://github.com/dp-betalock/DJITelloDrone-YOLOv8
+```
 
 How to Make Tello Drone Capable of Barcode Scanning through Python
+```
 https://yushulx.medium.com/how-to-make-tello-drone-capable-of-barcode-scanning-through-python-d1fa1b4b9fe0
+```
 
 Connecting Tello Drone to Python
+```
 https://community.droneblocks.io/t/connecting-tello-drone-to-python/213
+```
 
-
-https://github.com/cocpy/Tello-Python
-
-Conquering Tello Drone Programming with Python | Flight Automation + Live Video Stream Tutorial 
-https://www.youtube.com/watch?v=HYJ3vcHG4jY
-
-Custom Drone Battery Level Indicator: Python HUD Programming | Design & Development Tutorial
-https://www.youtube.com/watch?v=EoJkH66vpk8
 
 Control Tello Drones with a Game Controller | Drone Programming Tutorial | Python | Tkinter | Inputs
+```
 https://www.youtube.com/watch?v=IqJfxuwADJ8
+```
 
+```
 https://github.com/legsano/DJI-Tello-LineFollowers
+```
 
 book:
 https://www.scribd.com/document/716996123/Drone-Programming-Manual-Module-With-Python
@@ -13478,30 +13135,14 @@ https://www.kaggle.com/code/kumarideepanshi/drone-detection-with-yolov8
 Drone Image Classification Dataset
 https://www.kaggle.com/datasets/balajikartheek/drone-type-classification
 
-
 https://www.kaggle.com/code/lorenzy/dji-drone-cnn-ipynb
+```
 
 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
 
-<meta http-equiv="Content-Style-Type" content="text/css">
-<title></title>
-<meta name="Generator" content="Cocoa HTML Writer">
-<meta name="CocoaVersion" content="2487.7">
-<style type="text/css">
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'}
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; min-height: 15.0px}
-span.s1 {text-decoration: underline}
-span.s2 {font: 13.0px 'PingFang SC'}
-table.t1 {border-collapse: collapse}
-td.td1 {border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #9a9a9a #9a9a9a #9a9a9a #9a9a9a; padding: 1.0px 5.0px 1.0px 5.0px}
-</style>
-</head>
-<body>
+
+
 
 Drone |   |   |  
 -- | -- | -- | --
