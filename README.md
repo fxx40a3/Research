@@ -8520,1535 +8520,2181 @@ https://github.com/spmallick/learnopencv/tree/master/CenterStage
 
 
 Mean Average Precision (mAP) in Object Detection
+```
 https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/
-
+```
 
 
 YOLOv7 Object Detection Paper Explanation and Inference
+```
 https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/
 https://github.com/spmallick/learnopencv/tree/master/YOLOv7-Object-Detection-Paper-Explanation-and-Inference
+```
 
 
 Pothole Detection using YOLOv4 and Darknet
+```
 https://learnopencv.com/pothole-detection-using-yolov4-and-darknet/
 https://github.com/spmallick/learnopencv/tree/master/Pothole-Detection-using-YOLOv4-and-Darknet
+```
 
 
 Automatic Document Scanner using OpenCV
+```
 https://learnopencv.com/automatic-document-scanner-using-opencv/
 https://github.com/spmallick/learnopencv/tree/master/Automatic-Document-Scanner
+```
 
 
 Demystifying GPU architectures for deep learning: Part 2
+```
 https://learnopencv.com/demystifying-gpu-architectures-for-deep-learning-part-2/
 https://github.com/spmallick/learnopencv/tree/master/gpu_arch_and_CUDA
+```
 
 
 Demystifying GPU Architectures For Deep Learning
+```
 https://learnopencv.com/demystifying-gpu-architectures-for-deep-learning/
 https://github.com/spmallick/learnopencv/tree/master/gpu_arch_and_CUDA
+```
 
 
 Intersection-over-Union(IoU)-in-Object-Detection-and-Segmentation
+```
 https://learnopencv.com/intersection-over-unioniou-in-object-detection-and-segmentation/
 https://github.com/spmallick/learnopencv/tree/master/Intersection-over-Union-IoU-in-Object-Detection-and-Segmentation
+```
 
 
 Understanding Multiple Object Tracking using DeepSORT
+```
 https://learnopencv.com/understanding-multiple-object-tracking-using-deepsort/
 https://github.com/spmallick/learnopencv/tree/master/Understanding-Multiple-Object-Tracking-using-DeepSORT
+```
 
 
 Optical Character Recognition using PaddleOCR
+```
 https://learnopencv.com/optical-character-recognition-using-paddleocr/
 https://github.com/spmallick/learnopencv/tree/master/Optical-Character-Recognition-using-PaddleOCR
+```
 
 
 Gesture Control in Zoom Call using Mediapipe
+```
 https://learnopencv.com/gesture-control-in-zoom-call-using-mediapipe/
 https://github.com/spmallick/learnopencv/tree/master/zoom-gestures
+```
 
 
 A Deep Dive into Tensorflow Model Optimization
+```
 https://learnopencv.com/deep-dive-into-tensorflow-model-optimization-toolkit/
 https://github.com/spmallick/learnopencv/tree/master/A-Deep-Dive-into-Tensorflow-Model-Optimization
+```
 
 
 DepthAI Pipeline Overview: Creating a Complex Pipeline
+```
 https://learnopencv.com/depthai-pipeline-overview-creating-a-complex-pipeline/
 https://github.com/spmallick/learnopencv/tree/master/OAK-DepthAi-Pipeline-Overview
+```
 
 
 TensorFlow Lite Model Maker: Create Models for On-Device Machine Learning
+```
 https://learnopencv.com/tensorflow-lite-model-maker-create-models-for-on-device-machine-learning/
 https://github.com/spmallick/learnopencv/tree/master/Tensorflow-Lite-Model-Maker-Create-Models-for-On-Device-ML
+```
 
 
 TensorFlow Lite: Model Optimization for On Device Machine Learning
+```
 https://learnopencv.com/tensorflow-lite-model-optimization-for-on-device-machine-learning
 https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Lite-Model-Optimization-for-On-Device-MachineLearning
+```
 
 
 Object detection with depth measurement using pre-trained models with OAK-D
+```
 https://learnopencv.com/object-detection-with-depth-measurement-with-oak-d/
 https://github.com/spmallick/learnopencv/tree/master/OAK-Object-Detection-with-Depth
+```
 
 
 Custom Object Detection Training using YOLOv5
+```
 https://learnopencv.com/custom-object-detection-training-using-yolov5/
 https://github.com/spmallick/learnopencv/tree/master/Custom-Object-Detection-Training-using-YOLOv5
+```
 
 
 Object Detection using Yolov5 and OpenCV DNN (C++/Python)
+```
 https://learnopencv.com/object-detection-using-yolov5-and-opencv-dnn-in-c-and-python/
 https://github.com/spmallick/learnopencv/tree/master/Object-Detection-using-YOLOv5-and-OpenCV-DNN-in-CPP-and-Python
+```
 
 
 Create Snapchat/Instagram filters using Mediapipe
+```
 https://learnopencv.com/create-snapchat-instagram-filters-using-mediapipe/
 https://github.com/spmallick/learnopencv/tree/master/Create-AR-filters-using-Mediapipe
+```
 
 
+```
 AUTOSAR C++ compliant deep learning inference with TensorRT
+```
 https://learnopencv.com/autosar-c-compliant-deep-learning-inference-with-tensorrt/
 https://github.com/spmallick/learnopencv/tree/master/industrial_cv_TensorRT_cpp
 
 
 NVIDIA GTC 2022 Day 4 Highlights: Meet the new Jetson Orin
+```
 https://learnopencv.com/nvidia-gtc-2022-day-4-highlights-meet-the-new-jetson-orin/
+```
 
 
 
 NVIDIA GTC 2022 Day 3 Highlights: Deep Dive into Hopper architecture
+```
 https://learnopencv.com/nvidia-gtc-2022-day-3-highlights-deep-dive-into-hopper-architecture/
+```
 
 
 
 NVIDIA GTC 2022 Day 2 Highlights: Jensen’s Keynote
+```
 https://learnopencv.com/nvidia-gtc-2022-day-2-highlights/
+```
 
 
 
 NVIDIA GTC 2022 Day 1 Highlights: Brilliant Start
+```
 https://learnopencv.com/gtc-day-1-highlights/
+```
 
 
 
 Automatic License Plate Recognition using Python
+```
 https://learnopencv.com/automatic-license-plate-recognition-using-deep-learning/
 https://github.com/spmallick/learnopencv/tree/master/ALPR
+```
 
 
 Building a Poor Body Posture Detection and Alert System using MediaPipe
+```
 https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/
 https://github.com/spmallick/learnopencv/tree/master/Posture-analysis-system-using-MediaPipe-Pose
+```
 
 
 Introduction to MediaPipe
+```
 https://learnopencv.com/introduction-to-mediapipe/
 https://github.com/spmallick/learnopencv/tree/master/Introduction-to-MediaPipe
+```
 
 
 Disparity Estimation using Deep Learning
+```
 https://learnopencv.com/disparity-estimation-using-deep-learning/
 https://github.com/spmallick/learnopencv/tree/master/Disparity-Estimation-Using-Deep-Learning
+```
 
 
 How to build Chrome Dino game bot using OpenCV Feature Matching
+```
 https://learnopencv.com/how-to-build-chrome-dino-game-bot-using-opencv-feature-matching/
 https://github.com/spmallick/learnopencv/tree/master/Chrome-Dino-Bot-using-OpenCV-feature-matching
+```
 
 
 Top 10 Sources to Find Computer Vision and AI Models
+```
 https://learnopencv.com/top-10-sources-to-find-computer-vision-and-ai-models/
+```
 
 
 
 Multi-Attribute and Graph-based Object Detection
+```
 https://learnopencv.com/multi-attribute-and-graph-based-object-detection/
+```
 
 
 
 Plastic Waste Detection with Deep Learning
+```
 https://learnopencv.com/plastic-waste-detection-with-deep-learning/
 https://github.com/spmallick/learnopencv/tree/master/Plastic-Waste-Detection-with-Deep-Learning
+```
 
 
 Ensemble Deep Learning-based Defect Classification and Detection in SEM Images
+```
 https://learnopencv.com/ensemble-deep-learning-based-defect-classification-and-detection-in-sem-images/
+```
 
 
 
 Building Industrial embedded deep learning inference pipelines with TensorRT
+```
 https://learnopencv.com/building-industrial-embedded-deep-learning-inference-pipelines-with-tensorrt/
 https://github.com/spmallick/learnopencv/tree/master/industrial_cv_TensorRT_python
+```
 
 
 Transfer Learning for Medical Images
+```
 https://learnopencv.com/transfer-learning-for-medical-images/
+```
 
 
 
 Stereo Vision and Depth Estimation using OpenCV AI Kit
+```
 https://learnopencv.com/stereo-vision-and-depth-estimation-using-opencv-ai-kit/
 https://github.com/spmallick/learnopencv/tree/master/oak-getting-started
+```
 
 
 Introduction to OpenCV AI Kit and DepthAI
+```
 https://learnopencv.com/introduction-to-opencv-ai-kit-and-depthai/
 https://github.com/spmallick/learnopencv/tree/master/oak-getting-started
+```
 
 
 WeChat QR Code Scanner in OpenCV
+```
 https://learnopencv.com/wechat-qr-code-scanner-in-opencv
 https://github.com/spmallick/learnopencv/tree/master/WeChat-QRCode-Scanner-OpenCV
+```
 
 
 AI behind the Diwali 2021 ‘Not just a Cadbury ad’
+```
 https://learnopencv.com/ai-behind-the-diwali-2021-not-just-a-cadbury-ad/
+```
 
 
 
 Model Selection and Benchmarking with Modelplace.AI
+```
 https://learnopencv.com/model-selection-and-benchmarking-with-modelplace-ai/
 https://modelplace.ai/
 Model Zoo
+```
 
 
 Real-time style transfer in a zoom meeting
+```
 https://learnopencv.com/real-time-style-transfer-in-a-zoom-meeting/
 https://github.com/spmallick/learnopencv/tree/master/style-transfer-zoom
+```
 
 
 Introduction to OpenVino Deep Learning Workbench
+```
 https://learnopencv.com/introduction-to-openvino-deep-learning-workbench/
 https://github.com/spmallick/learnopencv/tree/master/Introduction-to-OpenVino-Deep-Learning-Workbench
+```
 
 
-https://learnopencv.com/running-openvino-models-on-intel-integrated-gpu/
 Running OpenVino Models on Intel Integrated GPU
+```
+https://learnopencv.com/running-openvino-models-on-intel-integrated-gpu/
 https://github.com/spmallick/learnopencv/tree/master/Running-OpenVino-Models-on-Intel-Integrated-GPU
+```
 
 
-https://learnopencv.com/post-training-quantization-with-openvino-toolkit/
 Post Training Quantization with OpenVino Toolkit
+```
+https://learnopencv.com/post-training-quantization-with-openvino-toolkit/
 https://github.com/spmallick/learnopencv/tree/master/Post-Training-Quantization-with-OpenVino-Toolkit
+```
 
 
-https://learnopencv.com/introduction-to-intel-openvino-toolkit/
 Introduction to Intel OpenVINO Toolkit
+```
+https://learnopencv.com/introduction-to-intel-openvino-toolkit/
+```
 
-
-
-https://learnopencv.com/human-action-recognition-using-detectron2-and-lstm/
 Human Action Recognition using Detectron2 and LSTM
+```
+https://learnopencv.com/human-action-recognition-using-detectron2-and-lstm/
 https://github.com/spmallick/learnopencv/tree/master/Human-Action-Recognition-Using-Detectron2-And-Lstm
+```
 
-
-https://learnopencv.com/paired-image-to-image-translation-pix2pix/
 Pix2Pix:Image-to-Image Translation in PyTorch &amp; TensorFlow
+```
+https://learnopencv.com/paired-image-to-image-translation-pix2pix/
 https://github.com/spmallick/learnopencv/tree/master/Image-to-Image-Translation-with-GAN
+```
 
-
-https://learnopencv.com/conditional-gan-cgan-in-pytorch-and-tensorflow/
 Conditional GAN (cGAN) in PyTorch and TensorFlow
+```
+https://learnopencv.com/conditional-gan-cgan-in-pytorch-and-tensorflow/
 https://github.com/spmallick/learnopencv/tree/master/Conditional-GAN-PyTorch-TensorFlow
+```
 
 
-https://learnopencv.com/deep-convolutional-gan-in-pytorch-and-tensorflow/
 Deep Convolutional GAN in PyTorch and TensorFlow
+```
+https://learnopencv.com/deep-convolutional-gan-in-pytorch-and-tensorflow/
 https://github.com/spmallick/learnopencv/tree/master/Deep-Convolutional-GAN
+```
 
 
-https://learnopencv.com/introduction-to-generative-adversarial-networks/
 Introduction to Generative Adversarial Networks (GANs)
+```
+https://learnopencv.com/introduction-to-generative-adversarial-networks/
 https://github.com/spmallick/learnopencv/tree/master/Intro-to-Generative-Adversarial-Network
+```
 
 
-https://learnopencv.com/human-pose-estimation-using-keypoint-rcnn-in-pytorch/
 Human Pose Estimation using Keypoint RCNN in PyTorch
+```
+https://learnopencv.com/human-pose-estimation-using-keypoint-rcnn-in-pytorch/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-Keypoint-RCNN
+```
 
-
-https://learnopencv.com/non-maximum-suppression-theory-and-implementation-in-pytorch
 Non Maximum Suppression: Theory and Implementation in PyTorch
+```
+https://learnopencv.com/non-maximum-suppression-theory-and-implementation-in-pytorch
 https://github.com/spmallick/learnopencv/tree/master/Non-Maximum-Suppression
-
-
-https://learnopencv.com/mrnet-multitask-approach/
+```
 MRNet – The Multi-Task Approach
+```
+https://learnopencv.com/mrnet-multitask-approach/
 https://github.com/spmallick/learnopencv/tree/master/MRnet-MultiTask-Approach
+```
 
-
-https://learnopencv.com/generative-and-discriminative-models/
 Generative and Discriminative Models
+```
+https://learnopencv.com/generative-and-discriminative-models/
+```
 
-
-
-https://learnopencv.com/playing-chromes-t-rex-game-with-facial-gestures/
 Playing Chrome's T-Rex Game with Facial Gestures
+```
+https://learnopencv.com/playing-chromes-t-rex-game-with-facial-gestures/
 https://github.com/spmallick/learnopencv/tree/master/Playing-Chrome-TRex-Game-with-Facial-Gestures
+```
 
-
-https://learnopencv.com/variational-autoencoder-in-tensorflow/
 Variational Autoencoder in TensorFlow
+```
+https://learnopencv.com/variational-autoencoder-in-tensorflow/
 https://github.com/spmallick/learnopencv/tree/master/Variational-Autoencoder-TensorFlow
+```
 
 
-https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/
 Autoencoder in TensorFlow 2: Beginner’s Guide
+```
+https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/
 https://github.com/spmallick/learnopencv/tree/master/Autoencoder-in-TensorFlow
+```
 
 
-https://learnopencv.com/deep-learning-with-opencvs-dnn-module-a-definitive-guide/
 Deep Learning with OpenCV DNN Module: A Definitive Guide
+```
+https://learnopencv.com/deep-learning-with-opencvs-dnn-module-a-definitive-guide/
 https://github.com/spmallick/learnopencv/tree/master/Deep-Learning-with-OpenCV-DNN-Module
+```
 
 
-https://learnopencv.com/depth-perception-using-stereo-camera-python-c/
 Depth perception using stereo camera (Python/C++)
+```
+https://learnopencv.com/depth-perception-using-stereo-camera-python-c/
 https://github.com/spmallick/learnopencv/tree/master/Depth-Perception-Using-Stereo-Camera
+```
 
 
-https://learnopencv.com/contour-detection-using-opencv-python-c/
 Contour Detection using OpenCV (Python/C++)
+```
+https://learnopencv.com/contour-detection-using-opencv-python-c/
 https://github.com/spmallick/learnopencv/tree/master/Contour-Detection-using-OpenCV
+```
 
 
-https://learnopencv.com/super-resolution-in-opencv/
 Super Resolution in OpenCV
+```
+https://learnopencv.com/super-resolution-in-opencv/
 https://github.com/spmallick/learnopencv/blob/master/Super-Resolution-in-OpenCV
+```
 
 
-https://learnopencv.com/improving-illumination-in-night-time-images/
 Improving Illumination in Night Time Images
+```
+https://learnopencv.com/improving-illumination-in-night-time-images/
 https://github.com/spmallick/learnopencv/tree/master/Improving-Illumination-in-Night-Time-Images
+```
 
 
-https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/
 Video Classification and Human Activity Recognition
+```
+https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/
 https://github.com/spmallick/learnopencv/tree/master/video-classification-and-human-activity-recognition
+```
 
 
-https://learnopencv.com/how-to-use-opencv-dnn-module-with-nvidia-gpu-on-windows
 How to use OpenCV DNN Module with Nvidia GPU on Windows
+```
+https://learnopencv.com/how-to-use-opencv-dnn-module-with-nvidia-gpu-on-windows
 https://github.com/spmallick/learnopencv/tree/master/OpenCV-dnn-gpu-support-Windows
+```
 
 
-https://learnopencv.com/opencv-dnn-with-gpu-support/
 How to use OpenCV DNN Module with NVIDIA GPUs
+```
+https://learnopencv.com/opencv-dnn-with-gpu-support/
 https://github.com/spmallick/learnopencv/tree/master/OpenCV-dnn-gpu-support-Linux
+```
 
 
-https://learnopencv.com/code-opencv-in-visual-studio/
 Code OpenCV in Visual Studio
+```
+https://learnopencv.com/code-opencv-in-visual-studio/
+```
 
 
-
-https://learnopencv.com/install-opencv-on-windows/
 Install OpenCV on Windows – C++ / Python
+```
+https://learnopencv.com/install-opencv-on-windows/
 https://github.com/spmallick/learnopencv/tree/master/Install-OpenCV-Windows-exe
+```
 
-
-https://www.learnopencv.com/face-recognition-with-arcface/
 Face Recognition with ArcFace
+```
+https://www.learnopencv.com/face-recognition-with-arcface/
 https://github.com/spmallick/learnopencv/tree/master/Face-Recognition-with-ArcFace
+```
 
 
-https://www.learnopencv.com/background-subtraction-with-opencv-and-bgs-libraries/
 Background Subtraction with OpenCV and BGS Libraries
+```
+https://www.learnopencv.com/background-subtraction-with-opencv-and-bgs-libraries/
 https://github.com/spmallick/learnopencv/tree/master/Background-Subtraction
+```
 
 
-https://learnopencv.com/optical-flow-using-deep-learning-raft/
 RAFT: Optical Flow estimation using Deep Learning
+```
+https://learnopencv.com/optical-flow-using-deep-learning-raft/
 https://github.com/spmallick/learnopencv/tree/master/Optical-Flow-Estimation-using-Deep-Learning-RAFT
+```
 
 
-https://www.learnopencv.com/making-a-low-cost-stereo-camera-using-opencv/
 Making A Low-Cost Stereo Camera Using OpenCV
+```
+https://www.learnopencv.com/making-a-low-cost-stereo-camera-using-opencv/
 https://github.com/spmallick/learnopencv/tree/master/stereo-camera
+```
 
 
-https://www.learnopencv.com/optical-flow-in-opencv
 Optical Flow in OpenCV (C++/Python)
+```
+https://www.learnopencv.com/optical-flow-in-opencv
 https://github.com/spmallick/learnopencv/tree/master/Optical-Flow-in-OpenCV
+```
 
 
-https://www.learnopencv.com/introduction-to-epipolar-geometry-and-stereo-vision/
 Introduction to Epipolar Geometry and Stereo Vision
+```
+https://www.learnopencv.com/introduction-to-epipolar-geometry-and-stereo-vision/
 https://github.com/spmallick/learnopencv/tree/master/EpipolarGeometryAndStereoVision
+```
 
 
-https://www.learnopencv.com/classification-with-localization/
 Classification With Localization: Convert any keras Classifier to a Detector
+```
+https://www.learnopencv.com/classification-with-localization/
 https://github.com/spmallick/learnopencv/tree/master/Classification-with-localization-convert-any-keras-classifier-into-a-detector/README.md
+```
 
-
-https://www.learnopencv.com/photoshop-filters-in-opencv/
 Photoshop Filters in OpenCV
+```
+https://www.learnopencv.com/photoshop-filters-in-opencv/
 https://github.com/spmallick/learnopencv/tree/master/Photoshop-Filters-in-OpenCV
+```
 
 
-https://www.learnopencv.com/tetris-with-opencv-python
 Tetris Game using OpenCV Python
+```
+https://www.learnopencv.com/tetris-with-opencv-python
 https://github.com/spmallick/learnopencv/tree/master/Tetris
+```
 
 
-https://www.learnopencv.com/image-classification-with-opencv-for-android/
 Image Classification with OpenCV for Android
+```
+https://www.learnopencv.com/image-classification-with-opencv-for-android/
 https://github.com/spmallick/learnopencv/tree/master/DNN-OpenCV-Classification-Android
+```
 
 
-https://www.learnopencv.com/image-classification-with-opencv-java
 Image Classification with OpenCV Java
+```
+https://www.learnopencv.com/image-classification-with-opencv-java
 https://github.com/spmallick/learnopencv/tree/master/DNN-OpenCV-Classification-with-Java
+```
 
 
-https://www.learnopencv.com/pytorch-to-tensorflow-model-conversion/
 PyTorch to Tensorflow Model Conversion
+```
+https://www.learnopencv.com/pytorch-to-tensorflow-model-conversion/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-to-TensorFlow-Model-Conversion
+```
 
 
-https://www.learnopencv.com/snake-game-with-opencv-python/
 Snake Game with OpenCV Python
+```
+https://www.learnopencv.com/snake-game-with-opencv-python/
 https://github.com/spmallick/learnopencv/tree/master/SnakeGame
+```
 
 
-https://www.learnopencv.com/stanford-mrnet-challenge-classifying-knee-mris/
 Stanford MRNet Challenge: Classifying Knee MRIs
+```
+https://www.learnopencv.com/stanford-mrnet-challenge-classifying-knee-mris/
 https://github.com/spmallick/learnopencv/tree/master/MRNet-Single-Model
+```
 
 
-https://www.learnopencv.com/experiment-logging-with-tensorboard-and-wandb
 Experiment Logging with TensorBoard and wandb
+```
+https://www.learnopencv.com/experiment-logging-with-tensorboard-and-wandb
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-Vision-Experiment-Logging
+```
 
 
-https://www.learnopencv.com/understanding-lens-distortion/
 Understanding Lens Distortion
+```
+https://www.learnopencv.com/understanding-lens-distortion/
 https://github.com/spmallick/learnopencv/tree/master/UnderstandingLensDistortion
+```
 
 
-https://www.learnopencv.com/image-matting-with-state-of-the-art-method-f-b-alpha-matting/
 Image Matting with state-of-the-art Method “F, B, Alpha Matting”
+```
+https://www.learnopencv.com/image-matting-with-state-of-the-art-method-f-b-alpha-matting/
 https://github.com/spmallick/learnopencv/tree/master/FBAMatting
+```
 
 
-https://www.learnopencv.com/bag-of-tricks-for-image-classification-lets-check-if-it-is-working-or-not/
 Bag Of Tricks For Image Classification - Let's check if it is working or not
+```
+https://www.learnopencv.com/bag-of-tricks-for-image-classification-lets-check-if-it-is-working-or-not/
 https://github.com/spmallick/learnopencv/tree/master/Bag-Of-Tricks-For-Image-Classification
+```
 
 
-https://www.learnopencv.com/getting-started-opencv-cuda-module/
 Getting Started with OpenCV CUDA Module
+```
+https://www.learnopencv.com/getting-started-opencv-cuda-module/
 https://github.com/spmallick/learnopencv/tree/master/Getting-Started-OpenCV-CUDA-Module
+```
 
 
-https://www.learnopencv.com/training-a-custom-object-detector-with-dlib-making-gesture-controlled-applications/
 Training a Custom Object Detector with DLIB &amp; Making Gesture Controlled Applications
+```
+https://www.learnopencv.com/training-a-custom-object-detector-with-dlib-making-gesture-controlled-applications/
 https://github.com/spmallick/learnopencv/tree/master/Training_a_custom_hand_detector_with_dlib
+```
 
 
-https://www.learnopencv.com/how-to-run-inference-using-tensorrt-c-api/
 How To Run Inference Using TensorRT C++ API
+```
+https://www.learnopencv.com/how-to-run-inference-using-tensorrt-c-api/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-ONNX-TensorRT-CPP
+```
 
 
-https://www.learnopencv.com/using-facial-landmarks-for-overlaying-faces-with-masks/
 Using Facial Landmarks for Overlaying Faces with Medical Masks
+```
+https://www.learnopencv.com/using-facial-landmarks-for-overlaying-faces-with-masks/
 https://github.com/spmallick/learnopencv/tree/master/FaceMaskOverlay
+```
 
 
-https://www.learnopencv.com/tensorboard-with-pytorch-lightning
 Tensorboard with PyTorch Lightning
+```
+https://www.learnopencv.com/tensorboard-with-pytorch-lightning
 https://github.com/spmallick/learnopencv/tree/master/TensorBoard-With-Pytorch-Lightning
+```
 
 
-https://www.learnopencv.com/otsu-thresholding-with-opencv/
 Otsu's Thresholding with OpenCV
+```
+https://www.learnopencv.com/otsu-thresholding-with-opencv/
 https://github.com/spmallick/learnopencv/tree/master/otsu-method
+```
 
 
-https://www.learnopencv.com/pytorch-to-coreml-model-conversion/
 PyTorch-to-CoreML-model-conversion
+```
+https://www.learnopencv.com/pytorch-to-coreml-model-conversion/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-to-CoreML-model-conversion
+```
 
 
-https://www.learnopencv.com/playing-rock-paper-scissors-with-ai/
 Playing Rock, Paper, Scissors with AI
+```
+https://www.learnopencv.com/playing-rock-paper-scissors-with-ai/
 https://github.com/spmallick/learnopencv/tree/master/Playing-rock-paper-scissors-with-AI
+```
 
 
-https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop-with-tensorflow/
 CNN Receptive Field Computation Using Backprop with TensorFlow
+```
+https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop-with-tensorflow/
 https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Receptive-Field-With-Backprop
+```
 
 
-https://www.learnopencv.com/cnn-fully-convolutional-image-classification-with-tensorflow
 CNN Fully Convolutional Image Classification with TensorFlow
+```
+https://www.learnopencv.com/cnn-fully-convolutional-image-classification-with-tensorflow
 https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Fully-Convolutional-Image-Classification
+```
 
 
-https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/
 How to convert a model from PyTorch to TensorRT and speed up inference
+```
+https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-ONNX-TensorRT
+```
 
 
-https://www.learnopencv.com/efficient-image-loading/
 Efficient image loading
+```
+https://www.learnopencv.com/efficient-image-loading/
 https://github.com/spmallick/learnopencv/tree/master/Efficient-image-loading
+```
 
 
-https://www.learnopencv.com/graph-convolutional-networks-model-relations-in-data/
 Graph Convolutional Networks: Model Relations In Data
+```
+https://www.learnopencv.com/graph-convolutional-networks-model-relations-in-data/
 https://github.com/spmallick/learnopencv/tree/master/Graph-Convolutional-Networks-Model-Relations-In-Data
+```
 
 
-https://www.learnopencv.com/federated-learning-using-pytorch-and-pysyft/
 Getting Started with Federated Learning with PyTorch and PySyft
+```
+https://www.learnopencv.com/federated-learning-using-pytorch-and-pysyft/
 https://github.com/spmallick/learnopencv/tree/master/Federated-Learning-Intro
+```
 
 
-http://www.learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/
 Creating a Virtual Pen &amp; Eraser
+```
+http://www.learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/
 https://github.com/spmallick/learnopencv/tree/master/Creating-a-Virtual-Pen-and-Eraser
+```
 
 
-https://www.learnopencv.com/getting-started-with-pytorch-lightning/
 Getting Started with PyTorch Lightning
+```
+https://www.learnopencv.com/getting-started-with-pytorch-lightning/
 https://github.com/spmallick/learnopencv/tree/master/Pytorch-Lightning
+```
 
 
-https://www.learnopencv.com/multi-label-image-classification-with-pytorch-image-tagging/
 Multi-Label Image Classification with PyTorch: Image Tagging
+```
+https://www.learnopencv.com/multi-label-image-classification-with-pytorch-image-tagging/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-Multi-Label-Image-Classification-Image-Tagging
+```
 
 
-https://www.learnopencv.com/Funny-Mirrors-Using-OpenCV/
 Funny Mirrors Using OpenCV
+```
+https://www.learnopencv.com/Funny-Mirrors-Using-OpenCV/
 https://github.com/spmallick/learnopencv/tree/master/FunnyMirrors
+```
 
 
-https://www.learnopencv.com/t-sne-for-feature-visualization/
 t-SNE for ResNet feature visualization
+```
+https://www.learnopencv.com/t-sne-for-feature-visualization/
 https://github.com/spmallick/learnopencv/tree/master/TSNE
+```
 
 
-https://www.learnopencv.com/multi-label-image-classification-with-pytorch/
 Multi-Label Image Classification with Pytorch
+```
+https://www.learnopencv.com/multi-label-image-classification-with-pytorch/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-Multi-Label-Image-Classification
+```
 
 
-https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop/
 CNN Receptive Field Computation Using Backprop
+```
+https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-Receptive-Field-With-Backprop
+```
 
 
-https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop-with-tensorflow/
 CNN Receptive Field Computation Using Backprop with TensorFlow
+```
+https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop-with-tensorflow/
 https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Receptive-Field-With-Backprop
+```
 
 
-https://www.learnopencv.com/augmented-reality-using-aruco-markers-in-opencv-(c++-python)/
 Augmented Reality using AruCo Markers in OpenCV(C++ and Python)
+```
+https://www.learnopencv.com/augmented-reality-using-aruco-markers-in-opencv-(c++-python)/
 https://github.com/spmallick/learnopencv/tree/master/AugmentedRealityWithArucoMarkers
+```
 
 
-https://www.learnopencv.com/fully-convolutional-image-classification-on-arbitrary-sized-image/
 Fully Convolutional Image Classification on Arbitrary Sized Image
+```
+https://www.learnopencv.com/fully-convolutional-image-classification-on-arbitrary-sized-image/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-Fully-Convolutional-Image-Classification
+```
 
 
-https://www.learnopencv.com/camera-calibration-using-opencv/
 Camera Calibration using OpenCV
+```
+https://www.learnopencv.com/camera-calibration-using-opencv/
 https://github.com/spmallick/learnopencv/tree/master/CameraCalibration
+```
 
 
-https://www.learnopencv.com/geometry-of-image-formation/
 Geometry of Image Formation
+```
+https://www.learnopencv.com/geometry-of-image-formation/
+```
 
 
-
-https://www.learnopencv.com/ensuring-training-reproducibility-in-pytorch
 Ensuring Training Reproducibility in Pytorch
+```
+https://www.learnopencv.com/ensuring-training-reproducibility-in-pytorch
+```
 
-
-
-https://www.learnopencv.com/gaze-tracking/
 Gaze Tracking
+```
+https://www.learnopencv.com/gaze-tracking/
+```
 
 
-
-https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/
 Simple Background Estimation in Videos Using OpenCV
+```
+https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/VideoBackgroundEstimation
+```
 
 
-https://www.learnopencv.com/applications-of-foreground-background-separation-with-semantic-segmentation/
 Applications of Foreground-Background separation with Semantic Segmentation
+```
+https://www.learnopencv.com/applications-of-foreground-background-separation-with-semantic-segmentation/
 https://github.com/spmallick/learnopencv/tree/master/app-seperation-semseg
+```
 
 
-https://www.learnopencv.com/efficientnet-theory-code
 EfficientNet: Theory + Code
+```
+https://www.learnopencv.com/efficientnet-theory-code
 https://github.com/spmallick/learnopencv/tree/master/EfficientNet
+```
 
 
-https://www.learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch/
 PyTorch for Beginners: Mask R-CNN Instance Segmentation with PyTorch
+```
+https://www.learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch/
 /spmallick/learnopencv/blob/master/PyTorch-Mask-RCNN
+```
 
 
-https://www.learnopencv.com/faster-r-cnn-object-detection-with-pytorch
 PyTorch for Beginners: Faster R-CNN Object Detection with PyTorch
+```
+https://www.learnopencv.com/faster-r-cnn-object-detection-with-pytorch
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-faster-RCNN
+```
 
 
-https://www.learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/
 PyTorch for Beginners: Semantic Segmentation using torchvision
+```
+https://www.learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-Segmentation-torchvision
+```
 
 
-https://www.learnopencv.com/image-classification-using-pre-trained-models-using-pytorch/
 PyTorch for Beginners: Comparison of pre-trained models for Image Classification
+```
+https://www.learnopencv.com/image-classification-using-pre-trained-models-using-pytorch/
 https://github.com/spmallick/learnopencv/tree/master/Image-classification-pre-trained-models/Image_Classification_using_pre_trained_models.ipynb
+```
 
 
-https://www.learnopencv.com/pytorch-for-beginners-basics/
 PyTorch for Beginners: Basics
+```
+https://www.learnopencv.com/pytorch-for-beginners-basics/
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-for-Beginners/PyTorch_for_Beginners.ipynb
+```
 
 
-https://www.learnopencv.com/pytorch-model-inference-using-onnx-and-caffe2/
 PyTorch Model Inference using ONNX and Caffe2
+```
+https://www.learnopencv.com/pytorch-model-inference-using-onnx-and-caffe2/
 https://github.com/spmallick/learnopencv/tree/master/Inference-for-PyTorch-Models/ONNX-Caffe2
+```
 
 
-https://www.learnopencv.com/image-classification-using-transfer-learning-in-pytorch/
 Image Classification Using Transfer Learning in PyTorch
+```
+https://www.learnopencv.com/image-classification-using-transfer-learning-in-pytorch/
 https://github.com/spmallick/learnopencv/tree/master/Image-Classification-in-PyTorch
+```
 
 
-https://www.learnopencv.com/hangman-creating-games-in-opencv/
 Hangman: Creating games in OpenCV
+```
+https://www.learnopencv.com/hangman-creating-games-in-opencv/
 https://github.com/spmallick/learnopencv/tree/master/Hangman
+```
 
 
-https://www.learnopencv.com/image-inpainting-with-opencv-c-python/
 Image Inpainting with OpenCV (C++/Python)
+```
+https://www.learnopencv.com/image-inpainting-with-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/Image-Inpainting
+```
 
 
-https://www.learnopencv.com/hough-transform-with-opencv-c-python/
 Hough Transform with OpenCV (C++/Python)
+```
+https://www.learnopencv.com/hough-transform-with-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/Hough-Transform
+```
 
 
-https://www.learnopencv.com/xeus-cling-run-c-code-in-jupyter-notebook/
 Xeus-Cling: Run C++ code in Jupyter Notebook
+```
+https://www.learnopencv.com/xeus-cling-run-c-code-in-jupyter-notebook/
 https://github.com/spmallick/learnopencv/tree/master/XeusCling
+```
 
 
-https://www.learnopencv.com/age-gender-classification-using-opencv-deep-learning-c-python/
 Gender &amp; Age Classification using OpenCV Deep Learning ( C++/Python )
+```
+https://www.learnopencv.com/age-gender-classification-using-opencv-deep-learning-c-python/
 https://github.com/spmallick/learnopencv/tree/master/AgeGender
+```
 
 
-https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
 Invisibility Cloak using Color Detection and Segmentation with OpenCV
+```
+https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
 https://github.com/spmallick/learnopencv/tree/master/InvisibilityCloak
+```
 
 
-https://www.learnopencv.com/fast-image-downloader-for-open-images-v4/
 Fast Image Downloader for Open Images V4 (Python)
+```
+https://www.learnopencv.com/fast-image-downloader-for-open-images-v4/
 https://github.com/spmallick/learnopencv/tree/master/downloadOpenImages
+```
 
 
-https://www.learnopencv.com/deep-learning-based-text-detection-using-opencv-c-python/
 Deep Learning based Text Detection Using OpenCV (C++/Python)
+```
+https://www.learnopencv.com/deep-learning-based-text-detection-using-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/TextDetectionEAST
+```
 
 
-https://www.learnopencv.com/video-stabilization-using-point-feature-matching-in-opencv/
 Video Stabilization Using Point Feature Matching in OpenCV
+```
+https://www.learnopencv.com/video-stabilization-using-point-feature-matching-in-opencv/
 https://github.com/spmallick/learnopencv/tree/master/VideoStabilization
+```
 
 
-https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/
 Training YOLOv3 : Deep Learning based Custom Object Detector
+```
+https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/
 https://github.com/spmallick/learnopencv/tree/master/YOLOv3-Training-Snowman-Detector
+```
 
 
-https://www.learnopencv.com/using-openvino-with-opencv/
 Using OpenVINO with OpenCV
+```
+https://www.learnopencv.com/using-openvino-with-opencv/
 https://github.com/spmallick/learnopencv/tree/master/OpenVINO-OpenCV
+```
 
 
-https://www.learnopencv.com/duplicate-search-on-quora-dataset/
 Duplicate Search on Quora Dataset
+```
+https://www.learnopencv.com/duplicate-search-on-quora-dataset/
 https://github.com/spmallick/learnopencv/tree/master/Quora-Dataset-Duplicate-Search
+```
 
 
-https://www.learnopencv.com/shape-matching-using-hu-moments-c-python/
 Shape Matching using Hu Moments (C++/Python)
+```
+https://www.learnopencv.com/shape-matching-using-hu-moments-c-python/
 https://github.com/spmallick/learnopencv/tree/master/HuMoments
+```
 
 
-https://www.learnopencv.com/install-opencv-4-on-centos-7/
 Install OpenCV 4 on CentOS (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-4-on-centos-7/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-centos.sh
+```
 
 
-https://www.learnopencv.com/install-opencv-3-4-4-on-centos-7/
 Install OpenCV 3.4.4 on CentOS (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-3-4-4-on-centos-7/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-centos.sh
+```
 
 
-https://www.learnopencv.com/install-opencv-3-4-4-on-red-hat/
 Install OpenCV 3.4.4 on Red Hat (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-3-4-4-on-red-hat/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-red-hat.sh
+```
 
 
-https://www.learnopencv.com/install-opencv-4-on-red-hat/
 Install OpenCV 4 on Red Hat (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-4-on-red-hat/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-on-red-hat.sh
+```
 
 
-https://www.learnopencv.com/install-opencv-4-on-macos/
 Install OpenCV 4 on macOS (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-4-on-macos/
 https://github.com/spmallick/learnopencv/tree/master/InstallScripts/installOpenCV-4-macos.sh
+```
 
 
-https://www.learnopencv.com/install-opencv-3-4-4-on-raspberry-pi/
 Install OpenCV 3.4.4 on Raspberry Pi
+```
+https://www.learnopencv.com/install-opencv-3-4-4-on-raspberry-pi/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-raspberry-pi.sh
+```
 
 
-https://www.learnopencv.com/install-opencv-3-4-4-on-macos/
 Install OpenCV 3.4.4 on macOS (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-3-4-4-on-macos/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-macos.sh
+```
 
 
-https://www.learnopencv.com/opencv-qr-code-scanner-c-and-python/
 OpenCV QR Code Scanner (C++ and Python)
+```
+https://www.learnopencv.com/opencv-qr-code-scanner-c-and-python/
 https://github.com/spmallick/learnopencv/tree/master/QRCode-OpenCV
+```
 
 
-https://www.learnopencv.com/install-opencv-3-4-4-on-windows/
 Install OpenCV 3.4.4 on Windows (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-3-4-4-on-windows/
 https://github.com/spmallick/learnopencv/tree/master/InstallScripts/Windows-3
+```
 
 
-https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-16-04/
 Install OpenCV 3.4.4 on Ubuntu 16.04 (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-16-04/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-Ubuntu-16-04.sh
+```
 
 
-https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-18-04/
 Install OpenCV 3.4.4 on Ubuntu 18.04 (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-18-04/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-3-on-Ubuntu-18-04.sh
+```
 
 
-https://www.learnopencv.com/universal-sentence-encoder
 Universal Sentence Encoder
+```
+https://www.learnopencv.com/universal-sentence-encoder
 https://github.com/spmallick/learnopencv/blob/master/Universal-Sentence-Encoder
+```
 
 
-https://www.learnopencv.com/install-opencv-4-on-raspberry-pi/
 Install OpenCV 4 on Raspberry Pi
+```
+https://www.learnopencv.com/install-opencv-4-on-raspberry-pi/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-raspberry-pi.sh
+```
 
 
-https://www.learnopencv.com/install-opencv-4-on-windows/
 Install OpenCV 4 on Windows (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-4-on-windows/
 https://github.com/spmallick/learnopencv/tree/master/InstallScripts/Windows-4
+```
 
 
-https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
 Face Detection – Dlib, OpenCV, and Deep Learning ( C++ / Python )
+```
+https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
 https://github.com/spmallick/learnopencv/tree/master/FaceDetectionComparison
+```
 
 
-https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/
 Hand Keypoint Detection using Deep Learning and OpenCV
+```
+https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/
 https://github.com/spmallick/learnopencv/tree/master/HandPose
+```
 
 
-https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/
 Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)
+```
+https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/
 https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN
+```
 
 
-https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/
 Install OpenCV 4 on Ubuntu 18.04 (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-on-Ubuntu-18-04.sh
+```
 
 
-https://www.learnopencv.com/install-opencv-4-on-ubuntu-16-04/
 Install OpenCV 4 on Ubuntu 16.04 (C++ and Python)
+```
+https://www.learnopencv.com/install-opencv-4-on-ubuntu-16-04/
 https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenCV-4-on-Ubuntu-16-04.sh
+```
 
 
-https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose/
 Multi-Person Pose Estimation in OpenCV using OpenPose
+```
+https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose/
 https://github.com/spmallick/learnopencv/tree/master/OpenPose-Multi-Person
+```
 
 
-https://www.learnopencv.com/heatmap-for-logo-detection-using-opencv-python/
 Heatmap for Logo Detection using OpenCV (Python)
+```
+https://www.learnopencv.com/heatmap-for-logo-detection-using-opencv-python/
 https://github.com/spmallick/learnopencv/tree/master/heatmap
+```
 
 
-https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
 Deep Learning based Object Detection using YOLOv3 with OpenCV ( Python / C++ )
+```
+https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
 https://github.com/spmallick/learnopencv/tree/master/ObjectDetection-YOLO
+```
 
 
-https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/
 Convex Hull using OpenCV in Python and C++
+```
+https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/
 https://github.com/spmallick/learnopencv/tree/master/ConvexHull
+```
 
 
-https://www.learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/
 MultiTracker : Multiple Object Tracking using OpenCV (C++/Python)
+```
+https://www.learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/MultiObjectTracker
+```
 
 
-https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
 Convolutional Neural Network based Image Colorization using OpenCV
+```
+https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
 https://github.com/spmallick/learnopencv/tree/master/Colorization
+```
 
 
-https://www.learnopencv.com/svm-using-scikit-learn-in-python/
 SVM using scikit-learn
+```
+https://www.learnopencv.com/svm-using-scikit-learn-in-python/
 https://github.com/spmallick/learnopencv/tree/master/SVM-using-Python
+```
 
 
-https://www.learnopencv.com/goturn-deep-learning-based-object-tracking/
 GOTURN: Deep Learning based Object Tracking
+```
+https://www.learnopencv.com/goturn-deep-learning-based-object-tracking/
 https://github.com/spmallick/learnopencv/tree/master/GOTURN
+```
 
 
-https://www.learnopencv.com/find-center-of-blob-centroid-using-opencv-cpp-python/
 Find the Center of a Blob (Centroid) using OpenCV (C++/Python)
+```
+https://www.learnopencv.com/find-center-of-blob-centroid-using-opencv-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/CenterofBlob
+```
 
 
-https://www.learnopencv.com/support-vector-machines-svm/
 Support Vector Machines (SVM)
+```
+https://www.learnopencv.com/support-vector-machines-svm/
 https://github.com/spmallick/learnopencv/tree/master/SVM-using-Python
+```
 
 
 Batch Normalization in Deep Networks
+```
 https://www.learnopencv.com/batch-normalization-in-deep-networks/
 https://github.com/spmallick/learnopencv/tree/master/BatchNormalization
+```
 
 
 Deep Learning based Character Classification using Synthetic Dataset
+```
 https://www.learnopencv.com/deep-learning-character-classification-using-synthetic-dataset/
 https://github.com/spmallick/learnopencv/tree/master/CharClassification
+```
 
 
 Image Quality Assessment : BRISQUE
+```
 https://www.learnopencv.com/image-quality-assessment-brisque/
 https://github.com/spmallick/learnopencv/tree/master/ImageMetrics
+```
 
 
 Understanding AlexNet
+```
 https://www.learnopencv.com/understanding-alexnet/
+```
 
 
 
 Deep Learning based Text Recognition (OCR) using Tesseract and OpenCV
+```
 https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/
 https://github.com/spmallick/learnopencv/tree/master/OCR
+```
 
 
 Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )
+```
 https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/OpenPose
+```
 
 
 Number of Parameters and Tensor Sizes in a Convolutional Neural Network (CNN)
+```
 https://www.learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/
+```
 
 
 
 How to convert your OpenCV C++ code into a Python module
+```
 https://www.learnopencv.com/how-to-convert-your-opencv-c-code-into-a-python-module/
 https://github.com/spmallick/learnopencv/tree/master/pymodule
+```
 
 
 CV4Faces : Best Project Award 2018
+```
 https://www.learnopencv.com/cv4faces-best-project-award-2018/
+```
 
 
 
 Facemark : Facial Landmark Detection using OpenCV
+```
 https://www.learnopencv.com/facemark-facial-landmark-detection-using-opencv/
 https://github.com/spmallick/learnopencv/tree/master/FacialLandmarkDetection
+```
 
 
 Image Alignment (Feature Based) using OpenCV (C++/Python)
+```
 https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/ImageAlignment-FeatureBased
+```
 
 
 Barcode and QR code Scanner using ZBar and OpenCV
+```
 https://www.learnopencv.com/barcode-and-qr-code-scanner-using-zbar-and-opencv/
 https://github.com/spmallick/learnopencv/tree/master/barcode-QRcodeScanner
+```
 
 
 Keras Tutorial : Fine-tuning using pre-trained models
+```
 https://www.learnopencv.com/keras-tutorial-fine-tuning-using-pre-trained-models/
 https://github.com/spmallick/learnopencv/tree/master/Keras-Fine-Tuning
+```
 
 
 OpenCV Transparent API
+```
 https://www.learnopencv.com/opencv-transparent-api/
+```
 
 
 
 Face Reconstruction using EigenFaces (C++/Python)
+```
 https://www.learnopencv.com/face-reconstruction-using-eigenfaces-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/ReconstructFaceUsingEigenFaces
+```
 
 
 Eigenface using OpenCV (C++/Python)
+```
 https://www.learnopencv.com/eigenface-using-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/EigenFace
+```
 
 
 Principal Component Analysis
+```
 https://www.learnopencv.com/principal-component-analysis/
+```
 
 
 
 Keras Tutorial : Transfer Learning using pre-trained models
+```
 https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/
 https://github.com/spmallick/learnopencv/tree/master/Keras-Transfer-Learning
+```
 
 
 Keras Tutorial : Using pre-trained Imagenet models
+```
 https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
 https://github.com/spmallick/learnopencv/tree/master/Keras-ImageNet-Models
+```
 
 
 Technical Aspects of a Digital SLR
+```
 https://www.learnopencv.com/technical-aspects-of-a-digital-slr/
+```
 
 
 
 Using Harry Potter interactive wand with OpenCV to create magic
+```
 https://www.learnopencv.com/using-harry-potter-interactive-wand-with-opencv-to-create-magic/
+```
 
 
 
 Install OpenCV 3 and Dlib on Windows ( Python only )
+```
 https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/
+```
 
 
 
 Image Classification using Convolutional Neural Networks in Keras
+```
 https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras
 https://github.com/spmallick/learnopencv/tree/master/KerasCNN-CIFAR
+```
 
 
 Understanding Autoencoders using Tensorflow (Python)
+```
 https://www.learnopencv.com/understanding-autoencoders-using-tensorflow-python/
 https://github.com/spmallick/learnopencv/tree/master/DenoisingAutoencoder
+```
 
 
 Best Project Award : Computer Vision for Faces
+```
 https://www.learnopencv.com/best-project-award-computer-vision-for-faces/
+```
 
 
 
 Understanding Activation Functions in Deep Learning
+```
 https://www.learnopencv.com/understanding-activation-functions-in-deep-learning/
+```
 
 
 
 Image Classification using Feedforward Neural Network in Keras
+```
 https://www.learnopencv.com/image-classification-using-feedforward-neural-network-in-keras/
 https://github.com/kromydas/learnopencv/tree/master/Keras-MLP-MNIST-Classification
+```
 
 
 Exposure Fusion using OpenCV (C++/Python)
+```
 https://www.learnopencv.com/exposure-fusion-using-opencv-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/ExposureFusion
+```
 
 
 Understanding Feedforward Neural Networks
+```
 https://www.learnopencv.com/understanding-feedforward-neural-networks/
+```
 
 
 
 High Dynamic Range (HDR) Imaging using OpenCV (C++/Python)
+```
 http://www.learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python
 https://github.com/spmallick/learnopencv/tree/master/hdr
+```
 
 
 Deep learning using Keras – The Basics
+```
 http://www.learnopencv.com/deep-learning-using-keras-the-basics
 https://github.com/kromydas/learnopencv/tree/master/Keras-Linear-Regression
+```
 
 
 Selective Search for Object Detection (C++ / Python)
+```
 http://www.learnopencv.com/selective-search-for-object-detection-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/SelectiveSearch
+```
 
 
 Installing Deep Learning Frameworks on Ubuntu with CUDA support
+```
 http://www.learnopencv.com/installing-deep-learning-frameworks-on-ubuntu-with-cuda-support/
+```
 
 
 
 Parallel Pixel Access in OpenCV using forEach
+```
 http://www.learnopencv.com/parallel-pixel-access-in-opencv-using-foreach/
 https://github.com/spmallick/learnopencv/tree/master/forEach
+```
 
 
 cvui: A GUI lib built on top of OpenCV drawing primitives
+```
 http://www.learnopencv.com/cvui-gui-lib-built-on-top-of-opencv-drawing-primitives/
 https://github.com/spmallick/learnopencv/tree/master/UI-cvui
+```
 
 
 Install Dlib on Windows
+```
 http://www.learnopencv.com/install-dlib-on-windows/
+```
 
 
 
 Install Dlib on Ubuntu
+```
 http://www.learnopencv.com/install-dlib-on-ubuntu/
+```
 
 
 
 Install OpenCV3 on Ubuntu
+```
 http://www.learnopencv.com/install-opencv3-on-ubuntu/
+```
 
 
 
 Read, Write and Display a video using OpenCV ( C++/ Python )
+```
 http://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/VideoReadWriteDisplay
+```
 
 
 Install Dlib on MacOS
+```
 http://www.learnopencv.com/install-dlib-on-macos/
+```
 
 Install OpenCV 3 on MacOS
+```
 http://www.learnopencv.com/install-opencv3-on-macos/
+```
 
 
 Install OpenCV 3 on Windows
+```
 http://www.learnopencv.com/install-opencv3-on-windows/
+```
 
 
 Get OpenCV Build Information ( getBuildInformation )
+```
 http://www.learnopencv.com/get-opencv-build-information-getbuildinformation/
+```
 
 
 Color spaces in OpenCV (C++ / Python)
+```
 http://www.learnopencv.com/color-spaces-in-opencv-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/ColorSpaces
+```
 
 
 Neural Networks : A 30,000 Feet View for Beginners
+```
 http://www.learnopencv.com/neural-networks-a-30000-feet-view-for-beginners/
+```
 
 
 
 Alpha Blending using OpenCV (C++ / Python)
+```
 http://www.learnopencv.com/alpha-blending-using-opencv-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/AlphaBlending
+```
 
 
 User stories : How readers of this blog are applying their knowledge to build applications
+```
 http://www.learnopencv.com/user-stories-how-readers-of-this-blog-are-applying-their-knowledge-to-build-applications/
+```
 
 
 
 How to select a bounding box ( ROI ) in OpenCV (C++/Python) ?
+```
 http://www.learnopencv.com/how-to-select-a-bounding-box-roi-in-opencv-cpp-python/
+```
 
 
 
 Automatic Red Eye Remover using OpenCV (C++ / Python)
+```
 http://www.learnopencv.com/automatic-red-eye-remover-using-opencv-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/RedEyeRemover
+```
 
 
 Bias-Variance Tradeoff in Machine Learning
+```
 http://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/
+```
 
 
 
 Embedded Computer Vision: Which device should you choose?
+```
 http://www.learnopencv.com/embedded-computer-vision-which-device-should-you-choose/
+```
 
 
 Object Tracking using OpenCV (C++/Python)
+```
 http://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/tracking
+```
 
 
 Handwritten Digits Classification : An OpenCV ( C++ / Python ) Tutorial
+```
 http://www.learnopencv.com/handwritten-digits-classification-an-opencv-c-python-tutorial/
 https://github.com/spmallick/learnopencv/tree/master/digits-classification
+```
 
 
 Training a better Haar and LBP cascade based Eye Detector using OpenCV
+```
 http://www.learnopencv.com/training-better-haar-lbp-cascade-eye-detector-opencv/
+```
 
 
 
 Deep Learning Book Gift Recipients
+```
 http://www.learnopencv.com/deep-learning-book-gift-recipients/
+```
 
 
 
 Minified OpenCV Haar and LBP Cascades
+```
 http://www.learnopencv.com/minified-opencv-haar-and-lbp-cascades/
 https://github.com/spmallick/learnopencv/tree/master/ninjaEyeDetector
+```
 
 
 Deep Learning Book Gift
+```
 http://www.learnopencv.com/deep-learning-book-gift/
+```
 
 
 
 Histogram of Oriented Gradients
+```
 http://www.learnopencv.com/histogram-of-oriented-gradients/
+```
 
 
 
 Image Recognition and Object Detection : Part 1
+```
 http://www.learnopencv.com/image-recognition-and-object-detection-part1/
+```
 
 
 
 Head Pose Estimation using OpenCV and Dlib
+```
 http://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/
 https://github.com/spmallick/learnopencv/tree/master/HeadPose
+```
 
 
 Live CV : A Computer Vision Coding Application
+```
 http://www.learnopencv.com/live-cv/
+```
 
 
 
 Approximate Focal Length for Webcams and Cell Phone Cameras
+```
 http://www.learnopencv.com/approximate-focal-length-for-webcams-and-cell-phone-cameras/
+```
 
 
 
 Configuring Qt for OpenCV on OSX
+```
 http://www.learnopencv.com/configuring-qt-for-opencv-on-osx/
 https://github.com/spmallick/learnopencv/tree/master/qt-test
+```
 
 
 Rotation Matrix To Euler Angles
+```
 http://www.learnopencv.com/rotation-matrix-to-euler-angles/
 https://github.com/spmallick/learnopencv/tree/master/RotationMatrixToEulerAngles
+```
 
 
 Speeding up Dlib’s Facial Landmark Detector
+```
 http://www.learnopencv.com/speeding-up-dlib-facial-landmark-detector/
+```
 
 
 
 Warp one triangle to another using OpenCV ( C++ / Python )
+```
 http://www.learnopencv.com/warp-one-triangle-to-another-using-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/WarpTriangle
+```
 
 
 Average Face : OpenCV ( C++ / Python ) Tutorial
+```
 http://www.learnopencv.com/average-face-opencv-c-python-tutorial/
 https://github.com/spmallick/learnopencv/tree/master/FaceAverage
+```
 
 
 Face Swap using OpenCV ( C++ / Python )
+```
 http://www.learnopencv.com/face-swap-using-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/FaceSwap
+```
 
 
 Face Morph Using OpenCV — C++ / Python
+```
 http://www.learnopencv.com/face-morph-using-opencv-cpp-python/
 https://github.com/spmallick/learnopencv/tree/master/FaceMorph
+```
 
 
 Deep Learning Example using NVIDIA DIGITS 3 on EC2
+```
 http://www.learnopencv.com/deep-learning-example-using-nvidia-digits-3-on-ec2/
+```
 
 
 
 NVIDIA DIGITS 3 on EC2
+```
 http://www.learnopencv.com/nvidia-digits-3-on-ec2/
+```
 
 
 
 Homography Examples using OpenCV ( Python / C ++ )
+```
 http://www.learnopencv.com/homography-examples-using-opencv-python-c/
 https://github.com/spmallick/learnopencv/tree/master/Homography
+```
 
 
 Filling holes in an image using OpenCV ( Python / C++ )
+```
 http://www.learnopencv.com/filling-holes-in-an-image-using-opencv-python-c/
 https://github.com/spmallick/learnopencv/tree/master/Holes
+```
 
 
 How to find frame rate or frames per second (fps) in OpenCV ( Python / C++ ) ?
+```
 http://www.learnopencv.com/how-to-find-frame-rate-or-frames-per-second-fps-in-opencv-python-cpp/
 https://github.com/spmallick/learnopencv/tree/master/FPS
+```
 
 
 Delaunay Triangulation and Voronoi Diagram using OpenCV ( C++ / Python)
+```
 http://www.learnopencv.com/delaunay-triangulation-and-voronoi-diagram-using-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/Delaunay
+```
 
 
 OpenCV (C++ vs Python) vs MATLAB for Computer Vision
+```
 http://www.learnopencv.com/opencv-c-vs-python-vs-matlab-for-computer-vision/
+```
 
 
 
 Facial Landmark Detection
+```
 http://www.learnopencv.com/facial-landmark-detection/
+```
 
 
 
 Why does OpenCV use BGR color format ?
+```
 http://www.learnopencv.com/why-does-opencv-use-bgr-color-format/
+```
 
 
 
 Computer Vision for Predicting Facial Attractiveness
+```
 http://www.learnopencv.com/computer-vision-for-predicting-facial-attractiveness/
 https://github.com/spmallick/learnopencv/tree/master/FacialAttractiveness
+```
 
 
 applyColorMap for pseudocoloring in OpenCV ( C++ / Python )
+```
 http://www.learnopencv.com/applycolormap-for-pseudocoloring-in-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/Colormap
+```
 
 
 Image Alignment (ECC) in OpenCV ( C++ / Python )
+```
 http://www.learnopencv.com/image-alignment-ecc-in-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/ImageAlignment
+```
 
 
 How to find OpenCV version in Python and C++ ?
+```
 http://www.learnopencv.com/how-to-find-opencv-version-python-cpp/
+```
 
 
 
 Baidu banned from ILSVRC 2015
+```
 http://www.learnopencv.com/baidu-banned-from-ilsvrc-2015/
+```
 
 
 
 OpenCV Transparent API
+```
 http://www.learnopencv.com/opencv-transparent-api/
+```
 
 
 
 How Computer Vision Solved the Greatest Soccer Mystery of All Time
+```
 http://www.learnopencv.com/how-computer-vision-solved-the-greatest-soccer-mystery-of-all-times/
+```
 
 
 
 Embedded Vision Summit 2015
+```
 http://www.learnopencv.com/embedded-vision-summit-2015/
-
-
+```
 
 Read an Image in OpenCV ( Python, C++ )
+```
 http://www.learnopencv.com/read-an-image-in-opencv-python-cpp/
 https://github.com/spmallick/learnopencv/tree/master/imread
+```
 
 
 Non-Photorealistic Rendering using OpenCV ( Python, C++ )
+```
 http://www.learnopencv.com/non-photorealistic-rendering-using-opencv-python-c/
 https://github.com/spmallick/learnopencv/tree/master/NonPhotorealisticRendering
+```
 
 
 Seamless Cloning using OpenCV ( Python , C++ )
+```
 http://www.learnopencv.com/seamless-cloning-using-opencv-python-cpp/
 https://github.com/spmallick/learnopencv/tree/master/SeamlessCloning
+```
 
 
 OpenCV Threshold ( Python , C++ )
+```
 http://www.learnopencv.com/opencv-threshold-python-cpp/
 https://github.com/spmallick/learnopencv/tree/master/Threshold
+```
 
 
 Blob Detection Using OpenCV ( Python, C++ )
+```
 http://www.learnopencv.com/blob-detection-using-opencv-python-c/
 https://github.com/spmallick/learnopencv/tree/master/BlobDetector
+```
 
 
 Turn your OpenCV Code into a Web API in under 10 minutes — Part 1
+```
 http://www.learnopencv.com/turn-your-opencv-Code-into-a-web-api-in-under-10-minutes-part-1/
+```
 
 
 
 How to compile OpenCV sample Code ?
+```
 http://www.learnopencv.com/how-to-compile-opencv-sample-Code/
+```
 
 
 
 Install OpenCV 3 on Yosemite ( OSX 10.10.x )
+```
 http://www.learnopencv.com/install-opencv-3-on-yosemite-osx-10-10-x/
+```
 
 
-
+```
 https://projectworlds.in/free-projects/machine-learning-projects-with-source-code/
+```
 
 Salary Prediction using Machine Learning Web App
+```
 https://projectworlds.in/salary-prediction-using-machine-learning-web-app/
+```
 
 Sentiment Analysis ML Flask Python Web App
+```
 https://projectworlds.in/sentiment-analysis-ml-flask-python-web-app-project-with-source-code/
+```
 
 IMDB Sentiment Analysis Machine Learning
+```
 https://projectworlds.in/imdb-sentiment-analysis-based-on-comment-machine-learning/
+```
 
 Medical Insurance Cost Prediction Project in Python Flask
+```
 https://projectworlds.in/medical-insurance-cost-prediction-project-in-python-flask/
+```
 
 Insurance Claim Prediction Machine Learning Project
+```
 https://projectworlds.in/insurance-claim-prediction-machine-learning-project-with-source-code/
+```
 
 Image to Cartoon Python OpenCV Machine Learning
+```
 https://projectworlds.in/image-to-cartoon-python-opencv-machine-learning/
+```
 
 Artificial Intelligence Project Chess Game Python
+```
 https://projectworlds.in/artificial-intelligence-project-chess-game-python-flask-with-source-code/
+```
 
 Artificial Intelligence Project Handwritten Digits Recognition
+```
 https://projectworlds.in/artificial-intelligence-project-handwritten-digits-recognition/
+```
 
 Netflix Movie Recommendation System Project Machine Learning
+```
 https://projectworlds.in/netflix-movie-recommendation-system-project-on-machine-learning/
+```
 
 Food recommends based on your mood python django
+```
 https://projectworlds.in/food-recommends-based-on-your-mood-python-django/
+```
 
 Music Recommendation Based on Facial Expression
+```
 https://projectworlds.in/music-recommendation-based-on-facial-expression-sporify-api-python/
+```
 
 Automated Answer Grading System machine learning
+```
 https://projectworlds.in/automated-answer-grading-system-machine-learning-project/
+```
 
 Iris Flower Classification with Decision Trees Web App
+```
 https://projectworlds.in/iris-flower-classification-with-decision-trees-web-app/
+```
 
 Handwritten digit recognition Python Flask
+```
 https://projectworlds.in/handwritten-digit-recognition-python-flask/
+```
 
 Cat Vs Dog Image Classification CNN Project
+```
 https://projectworlds.in/cat-vs-dog-image-classification-cnn-project-source-code/
+```
 
 Age and Gender Detection Using Deep Learning Python Flask
+```
 https://projectworlds.in/age-and-gender-detection-using-deep-learning-python-flask/
+```
 
 Vehicle number plate detection Deep Learning Project
+```
 https://projectworlds.in/vehicle-number-plate-detection-deep-learning-project-source-code/
+```
 
 Employee Attrition Prediction using machine learning
+```
 https://projectworlds.in/employee-attrition-prediction-using-machine-learning/
+```
 
 Predicting Student Performance Using Machine Learning
+```
 https://projectworlds.in/predicting-student-performance-using-machine-learning/
+```
 
 Campus Recruitment Prediction with Source Code Python
+```
 https://projectworlds.in/campus-recruitment-prediction-with-source-code-python/
+```
 
 Road Accident Severity Prediction Using Machine Learning Project
+```
 https://projectworlds.in/road-accident-severity-prediction-using-machine-learning-project/
+```
 
 Predict the Earlier Stages of Alzheimer’s disease Machine Learning
+```
 https://projectworlds.in/predict-the-earlier-stages-of-alzheimers-disease-machine-learning/
+```
 
 Air Quality Index Prediction Using PM 2.5 value Machine Learning
+```
 https://projectworlds.in/air-quality-index-prediction-using-pm-2-5-value-machine-learning/
+```
 
 Drug Recommendation System based on Sentiment Analysis
+```
 https://projectworlds.in/drug-recommendation-system-based-on-sentiment-analysis-of-drug-reviews
+```
 
 Big Mart Sales Prediction using Machine Learning
+```
 https://projectworlds.in/big-mart-sales-prediction-using-machine-learning-web-app/
+```
 
 Ai Black and white image colorization with OpenCV
+```
 https://projectworlds.in/ai-black-and-white-image-colorization-with-opencv-project-free-download/
+```
 
 Phishing Web Sites Detection Using Machine Learning Project
+```
 https://projectworlds.in/phishing-web-sites-detection-using-machine-learning-project/
+```
 
 Machine Learning paid projects List
 
 
 Movie Recommendation Python Django ,Machine Learning
+```
 https://projectworlds.in/movie-recommendation-system-project-using-collaborative-filtering-python-django-machine-learning/
+```
 
 Crime Data Analysis Project in Machine Learning
+```
 https://projectworlds.in/crime-data-analysis-project-in-machine-learning/
+```
 
 Multiple Disease Prediction using Machine Learning
+```
 https://projectworlds.in/multiple-disease-prediction-using-machine-learning/
+```
 
 Multiple Disease Prediction using Machine Learning
+```
 https://projectworlds.in/multiple-disease-prediction-using-machine-learning/
+```
 
 Driver Distraction Prediction Using Deep Learning
+```
 https://projectworlds.in/driver-distraction-prediction-using-deep-learning-machine-learning/
+```
 
 Fake News Detection using Machine Learning
+```
 https://projectworlds.in/fake-news-detection-using-machine-learning-natural-language-processing/
+```
 
 Fake Product Review Detection using Machine Learning
+```
 https://projectworlds.in/fake-product-review-detection-using-machine-learning/
+```
 
 Black Friday Sales Prediction project Machine Learning
+```
 https://projectworlds.in/black-friday-sales-prediction-project-with-source-code/
+```
 
 Diabetes Prediction using Machine Learning
+```
 https://projectworlds.in/diabetes-prediction-using-machine-learning-project-code/
-
+```
 Heart Disease Prediction using Machine Learning
+```
 https://projectworlds.in/heart-disease-prediction-using-machine-learning-project/
 
+```
 Skin cancer Detection using Machine learning
+```
 https://projectworlds.in/skin-cancer-detection-using-machine-learning/
+```
 
 Used Car Price Prediction Using Machine Learning
+```
 https://projectworlds.in/used-car-price-prediction-using-machine-learning/
+```
 
 Loan Defaulter Prediction Machine Learning
+```
 https://projectworlds.in/loan-defaulter-prediction-machine-learning-projects/
+```
 
 Loan Eligibility Prediction Python Machine Learning
+```
 https://projectworlds.in/loan-eligibility-prediction-python-machine-learning-project/
+```
 
 Live Face Mask Detection Project in Machine Learning
+```
 https://projectworlds.in/live-face-mask-detection-project-in-machine-learning/
+```
 
 Hypo Thyroid Disease prediction Machine Learning&nbsp;
+```
 https://projectworlds.in/hypo-thyroid-disease-prediction-machine-learning-project/
+```
 
 Credit Card Fraud Detection Machine Learning
+```
 https://projectworlds.in/credit-card-fraud-detection-machine-learning-project/
+```
 
 Pneumonia Prediction Using chest x-ray Image
+```
 https://projectworlds.in/pneumonia-prediction-using-chest-x-ray-image-machine-learning/
+```
 
 Breast Cancer Prediction Machine Learning Project Source Code
+```
 https://projectworlds.in/breast-cancer-prediction-machine-learning-project-source-code/
+```
 
 Book Recommendation System Project Machine Learning
+```
 https://projectworlds.in/book-recommendation-system-project-machine-learning/
+```
 
 
 NLP Spelling Correction Python Machine Learning
+```
 https://projectworlds.in/nlp-spelling-correction-python-machine-learning/
+```
 
 
 Android Human Activity Recognition Tensorflow&nbsp;
+```
 https://projectworlds.in/android-human-activity-recognition-tensorflow-project-with-source-code/
+```
 
 
 Road Lane Detection Computer Vision Python Flask
+```
 https://projectworlds.in/road-lane-detection-computer-vision-python-flask-web-app/
+```
 
 
 Forest wildfire detection from satellite images
+```
 https://projectworlds.in/forest-wildfire-detection-from-satellite-images-using-deep-learning/
+```
 
 Object detection Python Machine Learning Web App
+```
 https://projectworlds.in/object-detection-python-machine-learning-web-app/
+```
 
 
 Tomato Leaf Disease Prediction CNN Python Flask
+```
 https://projectworlds.in/tomato-leaf-disease-prediction-cnn-python-flask-project/
+```
 
 
 Fire Detection Using Surveillence Camera web app
+```
 https://projectworlds.in/fire-detection-using-surveillence-camera-web-app-project-with-source-code/
+```
 
 
 Plant Disease Prediction using CNN Flask Web App
+```
 https://projectworlds.in/plant-disease-prediction-using-cnn-flask-web-app/
+```
 
 
 Rainfall Prediction using LogisticRegression Flask Web App
+```
 https://projectworlds.in/rainfall-prediction-using-logisticregression-flask-web-app/
+```
 
 
 Crop Recommendation using Random Forest flask web app
+```
 https://projectworlds.in/crop-recommendation-using-random-forest-flask-web-app/
+```
 
 
 Brain Stroke Prediction Machine Learning Source Code
+```
 https://projectworlds.in/brain-stroke-prediction-machine-learning-source-code/
+```
 
 
 Chronic kidney disease prediction Flask web app
+```
 https://projectworlds.in/chronic-kidney-disease-prediction-machine-learning-web-app/
+```
 
 
 Weapon Detection System Using CNN FLask Web app
+```
 https://projectworlds.in/weapon-detection-system-using-cnn-flask-web-app/
+```
 
 
 Ai Healthcare chatbot project python with source code
+```
 https://projectworlds.in/ai-healthcare-chatbot-project-python-with-source-code/
+```
 
 
 Ai Mental Health Chatbot project python with source code
+```
 https://projectworlds.in/ai-mental-health-chatbot-project-python-with-source-code/
+```
 
 
 Ai generated Fake Face and Real Face detection using Deepfake
+```
 https://projectworlds.in/ai-generated-fake-face-and-real-face-detection-using-deepfake-web-app-project/
+```
 
 
 Computer Parts Classification using CNN Web App Project
+```
 https://projectworlds.in/computer-parts-classification-using-cnn-web-app-project/
+```
 
 
 Fruits Freshness Classification using Deep Learning Flask
+```
 https://projectworlds.in/fruits-freshness-classification-using-deep-learning-python-project/
+```
 
 
 Image-Based Bird Species Identification Using Machine Learning
+```
 https://projectworlds.in/image-based-bird-species-identification-using-machine-learning/
+```
 
 
 Alternative Medicine Recommendation System Machine Learning
+```
 https://projectworlds.in/alternative-medicine-recommendation-system-machine-learning-project/
+```
 
 Liver Cirrhosis Stage Prediction Machine Learning Python Web App
+```
 https://projectworlds.in/liver-cirrhosis-stage-prediction-machine-learning-python-web-app/
+```
 
 SMS Spam Detection Machine Learning Project with Source Code
+```
 https://projectworlds.in/sms-spam-detection-machine-learning-project-with-source-code/
+```
 
 Fraud detection on bank payments machine learning project
+```
 https://projectworlds.in/fraud-detection-on-bank-payments-machine-learning-project/
+```
 
 Oral Cancer Detection Using Image Processing with Source code
+```
 https://projectworlds.in/?p=15725
+```
 
 Sleep Disorder Prediction Using Machine Learning Project
+```
 https://projectworlds.in/?p=15729
+```
 
-https://projectworlds.in/brain-tumour-detection-project-using-deep-learning-from-mri-image
 Brain Tumour Detection Project Using Deep Learning From MRI Image
+```
+https://projectworlds.in/brain-tumour-detection-project-using-deep-learning-from-mri-image
+```
+
 
 Lung Cancer Detection Using CNN Project with Source Code
+```
 https://projectworlds.in/lung-cancer-detection-using-cnn-project-with-source-code/
+```
+
+
 
 
 Machine Learning custom projects List    
