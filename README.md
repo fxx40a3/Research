@@ -14881,293 +14881,1217 @@ https://towardsdatascience.com/model-deployment-using-flask-c5dcbb6499c9
 ```
 
 
+TENSORFLOW\
+Dog_VS_Cat classifier/CNN using TensorFlow
+```
+https://dev.to/patelvivekdev/end-to-end-cnn-using-tensorflow-55ek
+ 
+https://www.kaggle.com/c/dogs-vs-cats/dataArticle: 
+https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image__from_directory
+https://github.com/patelvivekdev/Dog_VS_Cat_Flask_web_app
+https://github.com/patelvivekdev/Dog_vs_cat
+https://github.com/patelvivekdev/Dog_vs_cat/tree/main
+https://github.com/patrick013/Image-Classification-CNN-and-VGG/blob/master/Dog_vs_Cat.ipynb
+```
 
+Text Classification with TensorFlow
+```
+https://github.com/DanielWicz/trashanomaly/tree/master
+```
 
+Detecting Spam Emails
+```
+https://www.geeksforgeeks.org/detecting-spam-emails-using-tensorflow-in-python/
+```
 
+image-classifier-cnn-tensorflow
+```
+https://github.com/kiecodes/image-classifier-cnn-tensorflow/tree/main
+https://bitbucket.org/viewsoftbd/image-classification-cnn-tensorflow/src/main/
+ 
+https://github.com/OmkarPathak/Playing-with-/blob/master/Email%20Spam%20Filtering/emails.csv
+```
 
+Multistep time series forecasting with LSTM
+```
+https://www.kaggle.com/code/kkhandekar/multistep-time-series-forecasting-with-lstm/notebook 
+https://www.kaggle.com/code/kkhandekar/multistep-time-series-forecasting-with-lstm/input?select=Rainfall_Iran_19012022.csv Measures:milimeter
+```
 
-<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
-TENSORFLOW
---
-herokuwebmaster.noor@gmail.comnoorch@nge1----- |   |   |  
-Dog_VS_Cat classifier/CNN using TensorFlow | https://dev.to/patelvivekdev/end-to-end-cnn-using-tensorflow-55ek | Dataset: https://www.kaggle.com/c/dogs-vs-cats/dataArticle: https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image_dataset_from_directory |  
-https://github.com/patelvivekdev/Dog_VS_Cat_Flask_web_app |  
-https://github.com/patelvivekdev/Dog_vs_cat | 20% done
-https://github.com/patelvivekdev/Dog_vs_cat/tree/main |   |  
-https://github.com/patrick013/Image-Classification-CNN-and-VGG/blob/master/Dog_vs_Cat.ipynb |   |  
-Text Classification with TensorFlow |  | 80% Done |  
-How to create a TensorFlow 2 model from scratch — A “trashy” example of Detecting Waste | https://github.com/DanielWicz/trashanomaly/tree/master |   |  
-Detecting Spam Emails | https://www.geeksforgeeks.org/detecting-spam-emails-using-tensorflow-in-python/ |   |  
-image-classifier-cnn-tensorflow | https://github.com/kiecodes/image-classifier-cnn-tensorflow/tree/main | /Users/user/Desktop/AI/image-classifier-cnn-tensorflow/image-classification-cnn-tensorflow | https://bitbucket.org/viewsoftbd/image-classification-cnn-tensorflow/src/main/
-  | Dataset: https://github.com/OmkarPathak/Playing-with-datasets/blob/master/Email%20Spam%20Filtering/emails.csv |   |  
-Multistep time series forecasting with LSTM | https://www.kaggle.com/code/kkhandekar/multistep-time-series-forecasting-with-lstm/notebookDataset: https://www.kaggle.com/code/kkhandekar/multistep-time-series-forecasting-with-lstm/input?select=Rainfall_Iran_19012022.csv Measures:milimeter |   |  
-  |   |   |  
-List of Natural Language Processing (NLP) Projects | https://www.knowledgehut.com/blog/data-science/nlp-projects |   |  
-  | Extracting Important Keywords from Text with TF-IDF |   |  
-  | Code https://github.com/kavgan/nlp-in-practice/blob/master/tf-idf/Keyword%20Extraction%20with%20TF-IDF%20and%20SKlearn.ipynb |   |  
-  | Dataset https://github.com/kavgan/nlp-in-practice/tree/master/tf-idf/data |   |  
-  | File-1 stackoverflow-data-idf.json |   |  
-  | File-2 stackoverflow-test.json |   |  
-  | Stopwords https://github.com/kavgan/nlp-in-practice/blob/master/tf-idf/resources/stopwords.txt |   |  
-  |   |   |  
-  | Text Classification with Logistic Regression |   |  
-  | Explain |   |  
-  | Code        https://github.com/kavgan/nlp-in-practice/blob/master/text-classification/notebooks/Text%20Classification%20with%20Logistic%20Regression.ipynb |   |  
-  | Dataset        https://github.com/kavgan/nlp-in-practice/blob/master/text-classification/data/news_category_dataset.json |   |  
-  | OK |   |  
-  | Text classification with meta-learning |   |  
-  | Code        https://github.com/phanxuanphucnd/meta-learning |   |  
-  | Datasets        https://github.com/phanxuanphucnd/meta-learning/blob/main/dataset.json |   |  
-  | Chatbot with Seq2Seq Model |   |  
-  | Code        https://github.com/llSourcell/tensorflow_chatbot |   |  
-  | Extract-Stock-Sentiment-From-News-Headlines |   |  
-  | Code        https://github.com/copev313/Extract-Stock-Sentiment-From-News-Headlines/blob/main/notebook.ipynb |   |  
-  | Datasets        https://github.com/copev313/Extract-Stock-Sentiment-From-News-Headlines/tree/main/datasets |   |  
-  | Sentiment Analysis with Deep Learning using BERT |   |  
-  | Code        https://github.com/dA505819/Sentiment_Analysis_with_Deep_Learning_using_BERT/blob/master/Sentiment_Analysis.ipynb |   |  
-  | Datasets        https://github.com/dA505819/Sentiment_Analysis_with_Deep_Learning_using_BERT/tree/master/Data |   |  
-  | NLP-Topic-Modeling-LDA-NMF |   |  
-  | Code        https://github.com/AnushaMeka/NLP-Topic-Modeling-LDA-NMF/blob/master/Topic%20Modeling.ipynb |   |  
-  | Datasets        https://github.com/AnushaMeka/NLP-Topic-Modeling-LDA-NMF/blob/master/articles.csv |   |  
-  | Getting Started |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/00.getting_started.ipynb |   |  
-  | Neural Network |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/01.neural_network.ipynb |   |  
-  | Heart Disease Prediction |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/02.heart_disease_prediction.ipynb |   |  
-  | https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb |   |  
-  | Datasets        https://github.com/kb22/Heart-Disease-Prediction/blob/master/dataset.csv |   |  
-  | https://www.kaggle.com/code/princekr/starter-heart-csv-f47cc3be-a/input |   |  
-  | https://figshare.com/articles/dataset/heart_csv/20236848?file=36169122 |   |  
-  | https://www.kaggle.com/datasets/zhaoyingzhu/heartcsv/code |   |  
-  | https://www.kaggle.com/datasets/arezaei81/heartcsv |   |  
-  | Stock Prediction |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/03.stock_prediction.ipynb |   |  
-  | Datasets        https://raw.githubusercontent.com/curiousily/Deep-Learning-For-Hackers/master/data/3.stock-prediction/BTC-USD.csv |   |  
-  | Handling Imbalanced Data |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/05.handling_imbalanced_data.ipynb |   |  
-  | Datasets        N/A |   |  
-  | Code        https://github.com/sharmaroshan/Insurance-Claim-Prediction/blob/master/InsuranceClaim.ipynb |   |  
-  | Code        https://github.com/sharmaroshan/Insurance-Claim-Prediction/blob/master/insurance-claim-prediction_version2.ipynb |   |  
-  | Datasets        https://github.com/sharmaroshan/Insurance-Claim-Prediction/blob/master/insurance.csv |   |  
-  | OK |   |  
-  | Code        https://www.kaggle.com/code/mohammedmohsen0404/insurance-claim-prediction/notebook |   |  
-  | Datasets        https://www.kaggle.com/code/mohammedmohsen0404/insurance-claim-prediction/input?select=insurance3r2.csv |   |  
-  | Code        https://www.kaggle.com/code/akashrangapur/health-insurance-analysis-using-statistical-models |   |  
-  | Datasets        https://www.kaggle.com/code/akashrangapur/health-insurance-analysis-using-statistical-models/input?select=insurance2.csv |   |  
-  | https://github.com/sharmaroshan/Insurance-Claim-Prediction/tree/master |   |  
-  | Datasets        https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset |   |  
-  | Code        https://www.kaggle.com/code/yasserh/insurance-claim-prediction-top-ml-models |   |  
-  | Dataset        https://www.kaggle.com/code/yasserh/insurance-claim-prediction-top-ml-models/input |   |  
-  | Code        https://github.com/prathibha13/Insurance-Claim-Prediction/tree/main |   |  
-  | Code        https://www.kaggle.com/code/jocelyndumlao/insurance-claim-prediction-data-analysis |   |  
-  | Datasets        https://www.kaggle.com/code/mohammedmohsen0404/insurance-claim-prediction |   |  
-  | Bias Variance Tradeoff |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/06.bias_variance_tradeoff.ipynb |   |  
-  | Datasets |   |  
-  | Hyperparameter Tuning |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/07.hyperparameter_tuning.ipynb |   |  
-  | Datasets |   |  
-  | Deploy to Production |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/08.deploy_to_production.ipynb |   |  
-  | Datasets |   |  
-  | Data Preprocessing |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/09.data_preprocessing.ipynb |   |  
-  | Datasets |   |  
-  | Fundamental Algorithms |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/10.fundamental_algorithms.ipynb |   |  
-  | Datasets |   |  
-  | Time Series |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/11.time_series.ipynb |   |  
-  | Datasets |   |  
-  | Time Series Demand Prediction |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/12.time-series-demand_prediction.ipynb |   |  
-  | Datasets |   |  
-  | Time Series Human Activity Recognition |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/13.time-series-human_activity_recognition.ipynb |   |  
-  | Datasets |   |  
-  |   |   |  
-Time Series Anomaly Detection | https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/14.time-series-anomaly-detection.ipynb | Datasets        https://drive.google.com/uc?id=10vdMg_RazoIatwrT7azKFX4P02OebU76ready to git |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-Object Detection | https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/15.object-detection.ipynb | Datasets        gdown --id 1mTtB8GTWs74Yeqm0KMExGJZh1eDbzUlT --output indian_number_plates.jsonNot OK |  
-  |   |   |  
-  |   |   |  
-  | Image Augmentation |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/16.image-augmentation.ipynb |   |  
-  | Datasets |   |  
-  | Sentiment Analysis |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/17.sentiment-analysis.ipynb |   |  
-  | Datasets |   |  
-  | Intent Recognition with BERT |   |  
-  | Code        https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb |   |  
-  | Datasets |   |  
-  | Hindi to English translation using RNN |   |  
-  | Code        https://github.com/uday8688/Language-Translation-From-English-Hindi-Using-Rnns/blob/main/deeplearning-final-project.ipynb |   |  
-  | Datasets |   |  
-  |   |   |  
-heart-disease-prediction | https://github.com/Monica-Gullapalli/heart-disease-prediction-using-machine-learning-with-flask/tree/main | It's Good but Result is not comming, Need to recheckapp.run(debug=True, port=5001)SQLite used                        conda        python p1.py                python app.py                DB Browser |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-heart-disease-prediction | https://medium.com/@nutanbhogendrasharma/heart-disease-prediction-with-tensorflow-feature-columns-e3e7bb67b19b |   |  
-  | heart-disease-prediction |   |  
-  | Code        https://github.com/asthasharma98/Heart-Disease-Prediction-Deployment |   |  
-  | Excellant but Result is not comming, Need to recheck |   |  
-  | app.run(debug=True, port=5001) |   |  
-  | Code        https://github.com/asthasharma98/Data-Science/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb |   |  
-  | Datasets        https://github.com/asthasharma98/Data-Science/blob/main/Heart%20Disease%20Prediction/heart_cleveland_upload.csv |   |  
-  | Code        https://www.kaggle.com/code/gcdatkin/predicting-heart-attacks-with-tensorflow/notebook |   |  
-  | Datasets        https://www.kaggle.com/code/gcdatkin/predicting-heart-attacks-with-tensorflow/input?select=heart.csv |   |  
-  | Code        https://towardsdatascience.com/heart-disease-prediction-in-tensorflow-2-tensorflow-for-hackers-part-ii-378eef0400ee |   |  
-  | Datasets        https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.csv |   |  
-  | Datasets        https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?select=heart_disease_uci.csv |   |  
-  | Code        https://www.kaggle.com/code/minanabil11111212/heart-disease-logistics-regression-model |   |  
-  | OK |   |  
-  | Code        https://www.kaggle.com/code/greggodellas/heart-disease-case-study-1-gg |   |  
-  |   |   |  
-  | Image Classifier |   |  
-  | Deploy Machine Learning Models using Flask |   |  
-  | https://www.youtube.com/watch?v=0nr6TPKlrN0 |   |  
-  | https://github.com/JayMehtaUK/image-classifier |   |  
-  |   |   |  
-  | Object Detection with Tensorflow |   |  
-  | https://medium.com/@maximejabarian/object-detection-with-tensorflow-71d3fb8b014e |   |  
-  | https://medium.com/nerd-for-tech/building-an-object-detector-in-tensorflow-using-bounding-box-regression-2bc13992973f |   |  
-  | https://matthewturner-irl.medium.com/customized-object-detection-using-tensorflow-14dd9fa6dfb6 |   |  
-  |   |   |  
-  | https://towardsdatascience.com/creating-a-trashy-model-from-scratch-with-tensorflow-2-an-example-with-an-anomaly-detection-27f0d1d7bd00 |   |  
-  |   |   |  
-  | GAN |   |  
-  | TensorFlow-Advanced-Techniques-Solution https://github.com/Hunterdii/TensorFlow-Advanced-Techniques-Solution/tree/main |   |  
-  | TensorFlow-Machine-Learning-Projects https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master |   |  
-  | Tensorflow Datasets https://www.tensorflow.org/datasets/catalog |   |  
-  | Build a Generative Adversarial Neural Network with Tensorflow and Python \| Deep Learning Projects |   |  
-  | https://www.youtube.com/watch?v=AALBGpLbj6Q |   |  
-  | Git Link https://github.com/nicknochnack/GANBasics/tree/main |   |  
-  |   |   |  
-  | Explain |   |  
-  | TensorFlow-Machine-Learning-Projects                                https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master |   |  
-  | 25 TensorFlow Projects Ideas                                https://www.projectpro.io/article/tensorflow-projects-ideas-for-beginners/455 |   |  
-  | Applications of TensorFlow |   |  
-  | ---------------------------- |   |  
-  | Natural Language Processing (NLP) |   |  
-  | Recommender Systems |   |  
-  | Time Series Forecasting |   |  
-  |   |   |  
-  | Image Recognition |   |  
-  | https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb |   |  
-  | https://github.com/rdcolema/tensorflow-image-classification |   |  
-  | https://github.com/madhura-3/Basic-Image-Classification-with-TensorFlow |   |  
-  | https://github.com/billy-enrizky/TensorFlow-Image-Classification |   |  
-  | https://github.com/Faisal-AlDhuwayhi/Image-Classifier-TensorFlow |   |  
-  | https://github.com/xuetsing/image-classification-tensorflow |   |  
-  | https://github.com/debdattasarkar/Image-Classification-with-CNN-in-TensorFlow/tree/main |   |  
-  | https://github.com/Ahad-Al-Seraihi/Image-Classifier-with-TensorFlow |   |  
-  | https://github.com/Adesoji1/Food-Image-Classification/tree/main |   |  
-  | https://medium.com/@RaghavPrabhu/a-simple-tutorial-to-classify-images-using-tensorflow-step-by-step-guide-7e0fad26c22 |   |  
-  | https://github.com/cedoula/TensorFlow-Basic-Image-Classification |   |  
-  | https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2022-12-16-tf-cifar/2022-12-16/ |   |  
-  | https://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/ |   |  
-  | https://github.com/Faisal-AlDhuwayhi/Image-Classifier-TensorFlow/tree/master |   |  
-  | https://github.com/anubhavparas/image-classification-using-cnn |   |  
-  |   |   |  
-  | Explain |   |  
-  |   |   |  
-  | https://github.com/Rhythm1821/CNN-Image-Classification |   |  
-  | https://github.com/jeffprosise/Deep-Learning/blob/master/Image%20Classification%20(CNN).ipynb |   |  
-  | https://github.com/MahmudulAlam/Image-Classification-Using-CNN |   |  
-  | https://github.com/SonerYldrm/Image-Classification-with-CNNs/blob/master/ImageClassification_CNN.ipynb |   |  
-  | https://github.com/SreeEswaran/Image-classification-using-CNN/blob/main/notebooks/Image_Classification_using_CNN.ipynb |   |  
-  | https://github.com/Hvass-Labs/TensorFlow-Tutorials/tree/master |   |  
-  | https://github.com/aymericdamien/TensorFlow-Examples/tree/master |   |  
-  | https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/recurrent_network.ipynb |   |  
-  | ok |   |  
-  | may be all the ipynb files are working fine |   |  
-  | Excellant Tutorial                        https://github.com/y33-j3T/Coursera-Deep-Learning/tree/master |   |  
-  | Excellant Tutorial                        https://github.com/serengil/tensorflow-101/tree/master |   |  
-  | https://github.com/mpolinowski/tensorflow-deepface/blob/master/notebooks/Deepface.ipynb |   |  
-  | https://sharmaji27.medium.com/20-unique-deep-learning-projects-with-source-code-9b9a76c29da9 |   |  
-  | https://machinelearningprojects.net/number-plate-detection-using-yolov7/ |   |  
-  | https://machinelearningprojects.net/stock-price-prediction/ |   |  
-  | Tutorial        https://www.youtube.com/watch?v=V61xy1ZnVTM&ab_channel=KothaEd |   |  
-  | Code        https://drive.google.com/file/d/1rIXgFJLW-I2oUNRi1TAAA3yWmz053lkk/view |   |  
-  | Dataset        https://drive.usercontent.google.com/download?id=1CGiAWso43GCsNo_faRq4jdDIlmwy7YI4&export=download |   |  
-  | worked fine before model save |   |  
-  | Code        https://www.geeksforgeeks.org/heart-disease-prediction-using-ann/ |   |  
-Image Classification Project in Python \| Deep Learning Neural Network Model Project in Python | Youtube Link: https://www.youtube.com/watch?v=V61xy1ZnVTMLink to Dataset: https://drive.google.com/file/d/1CGiAWso43GCsNo_faRq4jdDIlmwy7YI4/viewLink to Code: https://drive.google.com/file/d/1rIXgFJLW-I2oUNRi1TAAA3yWmz053lkk/viewNeed to Check |   |  
-  | ttps://github.com/kiecodes/image-classifier-cnn-tensorflow/blob/main/image-classification-cnn-tensorflow.ipynb | https://www.youtube.com/watch?v=NMiNCUt7qgw&ab_channel=KieCodeshttps://github.com/kiecodes/image-classifier-cnn-tensorflow/blob/main/image-classification-cnn-tensorflow.ipynbpip uninstall keraspip install keraspip uninstall tensorflowpip install tensorflowpip install --upgrade tensorflowpip install --upgrade ml_dtypesjupyter notebookcondapython 3.12.5 C:\khan\ai\image-classifier-cnn-tensorflowWorks Well Prediction is good/perfect |  
-  | Computer-Vision-Projects |   |  
-  |   |   |  
-  | Explain |   |  
-  | https://www.geeksforgeeks.org/computer-vision-projects/ |   |  
-  | https://sharmaji27.medium.com/30-unique-computer-vision-projects-with-source-code-3465ae58d6b4 |   |  
-  | https://rareconnections.io/computer-vision-projects/ |   |  
-  | https://neptune.ai/blog/15-computer-visions-projects |   |  
-  | https://github.com/avs-abhishek123/Computer-Vision-Projects |   |  
-  | OK        Blur_detection |   |  
-  | OK        CV_Algos |   |  
-  | OK        Contour_detection |   |  
-  | OK        Contrast_detection |   |  
-  | OK        Corner_Detection |   |  
-  | OK        Template-matching |   |  
-  | OK        Video_to_gif_or_frames |   |  
-  | OK        boundingbox_draw |   |  
-  | OK        convert_video_to_frames |   |  
-  | Need to check all files properly |   |  
-  |   |   |  
-  |   |   |  
-Object Detection | https://www.youtube.com/watch?v=8FV9GpS59Fshttps://github.com/Tech-Watt/Faster-RCNN-PYTORCHplatform: anacondapython: 3.12.4(conda)editor: visual studio(conda) |   |  
-  |   |   |  
-Video Samples | https://github.com/intel-iot-devkit/sample-videos?tab=readme-ov-file |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-Use TorchServe and Flask to Deploy your Model as a Web App | Example-1: https://medium.com/@pumaline/use-torchserve-and-flask-to-deploy-your-model-as-a-web-app-6d612eccdcd7Example-2: https://medium.com/@chenyumei8866/deploying-pytorch-models-quickly-with-flask-5f8464e1c98 |   |  
-  |   |   |  
-Machine-Learning-Algorithms-in-Python | AdaboostAdaptive Projected Subgradient Method (APSM)Convolutional Neural Network (CNN)Compressed Sensing Matching Pursuit (CSMP)Decision treeFuzzy C MeansHierarchical and DBSCAN ClusteringIterative Shrinkage/Thresholding (IST) algorithmsKernal PCAK-means familyKNNLinear Discriminant Analysis (LDA)Linear RegressionLogistic RegressionMultipule layer ANNNaive BayesOrthogonal Matching Pursuit (OMP)Principal Component Analysis (PCA)Support Vector Machine (SVM)The Primal Estimated Subgradient Solver for SVM (PEGASOS)PerceptronSequential feature selection (SBS)Ref-1: https://github.com/stonemason11/Machine-Learning-Algorithms-in-PythonRef-2: https://github.com/GeorgeSeif/Python-Machine-LearningRef-3: https://tapatisclasses.in/linear-regression-previous-years-board-questions-2014-to-2022-with-solutions-of-isc-class-12-mathematics/Ref-4: https://byjus.com/linear-regression-formula/Standard Deviation(Sigma), Mean, Sum, CountFormula: https://www.calculator.net/standard-deviation-calculator.html |   |  
-
-
-<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
-  | Youtube Link: https://www.youtube.com/watch?v=2GQm10JJ1BYGit Link: https://github.com/bipin-saha/MNIST_HWDR_WebAppPython: 3.10Comment: Works Great |   |  
--- | -- | -- | --
-  |   |   |  
-Algorithm Calculations | Math Symbols and Their Names: https://englishan.com/symbols-of-maths-with-name/Matrix Calculator/Tensor Calculator: https://www.calculator.net/matrix-calculator.htmlTensor ADD/SUB/MUL/DIV: https://www.w3schools.com/ai/ai_tensorflow_operations.aspConda: https://stackoverflow.com/questions/48174935/conda-creating-a-virtual-environmentHow to create a TensorFlow 2 model from scratch — A “trashy” example of Detecting Waste: https://github.com/DanielWicz/trashanomaly/blob/master/tutorial_notebook.ipynb |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-  |   |   |  
-Indian Weather Repository (Analysis) | https://www.kaggle.com/code/shivam6183/indian-weather-repository-analysis        Dataset:https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input |   |  
-India Air quality and temp correlation | https://www.kaggle.com/code/matviyamchislavskiy/india-air-quality-and-temp-correlation |   |  
-Forecasting Weather Patterns with LSTM: A Python Guide Without Dates | https://medium.com/@sebastienwebdev/forecasting-weather-patterns-with-lstm-a-python-guide-without-dates-433f0356136c  ipynb |   |  
-LSTM Models for multi-step time-series forecast | https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/notebook        Dataset:https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/input |   |  
-Household_Power_consumption | https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/notebook        Dataset        https://github.com/ahanse/machlearning/blob/master/household_power_consumption.csv        https://github.com/ahanse/machlearning/blob/master/household_power_consumption%20-%202.csv        https://www.kaggle.com/datasets/sagnikseal/household-power-consumption/data |   |  
  
-Advanced-NLP-Projects-with-TensorFlow-2.0 | https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0/tree/master |   |  
-Emotional Speech Recognition | https://www.kaggle.com/code/brsdincer/emotional-speech-recognition-audio-process-all        Dataset:https://www.kaggle.com/code/brsdincer/emotional-speech-recognition-audio-process-all/input        Dataset:https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/input |   |  
-Speech-Emotion-Recognition-in-Tensorflow-Using-CNNs | https://github.com/amirragab-ds/Speech-Emotion-Recognition-in-Tensorflow-Using-CNNs |   |  
-An-Introduction-to-Indian-Weather-Repository | https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/notebook        Dataset:https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input |   |  
-Face Recognition with Python | https://data-flair.training/blogs/python-face-recognition/ |   |  
-Facial Emotion Recognition with OpenCV and Deepface: Step-by-Step Tutorial | https://pub.aimind.so/facial-emotion-recognition-with-opencv-and-deepface-step-by-step-tutorial-6e3ba2c803a3        https://github.com/ajitharunai/Facial-Emotion-Recognition-with-OpenCV-and-Deepface/tree/main        https://github.com/opencv/opencv/tree/master/data/haarcascades |   |  
+List of Natural Language Processing (NLP) Projects
+```
+https://www.knowledgehut.com/blog/data-science/nlp-projects
+
+```
+Extracting Important Keywords from Text with TF-IDF
+```
+Code 
+https://github.com/kavgan/nlp-in-practice/blob/master/tf-idf/Keyword%20Extraction%20with%20TF-IDF%20and%20SKlearn.ipynb
+ 
+https://github.com/kavgan/nlp-in-practice/tree/master/tf-idf/data
+File-1 stackoverflow-data-idf.json
+File-2 stackoverflow-test.json
+Stopwords 
+https://github.com/kavgan/nlp-in-practice/blob/master/tf-idf/resources/stopwords.txt
+```
+ 
+Text Classification with Logistic Regression
+```
+Explain
+
+https://github.com/kavgan/nlp-in-practice/blob/master/text-classification/notebooks/Text%20Classification%20with%20Logistic%20Regression.ipynb
+        
+https://github.com/kavgan/nlp-in-practice/blob/master/text-classification/data/news_category_.json
+OK
+Text classification with meta-learning
+
+https://github.com/phanxuanphucnd/meta-learning
+        
+https://github.com/phanxuanphucnd/meta-learning/blob/main/.json
+```
+Chatbot with Seq2Seq Model
+```
+
+https://github.com/llSourcell/tensorflow_chatbot
+```
+Extract-Stock-Sentiment-From-News-Headlines
+```
+
+https://github.com/copev313/Extract-Stock-Sentiment-From-News-Headlines/blob/main/notebook.ipynb
+        
+https://github.com/copev313/Extract-Stock-Sentiment-From-News-Headlines/tree/main/
+```
+Sentiment Analysis with Deep Learning using BERT
+```
+
+https://github.com/dA505819/Sentiment_Analysis_with_Deep_Learning_using_BERT/blob/master/Sentiment_Analysis.ipynb
+        
+https://github.com/dA505819/Sentiment_Analysis_with_Deep_Learning_using_BERT/tree/master/Data
+```
+NLP-Topic-Modeling-LDA-NMF
+```
+
+https://github.com/AnushaMeka/NLP-Topic-Modeling-LDA-NMF/blob/master/Topic%20Modeling.ipynb
+        
+https://github.com/AnushaMeka/NLP-Topic-Modeling-LDA-NMF/blob/master/articles.csv
+Getting Started
+
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/00.getting_started.ipynb
+Neural Network
+
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/01.neural_network.ipynb
+Heart Disease Prediction
+
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/02.heart_disease_prediction.ipynb
+https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb
+        
+https://github.com/kb22/Heart-Disease-Prediction/blob/master/.csv
+https://www.kaggle.com/code/princekr/starter-heart-csv-f47cc3be-a/input
+https://figshare.com/articles//heart_csv/20236848?file=36169122
+https://www.kaggle.com//zhaoyingzhu/heartcsv/code
+https://www.kaggle.com//arezaei81/heartcsv
+```
+
+```
+Stock Prediction
+
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/03.stock_prediction.ipynb
+        
+https://raw.githubusercontent.com/curiousily/Deep-Learning-For-Hackers/master/data/3.stock-prediction/BTC-USD.csv
+```
+Handling Imbalanced Data
+```
+
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/05.handling_imbalanced_data.ipynb
+        N/A
+
+https://github.com/sharmaroshan/Insurance-Claim-Prediction/blob/master/InsuranceClaim.ipynb
+
+https://github.com/sharmaroshan/Insurance-Claim-Prediction/blob/master/insurance-claim-prediction_version2.ipynb
+        
+https://github.com/sharmaroshan/Insurance-Claim-Prediction/blob/master/insurance.csv
+OK
+
+https://www.kaggle.com/code/mohammedmohsen0404/insurance-claim-prediction/notebook
+        
+https://www.kaggle.com/code/mohammedmohsen0404/insurance-claim-prediction/input?select=insurance3r2.csv
+
+https://www.kaggle.com/code/akashrangapur/health-insurance-analysis-using-statistical-models
+        
+https://www.kaggle.com/code/akashrangapur/health-insurance-analysis-using-statistical-models/input?select=insurance2.csv
+
+https://github.com/sharmaroshan/Insurance-Claim-Prediction/tree/master
+        
+https://www.kaggle.com//easonlai/sample-insurance-claim-prediction-
+
+https://www.kaggle.com/code/yasserh/insurance-claim-prediction-top-ml-models
+        
+https://www.kaggle.com/code/yasserh/insurance-claim-prediction-top-ml-models/input
+
+https://github.com/prathibha13/Insurance-Claim-Prediction/tree/main
+
+https://www.kaggle.com/code/jocelyndumlao/insurance-claim-prediction-data-analysis
+        
+https://www.kaggle.com/code/mohammedmohsen0404/insurance-claim-prediction
+```
+Bias Variance Tradeoff
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/06.bias_variance_tradeoff.ipynb
+```
+
+Hyperparameter Tuning
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/07.hyperparameter_tuning.ipynb
+```
+
+Deploy to Production
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/08.deploy_to_production.ipynb
+```
+
+Data Preprocessing
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/09.data_preprocessing.ipynb
+```
+
+Fundamental Algorithms
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/10.fundamental_algorithms.ipynb
+```
+
+Time Series
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/11.time_series.ipynb
+```
+
+Time Series Demand Prediction
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/12.time-series-demand_prediction.ipynb
+```
+
+Time Series Human Activity Recognition
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/13.time-series-human_activity_recognition.ipynb
+```
+
+Time Series Anomaly Detection
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/14.time-series-anomaly-detection.ipynb        
+https://drive.google.com/uc?id=10vdMg_RazoIatwrT7azKFX4P02OebU76ready to git
+```
+ 
+ 
+Object Detection
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/15.object-detection.ipynb
+```
+   
+Image Augmentation
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/16.image-augmentation.ipynb
+```
+
+Sentiment Analysis
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/17.sentiment-analysis.ipynb
+```
+
+Intent Recognition with BERT
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb
+```
+
+Hindi to English translation using RNN
+```
+https://github.com/uday8688/Language-Translation-From-English-Hindi-Using-Rnns/blob/main/deeplearning-final-project.ipynb
+```
+ 
+heart-disease-prediction
+```
+https://github.com/Monica-Gullapalli/heart-disease-prediction-using-machine-learning-with-flask/tree/main
+https://medium.com/@nutanbhogendrasharma/heart-disease-prediction-with-tensorflow-feature-columns-e3e7bb67b19b
+https://github.com/asthasharma98/Heart-Disease-Prediction-Deployment
+Excellant but Result is not comming, Need to recheck
+app.run(debug=True, port=5001)
+https://github.com/asthasharma98/Data-Science/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb
+https://github.com/asthasharma98/Data-Science/blob/main/Heart%20Disease%20Prediction/heart_cleveland_upload.csv
+https://www.kaggle.com/code/gcdatkin/predicting-heart-attacks-with-tensorflow/notebook
+https://www.kaggle.com/code/gcdatkin/predicting-heart-attacks-with-tensorflow/input?select=heart.csv
+https://towardsdatascience.com/heart-disease-prediction-in-tensorflow-2-tensorflow-for-hackers-part-ii-378eef0400ee
+https://www.kaggle.com//johnsmith88/heart-disease-?select=heart.csv
+https://www.kaggle.com//redwankarimsony/heart-disease-data?select=heart_disease_uci.csv
+https://www.kaggle.com/code/minanabil11111212/heart-disease-logistics-regression-model
+https://www.kaggle.com/code/greggodellas/heart-disease-case-study-1-gg
+```
+ 
+Image Classifier
+Deploy Machine Learning Models using Flask
+```
+https://www.youtube.com/watch?v=0nr6TPKlrN0
+https://github.com/JayMehtaUK/image-classifier
+```
+ 
+Object Detection with Tensorflow
+```
+https://medium.com/@maximejabarian/object-detection-with-tensorflow-71d3fb8b014e
+https://medium.com/nerd-for-tech/building-an-object-detector-in-tensorflow-using-bounding-box-regression-2bc13992973f
+https://matthewturner-irl.medium.com/customized-object-detection-using-tensorflow-14dd9fa6dfb6
+https://towardsdatascience.com/creating-a-trashy-model-from-scratch-with-tensorflow-2-an-example-with-an-anomaly-detection-27f0d1d7bd00
+```
+ 
+GAN
+```
+TensorFlow-Advanced-Techniques-Solution 
+https://github.com/Hunterdii/TensorFlow-Advanced-Techniques-Solution/tree/main
+TensorFlow-Machine-Learning-Projects 
+https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master
+Tensorflow  
+https://www.tensorflow.org//catalog
+Build a Generative Adversarial Neural Network with Tensorflow and Python \| Deep Learning Projects
+https://www.youtube.com/watch?v=AALBGpLbj6Q
+Git Link 
+https://github.com/nicknochnack/GANBasics/tree/main
+Explain
+TensorFlow-Machine-Learning-Projects                                
+https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master
+```
+
+25 TensorFlow Projects Ideas                                
+```
+https://www.projectpro.io/article/tensorflow-projects-ideas-for-beginners/455
+```
+Applications of TensorFlow
+```
+Natural Language Processing (NLP)
+Recommender Systems
+Time Series Forecasting
+Image Recognition
+https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb
+https://github.com/rdcolema/tensorflow-image-classification
+https://github.com/madhura-3/Basic-Image-Classification-with-TensorFlow
+https://github.com/billy-enrizky/TensorFlow-Image-Classification
+https://github.com/Faisal-AlDhuwayhi/Image-Classifier-TensorFlow
+https://github.com/xuetsing/image-classification-tensorflow
+https://github.com/debdattasarkar/Image-Classification-with-CNN-in-TensorFlow/tree/main
+https://github.com/Ahad-Al-Seraihi/Image-Classifier-with-TensorFlow
+https://github.com/Adesoji1/Food-Image-Classification/tree/main
+https://medium.com/@RaghavPrabhu/a-simple-tutorial-to-classify-images-using-tensorflow-step-by-step-guide-7e0fad26c22
+https://github.com/cedoula/TensorFlow-Basic-Image-Classification
+https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2022-12-16-tf-cifar/2022-12-16/
+https://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/
+https://github.com/Faisal-AlDhuwayhi/Image-Classifier-TensorFlow/tree/master
+https://github.com/anubhavparas/image-classification-using-cnn
+Explain
+https://github.com/Rhythm1821/CNN-Image-Classification
+https://github.com/jeffprosise/Deep-Learning/blob/master/Image%20Classification%20(CNN).ipynb
+https://github.com/MahmudulAlam/Image-Classification-Using-CNN
+https://github.com/SonerYldrm/Image-Classification-with-CNNs/blob/master/ImageClassification_CNN.ipynb
+https://github.com/SreeEswaran/Image-classification-using-CNN/blob/main/notebooks/Image_Classification_using_CNN.ipynb
+https://github.com/Hvass-Labs/TensorFlow-Tutorials/tree/master
+https://github.com/aymericdamien/TensorFlow-Examples/tree/master
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/recurrent_network.ipynb
+ok
+may be all the ipynb files are working fine
+Excellant Tutorial                        
+https://github.com/y33-j3T/Coursera-Deep-Learning/tree/master
+Excellant Tutorial                        
+https://github.com/serengil/tensorflow-101/tree/master
+https://github.com/mpolinowski/tensorflow-deepface/blob/master/notebooks/Deepface.ipynb
+https://sharmaji27.medium.com/20-unique-deep-learning-projects-with-source-code-9b9a76c29da9
+https://machinelearningprojects.net/number-plate-detection-using-yolov7/
+https://machinelearningprojects.net/stock-price-prediction/
+Tutorial        
+https://www.youtube.com/watch?v=V61xy1ZnVTM&ab_channel=KothaEd
+https://drive.google.com/file/d/1rIXgFJLW-I2oUNRi1TAAA3yWmz053lkk/view
+        
+https://drive.usercontent.google.com/download?id=1CGiAWso43GCsNo_faRq4jdDIlmwy7YI4&export=download
+worked fine before model save
+https://www.geeksforgeeks.org/heart-disease-prediction-using-ann/
+Image Classification Project in Python \| Deep Learning Neural Network Model Project in Python
+Youtube Link: 
+https://www.youtube.com/watch?v=V61xy1ZnVTMLink to  
+https://drive.google.com/file/d/1CGiAWso43GCsNo_faRq4jdDIlmwy7YI4/viewLink to Code: 
+https://drive.google.com/file/d/1rIXgFJLW-I2oUNRi1TAAA3yWmz053lkk/viewNeed to Check
+https://github.com/kiecodes/image-classifier-cnn-tensorflow/blob/main/image-classification-cnn-tensorflow.ipynb
+https://www.youtube.com/watch?v=NMiNCUt7qgw&ab_channel=KieCodes
+https://github.com/kiecodes/image-classifier-cnn-tensorflow/blob/main/image-classification-cnn-tensorflow.ipynbpip uninstall keraspip install keraspip uninstall tensorflowpip install tensorflowpip install --upgrade tensorflowpip install --upgrade ml_dtypesjupyter notebookcondapython 3.12.5 C:\khan\ai\image-classifier-cnn-tensorflowWorks Well Prediction is good/perfect
+```
+
+Computer-Vision-Projects
+```
+https://www.geeksforgeeks.org/computer-vision-projects/
+https://sharmaji27.medium.com/30-unique-computer-vision-projects-with-source-code-3465ae58d6b4
+https://rareconnections.io/computer-vision-projects/
+https://neptune.ai/blog/15-computer-visions-projects
+https://github.com/avs-abhishek123/Computer-Vision-Projects
+OK        Blur_detection
+OK        CV_Algos
+OK        Contour_detection
+OK        Contrast_detection
+OK        Corner_Detection
+OK        Template-matching
+OK        Video_to_gif_or_frames
+OK        boundingbox_draw
+OK        convert_video_to_frames
+Need to check all files properly
+```
+ 
+ 
+Object Detection
+```
+https://www.youtube.com/watch?v=8FV9GpS59Fs
+https://github.com/Tech-Watt/Faster-RCNN-PYTORCHplatform: anacondapython: 3.12.4(conda)editor: visual studio(conda)
+Video Samples
+https://github.com/intel-iot-devkit/sample-videos?tab=readme-ov-file
+Use TorchServe and Flask to Deploy your Model as a Web App
+Example-1: 
+https://medium.com/@pumaline/use-torchserve-and-flask-to-deploy-your-model-as-a-web-app-6d612eccdcd7Example-2: 
+https://medium.com/@chenyumei8866/deploying-pytorch-models-quickly-with-flask-5f8464e1c98
+ 
+Machine-Learning-Algorithms-in-Python
+AdaboostAdaptive Projected Subgradient Method (APSM)Convolutional Neural Network (CNN)Compressed Sensing Matching Pursuit (CSMP)Decision treeFuzzy C MeansHierarchical and DBSCAN ClusteringIterative Shrinkage/Thresholding (IST) algorithmsKernal PCAK-means familyKNNLinear Discriminant Analysis (LDA)Linear RegressionLogistic RegressionMultipule layer ANNNaive BayesOrthogonal Matching Pursuit (OMP)Principal Component Analysis (PCA)Support Vector Machine (SVM)The Primal Estimated Subgradient Solver for SVM (PEGASOS)PerceptronSequential feature selection (SBS)Ref-1: 
+https://github.com/stonemason11/Machine-Learning-Algorithms-in-PythonRef-2: 
+https://github.com/GeorgeSeif/Python-Machine-LearningRef-3: 
+https://tapatisclasses.in/linear-regression-previous-years-board-questions-2014-to-2022-with-solutions-of-isc-class-12-mathematics/Ref-4: 
+https://byjus.com/linear-regression-formula/Standard Deviation(Sigma), Mean, Sum, CountFormula: 
+https://www.calculator.net/standard-deviation-calculator.html
+```
+Youtube Link: 
+```
+https://www.youtube.com/watch?v=2GQm10JJ1BYGit Link: 
+https://github.com/bipin-saha/MNIST_HWDR_WebAppPython: 3.10Comment: Works Great
+```
+ 
+Algorithm Calculations
+```
+Math Symbols and Their Names: 
+https://englishan.com/symbols-of-maths-with-name/Matrix Calculator/Tensor Calculator: 
+https://www.calculator.net/matrix-calculator.htmlTensor ADD/SUB/MUL/DIV: 
+https://www.w3schools.com/ai/ai_tensorflow_operations.aspConda: 
+https://stackoverflow.com/questions/48174935/conda-creating-a-virtual-environmentHow to create a TensorFlow 2 model from scratch — A “trashy” example of Detecting Waste: 
+https://github.com/DanielWicz/trashanomaly/blob/master/tutorial_notebook.ipynb
+```
+ 
+Indian Weather Repository (Analysis)
+```
+https://www.kaggle.com/code/shivam6183/indian-weather-repository-analysis        
+ https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input
+```
+
+India Air quality and temp correlation
+```
+https://www.kaggle.com/code/matviyamchislavskiy/india-air-quality-and-temp-correlation
+Forecasting Weather Patterns with LSTM: A Python Guide Without Dates
+```
+
+LSTM Models for multi-step time-series forecast
+```
+https://medium.com/@sebastienwebdev/forecasting-weather-patterns-with-lstm-a-python-guide-without-dates-433f0356136c  ipynb
+https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/notebook        
+https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/input
+```
+Household_Power_consumption
+```
+https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/notebook                
+https://github.com/ahanse/machlearning/blob/master/household_power_consumption.csv        
+https://github.com/ahanse/machlearning/blob/master/household_power_consumption%20-%202.csv        
+https://www.kaggle.com//sagnikseal/household-power-consumption/data
+```
+ 
+Advanced-NLP-Projects-with-TensorFlow-2.0
+```
+https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0/tree/master
+Emotional Speech Recognition
+https://www.kaggle.com/code/brsdincer/emotional-speech-recognition-audio-process-all        
+https://www.kaggle.com/code/brsdincer/emotional-speech-recognition-audio-process-all/input        
+https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/input
+```
+
+Speech-Emotion-Recognition-in-Tensorflow-Using-CNNs
+```
+https://github.com/amirragab-ds/Speech-Emotion-Recognition-in-Tensorflow-Using-CNNs
+```
+
+An-Introduction-to-Indian-Weather-Repository
+```
+https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/notebook        
+https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input
+```
+Face Recognition with Python
+```
+https://data-flair.training/blogs/python-face-recognition/
+```
+Facial Emotion Recognition with OpenCV and Deepface: Step-by-Step Tutorial
+```
+https://pub.aimind.so/facial-emotion-recognition-with-opencv-and-deepface-step-by-step-tutorial-6e3ba2c803a3        
+https://github.com/ajitharunai/Facial-Emotion-Recognition-with-OpenCV-and-Deepface/tree/main        
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+```
+
+```
+https://www.kaggle.com/code/akanksha496/spam-detection-using-tensorflow
+https://github.com/rgdavies92/tensorflow-spam
+https://www.kaggle.com/code/banddaniel/spam-mail-detection-w-tensorflow-distilbert
+https://www.tutorialspoint.com/sms-spam-detection-using-tensorflow-in-python
+```
+
+CIFAR-10 Image Classification
+```
+https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/
+```
+
+Image Classification with TensorFlow
+```
+https://thecleverprogrammer.com/2020/08/30/image-classification-with-tensorflow-in-machine-learning/
+```
+Multiclass image classification using Transfer learning
+```
+https://www.geeksforgeeks.org/multiclass-image-classification-using-transfer-learning/
+```
+Image Classification with Artificial Neural Networks
+```
+https://thecleverprogrammer.com/2020/07/19/image-classification-with-ann/
+```
+MULTI-CLASS IMAGE CLASSIFICATION FLASK APP \| COMPLETE PROJECT(FLASK)
+```
+https://buffml.com/multi-class-image-classification-flask-app-complete-project/
+```
+
+```
+buffml.com
+Image Classification
+
+https://thecleverprogrammer.com/2020/07/16/pytorch-for-deep-learning/
+Image Recognition using TensorFlow
+
+https://www.geeksforgeeks.org/image-recognition-using-tensorflow/                                
+https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+C:\khan\ai\image-classification-with-tensorflow                                        image-recognition-using-tensorflow.ipynb
+Image Classification with TensorFlow                                                
+https://medium.com/@ilaslanduzgun/image-classification-with-tensorflow-a361c7b1eb05                                        
+https://www.tensorflow.org/tutorials/images/classification?hl=ja                                        
+https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+C:\khan\ai\image-classification-with-tensorflow                                        image-classification-with-tensorflow.ipynb                                        OK
+Image Classification with TensorFlow                                                
+https://www.kaggle.com/code/tirendazacademy/image-classification-with-tensorflow/notebook                                        
+https://www.kaggle.com//sanikamal/horses-or-humans-
+C:\khan\ai\image-classification-with-tensorflow                                        image-classification-with-tensorflow-notebook.ipynb                                        OK
+Basic Image Classification                                                
+https://www.tensorflow.org/tutorials/keras/classification                                        
+https://www.tensorflow.org/tutorials/keras/classification?hl=ja                                                
+https://github.com/zalandoresearch/fashion-mnist?tab=readme-ov-file#get-the-data                                Download by using Internet explorer
+C:\khan\ai\image-classification-with-tensorflow                                        keras-classification.ipynb                                        OK
+
+https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb
+
+https://github.com/rdcolema/tensorflow-image-classification
+
+https://github.com/madhura-3/Basic-Image-Classification-with-TensorFlow
+
+https://github.com/billy-enrizky/TensorFlow-Image-Classification
+
+https://github.com/Faisal-AlDhuwayhi/Image-Classifier-TensorFlow
+
+https://github.com/xuetsing/image-classification-tensorflow
+
+https://github.com/debdattasarkar/Image-Classification-with-CNN-in-TensorFlow/tree/main
+
+https://github.com/Ahad-Al-Seraihi/Image-Classifier-with-TensorFlow
+
+https://github.com/Adesoji1/Food-Image-Classification/tree/main
+
+https://medium.com/@RaghavPrabhu/a-simple-tutorial-to-classify-images-using-tensorflow-step-by-step-guide-7e0fad26c22
+
+https://github.com/cedoula/TensorFlow-Basic-Image-Classification
+
+https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2022-12-16-tf-cifar/2022-12-16/
+
+https://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/
+
+https://github.com/Faisal-AlDhuwayhi/Image-Classifier-TensorFlow/tree/master
+
+https://github.com/anubhavparas/image-classification-using-cnn
+
+https://github.com/Rhythm1821/CNN-Image-Classification
+
+https://github.com/jeffprosise/Deep-Learning/blob/master/Image%20Classification%20(CNN).ipynb
+
+https://github.com/MahmudulAlam/Image-Classification-Using-CNN
+
+https://github.com/SonerYldrm/Image-Classification-with-CNNs/blob/master/ImageClassification_CNN.ipynb
+
+https://github.com/SreeEswaran/Image-classification-using-CNN/blob/main/notebooks/Image_Classification_using_CNN.ipynb
+
+https://github.com/Hvass-Labs/TensorFlow-Tutorials/tree/master
+
+https://github.com/mrdbourke/tensorflow-deep-learning/tree/main
+C:\khan\ai\tensorflow-deep-learning        00_tensorflow_fundamentals.ipynb                                        OK
+
+https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb
+50%
+
+https://github.com/pankush9096/Image-Classification-using-CNN                                        
+https://github.com/kevincwu0/cnn-image-classification/tree/master                                                C:\khan\ai\image-classification-with-tensorflow\cnn-image-classification                                        cnn.py                                        cnn.ipynb                                                
+https://github.com/kevincwu0/cnn-image-classification/tree/master/                                        
+https://www.kaggle.com//chetankv/dogs-cats-images                                OK                                                                                                                
+https://github.com/aymericdamien/TensorFlow-Examples/tree/master                                                
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/autoencoder.ipynb                                        C:\khan\ai\TensorFlow-Examples\tensorflow_v2\notebooks\3_NeuralNetworks\autoencoder.ipynb                                        OK                                        C:\khan\ai\TensorFlow-Examples\tensorflow_v2\notebooks\3_NeuralNetworks\bidirectional_rnn.ipynb                                        OK                                        C:\khan\ai\TensorFlow-Examples\tensorflow_v2\notebooks\3_NeuralNetworks\convolutional_network_raw.ipynb                                        OK
+C:\khan\ai\TensorFlow-Examples\tensorflow_v2\notebooks\3_NeuralNetworks\convolutional_network.ipynb                                        OK
+ok
+Fake News Detection Model
+
+https://www.geeksforgeeks.org/fake-news-detection-model-using-tensorflow-in-python/
+
+https://www.kaggle.com/code/waquarhaseeb/fake-news-detection-using-tensorflow
+
+https://www.kaggle.com/code/utkarshxy/tackling-fake-news-with-tensorflow/notebook
+ 
+https://www.kaggle.com//clmentbisaillon/fake-and-real-news-
+
+https://medium.com/@carmenscartezini/fake-news-classification-tensorflow-x-pytorch-2a8f471a3713
+ 
+https://www.kaggle.com//saurabhshahane/fake-news-classification
+
+https://github.com/cmadusankahw/fake-news-detection-with-LSTM/tree/main
+Predict Fuel Efficiency
+
+https://www.geeksforgeeks.org/predict-fuel-efficiency-using-tensorflow-in-python/
+Face Mask Detection
+
+https://www.geeksforgeeks.org/facemask-detection-using-tensorflow-in-python/
+ 
+Image Segmentation
+
+https://www.geeksforgeeks.org/image-segmentation-using-tensorflow/
+Skin Cancer Detection
+
+https://www.geeksforgeeks.org/skin-cancer-detection-using-tensorflow/
+How can Tensorflow be used with the abalone  to build a sequential model?
+
+
+Deep learning for computer vision with python and Tensorflow - complete course
+
+https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=1725s&ab_channel=freeCodeCamp.org
+TensorFlow-Machine-Learning-Projects
+
+https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master
+ 
+Stock Price Prediction Project
+
+https://www.geeksforgeeks.org/stock-price-prediction-project-using-tensorflow/
+
+https://github.com/PacktPublishing/Advanced-Natural-Language-Processing-with-TensorFlow-2/tree/master
+
+https://github.com/camara94/natural-language-processing-tensorflow
+
+https://github.com/topics/tensorflow
+
+https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0/tree/master
+Classify Handwritten Digits
+
+https://www.geeksforgeeks.org/python-classifying-handwritten-digits-with-tensorflow/
+SMS Spam Detection
+
+https://www.geeksforgeeks.org/sms-spam-detection-using-tensorflow-in-python/
+CNN_image_classification
+
+https://medium.com/@sarka.pribylova/image-classification-using-cnn-0fad8367acfd
+
+https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/CNN_image_classification.ipynb
+imagenet_classification
+
+https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/imagenet_classification.ipynb
+edge_detection
+
+https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/edge_detection.ipynb
+tree_skeleton
+
+https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/tree_skeleton.ipynb
+Build a Generative Adversarial Neural Network with Tensorflow
+
+https://github.com/nicknochnack/GANBasics/tree/main
+ 
+https://www.tensorflow.org//catalog
+https://www.youtube.com/watch?v=AALBGpLbj6Q
+TensorFlow-Advanced-Techniques-Solution
+
+https://github.com/Hunterdii/TensorFlow-Advanced-Techniques-Solution/tree/main
+TensorFlow-Machine-Learning-Projects
+
+https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/tree/master
+started
+```
+
+``` 
+PYTORCH
+Image Recognition
+
+Image Classification
+
+https://thecleverprogrammer.com/2020/07/16/pytorch-for-deep-learning/
+Identifying handwritten digits using Logistic Regression
+
+https://www.geeksforgeeks.org/identifying-handwritten-digits-using-logistic-regression-pytorch/
+Basic MNIST Example
+
+https://github.com/pytorch/examples/tree/main/mnist
+pytorch cifar
+
+https://github.com/kuangliu/pytorch-cifar
+torch-sentiment-analysis
+
+https://github.com/bentrevett/pytorch-sentiment-analysis
+neural_style
+
+https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
+
+https://github.com/patrickloeber/pytorchTutorial
+
+https://github.com/patrickloeber/pytorch-examples
+
+https://github.com/patrickloeber/pytorch-chatbot
+
+https://www.geeksforgeeks.org/how-to-structure-a-pytorch-project/
+
+https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
+https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
+
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
+https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
+
+https://github.com/pytorch/examples/tree/main/siamese_network
+
+https://github.com/pytorch/examples/tree/main/word_language_model
+
+https://github.com/pytorch/examples/tree/main/imagenet
+
+https://github.com/pytorch/examples/tree/main/dcgan
+
+https://github.com/pytorch/examples/tree/main/vae
+
+https://github.com/pytorch/examples/tree/main/super_resolution
+
+https://github.com/pytorch/examples/tree/main/mnist_hogwild
+
+https://github.com/pytorch/examples/tree/main/reinforcement_learning
+
+https://github.com/pytorch/examples/tree/main/time_sequence_prediction
+
+https://github.com/pytorch/examples/tree/main/fast_neural_style
+
+https://github.com/pytorch/examples/tree/main/fx
+
+https://github.com/pytorch/examples/tree/main/distributed
+ 
+
+https://github.com/pytorch/examples/tree/main/mnist_forward_forward
+
+https://github.com/pytorch/examples/tree/main/gcn
+OPENCV
+Face and Hand Landmarks Detection
+
+
+OCR of Handwritten digits
+
+https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
+Text Detection and Extraction
+
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
+Black and white image colorization
+
+https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/
+License Plate Recognition with OpenCV and Tesseract OCR
+
+
+1 \| Project Name: Face and Hand Landmarks Detection using Python
+
+
+2 \| Project Name: OCR of Handwritten digits \\| OpenCV
+
+https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
+3 \| Project Name: Text Detection and Extraction using OpenCV and OCR
+
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
+4 \| Project Name: Black and white image colorization with OpenCV and Deep Learning
+
+https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/
+5 \| Project Name: License Plate Recognition with OpenCV and Tesseract OCR
+Tutorial/Git: 
+
+
+https://github.com/Modevntalking-com/ml-license-plate-vision/tree/mainpython detect.py -i
+
+https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg
+6 \| Project Name: Age Detection using Deep Learning in OpenCV
+
+
+7 \| Project Name: Cartooning an Image using OpenCV – Python
+
+https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/
+9 \| Project Name: Count number of Faces using Python – OpenCV
+
+https://www.geeksforgeeks.org/count-number-of-faces-using-python-opencv/
+10 \| Project Name: Computer Vision with Python
+
+https://thecleverprogrammer.com/2020/08/31/opencv-with-python-tutorial/
+11. 504 OpenCV Projects & Tutorials for Beginners and Up]
+
+https://www.hackster.io/opencv/projects
+12. 16-opencv-projects
+
+https://medium.com/@pies052022/16-opencv-projects-ideas-topics-for-beginners-with-source-code-2024-bedfa8165c3b
+
+https://github.com/Modevntalking-com/ml-license-plate-vision/tree/main
+python ./detect.py -i 
+https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg/Users/user/Desktop/AI/ml-license-plate-vision
+
+https://bitbucket.org/viewsoftbd/licence-plate-detection/src/main/
+Age Detection
+
+
+/Users/user/Desktop/AI/age-detection-using-deep-learning-in-opencv
+https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view
+
+https://bitbucket.org/viewsoftbd/age-detection/src/main/
+Cartooning an Image
+
+https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/
+
+https://www.geeksforgeeks.org/count-number-of-object-using-python-opencv/
+/Users/user/Desktop/AI/object_counter
+
+https://bitbucket.org/viewsoftbd/object-counter/src/main/
+Count number of Faces
+
+https://www.geeksforgeeks.org/count-number-of-faces-using-python-opencv/
+Computer Vision
+
+https://thecleverprogrammer.com/2020/08/31/opencv-with-python-tutorial/
+Flight Price Prediction with Flask app
+
+https://machinelearningprojects.net/flight-price-prediction/
+Youtube Comments Extraction and Sentiment Analysis Flask App
+
+https://machinelearningprojects.net/youtube-comments-extraction-and-sentiment-analysis/
+ 
+ 
+Object Detection
+Building a Real-Time Object Detection App with Flask and YOLO
+
+https://medium.com/@givkashi/building-a-real-time-object-detection-app-with-flask-and-yolo-afde97b62927
+
+https://github.com/givkashi/Object-Detection-Yolo-Flask/tree/mainyolov8n
+https://docs.ultralytics.com/tasks/detect/
+https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8n.pt/Users/user/Desktop/AI/Object-Detection-Yolo-Flaskuploads folder createmodel file download and save to root directoryWorking
+
+https://bitbucket.org/viewsoftbd/object-detection-yolo-flask/src/main/
+
+https://www.tensorflow.org/hub/tutorials/object_detection
+
+https://github.com/AIZOOTech/flask-object-detection
+
+https://github.com/GoogleCloudPlatform/tensorflow-object-detection-example/tree/master
+
+https://www.datascienceportfol.io/firastlili/projects/13
+Object Detection using SSD
+
+https://machinelearningprojects.net/object-detection-using-ssd/
+
+https://github.com/TLILIFIRAS/Real-Time-Object-Detection-With-Tensorflow-Keras-Resnet-and-Flask
+Object Detection
+
+https://thecleverprogrammer.com/2020/12/22/object-detection-with-python/
+Drone Object Detection
+
+https://www.computervision.zone/courses/drone-object-detection/
+Object Detection Yolo
+
+https://www.computervision.zone/courses/object-detection-yolo/
+Object Detection Mobile Net SSD
+
+https://www.computervision.zone/courses/object-detection-mobile-net-ssd/
+Social Distancing using YOLOv3 — object detection
+
+https://machinelearningprojects.net/social-distancing-using-yolov3/
+Object Detection
+Disease Prediction
+
+https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/
+Heart Disease Prediction Using Logistic Regression
+
+https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/
+Prediction of Wine type
+
+https://www.geeksforgeeks.org/prediction-of-wine-type-using-deep-learning/?ref=rp
+Kaggle Breast Cancer Wisconsin Diagnosis using Logistic Regression
+
+https://www.geeksforgeeks.org/ml-kaggle-breast-cancer-wisconsin-diagnosis-using-logistic-regression/
+Cancer cell classification using Scikit-learn
+
+https://www.geeksforgeeks.org/ml-cancer-cell-classification-using-scikit-learn/
+Kaggle Breast Cancer Wisconsin Diagnosis using KNN and Cross-Validation
+
+https://www.geeksforgeeks.org/ml-kaggle-breast-cancer-wisconsin-diagnosis-using-knn/
+Autism Prediction
+
+https://www.geeksforgeeks.org/autism-prediction-using-machine-learning/
+Fraud Detection
+Credit Card Fraud Detection
+
+https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/
+Credit Card Fraud Detection — easy way — 2023
+
+https://machinelearningprojects.net/credit-card-fraud-detection/
+Credit card fraudulent detection using Machine Learning through financial data.
+
+https://techieyantechnologies.com/credit-card-approval-detection-using-machine-learning-through-financial-data/
+ 
+Fraud Detection with Machine Learning.
+
+https://thecleverprogrammer.com/2020/08/04/fraud-detection-with-machine-learning/
+Online Payments Fraud Detection
+
+https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/
+
+https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb
+Online Payment Fraud Detection
+
+https://www.geeksforgeeks.org/online-payment-fraud-detection-using-machine-learning-in-python/
+min_value = df['Your Column Name'].min()max_value = df['Your Column Name'].max()
+https://www.calculator.net/standard-deviation-calculator.html
+https://www.calculatorsoup.com/calculators/statistics/standard-deviation-calculator.php
+https://www.ablebits.com/office-addins-blog/calculate-standard-deviation-excel/Sample Standard DeviationPopulation Standard DeviationMean/Median/AveragePercentile Calculator min+(max-min)*percentile
+https://www.calculatorsoup.com/calculators/statistics/percentile-calculator.php
+https://stackoverflow.com/questions/39567712/python-pandas-how-is-25-percentile-calculated-by-describe-function
+
+https://medium.com/amarpandey/identify-fraudulent-transaction-using-tensorflow-cnn-model-c4cc2ca14152
+Event classification for payment card fraud detection
+
+https://keras.io/examples/timeseries/event_classification_for_payment_card_fraud_detection/
+Credit-Card-Fraud-Detection-using-CNN-in-TensorFlow-2.0
+
+https://github.com/NLGRF/Credit-Card-Fraud-Detection-using-CNN-in-TensorFlow-2.0/blob/master/Credit%20Card%20Transaction%20Fraud%20Detection%20using%20CNN.ipynb
+Detecting payment card fraud with Temporian and TensorFlow Decision Forests
+
+https://temporian.readthedocs.io/en/stable/tutorials/bank_fraud_detection_with_tfdf/#create-and-plot-an-eventset
+Detecting credit card fraud using TensorFlow and Keras
+
+https://deepnote.com/app/deepnote/Detecting-credit-card-fraud-using-TensorFlow-and-Keras-9848c5e4-f0a5-4c88-987d-d3b1c171d1be
+
+https://www.kaggle.com//mlg-ulb/creditcardfraud
+https://github.com/dheerajrathee/TensorFlow-for-Detection-Credit-Card-Fraud
+Credit Card Fraud Detection with TensorFlow
+
+https://www.kaggle.com/code/patriciabrezeanu/credit-card-fraud-detection-with-tensorflow
+Credit Card Fraud Detection with Machine Learning
+
+https://thecleverprogrammer.com/2020/06/10/credit-card-fraud-detection-with-machine-learning/
+Fraud Detection
+Dogecoin Price Prediction
+
+https://www.geeksforgeeks.org/dogecoin-price-prediction-with-machine-learning/?ref=rp
+ 
+Ridge and Lasso Regression
+
+https://thecleverprogrammer.com/2020/10/09/ridge-and-lasso-regression-with-python/
+House Price Prediction using Machine Learning in Python
+
+https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
+Flipkart Reviews Sentiment Analysis using Python
+
+https://www.geeksforgeeks.org/flipkart-reviews-sentiment-analysis-using-python/
+Consumer Complaint Classification
+
+https://thecleverprogrammer.com/2022/11/28/consumer-complaint-classification-with-machine-learning/
+Waiter Tips Analysis & Prediction
+
+https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-learning/
+Ukraine vs Russia Twitter Sentiment Analysis
+
+https://thecleverprogrammer.com/2022/03/15/ukraine-russia-war-twitter-sentiment-analysis-using-python/
+Future Sales Prediction
+
+https://thecleverprogrammer.com/2022/03/01/future-sales-prediction-with-machine-learning/
+Cat & Dog Classification using Convolutional Neural Network in Python
+
+https://www.geeksforgeeks.org/cat-dog-classification-using-convolutional-neural-network-in-python/
+Traffic Signs Recognition using CNN and Keras in Python
+
+https://www.geeksforgeeks.org/traffic-signs-recognition-using-cnn-and-keras-in-python/
+Residual Networks (ResNet) – Deep Learning
+
+https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/
+Flipkart Reviews Sentiment Analysis
+
+https://thecleverprogrammer.com/2022/02/15/flipkart-reviews-sentiment-analysis-using-python/
+Breast Cancer Survival Prediction
+
+https://thecleverprogrammer.com/2022/03/08/breast-cancer-survival-prediction-with-machine-learning/
+Covid-19 Deaths Prediction
+
+https://thecleverprogrammer.com/2022/03/29/covid-19-deaths-prediction-with-machine-learning/
+Stock Price Prediction with LSTM Neural Network
+
+https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/
+Cryptocurrency Price Prediction for the next 30 days
+
+https://thecleverprogrammer.com/2021/12/27/cryptocurrency-price-prediction-with-machine-learning/
+Article Recommendation System
+
+https://thecleverprogrammer.com/2021/11/10/article-recommendation-system-with-machine-learning/
+Netflix Stock Price Prediction
+
+https://thecleverprogrammer.com/2022/02/08/netflix-stock-price-prediction-with-machine-learning/
+Time Series Analysis
+
+https://thecleverprogrammer.com/2022/01/17/time-series-analysis-using-python/
+Credit Score Classification
+
+https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/
+Weather Forecasting
+
+https://thecleverprogrammer.com/2022/10/17/weather-forecasting-using-python/
+Food Delivery Time Prediction
+
+https://thecleverprogrammer.com/2023/01/02/food-delivery-time-prediction-using-python/
+Time Series Forecasting with ARIMA
+
+https://thecleverprogrammer.com/2022/06/21/time-series-forecasting-with-arima/
+Instagram Reach Analysis and Prediction
+
+https://thecleverprogrammer.com/2022/03/22/instagram-reach-analysis-using-python/
+ 
+ 
+Website Traffic Forecasting
+
+https://thecleverprogrammer.com/2022/06/28/website-traffic-forecasting-using-python/
+Credit Card Clustering
+
+https://thecleverprogrammer.com/2022/10/03/credit-card-clustering-with-machine-learning/
+Password Strength Checker
+
+https://thecleverprogrammer.com/2022/08/22/password-strength-checker-with-machine-learning/
+Spam Comments Detection
+
+https://thecleverprogrammer.com/2022/08/02/spam-comments-detection-with-machine-learning/
+Clustering Music Genres
+
+https://thecleverprogrammer.com/2022/04/05/clustering-music-genres-with-machine-learning/
+Classification with Neural Networks
+
+https://thecleverprogrammer.com/2022/01/10/classification-with-neural-networks-using-python/
+Stress Detection
+
+https://thecleverprogrammer.com/2021/12/20/stress-detection-with-machine-learning/
+Visualizing a Machine Learning Algorithm
+
+https://thecleverprogrammer.com/2021/12/29/visualize-a-machine-learning-algorithm-using-python/
+MEETING REGULARLY:11PM to 12 AM
+Training and Giving Inputs to a Machine Learning Model
+
+https://thecleverprogrammer.com/2021/11/29/how-to-give-inputs-to-a-machine-learning-model/
+Product Demand Prediction
+
+https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/
+Electricity Price Prediction
+
+https://thecleverprogrammer.com/2021/11/15/electricity-price-prediction-with-machine-learning/
+Language Detection
+
+Adding Labels to a  for Sentiment Analysis
+
+https://thecleverprogrammer.com/2021/11/24/add-labels-to-a--for-sentiment-analysis/
+Pfizer Vaccine Sentiment Analysis
+
+https://thecleverprogrammer.com/2021/10/12/pfizer-vaccine-sentiment-analysis-using-python/
+5% progress
+Omicron Variant Sentiment Analysis
+
+https://thecleverprogrammer.com/2021/12/06/omicron-sentiment-analysis-using-python/
+Iris Flower Classification
+
+https://thecleverprogrammer.com/2021/10/17/iris-flower-classification-with-machine-learning/
+AlexNet Neural Network Architecture
+
+https://thecleverprogrammer.com/2021/12/13/alexnet-architecture-using-python/
+Water Quality Analysis
+/
+Twitter Sentiment Analysis
+/
+Squid Game Sentiment Analysis
+/
+Comparison of Classification Algorithms
+
+Tata Motors Stock Price Prediction
+
+https://thecleverprogrammer.com/2021/10/22/tata-motors-stock-price-prediction-with-machine-learning/
+Health Insurance Premium Prediction
+
+https://thecleverprogrammer.com/2021/10/26/health-insurance-premium-prediction-with-machine-learning/
+Movie Rating Analysis for Beginners
+
+https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/
+Number of Orders Prediction
+
+Apple Stock Price Prediction
+
+Insurance Prediction
+/
+Worldwide Billionaires Analysis
+
+Unemployment Analysis
+/
+Car Price Prediction Model
+Spam Detection
+Count Objects in Image
+WhatsApp Chats Sentiment Analysis
+WhatsApp Chats Analysis
+Microsoft Stock Price Prediction
+
+Video Game Sales Prediction Model
+https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/
+
+Profit Prediction Model
+https://thecleverprogrammer.com/2021/04/29/profit-prediction-with-machine-learning/
+
+Automatic Time Series Forecasting
+https://thecleverprogrammer.com/2021/04/19/autots-in-python-tutorial/
+
+Ted-Talks Recommendation System
+https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/
+
+Real-time Sentiment Analysis
+https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/
+
+Amazon Recommendation System
+https://thecleverprogrammer.com/2021/03/23/amazon-recommendation-system-using-python/
+
+Mobile Price Classification
+https://thecleverprogrammer.com/2021/03/05/mobile-price-classification-with-machine-learning/
+
+Spotify Recommendation System
+https://thecleverprogrammer.com/2021/03/03/spotify-recommendation-system-with-machine-learning/
+
+Text Emotions Detection
+https://thecleverprogrammer.com/2021/02/19/text-emotions-detection-with-machine-learning/
+
+Hotel Recommendation System
+https://thecleverprogrammer.com/2021/02/13/hotel-recommendation-system-with-machine-learning/
+
+Bankruptcy Prediction Model
+https://thecleverprogrammer.com/2021/03/13/bankruptcy-prediction-model-with-machine-learning/
+
+Tesla Stock Price Prediction Model
+https://thecleverprogrammer.com/2021/03/27/tesla-stock-price-prediction-with-machine-learning/
+
+Financial Budget Analysis
+/
+Click-Through Rate Prediction Model
+Language Detection
+Create a Chatbot with Python
+Best Streaming Service Analysis
+Data Science Project on President Heights
+Data Science Project on Birth Rate Analysis
+Data Science Project on Time Series
+Data Science Project on Area and Population
+A Complete Machine Learning Project Walkthrough
+Text Summarization
+Keyword Extraction
+End-to-end Fake News Detection System
+End-to-end Spam Detection System
+Hotel Reviews Sentiment Analysis
+
+Youtube Link: 
+https://www.youtube.com/watch?v=2GQm10JJ1BY
+Git Link: 
+https://github.com/bipin-saha/MNIST_HWDR_WebApp
+Python: 3.10
+Comment: Works Great
+
+Algorithm Calculations	"Math Symbols and Their Names: 
+https://englishan.com/symbols-of-maths-with-name/
+
+Matrix Calculator/Tensor Calculator: 
+https://www.calculator.net/matrix-calculator.html
+
+Tensor ADD/SUB/MUL/DIV: 
+https://www.w3schools.com/ai/ai_tensorflow_operations.asp
+
+Conda: 
+https://stackoverflow.com/questions/48174935/conda-creating-a-virtual-environment
+
+How to create a TensorFlow 2 model from scratch — A “trashy” example of Detecting Waste: 
+https://github.com/DanielWicz/trashanomaly/blob/master/tutorial_notebook.ipynb
+```
+
+```
+Indian Weather Repository (Analysis)
+```
+https://www.kaggle.com/code/shivam6183/indian-weather-repository-analysis        
+https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input
+India Air quality and temp correlation	 
+https://www.kaggle.com/code/matviyamchislavskiy/india-air-quality-and-temp-correlation		
+Forecasting Weather Patterns with LSTM: A Python Guide Without Dates
+https://medium.com/@sebastienwebdev/forecasting-weather-patterns-with-lstm-a-python-guide-without-dates-433f0356136c
+ipynb 
+```
+
+LSTM Models for multi-step time-series forecast
+```
+https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/notebook        
+https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/input       
+```
+Household_Power_consumption	
+```
+https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/notebook        
+https://github.com/ahanse/machlearning/blob/master/household_power_consumption.csv        
+https://github.com/ahanse/machlearning/blob/master/household_power_consumption%20-%202.csv        
+https://www.kaggle.com//sagnikseal/household-power-consumption/data 
+```
+
+Advanced-NLP-Projects-with-TensorFlow-2.0 	
+```
+https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0/tree/master		
+
+Emotional Speech Recognition
+https://www.kaggle.com/code/brsdincer/emotional-speech-recognition-audio-process-all        
+https://www.kaggle.com/code/brsdincer/emotional-speech-recognition-audio-process-all/input        
+https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/input
+```
+
+Speech-Emotion-Recognition-in-Tensorflow-Using-CNNs	
+```
+https://github.com/amirragab-ds/Speech-Emotion-Recognition-in-Tensorflow-Using-CNNs		
+```
+An-Introduction-to-Indian-Weather-Repository 
+```
+https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/notebook        
+https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input
+```
+Face Recognition with Python
+```
+https://data-flair.training/blogs/python-face-recognition/
+https://data-flair.training/blogs/python-face-recognition/
+Facial Emotion Recognition with OpenCV and Deepface: Step-by-Step Tutorial 	
+https://pub.aimind.so/facial-emotion-recognition-with-opencv-and-deepface-step-by-step-tutorial-6e3ba2c803a3        
+https://github.com/ajitharunai/Facial-Emotion-Recognition-with-OpenCV-and-Deepface/tree/main        
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+```
+
+
+
+
+
+
+
+
+
+
+
+
   | https://www.kaggle.com/code/akanksha496/spam-detection-using-tensorflow |   |  
   | https://github.com/rgdavies92/tensorflow-spam |   |  
   | https://www.kaggle.com/code/banddaniel/spam-mail-detection-w-tensorflow-distilbert |   |  
