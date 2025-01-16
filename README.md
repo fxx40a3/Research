@@ -13361,16 +13361,26 @@ https://github.com/murtazahassan/Tello-Object-Tracking
 YOLO (Real Time Object Detect) 
 ```
 https://www.youtube.com/watch?v=wCPuj_iJHmY
+```
 Taking Pictures 
+```
 https://www.youtube.com/watch?v=e-gfODYr8Nc&t=29s
+```
 Recording Video 
+```
 https://www.youtube.com/watch?v=ODye_sT62C0
+```
 tello-openpose 
+```
 https://github.com/geaxgx/tello-openpose
+```
+
 Tello drone and computer vision: selfie air stick
 
-https://www.youtube.com/watch?v=ODye_sT62C0
 DJI Tello - Getting Started with Software Development
+```
+https://www.youtube.com/watch?v=ODye_sT62C0
+```
 
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjZtSmF6VzFVU3B4ZGk1UzV5NUEtZ3g3ZTlld3xBQ3Jtc0tsejY0bzFlMWNreUFucy1aZFRrOVdST3RISVlRNUp5N0ZSNXZqLTRCRE9HWGkzdXd3RUw5S2Uwd0lPMnN3SFJjNUpvYnU3WkoxZkdvdWZiMkpUTk5lWkRrakhxVFg5QmpzalpBZHRydVFNWEM5bS1sQQ&q=https%3A%2F%2Fbit.ly%2F35FhrPk&v=uaXbfDFAp-0
 
