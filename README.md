@@ -13138,247 +13138,303 @@ https://www.kaggle.com/datasets/balajikartheek/drone-type-classification
 https://www.kaggle.com/code/lorenzy/dji-drone-cnn-ipynb
 ```
 
+Dorna Robotic Arm: Python API and Programming Tutorial
+```
+https://www.youtube.com/watch?v=5cwC2Vu4erc
 
+https://github.com/dorna-robotics/dorna2-python/tree/master
+http://lab.dorna.ai/
 
+https://coincodecap.com/top-30-ai-robotics-projects-step-into-the-future
 
-
-
-
-Drone |   |   |  
--- | -- | -- | --
-  |   |   |  
-Dorna Robotic Arm: Python API and Programming Tutorial |   |   |  
-https://www.youtube.com/watch?v=5cwC2Vu4erc |   |   |  
-https://github.com/dorna-robotics/dorna2-python/tree/master |   |   |  
-http://lab.dorna.ai/ |   |   |  
-  |   |   |  
-Explain |   |   |  
-  |   |   |  
-  |   |   |  
-ROBOT SHOP JAPAN https://www.technologia.co.jp/ 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 2 Chome−10−1 栄ビル ３０２号 |   |   |  
-Dorna Robotic Arm Robot Shop Technologia |   |   |  
-https://www.temu.com/ Robot Shop Technologia |   |   |  
-DRONE SHOP JAPAN https://www.technologia.co.jp/ 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 2 Chome−10−1 栄ビル ３０２号 |   |   |  
-https://coincodecap.com/top-30-ai-robotics-projects-step-into-the-future |   |   |  
-https://www.electronicsforu.com/electronics-projects/hardware-diy/25-robotics-project-ideas |   |   |  
-  |   |   |  
-Drone Programming With Python Course \| 3 Hours \| Including x4 Projects \| Computer Vision |   |   |  
-https://www.youtube.com/watch?v=LmEcyQnfpDA&t=8793s |   |   |  
-https://www.ryzerobotics.com/tello |   |   |  
-App store/Play Store |   |   |  
-App tello Download and Install Tello app |   |   |  
-Phone Iphone |   |   |  
-Purchase Link https://store.dji.com/product/tello-boost-combo?vid=45701&set_region=US&from=site-nav |   |   |  
-DJI Tello https://www.amazon.co.jp/%E3%80%90%E5%9B%BD%E5%86%85%E6%AD%A3%E8%A6%8F%E5%93%81%E3%80%91Ryze-DJI-%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E3%82%A2%E3%83%83%E3%83%97%E3%83%AA%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%BE%8C-%E5%AD%90%E4%BE%9B%E3%83%BB%E5%A4%A7%E4%BA%BA%E5%90%91%E3%81%91%E3%82%AE%E3%83%95%E3%83%88/dp/B07979Q4YS/ref=asc_df_B07979Q4YS/?tag=jpgo-22&linkCode=df0&hvadid=707465131573&hvpos=&hvnetw=g&hvrand=15194235423037100068&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197070&hvtargid=pla-439269493342&mcid=9c27073de88334d1b9d304ffc26efa2f&gad_source=1&language=en_US&th=1 |   |   |  
-https://github.com/damiafuentes/DJITelloPy |   |   |  
-https://github.com/dbaldwin/tello-adv-setup |   |   |  
-https://tello.oneoffcoder.com/index.html |   |   |  
-https://tello.oneoffcoder.com/ |   |   |  
-https://tello.oneoffcoder.com/python.html |   |   |  
-https://github.com/dji-sdk/Tello-Python |   |   |  
-https://github.com/TelloSDK/Multi-Tello-Formation |   |   |  
-https://www.instructables.com/Tello-Drone-Python-Programming-Face-Tracking-From-/ |   |   |  
-
-https://github.com/dbaldwin/DroneBlocks-Tello-Python |   |   |  
-
-
+https://www.electronicsforu.com/electronics-projects/hardware-diy/25-robotics-project-ideas
 Drone Programming With Python Course \| 3 Hours \| Including x4 Projects \| Computer Vision
-https://www.youtube.com/watch?v=LmEcyQnfpDA&t=8793s |   |   |  
 
-Tello Programming and Application - Lessons 1. Swimmer Rescue: |   |   |  
-https://www.youtube.com/watch?v=nTNAbtxdpEY |   |   |  
+https://www.youtube.com/watch?v=LmEcyQnfpDA&t=8793s
 
-Tello Programming and Application - Lessons 2. Shark Patrol |   |   |  
-https://www.youtube.com/watch?v=f5UtcCH89pU |   |   |  
+https://www.ryzerobotics.com/tello
+App store/Play Store
+App tello Download and Install Tello app
+Phone Iphone
+Purchase Link 
+https://store.dji.com/product/tello-boost-combo?vid=45701&set_region=US&from=site-nav
 
-Tello Programming and Application - Lessons 3. Roof Inspection |   |   |  
-https://www.youtube.com/watch?v=L8k31hAeepw |   |   |  
+https://github.com/damiafuentes/DJITelloPy
 
-Tello Programming and Application - Lessons 4. Delivery |   |   |  
-https://www.youtube.com/watch?v=oRnldLswgPE |   |   |  
+https://github.com/dbaldwin/tello-adv-setup
 
-Tello Programming and Application - Lessons 5. Rope Bridge |   |   |  
-https://www.youtube.com/watch?v=odY_J2Dyj-c |   |   |  
+https://tello.oneoffcoder.com/index.html
 
-Tello Programming and Application - Lessons 6. Crowd Counting |   |   |  
-https://www.youtube.com/watch?v=BBeZQOCylT0 |   |   |  
+https://tello.oneoffcoder.com/
 
-Tello Programming and Application - Lessons 7. Gallery Patrol |   |   |  
-https://www.youtube.com/watch?v=7vnbaR6Vrww |   |   |  
+https://tello.oneoffcoder.com/python.html
 
-Tello Programming and Application - Lessons 8. Bushfire Patrol |   |   |  
-https://www.youtube.com/watch?v=s3vq6y5DKME |   |   |  
+https://github.com/dji-sdk/Tello-Python
 
-Tello Programming and Application - Lessons 9. Guided Drone Tours |   |   |  
-https://www.youtube.com/watch?v=SsUTkRSbWg8 |   |   |  
+https://github.com/TelloSDK/Multi-Tello-Formation
 
-Develop Path Planning GUI for DJI Tello |   |   |  
-https://www.youtube.com/watch?v=Fd-2vjMqr1U |   |   |  
+https://www.instructables.com/Tello-Drone-Python-Programming-Face-Tracking-From-/
 
-Teach sign language to AI drone |   |   |  
-https://www.youtube.com/watch?v=dbfIFTCClQo&list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI&index=3 |   |   |  
 
-tello-drone-programming-part1 |   |   |  
-https://medium.com/@danialhamedi/tello-drone-programming-part1-6b80758dc8a6 |   |   |  
+Tello Programming and Application - Lessons 1. Swimmer Rescue:
 
-tello-drone-programming-part2 |   |   |  
-https://medium.com/@danialhamedi/tello-drone-programming-part2-b5a7aa4fd959 |   |   |  
+https://www.youtube.com/watch?v=nTNAbtxdpEY
 
-real-time object detection |   |   |  
-https://github.com/dp-betalock/DJITelloDrone-YOLOv8 |   |   |  
+Tello Programming and Application - Lessons 2. Shark Patrol
 
-Python Tello Drone Programming Tutorials |   |   |  
-https://www.youtube.com/playlist?list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o |   |   |  
+https://www.youtube.com/watch?v=f5UtcCH89pU
 
-Getting Started with DJI Tello Drones: Firmware Updates & Coding Environment Setup |   |   |  
-https://www.youtube.com/watch?v=Dgul2g2oDxA&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=1&pp=iAQB |   |   |  
+Tello Programming and Application - Lessons 3. Roof Inspection
 
-Mastering Tello Drone Programming with Python \| Execute Basic Flight Routines |   |   |  
-https://www.youtube.com/watch?v=wn3UVB9xoVk&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=2&pp=iAQB |   |   |  
+https://www.youtube.com/watch?v=L8k31hAeepw
 
-Streaming Tello's Forward Camera with DJITelloPy and OpenCV \| Python Drone Programming Tutorial |   |   |  
-https://www.youtube.com/watch?v=3JEz9hq1D2w&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=3&pp=iAQB |   |   |  
+Tello Programming and Application - Lessons 4. Delivery
 
-Mastering Tello Drone Sensor Data Reading with Python |   |   |  
-https://www.youtube.com/watch?v=hjVfDW7c2zc&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=4&pp=iAQB |   |   |  
+https://www.youtube.com/watch?v=oRnldLswgPE
 
-Streaming Tello's Bottom Camera with DJITelloPy and OpenCV \| Python Drone Programming Tutorial |   |   |  
-https://www.youtube.com/watch?v=JOZ9XoFDEYE&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=5&pp=iAQB |   |   |  
+Tello Programming and Application - Lessons 5. Rope Bridge
 
-Record Video from the Tello Drone with Python and OpenCV \| Save as .mp4 file \| Programming Tutorial |   |   |  
-https://www.youtube.com/watch?v=ODye_sT62C0&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=6&pp=iAQB |   |   |  
+https://www.youtube.com/watch?v=odY_J2Dyj-c
 
-Taking Pictures with Tello Drones using Python and OpenCV \| Save as .png file \| Programming Tutorial |   |   |  
-https://www.youtube.com/watch?v=e-gfODYr8Nc&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=7&pp=iAQB |   |   |  
+Tello Programming and Application - Lessons 6. Crowd Counting
 
-Control Tello Drones with a Game Controller \| Drone Programming Tutorial \| Python \| Tkinter \| Inputs |   |   |  
-https://www.youtube.com/watch?v=IqJfxuwADJ8&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=8&pp=iAQB |   |   |  
+https://www.youtube.com/watch?v=BBeZQOCylT0
 
-Custom Drone Battery Level Indicator: Python HUD Programming \| Design & Development Tutorial |   |   |  
-https://www.youtube.com/watch?v=EoJkH66vpk8&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=9&pp=iAQB |   |   |  
+Tello Programming and Application - Lessons 7. Gallery Patrol
 
-Conquering Tello Drone Programming with Python \| Flight Automation + Live Video Stream Tutorial |   |   |  
-https://www.youtube.com/watch?v=HYJ3vcHG4jY&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=10&pp=iAQB |   |   |  
+https://www.youtube.com/watch?v=7vnbaR6Vrww
 
-Tello Drone Python Flight Routine Automation + Live Stream Demo \| TRAILER #dji #drone #python |   |   |  
-https://www.youtube.com/watch?v=oamlUQHbBCY&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=11&pp=iAQB |   |   |  
-  |   |   |  
-https://github.com/JacobA2000/TELLO-KEYBOARD-CONTROLS/tree/master |   |   |  
-https://github.com/dbaldwin/droneblocks-tello-python |   |   |  
-https://github.com/dbaldwin/DroneBlocks-Tello-Python |   |   |  
-https://learn.droneblocks.io/courses/313449/lectures/4940545 |   |   |  
-https://www.linkedin.com/pulse/how-control-dji-tello-mini-drone-using-python-docker-raina-l0hzc |   |   |  
-Tello keyboard control Python |   |   |  
-video search |   |   |  
-  |   |   |  
-Drone Related Questionarire and technologies used |   |   |  
-https://www.gc-agent.com/robotjobjapan/job/?search=search&keyword=&type=38 |   |   |  
-https://jobs.gaijinpot.com/en/job/137341 |   |   |  
-https://reddotdrone.jp/recruit/ |   |   |  
-https://cs.gittap.jp/ |   |   |  
-https://github.com/dronekit/dronekit-python/tree/master https://github.com/microlinux/tello |   |   |  
-Book Manual |   |   |  
-  |   |   |  
-Python - Visual Studios - Tello Drone Setup! https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20User%20Manual%20v1.4.pdf |   |   |  
-https://www.youtube.com/watch?v=XP7bT2jmatQ https://www.manua.ls/dji/tello/manual?p=16 |   |   |  
-Mission Planner https://www.botnroll.com/en/dji/4357-dji-tello-boost-combo-kit-version.html |   |   |  
-https://ardupilot.org/planner/ |   |   |  
-  |   |   |  
-Explain |   |   |  
-  |   |   |  
-  |   |   |  
-https://pypi.org/project/DroneBlocksTelloSimulator/ |   |   |  
-sudo python setup.py build |   |   |  
-sudo python setup.py install |   |   |  
-pip install mavproxy |   |   |  
-pip install dronekit |   |   |  
-pip install dronekit-sitl |   |   |  
-Start the simulator with |   |   |  
-dronekit-sitl copter |   |   |  
-mavproxy.py --master tcp:127.0.0.1:5760 --out:127.0.0.1:14551 --out udp:(ip address):14550 |   |   |  
-dronekit-sitl copter -home=35.9835973, -95.874230.9,0,180 |   |   |  
-https://learn.droneblocks.io/ |   |   |  
-https://learn.droneblocks.io/p/tello-drone-programming-with-python/ |   |   |  
-Drone Related Questionarire and technologies used |   |   |  
-https://www.gc-agent.com/robotjobjapan/job/?search=search&keyword=&type=38 |   |   |  
-https://jobs.gaijinpot.com/en/job/137341 |   |   |  
-https://reddotdrone.jp/recruit/ |   |   |  
-https://cs.gittap.jp/ |   |   |  
-  |   |   |  
-DJI Tello Drone Projects |   |   |  
-Face Tracking https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
-https://github.com/murtazahassan/Drone-Face-Tracking |   |   |  
-Body Control https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
-Hand Gesture https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
-Object Detection https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
-https://www.youtube.com/watch?v=5dh9abXqMok |   |   |  
-https://github.com/murtazahassan/Tello-Object-Tracking |   |   |  
-  |   |   |  
-Explain |   |   |  
-  |   |   |  
-  |   |   |  
-YOLO (Real Time Object Detect) https://www.youtube.com/watch?v=wCPuj_iJHmY |   |   |  
-Taking Pictures https://www.youtube.com/watch?v=e-gfODYr8Nc&t=29s |   |   |  
-Recording Video https://www.youtube.com/watch?v=ODye_sT62C0 |   |   |  
-tello-openpose https://github.com/geaxgx/tello-openpose |   |   |  
-Tello drone and computer vision: selfie air stick |   |   |  
-https://www.youtube.com/watch?v=ODye_sT62C0 |   |   |  
-DJI Tello - Getting Started with Software Development |   |   |  
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjZtSmF6VzFVU3B4ZGk1UzV5NUEtZ3g3ZTlld3xBQ3Jtc0tsejY0bzFlMWNreUFucy1aZFRrOVdST3RISVlRNUp5N0ZSNXZqLTRCRE9HWGkzdXd3RUw5S2Uwd0lPMnN3SFJjNUpvYnU3WkoxZkdvdWZiMkpUTk5lWkRrakhxVFg5QmpzalpBZHRydVFNWEM5bS1sQQ&q=https%3A%2F%2Fbit.ly%2F35FhrPk&v=uaXbfDFAp-0 |   |   |  
-https://bitbucket.org/RobotAndCode/tello-ai/src/master/ |   |   |  
-Python - Visual Studios - Tello Drone Setup! |   |   |  
-https://www.youtube.com/watch?v=XP7bT2jmatQ |   |   |  
-Easy Programming of Tello Drone \| Python OpenCV Object Tracking |   |   |  
-https://www.computervision.zone/courses/drone-programming-course/ |   |   |  
-https://www.youtube.com/watch?v=LmEcyQnfpDA |   |   |  
-  |   |   |  
-https://github.com/topics/dji-tello |   |   |  
-https://www.youtube.com/playlist?list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI |   |   |  
-https://github.com/StyNW7/UPH_DJITello |   |   |  
-  |   |   |  
-https://github.com/Jacob-Pitsenberger/Tello-Flight-Routine-with-Video-Stream |   |   |  
-https://github.com/Jacob-Pitsenberger/Face-Detection-over-Webcam-or-Tello-Drone-Video-Stream-Python-OpenCV |   |   |  
-https://www.youtube.com/watch?v=TtOV1Ry1jMU&list=PLAu6u02VrrtyyrnhtX2zSZWtdZPaYr2jT |   |   |  
-https://github.com/Jacob-Pitsenberger/Tkinter-Tello-Drone-Controller |   |   |  
-  |   |   |  
-  |   |   |  
-https://github.com/dbaldwin/tello-adv-setup/blob/master/tello_camera_fly.py#L25-L26 |   |   |  
-https://github.com/dbaldwin/tello-adv-setup/blob/master/tello_camera_fly.py#L23-L24 |   |   |  
-https://www.instructables.com/Tello-Drone-Python-Programming-Control-Drone-With-/ |   |   |  
-https://sites.google.com/lisaacademy.org/lisa-academy-maker-space/resources/tello-drone/tello-drone-programming-with-python |   |   |  
-droneblocks tello simulator |   |   |  
-https://pypi.org/project/tello-python/ |   |   |  
-https://pypi.org/project/djitellopy/ |   |   |  
-https://tello.oneoffcoder.com/index.html |   |   |  
-https://www.youtube.com/watch?v=5dh9abXqMok&t=1207s |   |   |  
-https://www.youtube.com/watch?v=vDOkUHNdmKs |   |   |  
-https://www.youtube.com/watch?v=GY7GjPntrx4 |   |   |  
-https://github.com/hanyazou/TelloPy |   |   |  
-https://github.com/TannerGilbert/Ryze-Tello-Code-Collection |   |   |  
-https://github.com/xg590/Tello-Python |   |   |  
-https://github.com/johnwalicki/tello-python-examples |   |   |  
-https://github.com/cocpy/Tello-Python |   |   |  
-https://github.com/dji-sdk/Tello-Python/blob/master/Tello_Video/tello.py |   |   |  
-https://github.com/dbaldwin/DroneBlocks-Tello-Python |   |   |  
-https://github.com/topics/dji-tello |   |   |  
-https://github.com/dbaldwin/DroneBlocks-DJITelloPy-Tutorial |   |   |  
-https://github.com/Matthias84/awesome-tello |   |   |  
-https://jckantor.github.io/CBE30338/B.02-Visual-Tracking-of-an-Object-with-a-Drone.html |   |   |  
-https://blog.gopenai.com/tello-autonomous-drone-python-dd396c459e86 |   |   |  
-https://github.com/PerfecXX/DJITelloEDUPython |   |   |  
-https://github.com/damiafuentes/DJITelloPy/tree/master/examples |   |   |  
-https://medium.com/swlh/tello-drone-face-follower-4b8313b6c40e |   |   |  
-https://github.com/juanmapf97/Tello-Face-Recognition |   |   |  
-https://www.youtube.com/watch?v=C86CX17i3O8 |   |   |  
-https://github.com/dbaldwin/DroneBlocks-Tello-Simulator-ChatGPT |   |   |  
-https://learn.droneblocks.io/ |   |   |  
-https://dev.droneblocks.io/simulator.html |   |   |  
-https://pypi.org/project/DroneBlocksTelloSimulator/ |   |   |  
-https://github.com/dbaldwin/DroneBlocks-Tello-Simulator-ChatGPT?tab=readme-ov-file |   |   |  
-https://www.youtube.com/watch?v=C86CX17i3O8 |   |   |  
-https://jckantor.github.io/CBE30338/B.02-Visual-Tracking-of-an-Object-with-a-Drone.html |   |   |  
-pip install droneblocks-python-utils |   |   |  
-pip install DroneBlocksTelloSimulator |   |   |  
+Tello Programming and Application - Lessons 8. Bushfire Patrol
+
+https://www.youtube.com/watch?v=s3vq6y5DKME
+
+Tello Programming and Application - Lessons 9. Guided Drone Tours
+
+https://www.youtube.com/watch?v=SsUTkRSbWg8
+
+Develop Path Planning GUI for DJI Tello
+
+https://www.youtube.com/watch?v=Fd-2vjMqr1U
+
+Teach sign language to AI drone
+
+https://www.youtube.com/watch?v=dbfIFTCClQo&list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI&index=3
+
+tello-drone-programming-part1
+
+https://medium.com/@danialhamedi/tello-drone-programming-part1-6b80758dc8a6
+
+tello-drone-programming-part2
+
+https://medium.com/@danialhamedi/tello-drone-programming-part2-b5a7aa4fd959
+
+real-time object detection
+
+https://github.com/dp-betalock/DJITelloDrone-YOLOv8
+
+Python Tello Drone Programming Tutorials
+
+https://www.youtube.com/playlist?list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o
+
+Getting Started with DJI Tello Drones: Firmware Updates & Coding Environment Setup
+
+https://www.youtube.com/watch?v=Dgul2g2oDxA&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=1&pp=iAQB
+
+Mastering Tello Drone Programming with Python \| Execute Basic Flight Routines
+
+https://www.youtube.com/watch?v=wn3UVB9xoVk&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=2&pp=iAQB
+
+Streaming Tello's Forward Camera with DJITelloPy and OpenCV \| Python Drone Programming Tutorial
+
+https://www.youtube.com/watch?v=3JEz9hq1D2w&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=3&pp=iAQB
+
+Mastering Tello Drone Sensor Data Reading with Python
+
+https://www.youtube.com/watch?v=hjVfDW7c2zc&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=4&pp=iAQB
+
+Streaming Tello's Bottom Camera with DJITelloPy and OpenCV \| Python Drone Programming Tutorial
+
+https://www.youtube.com/watch?v=JOZ9XoFDEYE&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=5&pp=iAQB
+
+Record Video from the Tello Drone with Python and OpenCV \| Save as .mp4 file \| Programming Tutorial
+
+https://www.youtube.com/watch?v=ODye_sT62C0&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=6&pp=iAQB
+
+Taking Pictures with Tello Drones using Python and OpenCV \| Save as .png file \| Programming Tutorial
+
+https://www.youtube.com/watch?v=e-gfODYr8Nc&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=7&pp=iAQB
+
+Control Tello Drones with a Game Controller \| Drone Programming Tutorial \| Python \| Tkinter \| Inputs
+
+https://www.youtube.com/watch?v=IqJfxuwADJ8&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=8&pp=iAQB
+
+Custom Drone Battery Level Indicator: Python HUD Programming \| Design & Development Tutorial
+
+https://www.youtube.com/watch?v=EoJkH66vpk8&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=9&pp=iAQB
+
+Conquering Tello Drone Programming with Python \| Flight Automation + Live Video Stream Tutorial
+
+https://www.youtube.com/watch?v=HYJ3vcHG4jY&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=10&pp=iAQB
+
+Tello Drone Python Flight Routine Automation + Live Stream Demo \| TRAILER #dji #drone #python
+
+https://www.youtube.com/watch?v=oamlUQHbBCY&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=11&pp=iAQB
+ 
+
+https://github.com/JacobA2000/TELLO-KEYBOARD-CONTROLS/tree/master|  
+
+https://learn.droneblocks.io/courses/313449/lectures/4940545
+
+https://www.linkedin.com/pulse/how-control-dji-tello-mini-drone-using-python-docker-raina-l0hzc
+Tello keyboard control Python
+video search 
+```
+
+
+
+Drone Related Questionarire and technologies used
+```
+https://www.gc-agent.com/robotjobjapan/job/?search=search&keyword=&type=38
+https://jobs.gaijinpot.com/en/job/137341
+https://reddotdrone.jp/recruit/
+https://cs.gittap.jp/
+
+```
+
+```
+https://github.com/dronekit/dronekit-python/tree/master 
+https://github.com/microlinux/tello
+Book Manual
+ Python - Visual Studios - Tello Drone Setup! 
+https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20User%20Manual%20v1.4.pdf
+
+https://www.youtube.com/watch?v=XP7bT2jmatQ 
+https://www.manua.ls/dji/tello/manual?p=16
+Mission Planner 
+https://www.botnroll.com/en/dji/4357-dji-tello-boost-combo-kit-version.html
+
+https://ardupilot.org/planner/
+ 
+Explain
+
+https://pypi.org/project/DroneBlocksTelloSimulator/
+sudo python setup.py build
+sudo python setup.py install
+pip install mavproxy
+pip install dronekit
+pip install dronekit-sitl
+Start the simulator with
+dronekit-sitl copter
+mavproxy.py --master tcp:127.0.0.1:5760 --out:127.0.0.1:14551 --out udp:(ip address):14550
+dronekit-sitl copter -home=35.9835973, -95.874230.9,0,180
+
+https://learn.droneblocks.io/
+
+https://learn.droneblocks.io/p/tello-drone-programming-with-python/
+Drone Related Questionarire and technologies used
+
+https://www.gc-agent.com/robotjobjapan/job/?search=search&keyword=&type=38
+
+https://jobs.gaijinpot.com/en/job/137341
+
+https://cs.gittap.jp/
+ 
+DJI Tello Drone Projects
+Face Tracking 
+https://www.youtube.com/watch?v=wCPuj_iJHmY
+
+https://github.com/murtazahassan/Drone-Face-Tracking
+Body Control 
+https://www.youtube.com/watch?v=wCPuj_iJHmY
+Hand Gesture 
+https://www.youtube.com/watch?v=wCPuj_iJHmY
+Object Detection 
+https://www.youtube.com/watch?v=wCPuj_iJHmY
+
+https://www.youtube.com/watch?v=5dh9abXqMok
+
+https://github.com/murtazahassan/Tello-Object-Tracking
+ 
+``` 
+ 
+```
+YOLO (Real Time Object Detect) 
+https://www.youtube.com/watch?v=wCPuj_iJHmY
+Taking Pictures 
+https://www.youtube.com/watch?v=e-gfODYr8Nc&t=29s
+Recording Video 
+https://www.youtube.com/watch?v=ODye_sT62C0
+tello-openpose 
+https://github.com/geaxgx/tello-openpose
+Tello drone and computer vision: selfie air stick
+
+https://www.youtube.com/watch?v=ODye_sT62C0
+DJI Tello - Getting Started with Software Development
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjZtSmF6VzFVU3B4ZGk1UzV5NUEtZ3g3ZTlld3xBQ3Jtc0tsejY0bzFlMWNreUFucy1aZFRrOVdST3RISVlRNUp5N0ZSNXZqLTRCRE9HWGkzdXd3RUw5S2Uwd0lPMnN3SFJjNUpvYnU3WkoxZkdvdWZiMkpUTk5lWkRrakhxVFg5QmpzalpBZHRydVFNWEM5bS1sQQ&q=https%3A%2F%2Fbit.ly%2F35FhrPk&v=uaXbfDFAp-0
+
+https://bitbucket.org/RobotAndCode/tello-ai/src/master/
+Python - Visual Studios - Tello Drone Setup!
+
+https://www.youtube.com/watch?v=XP7bT2jmatQ
+Easy Programming of Tello Drone \| Python OpenCV Object Tracking
+
+https://www.computervision.zone/courses/drone-programming-course/
+https://www.youtube.com/watch?v=LmEcyQnfpDA
+https://github.com/topics/dji-tello
+https://www.youtube.com/playlist?list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI
+https://github.com/StyNW7/UPH_DJITello
+https://github.com/Jacob-Pitsenberger/Tello-Flight-Routine-with-Video-Stream
+https://github.com/Jacob-Pitsenberger/Face-Detection-over-Webcam-or-Tello-Drone-Video-Stream-Python-OpenCV
+https://www.youtube.com/watch?v=TtOV1Ry1jMU&list=PLAu6u02VrrtyyrnhtX2zSZWtdZPaYr2jT
+https://github.com/Jacob-Pitsenberger/Tkinter-Tello-Drone-Controller
+https://github.com/dbaldwin/tello-adv-setup/blob/master/tello_camera_fly.py#L25-L26
+https://github.com/dbaldwin/tello-adv-setup/blob/master/tello_camera_fly.py#L23-L24
+https://www.instructables.com/Tello-Drone-Python-Programming-Control-Drone-With-/
+https://sites.google.com/lisaacademy.org/lisa-academy-maker-space/resources/tello-drone/tello-drone-programming-with-python
+
+droneblocks tello simulator
+https://pypi.org/project/tello-python/
+https://pypi.org/project/djitellopy/
+https://tello.oneoffcoder.com/index.html
+https://www.youtube.com/watch?v=5dh9abXqMok&t=1207s
+https://www.youtube.com/watch?v=vDOkUHNdmKs
+https://www.youtube.com/watch?v=GY7GjPntrx4
+https://github.com/hanyazou/TelloPy
+https://github.com/TannerGilbert/Ryze-Tello-Code-Collection
+https://github.com/xg590/Tello-Python
+https://github.com/johnwalicki/tello-python-examples
+https://github.com/cocpy/Tello-Python
+https://github.com/dji-sdk/Tello-Python/blob/master/Tello_Video/tello.py
+https://github.com/dbaldwin/DroneBlocks-Tello-Python
+https://github.com/topics/dji-tello
+https://github.com/dbaldwin/DroneBlocks-DJITelloPy-Tutorial
+https://github.com/Matthias84/awesome-tello
+https://jckantor.github.io/CBE30338/B.02-Visual-Tracking-of-an-Object-with-a-Drone.html
+https://blog.gopenai.com/tello-autonomous-drone-python-dd396c459e86
+https://github.com/PerfecXX/DJITelloEDUPython
+https://github.com/damiafuentes/DJITelloPy/tree/master/examples
+https://medium.com/swlh/tello-drone-face-follower-4b8313b6c40e
+https://github.com/juanmapf97/Tello-Face-Recognition
+https://www.youtube.com/watch?v=C86CX17i3O8
+https://github.com/dbaldwin/DroneBlocks-Tello-Simulator-ChatGPT
+https://learn.droneblocks.io/
+https://dev.droneblocks.io/simulator.html
+https://pypi.org/project/DroneBlocksTelloSimulator/
+https://github.com/dbaldwin/DroneBlocks-Tello-Simulator-ChatGPT?tab=readme-ov-file
+https://www.youtube.com/watch?v=C86CX17i3O8
+https://jckantor.github.io/CBE30338/B.02-Visual-Tracking-of-an-Object-with-a-Drone.html
+pip install droneblocks-python-utils
+pip install DroneBlocksTelloSimulator
+```
+
+
+
+
+
+
+
+
 
 
 </body>
