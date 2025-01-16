@@ -15273,10 +15273,11 @@ https://stackoverflow.com/questions/48174935/conda-creating-a-virtual-environmen
 https://github.com/DanielWicz/trashanomaly/blob/master/tutorial_notebook.ipynb
 ```
  
+```
 Indian Weather Repository (Analysis)
 ```
 https://www.kaggle.com/code/shivam6183/indian-weather-repository-analysis        
- https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input
+https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input
 ```
 
 India Air quality and temp correlation
