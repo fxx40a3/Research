@@ -10693,13 +10693,8 @@ Lung Cancer Detection Using CNN Project with Source Code
 ```
 https://projectworlds.in/lung-cancer-detection-using-cnn-project-with-source-code/
 ```
-
-
-
-
-Machine Learning custom projects List    
-
-
+Machine Learning custom projects List
+```
 Learning Gladiator Machine Learning projects
 Play Money Ball Machine Learning projects
 Machine Learning Baseball
@@ -11064,12 +11059,11 @@ Machine Learning Final Project: Classification of Neural Responses to Threat
 A Computer Aided Diagnosis System for Lung Cancer Detection using Machine
 Prediction of Diabetes and cancer using SVM
 Efficient Heart Disease Prediction System
-
-
-
+```
 
 65. 
 13 Computer Vision Projects with Code 
+```
 https://github.com/anuragreddygv323/computer-vision-projects
 Automatic License Plate Recognition
 Building Computer Vision Apps for Your Mobile Device
@@ -11084,236 +11078,322 @@ Hand Gesture Recognition
 Image Classification and Machine Learning
 Image Descriptors
 Raspberry Pi Projects
+```
 
 66. 
 13 Cool Computer Vision GitHub Projects To Inspire You 
+```
 https://machinelearningknowledge.ai/cool-computer-vision-github-projects-to-inspire-you/
+```
 
-3D Face Reconstruction using CNN ( ★ – 4.1k |  ⑂ – 682 )
+3D Face Reconstruction using CNN
+```
 https://github.com/AaronJackson/vrn
+```
 
-Real-time Multi-Person Pose Estimation and Tracking System ( ★ – 4k |  ⑂ – 1.1k)
+Real-time Multi-Person Pose Estimation and Tracking System
+```
 https://github.com/MVIG-SJTU/AlphaPose
+```
 
 
-Automatic Colorization of Photos using Deep Neural Networks  (★ – 2.3k |  ⑂ – 560 )
+Automatic Colorization of Photos using Deep Neural Networks
+```
 https://github.com/richzhang/colorization
+```
 
-Editing natural photos using Generative Neural Networks ( ★ – 1.9k |  ⑂ – 186 )
+Editing natural photos using Generative Neural Networks
+```
 https://github.com/ajbrock/Neural-Photo-Editor
+```
 
-Convolution Recurrent Neural Network for Image Recognition ( ★ – 1.7k |  ⑂ – 486 )
+Convolution Recurrent Neural Network for Image Recognition
+```
 https://github.com/bgshih/crnn
+```
 
-Image Deblurring using Generative Adversarial Networks ( ★ – 7.8k |  ⑂ – 1.8k )
+Image Deblurring using Generative Adversarial Networks
+```
 https://github.com/KupynOrest/DeblurGAN
+```
 
-Painting AI – Deep Reinforcement Learning model that produces paintings using strokes  ( ★ – 1.7k |  ⑂ – 227 )
-Lip Reading – Cross Audio-Visual Recognition using 3D Architectures ( ★ – 1.4k |  ⑂ – 246 )
+Painting AI – Deep Reinforcement Learning model that produces paintings using strokes
+Lip Reading – Cross Audio-Visual Recognition using 3D Architectures
+```
 https://github.com/astorfi/lip-reading-deeplearning
+```
 
-Quickdraw – Interactive drawing identification tool ( ★ – 677 |  ⑂ – 107 )
+Quickdraw – Interactive drawing identification tool
+```
 https://github.com/uvipen/QuickDraw
+```
 
-Image Animation using First Order Motion Model ( ★ – 3.9k |  ⑂ – 780 )
+Image Animation using First Order Motion Model
+```
 https://github.com/AliaksandrSiarohin/first-order-model
+```
 
-Fashion MNIST  ( ★ – 7.8k |  ⑂ – 1.8k )
+Fashion MNIST   
+```
 https://github.com/zalandoresearch/fashion-mnist
+```
 
-Cool Computer Vision Projects ( ★ – 37 |  ⑂ – 45 )
+Cool Computer Vision Projects
+```
 https://github.com/akshaybhatia10/ComputerVision-Projects
+```
 
-Intermediate Level Computer Vision Projects ( ★ – 13 |  ⑂ – 9 )
+Intermediate Level Computer Vision Projects
+```
 https://github.com/anuragreddygv323/computer-vision-projects
+```
 
 
 67. 
 Open-Source Computer Vision Projects (With Tutorials) 
+```
 https://www.theclickreader.com/open-source-computer-vision-projects-with-tutorials/
+```
 
 68. 
 OpenCV Computer Vision Projects with Python 
+```
 https://github.com/PacktPublishing/OpenCV-Computer-Vision-Projects-with-Python
+```
 
 70. 
 80 + Computer vision Learning code 
+```
 https://github.com/spmallick/learnopencv
+```
 
 71. 
 Deep learning Treasure 
+```
 https://github.com/kmario23/deep-learning-drizzle
+```
 
 72 
 Data Analysis and Machine learning Projects 
+```
 https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
+```
 
 73 
 AI Projects 
+```
 https://github.com/StevenLei/AI_projects
+```
 
 74 
 Kaggle projects collection 
+```
 https://github.com/alexattia/Data-Science-Projects
+```
 
 75 
 Unique AI projects 
+```
 https://github.com/robsalgado/personal_data_science_projects
+```
 
 76 
 Data Science Project Collection 
+```
 https://github.com/tuangauss/DataScienceProjects
+```
 
 77 
 Advance Data Science Projects 
+```
 https://github.com/TheCodex-Me/Projects
+```
 
 78 
 Deep and Machine learning Projects 
+```
 https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects
+```
 
 79 Data Science Projects kaggle 
+```
 https://github.com/alexattia/Data-Science-Projects
+```
 
 80 
 Auto Deep learning Project 
+```
 https://github.com/D-X-Y/AutoDL-Projects
+```
 
 81 
 180 Machine learning Project 
+```
 https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
----------------------------------------
-1
+```
+1\
 Stock Price Prediction with LSTM Neural Network
+```
 https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/
+```
 
-2
+2\
 Online Payments Fraud Detection
+```
 https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/
+```
 
-3
+3\
 Future Sales Prediction
+```
 https://thecleverprogrammer.com/2022/03/01/future-sales-prediction-with-machine-learning/
+```
 
-4
+4\
 Waiter Tips Analysis &amp; Prediction
+```
 https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-learning/
+```
 
-5
+5\
 Stock Price Prediction
+```
 https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
+```
 
-6
+6\
 Flipkart Reviews Sentiment Analysis
+```
 https://thecleverprogrammer.com/2022/02/15/flipkart-reviews-sentiment-analysis-using-python/
+```
 
 7
 Cryptocurrency Price Prediction for the next 30 days
+```
 https://thecleverprogrammer.com/2021/12/27/cryptocurrency-price-prediction-with-machine-learning/
+```
 
 8    
 Article Recommendation System    
+```
 https://thecleverprogrammer.com/2021/11/10/article-recommendation-system-with-machine-learning/
+```
 
 9
 Netflix Stock Price Prediction
+```
 https://thecleverprogrammer.com/2022/02/08/netflix-stock-price-prediction-with-machine-learning/
+```
 
 10
 Time Series Analysis
+```
 https://thecleverprogrammer.com/2022/01/17/time-series-analysis-using-python/
+```
 
 11
 Classification with Neural Networks
+```
 https://thecleverprogrammer.com/2022/01/10/classification-with-neural-networks-using-python/
+```
 
 12
 Stress Detection
+```
 https://thecleverprogrammer.com/2021/12/20/stress-detection-with-machine-learning/
+```
 
 13
 AlexNet Neural Network Architecture
+```
 https://thecleverprogrammer.com/2021/12/13/alexnet-architecture-using-python/
+```
 
 14
 Visualizing a Machine Learning Algorithm
+```
 https://thecleverprogrammer.com/2021/12/29/visualize-a-machine-learning-algorithm-using-python/
+```
 
 15
 Training and Giving Inputs to a Machine Learning Model
+```
 https://thecleverprogrammer.com/2021/11/29/how-to-give-inputs-to-a-machine-learning-model/
+```
 
 16
 Product Demand Prediction
+```
 https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/
+```
 
-17
-Electricity Price Prediction
-https://thecleverprogrammer.com/2021/11/15/electricity-price-prediction-with-machine-learning/
-
-18
-Language Detection
-
-
-19
-Adding Labels to a Dataset for Sentiment Analysis
-https://thecleverprogrammer.com/2021/11/24/add-labels-to-a-dataset-for-sentiment-analysis/
-
-20
-Pfizer Vaccine Sentiment Analysis
-https://thecleverprogrammer.com/2021/10/12/pfizer-vaccine-sentiment-analysis-using-python/
-
-21
 News Classification
+```
 https://thecleverprogrammer.com/2021/10/07/news-classification-with-machine-learning/
+```
 
-22
-Omicron Variant Sentiment Analysis
-https://thecleverprogrammer.com/2021/12/06/omicron-sentiment-analysis-using-python/
 
-23
-Iris Flower Classification
-https://thecleverprogrammer.com/2021/10/17/iris-flower-classification-with-machine-learning/
-
-24
 Water Quality Analysis
+```
 https://thecleverprogrammer.com/2021/08/19/water-quality-analysis/
+```
 
 25
 Twitter Sentiment Analysis
+```
 https://thecleverprogrammer.com/2021/09/13/twitter-sentiment-analysis-using-python/
+```
 
 26
 Squid Game Sentiment Analysis
+```
 https://thecleverprogrammer.com/2021/11/03/squid-game-sentiment-analysis-using-python/
+```
 
 27
 Comparison of Classification Algorithms
+```
 https://thecleverprogrammer.com/2021/10/02/comparison-of-classification-algorithms-in-machine-learning/
+```
 
 28
 Tata Motors Stock Price Prediction
+```
 https://thecleverprogrammer.com/2021/10/22/tata-motors-stock-price-prediction-with-machine-learning/
+```
 
 29
+```
 https://thecleverprogrammer.com/2021/10/26/health-insurance-premium-prediction-with-machine-learning/
+```
 Health Insurance Premium Prediction
 
 30
+```
 https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/
+```
 Movie Rating Analysis for Beginners
 
 31
+```
 https://thecleverprogrammer.com/2021/09/27/number-of-orders-prediction-with-machine-learning/
+```
 Number of Orders Prediction
 
 32
 Apple Stock Price Prediction
+```
 https://thecleverprogrammer.com/2021/09/08/apple-stock-price-prediction-with-machine-learning/
+```
 
 33
 Insurance Prediction
+```
 https://thecleverprogrammer.com/2021/09/03/insurance-prediction-with-machine-learning/
+```
+
+
+
 
 34
 Worldwide Billionaires Analysis
