@@ -1,5 +1,22 @@
 # Artificial Intellience Projects and Research
 
+# Cartoonifying an Image start
+
+```
+https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/
+https://github.com/Abdesol/Cartoonify-Image
+https://data-flair.training/blogs/cartoonify-image-opencv-python/
+https://thepythoncode.com/article/make-a-cartoonifier-with-opencv-in-python
+https://github.com/jumralia/Cartoonify-Image-with-OpenCV
+https://ieeexplore.ieee.org/document/9853187
+https://www.toolify.ai/ai-news/stepbystep-guide-cartoonify-image-with-opencv-in-python-1150390#google_vignette
+https://www.researchgate.net/publication/367475637_A_SYSTEM_FOR_CARTOONIFYING_AN_IMAGE_USING_PYTHON
+https://thepythoncode.com/article/make-a-cartoonifier-with-opencv-in-python
+https://www.kaggle.com/code/yasserh/opencv-cartoonify
+https://medium.com/nerd-for-tech/cartoonize-images-with-python-10e2a466b5fb
+```		
+
+# Cartoonifying an Image end
 
 # Image colourization start
 
