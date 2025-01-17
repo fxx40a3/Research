@@ -1,5 +1,13 @@
 # Artificial Intellience Projects and Research
 
+# Pneumonia Detection start
+
+Pneumonia Detection
+```
+https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/
+```
+# Pneumonia Detection end
+
 # Age and Gender Prediction start
 
 Age Detection
@@ -5564,10 +5572,6 @@ https://thecleverprogrammer.com/2020/09/11/rainfall-prediction-with-machine-lear
 https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/
 ```
 
-Pneumonia Detection
-```
-https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/
-```
 
 Face Mask Detection
 ```
@@ -6365,11 +6369,6 @@ https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/
 Heart Disease Prediction
 ```
 https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/ 
-```
-
-Pneumonia Detection
-```
-https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/ 
 ```
 
 Fake Currency Detection
@@ -11769,7 +11768,6 @@ Dog’s Breed Identification Project
 Traffic Sign Classification
 Predicting House Prices Using Linear Regression
 Chatbot Project Using Deep Learning
-Pneumonia detection Project using deep learning
 Object Detection using Tensorflow
 Tensorflow hand detection Project
 Unsupervised Face Clustering Pipeline
@@ -13379,7 +13377,6 @@ Contour Detection with Custom Seeds using Python – OpenCV
 Find Co-ordinates of Contours using OpenCV \| Python
 Live Webcam Drawing using OpenCV
 Detect and Recognize Car License Plate from a video in real-time
-License Plate Recognition with OpenCV and Tesseract OCR
 Handwritten Digit Recognition using Neural Network
 Image Classification with Convolutional Neural Networks (CNNs) Using Pytorch
 Human Pose Estimation with OpenCVUsing
@@ -15041,12 +15038,6 @@ https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
 Text Detection and Extraction
 
 https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
-
-
-License Plate Recognition with OpenCV and Tesseract OCR
-
-
-1 \| Project Name: Face and Hand Landmarks Detection using Python
 
 
 2 \| Project Name: OCR of Handwritten digits \\| OpenCV
