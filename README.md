@@ -2,7 +2,6 @@
 
 # Semantic segmentation start
 
-```
 SNE-RoadSeg\
 Computer Vision Learning 𝗦𝗡𝗘-𝗥𝗼𝗮𝗱𝗦𝗲𝗴: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
 ```
