@@ -7912,14 +7912,11 @@ ResNeSt: Split-Attention Networks
 https://arxiv.org/abs/2004.08955
 ```
 
-
-
 ResNet-50-FReLU
 Funnel Activation for Visual Recognition
 ```
 https://arxiv.org/abs/2007.11824v2
 ```
-
 
 ResNet-101-FReLU
 Funnel Activation for Visual Recognition
@@ -7927,13 +7924,11 @@ Funnel Activation for Visual Recognition
 https://arxiv.org/abs/2007.11824v2
 ```
 
-
 ResNet-50-MEALv2
 MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
 ```
 https://arxiv.org/abs/2009.08453v1
 ```
-
 
 ResNet-50-MEALv2 + CutMix
 MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
@@ -7941,13 +7936,11 @@ MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without T
 https://arxiv.org/abs/2009.08453v1
 ```
 
-
 MobileNet V3-Large-MEALv2
 MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
 ```
 https://arxiv.org/abs/2009.08453v1
 ```
-
 
 EfficientNet-B0-MEALv2
 MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
@@ -7955,90 +7948,24 @@ MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without T
 https://arxiv.org/abs/2009.08453v1
 ```
 
-
-T2T-ViT-7 
+T2T-ViT-7 / T2T-ViT-14 / T2T-ViT-19
 Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
 ```
 https://arxiv.org/abs/2101.11986v1
 ```
 
-
-T2T-ViT-14
-Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
-```
-https://arxiv.org/abs/2101.11986v1
-```
-
-
-T2T-ViT-19
-Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
-```
-https://arxiv.org/abs/2101.11986v1
-```
-
-
-NFNet-F0
+NFNet-F0 / NFNet-F1 / NFNet-F6+SAM
 High-Performance Large-Scale Image Recognition Without Normalization
 ```
 https://arxiv.org/abs/2102.06171
 ```
 
 
-NFNet-F1
-High-Performance Large-Scale Image Recognition Without Normalization
-```
-https://arxiv.org/abs/2102.06171
-```
-
-
-NFNet-F6+SAM
-High-Performance Large-Scale Image Recognition Without Normalization
-```
-https://arxiv.org/abs/2102.06171
-```
-
-
-EfficientNetV2-S
+EfficientNetV2-S / EfficientNetV2-M / EfficientNetV2-L / EfficientNetV2-S (21k) / EfficientNetV2-M (21k) / EfficientNetV2-L (21k)
 EfficientNetV2: Smaller Models and Faster Training
 ```
 https://arxiv.org/abs/2104.00298
 ```
-
-
-EfficientNetV2-M
-EfficientNetV2: Smaller Models and Faster Training
-```
-https://arxiv.org/abs/2104.00298
-```
-
-
-EfficientNetV2-L
-EfficientNetV2: Smaller Models and Faster Training
-```
-https://arxiv.org/abs/2104.00298
-```
-
-
-EfficientNetV2-S (21k)
-EfficientNetV2: Smaller Models and Faster Training
-```
-https://arxiv.org/abs/2104.00298
-```
-
-
-EfficientNetV2-M (21k)
-EfficientNetV2: Smaller Models and Faster Training
-```
-https://arxiv.org/abs/2104.00298
-```
-
-
-EfficientNetV2-L (21k)
-EfficientNetV2: Smaller Models and Faster Training
-```
-https://arxiv.org/abs/2104.00298
-```
-
 
 U-Net
 U-Net: Convolutional Networks for Biomedical Image Segmentation
@@ -8052,13 +7979,11 @@ ParseNet: Looking Wider to See Better
 https://arxiv.org/abs/1506.04579
 ```
 
-
 SegNet
 SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
 ```
 https://arxiv.org/pdf/1511.00561.pdf
 ```
-
 
 DilatedNet
 MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS
@@ -8084,8 +8009,6 @@ DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convol
 ```
 https://arxiv.org/pdf/1606.00915.pdf
 ```
-
-
 
 PSPNet
 Pyramid Scene Parsing Network
