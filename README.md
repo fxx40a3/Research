@@ -11915,8 +11915,7 @@ Product Demand Prediction
 https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/
 Electricity Price Prediction
 https://thecleverprogrammer.com/2021/11/15/electricity-price-prediction-with-machine-learning/
-Language Detection 110.Adding Labels to a Dataset for Sentiment Analysis
-https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
+
 Pfizer Vaccine Sentiment Analysis 112.News Classification 113.Omicron Variant Sentiment Analysis
 https://thecleverprogrammer.com/2021/10/12/pfizer-vaccine-sentiment-analysis-using-python/
 Iris Flower Classification 
