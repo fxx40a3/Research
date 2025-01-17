@@ -607,6 +607,7 @@ https://www.researchgate.net/publication/367475637_A_SYSTEM_FOR_CARTOONIFYING_AN
 https://thepythoncode.com/article/make-a-cartoonifier-with-opencv-in-python
 https://www.kaggle.com/code/yasserh/opencv-cartoonify
 https://medium.com/nerd-for-tech/cartoonize-images-with-python-10e2a466b5fb
+https://projectworlds.in/image-to-cartoon-python-opencv-machine-learning/
 ```		
 
 # Cartoonifying an Image end
@@ -10543,10 +10544,6 @@ Insurance Claim Prediction Machine Learning Project
 https://projectworlds.in/insurance-claim-prediction-machine-learning-project-with-source-code/
 ```
 
-Image to Cartoon Python OpenCV Machine Learning
-```
-https://projectworlds.in/image-to-cartoon-python-opencv-machine-learning/
-```
 
 Artificial Intelligence Project Chess Game Python
 ```
@@ -10897,373 +10894,6 @@ https://projectworlds.in/brain-tumour-detection-project-using-deep-learning-from
 Lung Cancer Detection Using CNN Project with Source Code
 ```
 https://projectworlds.in/lung-cancer-detection-using-cnn-project-with-source-code/
-```
-Machine Learning custom projects List
-```
-Learning Gladiator Machine Learning projects
-Play Money Ball Machine Learning projects
-Machine Learning Baseball
-Predict Stock Prices Machine Learning projects
-Stock Price Predictor Machine Learning Projects
-Handwritten Text Recognition with TensorFlow Machine Learning projects
-Investigate Enron Fraud Analysis with Machine Learning projects
-Write ML Algorithms from Scratch Machine Learning projects
-Mine Social Media Sentiment Machine Learning projects
-Improve Health Care Machine Learning projects
-Iris Data Machine Learning projects
-Loan Prediction Data Machine Learning projects
-Bigmart Sales Data Machine Learning projects
-Boston Housing Data Machine Learning projects
-Time Series Analysis Data Machine Learning projects
-Wine Quality Data Machine Learning projects
-Turkiye Student Evaluation Data Machine Learning projects
-Heights and Weights Data Machine Learning projects
-Intermediate Level Machine Learning projects
-Black Friday Data Machine Learning projects
-Human Activity Recognition Data Machine Learning projects
-Siam Competition Data Machine Learning projects
-Trip History Data Machine Learning projects
-Million Song Data Machine Learning projects
-Census Income Data Machine Learning projects
-Movie Lens Data Machine Learning projects
-Twitter Classification Data Machine Learning projects
-Advanced Level Machine Learning projects
-Identify your Digits Machine Learning projects
-Urban Sound Classification Machine Learning projects
-Vox Celebrity Data Machine Learning projects
-ImageNet Data Machine Learning projects
-Chicago Crime Data Machine Learning projects
-Age Detection of Indian Actors Data Machine Learning projects
-Recommendation Engine Data Machine Learning projects
-VisualQA Data Machine Learning projects
-Nonlinear Reconstruction of Genetic Networks Implicated Machine Learning projects
-Identifying Gender From Facial Features Machine Learning projects
-Equation to LaTeX Machine Learning projects
-Intensity prediction using DYFI Machine Learning projects
-Artificial Intelligence on the Final Frontier Machine Learning projects
-Life Expectancy Post Thoracic Surgery Machine Learning projects
-Making Sense of the Mayhem- Machine Learning and March Madness Machine Learning projects
-Better Reading Levels through Machine Learning
-What are People Saying about Net Neutrality Machine Learning projects
-Bird Species Identification from an Image Machine Learning projects
-Stay Alert.Aditya Sarkar Machine Learning projects
-A bigram extension to word vector representation Machine Learning projects
-Mining for Confusion – Classifying Affect in MOOC Learners’ Discussion Forum Posts Machine Learning projects
-Cardiac Arrhythmias Patients Machine Learning projects
-Prediction of Average and Perceived Polarity in Online Journalism Machine Learning projects
-Cardiac Dysrhythmia Detection with GPU-Accelerated Neural Networks Machine Learning projects
-Nicolas Sanchez Ruck Those Stats Machine Learning projects
-Classifying Wikipedia People Into Occupations Machine Learning projects
-Classification of Soil Contamination Machine Learning projects
-Automated Essay Grading Machine Learning projects
-Relative and absolute equity return prediction using supervised learning Machine Learning projects
-Seizure Prediction from Intracranial EEG Recordings Machine Learning projects
-Predicting Seizure Onset with Intracranial Electroencephalogram(EEG)Machine Learning projects
-Classifying Complex Legal Documents Machine Learning projects
-Machine Learning Applied to the Detection of Retinal Blood Vessels Machine Learning projects
-Survival Outcome Prediction for Cancer Patients Machine Learning projects
-Predicting Cellular Link Failures to Improve User Experience on Smartphones Machine Learning projects
-Yelp Personalized Reviews Machine Learning projects
-KMeansSL Machine Learning projects
-Strength in numbers_ Modelling the impact of businesses on each other Machine Learning projects
-Correlation Based Multi-Label Classification Machine Learning projects
-Landmark Recognition Using Machine Learning Machine Learning projects
-CarveML an application of machine learning to file fragment classification Machine Learning projects
-rClassifier Machine Learning projects
-Using Vector Representations to Augment Sentiment Analysis Machine Learning projects
-Analyzing Vocal Patterns to Determine Emotion Machine Learning projects
-Predicting the Commercial Success of Songs Based on Lyrics and Other Metrics Machine Learning projects
-Application Of Machine Learning To Aircraft Conceptual Design Machine Learning projects
-Extracting Word Relationships from Unstructured Data Machine Learning projects
-Machine Learning for Predicting Delayed Onset Trauma Following Ischemic Stroke Machine Learning projects
-Classifying Online User Behavior Using Contextual Data Machine Learning projects
-Real Time Flight Path Optimization Under Constraints Using Surrogate Flutter Function Machine Learning projects
-Real-Time Dense Map Matching with Naive Hidden Markov Models Delay versus Accuracy Machine Learning projects
-Prediction Function from Sequence in Venom Peptide Families Machine Learning projects
-Restaurant Recommendation System Machine Learning projects
-Home Electricity Load Forecasting Machine Learning projects
-Learning Dota 2 Team Compositions Machine Learning projects
-Applying Deep Learning to derive insights about non-coding regions of the genome Machine Learning projects
-Classification of Higgs Jets as Decay Products of a Randall-Sundrum Graviton at the ATLAS Experiment Machine Learning projects
-SemenFertilityPrediction.Axel Guyon,Florence Koskas,Yoann Buratti Machine Learning projects
-Sentiment Analysis Using Semi-Supervised Recursive Autoencoders and Support Vector Machines Machine Learning projects
-Classifying Syllables in Imagined Speech using EEG Data Machine Learning projects
-Abraham Starosta-Typeguess Machine Learning projects
-Predicting Usefulness of Yelp Reviews Machine Learning projects
-Predicting Soccer Results in the English Premier League Machine Learning projects
-Detecting Heart Abnormality using ECG with CART Machine Learning projects
-Down and Dirty with Data Machine Learning projects
-Hierarchical Classification of Amazon Products Machine Learning projects
-Predicting high-risk countries for political instability and conflict Machine Learning projects
-Machine Learning Implementation in live-cell tracking Machine Learning projects
-Any Given Sunday Machine Learning projects
-P300 Error Detection Machine Learning projects
-Automated Canvas Analysis for Painting Conservation Machine Learning projects
-Office Appliance Classification Machine Learning projects
-Sentiment Analysis on Movie Reviews Machine Learning projects
-Predicting Mobile Application Success Machine Learning projects
-Modeling Activity Recognition Using Physiological Data Collected from Wearable Technology Machine Learning projects
-Neural Network Joint Language Model.Charles Qi.[pdf]
-Yelp Recommendation System Using Advanced Collaborative Filtering Machine Learning projects
-Prediction of Yelp Review Star Rating using Sentiment Analysis Machine Learning projects
-Classification of Bad Accounts in Credit Card Industry Machine Learning projects
-Classification Of Musical Playing Styles Machine Learning projects
-Email Filtering By Response Required Machine Learning projects
-Forecasting Utilization in City Bike-Share Program Machine Learning projects
-Recommender.Christopher Aberger Machine Learning projects
-Predicting Cell Type-Specific Chromatin States from Genetic Regulatory Networks Machine Learning projects
-Pose Estimation Based on 3D Models Machine Learning projects
-Visual Localization and POMDP for Autonomous Indoor Navigation Machine Learning projects
-Contours and Kernels-The Art of Sketching Machine Learning projects
-Indoor Positioning System Using Wifi Fingerprint Machine Learning projects
-Predicting air pollution level in a specific city Machine Learning projects
-Prediction of Transcription Factors that Regulate Common Binding Motifs Machine Learning projects
-Multi-class motif discovery in keratinocyte differentiation Machine Learning projects
-Defensive Unit Performance Analysis Machine Learning projects
-Diagnosing Malignant versus Benign Breast Tumors via Machine Learning Techniques in High Dimensions Machine Learning projects
-Hacking the Hivemind Machine Learning projects
-Diagnosing Parkinson’s from Gait Machine Learning projects
-Implementing Machine Learning Algorithms on GPUs for Real-Time Traffic Sign Classification Machine Learning projects
-Vignette Machine Learning projects
-Machine Learning In JavaScript Machine Learning projects
-Searching for exoplanets in the Kepler public data Machine Learning projects
-Model Clustering via Group Lasso Machine Learning projects
-Improving Positron Emission Tomography Imaging with Machine Learning Machine Learning projects
-Algorithmic Trading of Futures via Machine Learning.David Montague Machine Learning projects
-Topic based comments exploration for online articles Machine Learning projects
-Personal Legal Counselor and Interpreter of the Law via Machine Learning Machine Learning projects
-Personalized Web Search Machine Learning projects
-Detecting Ads in a Machine Learning Approach Machine Learning projects
-Predicting Mitochondrial tRNA Modification Machine Learning projects
-Collaborative Neighborhoods Machine Learning projects
-Estimation of Causal Effects from Observational Study of Job Training Program Machine Learning projects
-Deep Leraning Architecture for Univariate Time Series Forecasting Machine Learning projects
-Solomon Machine Learning projects
-Automatic detection of nanoparticles in tissue sections Machine Learning projects
-Implementation of Deep Convolutional NeuralNet on a DSP Machine Learning projects
-Evergreen or Ephemeral – Predicting Webpage Longevity Through Relevancy Features Machine Learning projects
-MacMalware Machine Learning projects
-Extractive Fiction Summarization Using Sentence Significance Scoring Models Machine Learning projects
-Identifying And Predicting Market Reactions To Information Shocks In Commodity Markets Machine Learning projects
-An EM-Derived Approach to Blind HRTF Estimation Machine Learning projects
-The Many Dimensions of Net Neutrality Machine Learning projects
-Learning To Predict Dental Caries For Preschool Children Machine Learning projects
-Information based feature selection Machine Learning projects
-Identifying Elephant Vocalizations Machine Learning projects
-Predicting Protein Fragment Binding Machine Learning projects
-Bike Share Usage Prediction in London Machine Learning projects
-Localized Explicit Semantic Analysis Machine Learning projects
-Robo Brain Massive Knowledge Base for Robots Machine Learning projects
-Understanding Music Genre Similarity Machine Learning projects
-Correlated Feature Selection for Single-Cell Phenotyping Machine Learning projects
-Activity Recognition in Construction Sites Using 3D Accelerometer and Gyrometer Machine Learning projects
-Event-based stock market prediction Machine Learning projects
-Recommendation Based On User Experience Machine Learning projects
-Spectrum Adaptation in Multicarrier Interference Channels Machine Learning projects
-Exploring Potential for Machine Learning on Data About K-12 Teacher Professional Development Machine Learning projects
-Player Behavior and Optimal Team Compositions for Online Multiplayer Games Machine Learning projects
-Algorithmic Trading Strategy Based On Massive Data Mining Machine Learning projects
-Face Detection And Recognition Of Drawn Characters Machine Learning projects
-Gene Expression Analysis Of HCMV Latent Infection Machine Learning projects
-A New Kalman Filter Method Machine Learning projects
-Using Tweets for single stock price prediction Machine Learning projects
-Naïve Bayes Classifier And Profitability of Options Gamma Trading Machine Learning projects
-Vector-based Sentiment Analysis of Movie Reviews Machine Learning projects
-A General-Purpose Sentence-Level Nonsense Detector Machine Learning projects
-Characterizing Genetic Variation in Three Southeast Asian Populations Machine Learning projects
-Machine Learning for the Smart Grid Machine Learning projects
-Predicting Africa Soil Properties Machine Learning projects
-Automated Bitcoin Trading via Machine Learning Algorithms Machine Learning projects
-SkatBot Machine Learning projects
-Tradeshift Text Classification Machine Learning projects
-New York City Bike Share Machine Learning projects
-Predicting Seizure Onset in Epileptic Patients Using Intercranial EEG Recordings Machine Learning projects
-Predicting Foster Care Exit Machine Learning projects
-Yelp Recommendation System Machine Learning projects
-Predicting National Basketball Association Game Winners Machine Learning projects
-Predicting Yelp Ratings From Business and User Characteristics Machine Learning projects
-Predicting Popularity of Pornography Videos Machine Learning projects
-Accurate Campaign Targeting Using Classification Algorithms Machine Learning projects
-Forecasting Bike Rental Demand Machine Learning projects
-Predicting User Following Behavior On Tencent Weibo Mac
-ine Learning projects
-Improving Taxi Revenue With Reinforcement Learning Machine Learning projects
-Learning Facial Expressions From an Image Machine Learning projects
-All Your Base Are Belong To Us English Texts Written by Non-Native Speakers Machine Learning projects
-Identifying Regions High Turbidity Machine Learning projects
-A Comparison of Classification Methods for Expression Quantitative Trait Loci Machine Learning projects
-Predicting Mobile Users Future Location Machine Learning projects
-Machine Learning Madness Machine Learning projects
-Semi-Supervised Learning For Sentiment Analysis Machine Learning projects
-Legal Issue Spotting Machine Learning projects
-A novel way to Soccer Match Prediction Machine Learning projects
-Morphological Galaxy Classification Machine Learning projects
-Predicting Helpfulness Ratings of Amazon Product Reviews Machine Learning projects
-Predicting Course Completions For Online Courses Machine Learning projects
-An Adaptive System For Standardized Test Preparation Machine Learning projects
-Single Molecule Biophysics Machine Learning For Automated Data Processing Machine Learning projects
-Understanding Comments Submitted to FCC on Net Neutrality Machine Learning projects
-Direct Data-Driven Methods for Decision Making under Uncertainty Machine Learning project
-From Food To Winev
-Classifying Legal Questions into Topic Areas Using Machine Learning Machine Learning projects
-Predicting Hit Songs with MIDI Musical Featuresv
-Machine Learning Methods for Biological Data Curation Machine Learning projects
-Classifying Forest Cover Type using Cartographic Features Machine Learning projects
-Peer Lending Risk Predictorv
-Learning Distributed Representations of Phrases Machine Learning projects
-Estimation Of Word Representations Using Recurrent Neural Networks And Its Application In Generating Business Fingerprints Machine Learning projects
-Gender Identification by Voice Machine Learning projects
-Applications Of Machine Learning To Predict Yelp Ratings Machine Learning projects
-Methodology for Sparse Classification Learning Arrhythmia Machine Learning projects
-Predicting March Madness Machine Learning projects
-Net Neutrality Language Analysis Machine Learning projects
-Characterizing Atrial Fibrillation Burden for Stroke Prevention Machine Learning projects
-Predict Seizures in Intracranial EEG Recordings Machine Learning projects
-Automated Music Track Generation Machine Learning projects
-Characterizing Overlapping Galaxies Machine Learning projects
-Understanding Player Positions in the NBA Machine Learning projects
-Cross-Domain Product Classification with Deep Learning Machine Learning projects
-Predicting Heart Attacks Machine Learning projects
-Prediction of Bike Sharing Demand for Casual and Registered Users Machine Learning projects
-Classification Of Arrhythmia Using ECG Data Machine Learning projects
-What Can You Learn From Accelerometer Data Machine Learning projects
-Speaker Recognition for Multi-Source Single-Channel Recordings Machine Learning projects
-Prediction of consumer credit risk Machine Learning projects
-Machine Learning for Network Intrusion Detection Machine Learning projects
-Predicting Paper Counts in the Biological Sciences Machine Learning projects
-Prediction of Price Increase for MTG Cards Machine Learning projects
-Twitter Classification into the Amazon Browse Node Hierarchy Machine Learning projects
-Determining Mood From Facial Expressions Machine Learning projects
-Visualizing Personalized Cancer Risk Prediction Machine Learning projects
-Predicting the Total Number of Points Scored in NFL Games Machine Learning projects
-Short Term Power Forecasting Of Solar PV Systems Using Machine Learning Techniques Machine Learning projects
-Star-Galaxy Separation in the Era of Precision Cosmology Machine Learning projects
-Artist Attribution via Song Lyrics Machine Learning projects
-Accelerometer Gesture Recognition Machine Learning projects
-Arrythmia Classification for Heart Attack Prediction Machine Learning projects
-#ML#NLP-Autonomous Tagging Of Stack Overflow Posts Machine Learning projects
-Scheduling Tasks Under Constraints Machine Learning projects
-Classification Of Beatles Authorshipv
-Classification of Accents of English Speakers by Native Language Machine Learning projects
-Exposing commercial value in social networks matching online communities and businesses Machine Learning projects
-Hacking the genome Machine Learning projects
-How Hot Will It Get Modeling Scientific Discourse About Literature Machine Learning projects
-Permeability Prediction of 3-D Binary Segmented Images Using Neural Networks Machine Learning projects
-Automated Identification of Artist Given Unknown Paintings and Quantification of Artistic Style Machine Learning projects
-Predicting Lecture Video Complexity Machine Learning projects
-Result Prediction of Wikipedia Administrator Elections based ondNetwork Features Machine Learning projects
-Predicting The Treatment Status Machine Learning projects
-Error Detection based on neural signals Machine Learning projects
-Speech Similarity Machine Learning projects
-Data-Driven Modeling and Control of an Autonomous Race Car Machine Learning projects
-Predicting the Diagnosis of Type 2 Diabetes Using Electronic Medical Records Machine Learning projects
-A Novel Approach to Predicting the Results of NBA Matches Machine Learning projects
-Automatically Generating Musical Playlists Machine Learning projects
-Solar Flare Prediction Machine Learning projects
-Application of machine learning techniques for well pad identification inathe Bakken oil fielda Machine Learning projects
-Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods Machine Learning projects
-Two-step Semi-supervised Approach for Music Structural Classificiation Machine Learning projects
-Domain specific sentiment analysis using cross-domain data Machine Learning projects
-Instrumental Solo Generator Machine Learning projects
-Cross-Domain Text Understanding in Online SocialData Machine Learning projects
-From Paragraphs to Vectors and Back Again Machine Learning projects
-HandwritingRecognition Machine Learning projects
-Chemical Identification with Chemical Sensor Arrays Machine Learning projects
-Genre Classification Using Graph Representations of Music Machine Learning projects
-Collaborative Filtering Recommender Systems Machine Learning projects
-Detecting The Direction Of Sound With A Compact Microphone Array Machine Learning projects
-Finding Undervalued Stocks With Machine Learning Machine Learning project
-Multilevel Local Search Algorithms for Modularity Clustering Machine Learning projects
-Automated Detection and Classification of Cardiac Arrhythmias Machine Learning projects
-Predicting Kidney Cancer Survival From Genomic Data Machine Learning projects
-Multiclass Sentiment Analysis of Movie Reviews Machine Learning projects
-Classification and Regression Approaches to Predicting US Senate Elections Machine Learning projects
-Learning from Quantified Self Data Machine Learning projects
-Predict Influencers in the Social Network Machine Learning projects
-Bias Detector Machine Learning projects
-Constructing Personal Networks Through Communication History Machine Learning projects
-Modeling Protein Interactions Using Bayesian Networks Machine Learning projects
-Topic Analysis of the FCC’s Public Comments on Net Neutrality Machine Learning projects
-Predicting Hospital Readmissions Machine Learning projects
-Analyzing Positional Play in Chess Using Machine Learning Machine Learning projects
-Yelp Restaurants’ Open Hours Machine Learning projects
-Identifying Arrhythmia from Electrocardiogram Data Machine Learning projects
-Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans M
-chine Learning projects
-Exploring the Genetic Basis of Congenital Heart Defects Machine Learning projects
-Attribution of Contested and Anonymous Ancient Greek Works Machine Learning projects
-Object Detection for Semantic SLAM using Convolutional Neural Networks Machine Learning projects
-Sentiment as a Predictor of Wikipedia Editor Activity Machine Learning projects
-Blowing Up The Twittersphere- Predicting the Optimal Time to Tweet Machine Learning projects
-Evergreen Classification_ Exploring New Features Machine Learning projects
-Detecting Lane Departures Using Weak Visual Features Machine Learning projects
-Re-clustering of Constellations through Machine Learning Machine Learning projects
-Application of Neural Network In Handwriting Recognition Machine Learning projects
-Recognition and Classification of Fast Food Images Machine Learning projects
-Reduced Order Greenhouse Gas Flaring Estimation Machine Learning projects
-Blood Pressure Detection from PPG Machine Learning projects
-Predicting Low Voltage Events on Rural Micro-Grids in Tanzania Machine Learning projects
-Amazon Employee Access Control System_Updated_Version Machine Learning projects
-Prediction Onset Epileptic Machine Learning projects
-Evaluating Pinch Quality of Underactuated Robotic Hands Machine Learning projects
-Reinforcement Learning With Deeping Learning in Pacman Machine Learning projects
-Language identification and accent variation detection in spoken language recordings Machine Learning projects
-Enhancing Cortana User Experience Using Machine Learning Machine Learning projects
-Who Matters Machine Learning projects
-Predicting Heart Attacks Machine Learning projects
-Predicting Seizures in Intracranial EEG Recordings Machine Learning projects
-tructural Health Monitoring in Extreme Events from Machine Learning Perspective Machine Learning projects
-On-line Kernel Learning for Active Sensor Networks Machine Learning projects
-ECommerce Sales Prediction Using Listing Keywords Machine Learning projects
-Review Scheduling for Maximum Long-Term Retention of Knowledge Machine Learning projects
-Adaptive Spaced Repetition Machine Learning projects
-Do a Barrel Roll Machine Learning projects
-Oil Field Production using Machine Learning Machine Learning projects
-Predicting Success for Musical Artists through Network and Quantitative Data Machine Learning projects
-Better Models for Prediction of Bond Prices Machine Learning projects
-Classifying the Brain 27s Motor Activity via Deep Learning Machine Learning projects
-Prediction of Bike Rentals Machine Learning projects
-Classification of Alzheimer’s Disease Based on White Matter Attributes Machine Learning projects
-MoralMachines- Developing a Crowdsourced Moral Framework for Autonomous Vehicle Decisions Machine Learning projects
-Context Specific Sequence Preference Of DNA Binding Proteins Machine Learning projects
-Predicting Reddit Post Popularity ViaInitial Commentary Machine Learning projects
-Machine Learning for Continuous Human Action Recognition Machine Learning projects
-Predicting Pace Based on Previous Training Runs Machine Learning projects
-Probabilistic Driving Models and Lane Change Prediction Machine Learning projects
-Multiple Sensor Indoor Mapping Using a Mobile Robot Machine Learning projects
-Bone Segmentation MRI Scans Machine Learning projects
-#Rechorder Anticipating Music Motifs In Real Time Machine Learning projects
-Prediction and Classification of Cardiac Arrhythmia Machine Learning projects
-Predicting DJIA Movements from the Fluctuation of a Subset of Stocks Machine Learning projects
-Sentiment Analysis for Hotel Reviews Machine Learning projects
-Mood Detection with Tweets Machine Learning projects
-Comparison of Machine Learning Techniques for Magnetic Resonance Image Analysis Machine Learning projects
-Object Recognition in Images Machine Learning projects
-3D Scene Retrieval from Text Machine Learning projects
-Predicting Breast Cancer Survival Using Treatment and Patient Factors Machine Learning projects
-Parking Occupancy Prediction and Pattern Analysis Machine Learning projects
-Supervised DeepLearning For MultiClass Image Classification Machine Learning projects
-User Behaviors Across Domains Machine Learning projects
-Seizure forecasting Machine Learning projects
-Stock Trend Prediction with Technical Indicators using SVM Machine Learning projects
-Predicting Usefulness of Yelp Reviews Machine Learning projects
-Multiclass Classifier Building with Amazon Data to Classify Customer Reviews into Product Categories Machine Learning projects
-An Energy Efficient Seizure Prediction Algorithm Machine Learning projects
-Classifier Comparisons On Credit Approval Prediction Machine Learning projects
-Appliance Based Model for Energy Consumption Segmentation Machine Learning projects
-analysis on 1s1r array Machine Learning projects
-Phishing Detection System Using Machine Learning a
-Self Driving car project using Machine Learning
-OpenCV Python Neural Network Autonomous RC C
-Stock prediction using sentimental analysis – Machine Learning projects
-Illness Tracker | Final Year Project
-machine learning neural network JAVA PROJECTS
-Credit Card Fraud Detection Using Neural Network
-Detecting Phishing Websites using Machine Learning Technique
-Machine Learning Final Project: Classification of Neural Responses to Threat
-A Computer Aided Diagnosis System for Lung Cancer Detection using Machine
-Prediction of Diabetes and cancer using SVM
-Efficient Heart Disease Prediction System
 ```
 
 65. 
@@ -11829,50 +11459,6 @@ Heights and Weights Data
 Intermediate Level
 Black Friday Data
 Human Activity Recognition Data
-Siam Competition Data
-Trip History Data
-Million Song Data
-Census Income Data
-Movie Lens Data
-Twitter Classification Data
-Advanced Level
-Identify your Digits
-Urban Sound Classification
-Vox Celebrity Data
-ImageNet Data
-Chicago Crime Data
-Age Detection of Indian Actors Data
-Recommendation Engine Data
-VisualQA Data
-Nonlinear Reconstruction of Genetic Networks Implicated
-Identifying Gender From Facial Features
-Intensity prediction using DYFI
-Artificial Intelligence on the Final Frontier
-Life Expectancy Post Thoracic Surgery
-Making Sense of the Mayhem
-Better Reading Levels through
-What are People Saying about Net Neutrality
-Bird Species Identification from an Image
-A bigram extension to a word vector representation
-Mining for Confusion – Classifying Affect in MOOC Learners’ Discussion Forum Posts
-Cardiac Arrhythmias Patients
-Prediction of Average and Perceived Polarity in Online Journalism
-Cardiac Dysrhythmia Detection with GPU-Accelerated Neural Networks
-Nicolas Sanchez Ruck Those Stats
-Classifying Wikipedia People Into Occupations
-Classification of Soil Contamination
-Automated Essay Grading
-Relative and absolute equity return prediction using supervised learning
-Seizure Prediction from Intracranial EEG Recordings
-Predicting Seizure Onset with Intracranial Electroencephalogram(EEG)
-Classifying Complex Legal Documents
-Applied to the Detection of Retinal Blood Vessels
-Survival Outcome Prediction for Cancer Patients
-Predicting Cellular Link Failures to Improve User Experience on Smartphones
-Yelp Personalized Reviews
-KMeans
-Strength in numbers_ Modelling the impact of businesses on each other
-Correlation-Based Multi-Label Classification
 Landmark Recognition Using
 CarveML is an application to file fragment classification 311.classifier
 Using Vector Representations to Augment Sentiment Analysis
@@ -12410,37 +11996,6 @@ Yelp Personalized Reviews Machine Learning projects
 KMeansSL Machine Learning projects
 Strength in numbers_ Modelling the impact of businesses on each other Machine Learning projects
 Correlation Based Multi-Label Classification Machine Learning projects
-Landmark Recognition Using Machine Learning Machine Learning projects
-CarveML an application of machine learning to file fragment classification Machine Learning projects
-rClassifier Machine Learning projects
-Using Vector Representations to Augment Sentiment Analysis Machine Learning projects
-Analyzing Vocal Patterns to Determine Emotion Machine Learning projects
-Predicting the Commercial Success of Songs Based on Lyrics and Other Metrics Machine Learning projects
-Application Of Machine Learning To Aircraft Conceptual Design Machine Learning projects
-Extracting Word Relationships from Unstructured Data Machine Learning projects
-Machine Learning for Predicting Delayed Onset Trauma Following Ischemic Stroke Machine Learning projects
-Classifying Online User Behavior Using Contextual Data Machine Learning projects
-Real Time Flight Path Optimization Under Constraints Using Surrogate Flutter Function Machine Learning projects
-Real-Time Dense Map Matching with Naive Hidden Markov Models Delay versus Accuracy Machine Learning projects
-Prediction Function from Sequence in Venom Peptide Families Machine Learning projects
-Restaurant Recommendation System Machine Learning projects
-Home Electricity Load Forecasting Machine Learning projects
-Learning Dota 2 Team Compositions Machine Learning projects
-Applying Deep Learning to derive insights about non-coding regions of the genome Machine Learning projects
-Classification of Higgs Jets as Decay Products of a Randall-Sundrum Graviton at the ATLAS Experiment Machine Learning projects
-SemenFertilityPrediction.Axel Guyon,Florence Koskas,Yoann Buratti Machine Learning projects
-Sentiment Analysis Using Semi-Supervised Recursive Autoencoders and Support Vector Machines Machine Learning projects
-Classifying Syllables in Imagined Speech using EEG Data Machine Learning projects
-Abraham Starosta-Typeguess Machine Learning projects
-Predicting Usefulness of Yelp Reviews Machine Learning projects
-Predicting Soccer Results in the English Premier League Machine Learning projects
-Detecting Heart Abnormality using ECG with CART Machine Learning projects
-Down and Dirty with Data Machine Learning projects
-Hierarchical Classification of Amazon Products Machine Learning projects
-Predicting high-risk countries for political instability and conflict Machine Learning projects
-Machine Learning Implementation in live-cell tracking Machine Learning projects
-Any Given Sunday Machine Learning projects
-P300 Error Detection Machine Learning projects
 Automated Canvas Analysis for Painting Conservation Machine Learning projects
 Office Appliance Classification Machine Learning projects
 Sentiment Analysis on Movie Reviews Machine Learning projects
@@ -15685,21 +15240,17 @@ Tutorial/Git:
 https://github.com/Modevntalking-com/ml-license-plate-vision/tree/mainpython detect.py -i
 
 https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg
-6 \| Project Name: Age Detection using Deep Learning in OpenCV
 
 
-7 \| Project Name: Cartooning an Image using OpenCV – Python
-
-https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/
 9 \| Project Name: Count number of Faces using Python – OpenCV
-
 https://www.geeksforgeeks.org/count-number-of-faces-using-python-opencv/
+
 10 \| Project Name: Computer Vision with Python
-
 https://thecleverprogrammer.com/2020/08/31/opencv-with-python-tutorial/
-11. 504 OpenCV Projects & Tutorials for Beginners and Up]
 
+11. 504 OpenCV Projects & Tutorials for Beginners and Up]
 https://www.hackster.io/opencv/projects
+
 12. 16-opencv-projects
 
 https://medium.com/@pies052022/16-opencv-projects-ideas-topics-for-beginners-with-source-code-2024-bedfa8165c3b
@@ -15709,16 +15260,12 @@ python ./detect.py -i
 https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg/Users/user/Desktop/AI/ml-license-plate-vision
 
 https://bitbucket.org/viewsoftbd/licence-plate-detection/src/main/
+
 Age Detection
-
-
 /Users/user/Desktop/AI/age-detection-using-deep-learning-in-opencv
 https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view
 
 https://bitbucket.org/viewsoftbd/age-detection/src/main/
-Cartooning an Image
-
-https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/
 
 https://www.geeksforgeeks.org/count-number-of-object-using-python-opencv/
 /Users/user/Desktop/AI/object_counter
@@ -16356,10 +15903,7 @@ https://github.com/Modevntalking-com/ml-license-plate-vision/tree/mainpython det
 https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg		
 6
 Project Name: Age Detection using Deep Learning in OpenCV	
-		
-7
-Project Name: Cartooning an Image using OpenCV – Python	
-https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/		
+				
 9
 Project Name: Count number of Faces using Python – OpenCV	
 https://www.geeksforgeeks.org/count-number-of-faces-using-python-opencv/		
@@ -16380,8 +15924,6 @@ Age Detection
 
 https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view
 https://bitbucket.org/viewsoftbd/age-detection/src/main/
-Cartooning an Image	
-https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/		
 
 https://www.geeksforgeeks.org/count-number-of-object-using-python-opencv/	/Users/user/Desktop/AI/object_counter	
 https://bitbucket.org/viewsoftbd/object-counter/src/main/
