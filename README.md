@@ -1,6 +1,59 @@
 # Artificial Intellience Projects and Research
 
 
+# Image colourization start
+
+```		
+https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/
+https://github.com/mberkay0/image-colorization
+https://github.com/ImagingLab/Colorizing-with-GANs
+https://www.kaggle.com/code/ziyadelshazly/image-colorization-using-gans
+https://ar5iv.labs.arxiv.org/html/1803.05400
+https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8
+https://www.imaginglab.ca/data/NaNgEb2018AMDO.pdf
+https://cs231n.stanford.edu/2024/papers/image-colorization-using-gan-and-inception-resnet-v2.pdf
+https://github.com/dhananjayan-r/Colorizer
+https://pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/
+https://qiita.com/hatt_takumi/items/0c51e843ceeb3b2868fa
+https://github.com/AbhilipsaJena/Image_colorization-OpenCV
+https://www.topview.ai/blog/detail/colorize-black-white-images-in-python
+https://www.kaggle.com/code/aayush9753/gan-for-image-colorization
+```
+
+Convolutional Neural Network based Image Colorization using OpenCV
+```
+https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
+https://github.com/spmallick/learnopencv/tree/master/Colorization
+```
+
+applyColorMap for pseudocoloring in OpenCV ( C++ / Python )
+```
+http://www.learnopencv.com/applycolormap-for-pseudocoloring-in-opencv-c-python/
+https://github.com/spmallick/learnopencv/tree/master/Colormap
+```
+
+Ai Black and white image colorization with OpenCV
+```
+https://projectworlds.in/ai-black-and-white-image-colorization-with-opencv-project-free-download/
+```
+
+Automatic Colorization of Photos using Deep Neural Networks
+```
+https://github.com/richzhang/colorization
+```
+
+Black and white image colorization
+```
+https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/
+```
+
+Image Colorization
+```
+https://github.com/richzhang/colorization
+```
+
+# Image colourization end
+
 # Object Detection / Image Classifier Block start
 
 ```
@@ -9654,12 +9707,6 @@ https://github.com/spmallick/learnopencv/tree/master/MultiObjectTracker
 ```
 
 
-Convolutional Neural Network based Image Colorization using OpenCV
-```
-https://www.learnopencv.com/convolutional-neural-network-based-image-colorization-using-opencv/
-https://github.com/spmallick/learnopencv/tree/master/Colorization
-```
-
 
 SVM using scikit-learn
 ```
@@ -10235,14 +10282,6 @@ http://www.learnopencv.com/computer-vision-for-predicting-facial-attractiveness/
 https://github.com/spmallick/learnopencv/tree/master/FacialAttractiveness
 ```
 
-
-applyColorMap for pseudocoloring in OpenCV ( C++ / Python )
-```
-http://www.learnopencv.com/applycolormap-for-pseudocoloring-in-opencv-c-python/
-https://github.com/spmallick/learnopencv/tree/master/Colormap
-```
-
-
 Image Alignment (ECC) in OpenCV ( C++ / Python )
 ```
 http://www.learnopencv.com/image-alignment-ecc-in-opencv-c-python/
@@ -10465,11 +10504,6 @@ https://projectworlds.in/drug-recommendation-system-based-on-sentiment-analysis-
 Big Mart Sales Prediction using Machine Learning
 ```
 https://projectworlds.in/big-mart-sales-prediction-using-machine-learning-web-app/
-```
-
-Ai Black and white image colorization with OpenCV
-```
-https://projectworlds.in/ai-black-and-white-image-colorization-with-opencv-project-free-download/
 ```
 
 Phishing Web Sites Detection Using Machine Learning Project
@@ -11136,11 +11170,6 @@ Real-time Multi-Person Pose Estimation and Tracking System
 https://github.com/MVIG-SJTU/AlphaPose
 ```
 
-
-Automatic Colorization of Photos using Deep Neural Networks
-```
-https://github.com/richzhang/colorization
-```
 
 Editing natural photos using Generative Neural Networks
 ```
@@ -13807,7 +13836,6 @@ Car driving using hand detection in Python
 Contour Detection with Custom Seeds using Python – OpenCV
 Find Co-ordinates of Contours using OpenCV \| Python
 Live Webcam Drawing using OpenCV
-Black and white image colorization with OpenCV and Deep Learning
 Detect and Recognize Car License Plate from a video in real-time
 License Plate Recognition with OpenCV and Tesseract OCR
 Handwritten Digit Recognition using Neural Network
@@ -13944,7 +13972,6 @@ Pathology Classification
 Fashion MNIST for Image Classification
 Image Deblurring using Generative Adversarial Networks
 Image Transformation
-Automatic Colorization of Photos using Deep Neural Networks
 Vehicle Counting and Classification
 Vehicle license plate scanners
 ```
@@ -14489,8 +14516,7 @@ Brightness Control With Hand Detection using OpenCV in Python
 Car driving using hand detection in Python		
 Contour Detection with Custom Seeds using Python – OpenCV		
 Find Co-ordinates of Contours using OpenCV | Python		
-Live Webcam Drawing using OpenCV		
-Black and white image colorization with OpenCV and Deep Learning		
+Live Webcam Drawing using OpenCV				
 Detect and Recognize Car License Plate from a video in real-time		
 License Plate Recognition with OpenCV and Tesseract OCR		
 Handwritten Digit Recognition using Neural Network		
@@ -14626,8 +14652,7 @@ Road Lane Detection in Autonomous Vehicles
 Pathology Classification		
 Fashion MNIST for Image Classification		
 Image Deblurring using Generative Adversarial Networks		
-Image Transformation		
-Automatic Colorization of Photos using Deep Neural Networks		
+Image Transformation				
 Vehicle Counting and Classification		
 Vehicle license plate scanners		
 ```
@@ -15641,9 +15666,8 @@ https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
 Text Detection and Extraction
 
 https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
-Black and white image colorization
 
-https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/
+
 License Plate Recognition with OpenCV and Tesseract OCR
 
 
@@ -15651,18 +15675,15 @@ License Plate Recognition with OpenCV and Tesseract OCR
 
 
 2 \| Project Name: OCR of Handwritten digits \\| OpenCV
-
 https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
+
 3 \| Project Name: Text Detection and Extraction using OpenCV and OCR
-
 https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
-4 \| Project Name: Black and white image colorization with OpenCV and Deep Learning
 
-https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/
+
+
 5 \| Project Name: License Plate Recognition with OpenCV and Tesseract OCR
 Tutorial/Git: 
-
-
 https://github.com/Modevntalking-com/ml-license-plate-vision/tree/mainpython detect.py -i
 
 https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg
@@ -16317,9 +16338,7 @@ Face and Hand Landmarks Detection
 OCR of Handwritten digits	
 https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/		
 Text Detection and Extraction	
-https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/		
-Black and white image colorization	
-https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/		
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/			
 License Plate Recognition with OpenCV and Tesseract OCR	
 1
 Project Name: Face and Hand Landmarks Detection using Python	
@@ -16329,10 +16348,7 @@ Project Name: OCR of Handwritten digits \| OpenCV
 https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/		
 3
 Project Name: Text Detection and Extraction using OpenCV and OCR	
-https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/		
-4
-Project Name: Black and white image colorization with OpenCV and Deep Learning	
-https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/		
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/				
 5
 Project Name: License Plate Recognition with OpenCV and Tesseract OCR	Tutorial/Git: 
 		
@@ -17545,9 +17561,7 @@ https://github.com/topics/ai-chatbot
 AI Self-driving cars
 
 https://github.com/ndrplz/self-driving-car
-Image Colorization
 
-https://github.com/richzhang/colorization
 Game of Chess
 
 https://github.com/luweizhang/chess-ai
@@ -18689,9 +18703,7 @@ https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-D
 AI Chatbots	
 https://github.com/topics/ai-chatbot		
 AI Self-driving cars	
-https://github.com/ndrplz/self-driving-car		
-Image Colorization	
-https://github.com/richzhang/colorization		
+https://github.com/ndrplz/self-driving-car			
 Game of Chess	
 https://github.com/luweizhang/chess-ai		
 Human Pose estimation	
