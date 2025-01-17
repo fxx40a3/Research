@@ -1,5 +1,21 @@
 # Artificial Intellience Projects and Research
 
+# DeepDream start
+
+```
+https://github.com/gordicaleksa/pytorch-deepdream
+https://www.tensorflow.org/tutorials/generative/deepdream
+https://www.kaggle.com/code/paulbacher/deep-dream-visualization
+https://www.kaggle.com/code/carloalbertobarbano/convolutional-network-visualizations-deep-dream
+https://www.kaggle.com/code/flacout/deep-dream-with-tensorflow-keras
+https://www.kaggle.com/code/crawford/deepdream-with-inception
+https://www.kaggle.com/code/tarunbisht11/deep-dreaming-using-tensorflow
+https://github.com/google/deepdream
+https://medium.com/analytics-vidhya/deep-dream-visualizing-the-features-learnt-by-convolutional-networks-in-pytorch-b7296ae3b7f
+```		
+
+# DeepDream end
+
 # Road Condition Monitoring Project start / Road_Line_Detection
 
 ```
@@ -13926,13 +13942,8 @@ Age Conversion Using GANs Algorithm
 Business Card Recognization Using Deep Learning
 Traffic light detection using Deep Learning
 People Counting Using Deep Learning
-DeepDream using CNNs
+```
 
-```
-Excellant Repository 
-```
-https://github.com/avs-abhishek123/Computer-Vision-Projects
-```
 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 
 ```
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
@@ -14521,87 +14532,6 @@ Video Summarization
 Face De-Aging/Aging		
 Human Pose Estimation And Action Recognition in Crowded Scenes		
 Unsupervised Anomaly Detection in Industrial Inspection		
-```	
-50+ Top Computer Vision Projects
-```	
-https://www.geeksforgeeks.org/computer-vision-projects/		
-Detect the RGB color from a webcam using Python – OpenCV		
-Face Detection using Python and OpenCV with a webcam		
-Face and Hand Landmarks Detection using Python – Mediapipe, OpenCV		
-Real-Time Edge Detection using OpenCV		
-Implement Canny Edge Detector in Python using OpenCV		
-Gun Detection using Python-OpenCV		
-Real-time object color detection using OpenCV		
-Right and Left Hand Detection Using Python		
-Age Detection Using Deep Learning in OpenCV		
-OpenCV – Drowsiness Detection		
-Build GUI Application Pencil Sketch from Photo in Python		
-Measure Size of an Object Using Python OpenCV		
-Brightness Control With Hand Detection using OpenCV in Python		
-Car driving using hand detection in Python		
-Contour Detection with Custom Seeds using Python – OpenCV		
-Find Co-ordinates of Contours using OpenCV | Python		
-Live Webcam Drawing using OpenCV				
-Detect and Recognize Car License Plate from a video in real-time		
-License Plate Recognition with OpenCV and Tesseract OCR		
-Handwritten Digit Recognition using Neural Network		
-Image Classification with Convolutional Neural Networks (CNNs) Using Pytorch		
-Human Pose Estimation with OpenCVUsing		
-Age and Gender Prediction from Image Using Pytorch		
-Face detection using Cascade Classifier using OpenCV-Python		
-Face recognition using Artificial Intelligence		
-Face recognition using GUI		
-FaceMask Detection using TensorFlow in Python		
-Python OpenCV – Super-resolution with deep learning	
-CIFAR-10 Image Classification in TensorFlow		
-Dog Breed Classification Using Transfer Learning		
-Flower Recognition Using Convolutional Neural Network		
-Emojify using Face Recognition with Machine Learning		
-Cat & Dog Classification using Convolutional Neural Network in Python		
-Video Analysis with Convolutional LSTM Networks		
-Autonomous Driving with Deep Learning		
-Visual Question Answering with Neural Networks		
-Scene Recognition with Convolutional Neural Networks		
-Text Recognition from Image with Convolutional Recurrent Neural Networks		
-Image Captioning Using Pytorch		
-Medical Image Analysis Using Deep Learning		
-Document Layout Analysis with Deep Learning		
-Deep Learning for Artistic Style Transfer		
-Landmark Recognition with Deep Neural Networks		
-Image Restoration with Generative Adversarial Networks		
-Satellite Image Analysis Using Convolutional Neural Network		
-Image generation with Convolutional Autoencoders		
-Lung Cancer Detection using Convolutional Neural Network (CNN) Tensorflow		
-Lung Cancer Detection Using Transfer Learning		
-Lung cancer detection using PyTorch		
-Pneumonia Detection Using Deep Learning		
-Detecting Covid-19 with Chest X-ray		
-Skin Cancer Detection Using TensorFlow		
-Hand Gesture Recognition with Convolutional Neural Networks		
-Optical Character Recognition Using Pytorch		
-Video Object Segmentation with Convolutional Networks		
-Traffic Signs Recognition using CNN and Keras in Python		
-Vehicle license plate recognition		
-Image Inpainting with Deep Neural Networks		
-Image Deblurring with Deep Neural Networks		
-Object Detection Using YOLO Using Pytorch		
-Object Detection Using YOLO Using Tensorflow		
-Object Detection with Faster R-CNN and Mask R-CNN		
-Image Segmentation with U-Net using Tensorflow		
-Image Segmentation with SegNet using Tensorflow		
-Image Segmentation with U-Net using Pytorch		
-Neural Style Transfer Using Pytorch		
-Image Synthesis using Generative Adversarial Networks (GANs)		
-Emotion Recognition through Facial Expressions		
-Facial expression detection using the Deepface module in Python		
-Instance segmentation using Pytorch		
-Semantic segmentation using Pytorch		
-Face similarity Detection using PyTorch		
-Age Conversion Using GANs Algorithm		
-Business Card Recognization Using Deep Learning		
-Traffic light detection using Deep Learning		
-People Counting Using Deep Learning		
-DeepDream using CNNs					
 ```	
 
 Excellant Repository 
