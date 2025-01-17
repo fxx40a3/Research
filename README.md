@@ -14645,15 +14645,6 @@ Recommender Systems
 Time Series Forecasting
 Image Recognition
 https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb
-https://github.com/rdcolema/tensorflow-image-classification
-https://github.com/madhura-3/Basic-Image-Classification-with-TensorFlow
-https://github.com/billy-enrizky/TensorFlow-Image-Classification
-https://github.com/Faisal-AlDhuwayhi/Image-Classifier-TensorFlow
-https://github.com/xuetsing/image-classification-tensorflow
-https://github.com/debdattasarkar/Image-Classification-with-CNN-in-TensorFlow/tree/main
-https://github.com/Ahad-Al-Seraihi/Image-Classifier-with-TensorFlow
-https://github.com/Adesoji1/Food-Image-Classification/tree/main
-https://medium.com/@RaghavPrabhu/a-simple-tutorial-to-classify-images-using-tensorflow-step-by-step-guide-7e0fad26c22
 https://github.com/cedoula/TensorFlow-Basic-Image-Classification
 https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2022-12-16-tf-cifar/2022-12-16/
 https://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/
@@ -14862,24 +14853,6 @@ C:\khan\ai\image-classification-with-tensorflow                                 
 
 https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb
 
-https://github.com/rdcolema/tensorflow-image-classification
-
-https://github.com/madhura-3/Basic-Image-Classification-with-TensorFlow
-
-https://github.com/billy-enrizky/TensorFlow-Image-Classification
-
-https://github.com/Faisal-AlDhuwayhi/Image-Classifier-TensorFlow
-
-https://github.com/xuetsing/image-classification-tensorflow
-
-https://github.com/debdattasarkar/Image-Classification-with-CNN-in-TensorFlow/tree/main
-
-https://github.com/Ahad-Al-Seraihi/Image-Classifier-with-TensorFlow
-
-https://github.com/Adesoji1/Food-Image-Classification/tree/main
-
-https://medium.com/@RaghavPrabhu/a-simple-tutorial-to-classify-images-using-tensorflow-step-by-step-guide-7e0fad26c22
-
 https://github.com/cedoula/TensorFlow-Basic-Image-Classification
 
 https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2022-12-16-tf-cifar/2022-12-16/
@@ -14973,22 +14946,6 @@ SMS Spam Detection
 https://www.geeksforgeeks.org/sms-spam-detection-using-tensorflow-in-python/
 CNN_image_classification
 
-https://medium.com/@sarka.pribylova/image-classification-using-cnn-0fad8367acfd
-
-https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/CNN_image_classification.ipynb
-imagenet_classification
-
-https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/imagenet_classification.ipynb
-edge_detection
-
-https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/edge_detection.ipynb
-tree_skeleton
-
-https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/tree_skeleton.ipynb
-Build a Generative Adversarial Neural Network with Tensorflow
-
-https://github.com/nicknochnack/GANBasics/tree/main
- 
 https://www.tensorflow.org//catalog
 https://www.youtube.com/watch?v=AALBGpLbj6Q
 TensorFlow-Advanced-Techniques-Solution
@@ -15103,9 +15060,6 @@ https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main
 9 \| Project Name: Count number of Faces using Python – OpenCV
 https://www.geeksforgeeks.org/count-number-of-faces-using-python-opencv/
 
-10 \| Project Name: Computer Vision with Python
-https://thecleverprogrammer.com/2020/08/31/opencv-with-python-tutorial/
-
 11. 504 OpenCV Projects & Tutorials for Beginners and Up]
 https://www.hackster.io/opencv/projects
 
@@ -15133,15 +15087,6 @@ Count number of Faces
 
 https://www.geeksforgeeks.org/count-number-of-faces-using-python-opencv/
 Computer Vision
-
-https://thecleverprogrammer.com/2020/08/31/opencv-with-python-tutorial/
-Flight Price Prediction with Flask app
-
-https://machinelearningprojects.net/flight-price-prediction/
-Youtube Comments Extraction and Sentiment Analysis Flask App
-
-https://machinelearningprojects.net/youtube-comments-extraction-and-sentiment-analysis/
- 
  
 Object Detection
 Building a Real-Time Object Detection App with Flask and YOLO
@@ -15490,120 +15435,8 @@ How to create a TensorFlow 2 model from scratch — A “trashy” example of De
 https://github.com/DanielWicz/trashanomaly/blob/master/tutorial_notebook.ipynb
 ```
 
-```
-Indian Weather Repository (Analysis)
-```
-https://www.kaggle.com/code/shivam6183/indian-weather-repository-analysis        
-https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input
-India Air quality and temp correlation	 
-https://www.kaggle.com/code/matviyamchislavskiy/india-air-quality-and-temp-correlation		
-Forecasting Weather Patterns with LSTM: A Python Guide Without Dates
-https://medium.com/@sebastienwebdev/forecasting-weather-patterns-with-lstm-a-python-guide-without-dates-433f0356136c
-ipynb 
-```
-
-LSTM Models for multi-step time-series forecast
-```
-https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/notebook        
-https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/input       
-```
-Household_Power_consumption	
-```
-https://www.kaggle.com/code/kcostya/lstm-models-for-multi-step-time-series-forecast/notebook        
-https://github.com/ahanse/machlearning/blob/master/household_power_consumption.csv        
-https://github.com/ahanse/machlearning/blob/master/household_power_consumption%20-%202.csv        
-https://www.kaggle.com//sagnikseal/household-power-consumption/data 
-```
-
-Advanced-NLP-Projects-with-TensorFlow-2.0 	
-```
-https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0/tree/master		
-
-Emotional Speech Recognition
-https://www.kaggle.com/code/brsdincer/emotional-speech-recognition-audio-process-all        
-https://www.kaggle.com/code/brsdincer/emotional-speech-recognition-audio-process-all/input        
-https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/input
-```
-
-Speech-Emotion-Recognition-in-Tensorflow-Using-CNNs	
-```
-https://github.com/amirragab-ds/Speech-Emotion-Recognition-in-Tensorflow-Using-CNNs		
-```
-An-Introduction-to-Indian-Weather-Repository 
-```
-https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/notebook        
-https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-indian-weather-repository/input
-```
-Face Recognition with Python
-```
-https://data-flair.training/blogs/python-face-recognition/
-https://data-flair.training/blogs/python-face-recognition/
-Facial Emotion Recognition with OpenCV and Deepface: Step-by-Step Tutorial 	
-https://pub.aimind.so/facial-emotion-recognition-with-opencv-and-deepface-step-by-step-tutorial-6e3ba2c803a3        
-https://github.com/ajitharunai/Facial-Emotion-Recognition-with-OpenCV-and-Deepface/tree/main        
-https://github.com/opencv/opencv/tree/master/data/haarcascades
-```
-
-
-
 
 ```
-
-new new
-
-
-```
-https://www.kaggle.com/code/akanksha496/spam-detection-using-tensorflow		
-https://github.com/rgdavies92/tensorflow-spam		
-https://www.kaggle.com/code/banddaniel/spam-mail-detection-w-tensorflow-distilbert		
-https://www.tutorialspoint.com/sms-spam-detection-using-tensorflow-in-python		
-CIFAR-10 Image Classification	
-https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/		
-Image Classification with TensorFlow	
-https://thecleverprogrammer.com/2020/08/30/image-classification-with-tensorflow-in-machine-learning/		
-Multiclass image classification using Transfer learning	
-https://www.geeksforgeeks.org/multiclass-image-classification-using-transfer-learning/		
-Image Classification with Artificial Neural Networks	
-https://thecleverprogrammer.com/2020/07/19/image-classification-with-ann/		
-MULTI-CLASS IMAGE CLASSIFICATION FLASK APP
-COMPLETE PROJECT(FLASK)	
-https://buffml.com/multi-class-image-classification-flask-app-complete-project/		
-MULTI-CLASS IMAGE CLASSIFICATION FLASK APP
-COMPLETE PROJECT	
-https://buffml.com/multi-class-image-classification-flask-app-complete-project/	[buffml.com](http://buffml.com/)	
-
-Image Classification	
-https://thecleverprogrammer.com/2020/07/16/pytorch-for-deep-learning/		
-
-Image Recognition using TensorFlow
-https://www.geeksforgeeks.org/image-recognition-using-tensorflow/
-
-https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
-C:\khan\ai\image-classification-with-tensorflow
-image-recognition-using-tensorflow.ipynb
-Image Classification with TensorFlow
-https://medium.com/@ilaslanduzgun/image-classification-with-tensorflow-a361c7b1eb05
-https://www.tensorflow.org/tutorials/images/classification?hl=ja
-
-https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
-C:\khan\ai\image-classification-with-tensorflow
-image-classification-with-tensorflow.ipynb
-OK    
-Image Classification with TensorFlow
-https://www.kaggle.com/code/tirendazacademy/image-classification-with-tensorflow/notebook
-https://www.kaggle.com//sanikamal/horses-or-humans-
-C:\khan\ai\image-classification-with-tensorflow
-image-classification-with-tensorflow-notebook.ipynb
-OK
-Basic Image Classification
-https://www.tensorflow.org/tutorials/keras/classification
-https://www.tensorflow.org/tutorials/keras/classification?hl=ja
-https://github.com/zalandoresearch/fashion-mnist?tab=readme-ov-file#get-the-data
-Download by using Internet explorer
-C:\khan\ai\image-classification-with-tensorflow
-keras-classification.ipynb
-OK  
-https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb
 https://github.com/rdcolema/tensorflow-image-classification
 https://github.com/madhura-3/Basic-Image-Classification-with-TensorFlow  
 https://github.com/billy-enrizky/TensorFlow-Image-Classification	
@@ -15624,60 +15457,8 @@ https://github.com/MahmudulAlam/Image-Classification-Using-CNN
 https://github.com/SonerYldrm/Image-Classification-with-CNNs/blob/master/ImageClassification_CNN.ipynb
 https://github.com/SreeEswaran/Image-classification-using-CNN/blob/main/notebooks/Image_Classification_using_CNN.ipynb
 https://github.com/Hvass-Labs/TensorFlow-Tutorials/tree/master		
-https://github.com/mrdbourke/tensorflow-deep-learning/tree/main
-C:\khan\ai\tensorflow-deep-learning
-00_tensorflow_fundamentals.ipynb
-OK     
-https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb	50%	
-https://github.com/pankush9096/Image-Classification-using-CNN
-https://github.com/kevincwu0/cnn-image-classification/tree/master
-C:\khan\ai\image-classification-with-tensorflow\cnn-image-classification
-cnn.py
-cnn.ipynb
-https://github.com/kevincwu0/cnn-image-classification/tree/master/
-https://www.kaggle.com//chetankv/dogs-cats-images
-OK
-https://github.com/aymericdamien/TensorFlow-Examples/tree/master
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/autoencoder.ipynb
-C:\khan\ai\TensorFlow-Examples\tensorflow_v2\notebooks\3_NeuralNetworks\autoencoder.ipynb
-OK
-C:\khan\ai\TensorFlow-Examples\tensorflow_v2\notebooks\3_NeuralNetworks\bidirectional_rnn.ipynb
-OK
-C:\khan\ai\TensorFlow-Examples\tensorflow_v2\notebooks\3_NeuralNetworks\convolutional_network_raw.ipynb
-OK
-C:\khan\ai\TensorFlow-Examples\tensorflow_v2\notebooks\3_NeuralNetworks\convolutional_network.ipynb
-OKok	
-Fake News Detection Model	
-https://www.geeksforgeeks.org/fake-news-detection-model-using-tensorflow-in-python/		
-https://www.kaggle.com/code/waquarhaseeb/fake-news-detection-using-tensorflow		
-https://www.kaggle.com/code/utkarshxy/tackling-fake-news-with-tensorflow/notebook		
-https://www.kaggle.com//clmentbisaillon/fake-and-real-news-		
-https://medium.com/@carmenscartezini/fake-news-classification-tensorflow-x-pytorch-2a8f471a3713		
-https://www.kaggle.com//saurabhshahane/fake-news-classification		
-https://github.com/cmadusankahw/fake-news-detection-with-LSTM/tree/main		
-Predict Fuel Efficiency	
-https://www.geeksforgeeks.org/predict-fuel-efficiency-using-tensorflow-in-python/		
-Face Mask Detection	
-https://www.geeksforgeeks.org/facemask-detection-using-tensorflow-in-python/		
-Image Segmentation	
-https://www.geeksforgeeks.org/image-segmentation-using-tensorflow/		
 Skin Cancer Detection	
-https://www.geeksforgeeks.org/skin-cancer-detection-using-tensorflow/		
-How can Tensorflow be used with the abalone  to build a sequential model?	
-Deep learning for computer vision with python and Tensorflow - complete course	
-https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=1725s&ab_channel=freeCodeCamp.org		
-TensorFlow-Machine-Learning-Projects	
-Stock Price Prediction Project	
-https://www.geeksforgeeks.org/stock-price-prediction-project-using-tensorflow/		
-https://github.com/PacktPublishing/Advanced-Natural-Language-Processing-with-TensorFlow-2/tree/master		
-https://github.com/camara94/natural-language-processing-tensorflow		
-https://github.com/topics/tensorflow		
-https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0/tree/master		
-Classify Handwritten Digits	
-https://www.geeksforgeeks.org/python-classifying-handwritten-digits-with-tensorflow/		
-SMS Spam Detection	
-https://www.geeksforgeeks.org/sms-spam-detection-using-tensorflow-in-python/		
-CNN_image_classification	
+
 https://medium.com/@sarka.pribylova/image-classification-using-cnn-0fad8367acfd		
 https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/CNN_image_classification.ipynb		
 imagenet_classification
@@ -15688,12 +15469,6 @@ tree_skeleton
 https://github.com/spribylova/Image/blob/b744377ff8911631d226f5441cb2446635d246ff/tree_skeleton.ipynb		
 Build a Generative Adversarial Neural Network with Tensorflow	
 https://github.com/nicknochnack/GANBasics/tree/main	 
-https://www.tensorflow.org//catalog
-https://www.youtube.com/watch?v=AALBGpLbj6Q
-TensorFlow-Advanced-Techniques-Solution 	
-https://github.com/Hunterdii/TensorFlow-Advanced-Techniques-Solution/tree/main		
-TensorFlow-Machine-Learning-Projects 	
-started	
 PYTORCH			
 Image Recognition			
 Image Classification	
@@ -15711,81 +15486,7 @@ https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 https://github.com/patrickloeber/pytorchTutorial		
 https://github.com/patrickloeber/pytorch-examples		
 https://github.com/patrickloeber/pytorch-chatbot		
-https://www.geeksforgeeks.org/how-to-structure-a-pytorch-project/		
-https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html		
-https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html		
-https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html		
-https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning		
-https://github.com/pytorch/examples/tree/main/siamese_network		
-https://github.com/pytorch/examples/tree/main/word_language_model		
-https://github.com/pytorch/examples/tree/main/imagenet		
-https://github.com/pytorch/examples/tree/main/dcgan		
-https://github.com/pytorch/examples/tree/main/vae		
-https://github.com/pytorch/examples/tree/main/super_resolution		
-https://github.com/pytorch/examples/tree/main/mnist_hogwild		
-https://github.com/pytorch/examples/tree/main/reinforcement_learning		
-https://github.com/pytorch/examples/tree/main/time_sequence_prediction		
-https://github.com/pytorch/examples/tree/main/fast_neural_style		
-https://github.com/pytorch/examples/tree/main/fx		
-https://github.com/pytorch/examples/tree/main/distributed		
-https://github.com/pytorch/examples/tree/main/mnist_forward_forward		
-https://github.com/pytorch/examples/tree/main/gcn		
-```
-
-OPENCV			
-```
-Face and Hand Landmarks Detection	
-		
-OCR of Handwritten digits	
-https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/		
-Text Detection and Extraction	
-https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/			
-License Plate Recognition with OpenCV and Tesseract OCR	
-1
-Project Name: Face and Hand Landmarks Detection using Python	
-		
-2
-Project Name: OCR of Handwritten digits \| OpenCV	
-https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/		
-3
-Project Name: Text Detection and Extraction using OpenCV and OCR	
-https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/				
-5
-Project Name: License Plate Recognition with OpenCV and Tesseract OCR	Tutorial/Git: 
-		
-
-https://github.com/Modevntalking-com/ml-license-plate-vision/tree/mainpython detect.py -i		
-
-https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg		
-6
-Project Name: Age Detection using Deep Learning in OpenCV	
-				
-9
-Project Name: Count number of Faces using Python – OpenCV	
-https://www.geeksforgeeks.org/count-number-of-faces-using-python-opencv/		
-10
-Project Name: Computer Vision with Python	
-https://thecleverprogrammer.com/2020/08/31/opencv-with-python-tutorial/		
-11. 504 OpenCV Projects & Tutorials for Beginners and Up]	
-https://www.hackster.io/opencv/projects		
-12. 16-opencv-projects	
-https://medium.com/@pies052022/16-opencv-projects-ideas-topics-for-beginners-with-source-code-2024-bedfa8165c3b		
-
-https://github.com/Modevntalking-com/ml-license-plate-vision/tree/main	python ./detect.py -i 
-https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg
-/Users/user/Desktop/AI/ml-license-plate-vision
-https://bitbucket.org/viewsoftbd/licence-plate-detection/src/main/
-Age Detection	
-	/Users/user/Desktop/AI/age-detection-using-deep-learning-in-opencv
-
-https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view
-https://bitbucket.org/viewsoftbd/age-detection/src/main/
-
-https://www.geeksforgeeks.org/count-number-of-object-using-python-opencv/	/Users/user/Desktop/AI/object_counter	
-https://bitbucket.org/viewsoftbd/object-counter/src/main/
-Count number of Faces	
-https://www.geeksforgeeks.org/count-number-of-faces-using-python-opencv/		
-Computer Vision	
+https://www.geeksforgeeks.org/how-to-structure-a-pytorch-project/				
 https://thecleverprogrammer.com/2020/08/31/opencv-with-python-tutorial/		
 Flight Price Prediction with Flask app	
 https://machinelearningprojects.net/flight-price-prediction/		
