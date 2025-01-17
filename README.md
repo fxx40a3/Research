@@ -12071,7 +12071,6 @@ Yolo object detection Project
 Face Emotion recognition project
 Face Mask Detection
 Pedestrian Detection
-Cartoonifying an Image
 Sentiment Analysis
 Credit Card Fraud Detection Project
 Customer Segmentation using Machine Learning
@@ -13897,7 +13896,6 @@ Business Card Recognization Using Deep Learning
 Traffic light detection using Deep Learning
 People Counting Using Deep Learning
 DeepDream using CNNs
-Cartoonifying an Image Using Deep Learning
 Road Condition Monitoring Project Using Deep Learning
 Image colourization using GANs algorithm
 Image Classifier using Tensorflow Object Detection API
@@ -14577,8 +14575,7 @@ Age Conversion Using GANs Algorithm
 Business Card Recognization Using Deep Learning		
 Traffic light detection using Deep Learning		
 People Counting Using Deep Learning		
-DeepDream using CNNs		
-Cartoonifying an Image Using Deep Learning		
+DeepDream using CNNs				
 Road Condition Monitoring Project Using Deep Learning		
 Image colourization using GANs algorithm		
 Image Classifier using Tensorflow Object Detection API		
