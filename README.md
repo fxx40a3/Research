@@ -16118,23 +16118,9 @@ recurrent neural networks (RNNs)
 https://github.com/patrickloeber/ml-deployment
 Build a Machine Learning App From Scratch with Flask & Docker
 
-https://www.youtube.com/watch?v=S--SD4QbGps&ab_channel=PatrickLoeber
-
-https://www.kaggle.com//kazanova/sentiment140
-
-https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/
-
 https://medium.com/@nileshshindeofficial/building-a-machine-learning-model-api-with-flask-a-step-by-step-guide-6f85e9bb9773
 
 
-https://www.statworx.com/en/content-hub/blog/how-to-build-a-machine-learning-api-with-python-and-flask/
-
-https://github.com/gahogg/YouTube-I-mostly-use-colab-now-/tree/master
-
-https://www.youtube.com/watch?v=qNF1HqBvpGE&ab_channel=GregHogg
-Desktop-chatbot-app
-
-https://github.com/Kalebu/Desktop-chatbot-app
 End-to-End-Airbnb-Price-Prediction
 
 https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction
@@ -16387,35 +16373,6 @@ https://github.com/gahogg/YouTube-I-mostly-use-colab-now-/tree/master
 https://www.youtube.com/watch?v=qNF1HqBvpGE&ab_channel=GregHogg		
 
 Desktop-chatbot-app	
-
-
 https://github.com/Kalebu/Desktop-chatbot-app		
-
-End-to-End-Airbnb-Price-Prediction	
-
-
-https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction		
-
-Article-Web-Scraping	
-
-
-https://github.com/KalyanM45/Article-Web-Scraping/tree/main		
-
-
-
-Gemini Chat Bot	
-
-
-https://github.com/KalyanM45/Gemini-ChatBot
-streamlit run app.py
-webmaster.noor@gmail.com
-API KEY: AIzaSyD6hZMBKM58gtBz85ZdBgavgaqHbxD6pS8
-
-AI-Project-Gallery/Chatbot using Langchain	
-
-NLP Projects
-
-
-https://github.com/topics/nlp-projects
 
 ```
