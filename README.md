@@ -11352,51 +11352,6 @@ Iris Flower Classification 115.Water Quality Analysis 116.Twitter Sentiment Anal
 Health Insurance Premium Prediction 121.Movie Rating Analysis for Beginners
 Number of Orders Prediction
 Apple Stock Price Prediction
-Insurance Prediction
-Worldwide Billionaires Analysis
-Unemployment Analysis
-Car Price Prediction Model
-Spam Detection
-Count Objects in Image
-WhatsApp Chats Sentiment Analysis 131.WhatsApp Chats Analysis
-Microsoft Stock Price Prediction
-Covid-19 Vaccine Analysis
-Video Game Sales Prediction Model
-Student Grades Prediction Model
-Saving a Model
-Uber Trips Analysis
-Google Search Analysis
-Tesla Stock Price Prediction Model
-Financial Budget Analysis 141.Click-Through Rate Prediction Model
-Interactive Language Translator
-Language Detection
-Create a Chatbot with Python
-Best Streaming Service Analysis
-Data Science Project on President Heights
-Data Science Project on Birth Rate Analysis
-Data Science Project on Time Series
-Data Science Project on Area and Population
-A Complete Project Walkthrough 151.Text Summarization
-Keyword Extraction
-Data Science on Finance
-Data Science on Marketing
-End-to-end
-on Binary Classification
-Data Science Based on Domains
-Sarcasm Detection
-Social Media Followers Prediction
-Amazon Product Reviews Sentiment Analysis 161.Hate Speech Detection
-End-to-end Hate Speech Detection System
-End-to-end Fake News Detection System
-End-to-end Spam Detection System
-Hotel Reviews Sentiment Analysis
-Real-time Gender Detection System
-Dogecoin Price Prediction
-Google Play Store Sentiment Analysis
-Amazon Alexa Reviews Sentiment Analysis
-Social Media Ads Classification 171.Fake News Detection
-End-to-End Model
-Gender Detection
 Sales Prediction
 Currency Exchange Rate Prediction
 End-to-end Project
@@ -11409,7 +11364,6 @@ House Price Prediction
 Real-Time Face Mask Detection
 Gold Price Prediction
 Object Detection
-Next Word Prediction Model
 Age and Gender Detection with Python
 Autocorrect Keyboard with Python and .
 in 5 lines of code. 191.Deepfake Detection with .
@@ -15449,8 +15403,6 @@ Number of Orders Prediction
 
 Apple Stock Price Prediction
 
-Insurance Prediction
-/
 Worldwide Billionaires Analysis
 
 Unemployment Analysis
@@ -17072,9 +17024,6 @@ https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/
 
 Deepfake Detection with Machine Learning.	
 https://thecleverprogrammer.com/2020/10/03/deepfake-detection-with-python/		
-
-Next Word Prediction Model	
-https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/		
 
 Resume Screening	
 https://thecleverprogrammer.com/2020/12/06/resume-screening-with-python/		
