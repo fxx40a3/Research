@@ -13355,14 +13355,11 @@ https://www.kaggle.com/code/dev523/leaf-disease-detection/input
 working on
 ```
 
-``` 
-```
 
-
-```
-
+computer-vision-projects
 ```
 https://www.geeksforgeeks.org/computer-vision-projects/
+
 Detect the RGB color from a webcam using Python – OpenCV
 Face and Hand Landmarks Detection using Python – Mediapipe, OpenCV
 Real-Time Edge Detection using OpenCV
@@ -13370,6 +13367,7 @@ Implement Canny Edge Detector in Python using OpenCV
 Gun Detection using Python-OpenCV
 Real-time object color detection using OpenCV
 Right and Left Hand Detection Using Python
+Age Detection Using Deep Learning in OpenCV
 OpenCV – Drowsiness Detection
 Build GUI Application Pencil Sketch from Photo in Python
 Measure Size of an Object Using Python OpenCV
@@ -13379,9 +13377,11 @@ Contour Detection with Custom Seeds using Python – OpenCV
 Find Co-ordinates of Contours using OpenCV \| Python
 Live Webcam Drawing using OpenCV
 Detect and Recognize Car License Plate from a video in real-time
+License Plate Recognition with OpenCV and Tesseract OCR
 Handwritten Digit Recognition using Neural Network
 Image Classification with Convolutional Neural Networks (CNNs) Using Pytorch
 Human Pose Estimation with OpenCVUsing
+Face detection using Cascade Classifier using OpenCV-Python
 Face recognition using Artificial Intelligence
 Face recognition using GUI
 FaceMask Detection using TensorFlow in Python
@@ -13425,8 +13425,10 @@ Image Segmentation with U-Net using Pytorch
 Neural Style Transfer Using Pytorch
 Image Synthesis using Generative Adversarial Networks (GANs)
 Emotion Recognition through Facial Expressions
-Facial expression detection using the Deepface module in Python
+Face similarity Detection
 ```
+
+
 
 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 
 ```
