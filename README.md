@@ -16013,9 +16013,6 @@ Amazon Alexa Reviews Sentiment Analysis
 Social Media Ads Classification
 
 Fake News Detection
-
-Sarcasm Detection
-
 Social Media Followers Prediction
 
 Amazon Product Reviews Sentiment Analysis
