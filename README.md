@@ -1,5 +1,48 @@
 # Artificial Intellience Projects and Research
 
+# Road Condition Monitoring Project start / Road_Line_Detection
+
+```
+https://github.com/jmcarrillog/deep-learning-for-road-surface-condition
+https://www.youtube.com/watch?v=12uhQ8QTEl4
+https://github.com/Amsterdam-Internships/Road-Condition-Monitoring
+https://developers.arcgis.com/python/latest/samples/automate-road-surface-investigation-using-deep-learning/
+https://dilum.bandara.lk/wp-content/uploads/2019/06/iRoads-Project-Report.pdf
+https://www.kaggle.com/code/jefmenegazzo/road-surface-type-classification
+https://www.kaggle.com/code/theaayushbajaj/detecting-congestion-on-the-road
+https://www.kaggle.com/code/mahmoudreda55/road-model-87-5
+
+```		
+
+SNE-RoadSeg\
+Computer Vision Learning 𝗦𝗡𝗘-𝗥𝗼𝗮𝗱𝗦𝗲𝗴: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
+```
+https://bit.ly/3hyCEAL
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUm5gbk
+Code : https://lnkd.in/ea4k9xq
+Dataset : https://lnkd.in/ePiDCQ9
+```
+
+DDU-Net: Dual-Decoder-U-Net for Road Extraction Using High-Resolution Remote Sensing Images\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗗𝗨-𝗡𝗲𝘁: 𝗗𝘂𝗮𝗹-𝗗𝗲𝗰𝗼𝗱𝗲𝗿-𝗨-𝗡𝗲𝘁 𝗳𝗼𝗿 𝗥𝗼𝗮𝗱 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗨𝘀𝗶𝗻𝗴 𝗛𝗶𝗴𝗵-𝗥𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗥𝗲𝗺𝗼𝘁𝗲 𝗦𝗲𝗻𝘀𝗶𝗻𝗴 𝗜𝗺𝗮𝗴𝗲𝘀
+```
+https://bit.ly/3Lu0UzU
+```
+
+Exploring DINO: Self-Supervised Transformers for Road Segmentation with ResNet50 and U-Net
+```
+https://learnopencv.com/fine-tune-dino-self-supervised-learning-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Exploring-DINO-dino-road-segmentation
+```
+
+Road Lane Detection Computer Vision Python Flask
+```
+https://projectworlds.in/road-lane-detection-computer-vision-python-flask-web-app/
+```
+
+
+# Road Condition Monitoring Project end
+
 # Cartoonifying an Image start
 
 ```
@@ -1837,14 +1880,6 @@ https://bit.ly/3xAHhjf
 Code : https://lnkd.in/en_agEc
 ```
 
-SNE-RoadSeg\
-Computer Vision Learning 𝗦𝗡𝗘-𝗥𝗼𝗮𝗱𝗦𝗲𝗴: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
-```
-https://bit.ly/3hyCEAL
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUm5gbk
-Code : https://lnkd.in/ea4k9xq
-Dataset : https://lnkd.in/ePiDCQ9
-```
 
 AdvPC\
 Computer Vision Learning 𝗔𝗱𝘃𝗣𝗖: Transferable Adversarial Perturbations on 3D Point Clouds
@@ -3148,11 +3183,6 @@ HardBoost: Boosting Zero-Shot Learning with Hard Classes\
 https://bit.ly/379diX5
 ```
 
-DDU-Net: Dual-Decoder-U-Net for Road Extraction Using High-Resolution Remote Sensing Images\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗗𝗨-𝗡𝗲𝘁: 𝗗𝘂𝗮𝗹-𝗗𝗲𝗰𝗼𝗱𝗲𝗿-𝗨-𝗡𝗲𝘁 𝗳𝗼𝗿 𝗥𝗼𝗮𝗱 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗨𝘀𝗶𝗻𝗴 𝗛𝗶𝗴𝗵-𝗥𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗥𝗲𝗺𝗼𝘁𝗲 𝗦𝗲𝗻𝘀𝗶𝗻𝗴 𝗜𝗺𝗮𝗴𝗲𝘀
-```
-https://bit.ly/3Lu0UzU
-```
 
 Q-ViT: Fully Differentiable Quantization for Vision Transformer\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗤-𝗩𝗶𝗧: 𝗙𝘂𝗹𝗹𝘆 𝗗𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁𝗶𝗮𝗯𝗹𝗲 𝗤𝘂𝗮𝗻𝘁𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿 𝗯𝘆 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗔𝗰𝗮𝗱𝗲𝗺𝘆 𝗼𝗳 𝗦𝗰𝗶𝗲𝗻𝗰𝗲𝘀
@@ -6411,7 +6441,6 @@ Body_Detection
 Face_Eye_Detection
 Hand_Written_digits_recognition
 Object_Tracking
-Road_Line_Detection
 Screen_Recording
 Take_Screenshot
 Turn_Your_PC_To_A_Security_Cam
@@ -7795,14 +7824,6 @@ YOLO11: Faster Than You Can Imagine!
 https://learnopencv.com/yolo11/
 https://github.com/spmallick/learnopencv/tree/master/YOLO11
 ```
-
-
-Exploring DINO: Self-Supervised Transformers for Road Segmentation with ResNet50 and U-Net
-```
-https://learnopencv.com/fine-tune-dino-self-supervised-learning-segmentation/
-https://github.com/spmallick/learnopencv/tree/master/Exploring-DINO-dino-road-segmentation
-```
-
 
 Sapiens: Foundation for Human Vision Models by Meta
 ```
@@ -10640,12 +10661,6 @@ https://projectworlds.in/nlp-spelling-correction-python-machine-learning/
 Android Human Activity Recognition Tensorflow&nbsp;
 ```
 https://projectworlds.in/android-human-activity-recognition-tensorflow-project-with-source-code/
-```
-
-
-Road Lane Detection Computer Vision Python Flask
-```
-https://projectworlds.in/road-lane-detection-computer-vision-python-flask-web-app/
 ```
 
 
@@ -13863,7 +13878,6 @@ Face recognition using Artificial Intelligence
 Face recognition using GUI
 FaceMask Detection using TensorFlow in Python
 Python OpenCV – Super-resolution with deep learning
-Real-Time Road Lane Detection
 CIFAR-10 Image Classification in TensorFlow
 Dog Breed Classification Using Transfer Learning
 Flower Recognition Using Convolutional Neural Network
@@ -13913,9 +13927,6 @@ Business Card Recognization Using Deep Learning
 Traffic light detection using Deep Learning
 People Counting Using Deep Learning
 DeepDream using CNNs
-Road Condition Monitoring Project Using Deep Learning
-Image colourization using GANs algorithm
-Image Classifier using Tensorflow Object Detection API
 
 ```
 Excellant Repository 
@@ -13982,7 +13993,6 @@ Face Recognition with Python and OpenCV
 Object Detection
 Hand Gesture Recognition
 Human Pose Detection
-Road Lane Detection in Autonomous Vehicles
 Pathology Classification
 Fashion MNIST for Image Classification
 Image Deblurring using Generative Adversarial Networks
@@ -14542,8 +14552,7 @@ Face detection using Cascade Classifier using OpenCV-Python
 Face recognition using Artificial Intelligence		
 Face recognition using GUI		
 FaceMask Detection using TensorFlow in Python		
-Python OpenCV – Super-resolution with deep learning		
-Real-Time Road Lane Detection		
+Python OpenCV – Super-resolution with deep learning	
 CIFAR-10 Image Classification in TensorFlow		
 Dog Breed Classification Using Transfer Learning		
 Flower Recognition Using Convolutional Neural Network		
@@ -14592,10 +14601,7 @@ Age Conversion Using GANs Algorithm
 Business Card Recognization Using Deep Learning		
 Traffic light detection using Deep Learning		
 People Counting Using Deep Learning		
-DeepDream using CNNs				
-Road Condition Monitoring Project Using Deep Learning		
-Image colourization using GANs algorithm		
-Image Classifier using Tensorflow Object Detection API		
+DeepDream using CNNs					
 ```	
 
 Excellant Repository 
@@ -14651,24 +14657,6 @@ BGR Palette in OpenCV
 draw basic shapes on Images		
 resize an image in Python		
 read an image in python		
-```
-
-https://neptune.ai/blog/15-computer-visions-projects		
-```
-Edge & Contour Detection		
-Colour Detection & Invisibility Cloak		
-Text Recognition using OpenCV and Tesseract (OCR)		
-Face Recognition with Python and OpenCV		
-Object Detection		
-Hand Gesture Recognition		
-Human Pose Detection		
-Road Lane Detection in Autonomous Vehicles		
-Pathology Classification		
-Fashion MNIST for Image Classification		
-Image Deblurring using Generative Adversarial Networks		
-Image Transformation				
-Vehicle Counting and Classification		
-Vehicle license plate scanners		
 ```
 
 https://www.youtube.com/watch?v=BFlRmIvqwSA&t=291s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
@@ -15302,7 +15290,6 @@ Computer-Vision-Projects
 https://www.geeksforgeeks.org/computer-vision-projects/
 https://sharmaji27.medium.com/30-unique-computer-vision-projects-with-source-code-3465ae58d6b4
 https://rareconnections.io/computer-vision-projects/
-https://neptune.ai/blog/15-computer-visions-projects
 https://github.com/avs-abhishek123/Computer-Vision-Projects
 OK        Blur_detection
 OK        CV_Algos
