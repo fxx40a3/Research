@@ -1,5 +1,373 @@
 # Artificial Intellience Projects and Research
 
+
+# Object Detection / Image Classifier Block start
+
+```
+https://www.geeksforgeeks.org/ml-training-image-classifier-using-tensorflow-object-detection-api/
+https://www.tensorflow.org/tutorials/images/classification
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/blob/master/Object_detection_image.py
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
+https://www.tensorflow.org/hub/tutorials/object_detection
+https://sites.google.com/view/geeky-traveller/soft-computing/tensorflow-image-recognition-with-object-detection-api-tutorials
+https://indiantechwarrior.com/tensorflow-image-recognition-with-object-detection-api/
+https://medium.com/nerd-for-tech/building-an-image-classifier-with-tensorflow-3e12c1d5d3a2
+```
+
+YOLO Series\
+Yolov4 Best Object detection Model
+```
+https://bit.ly/3650LAJ
+https://www.kaggle.com/code/yasserh/object-detection-yolo-v4
+https://www.kaggle.com/code/ranaazeem/yolov4-object-detection
+https://www.kaggle.com/discussions/general/550295
+https://www.geeksforgeeks.org/how-does-yolo-work-for-object-detection/
+https://www.geeksforgeeks.org/object-detection-with-yolo-and-opencv/
+https://korlakuntasaikamal10.medium.com/yolov4-a-comprehensive-guide-to-object-detection-using-darknet-and-opencv-bcf1688f57d7
+https://github.com/kamal3344/v4-Inference
+```
+
+Detr\
+Object Detection Learning Detection Transformer
+```
+https://bit.ly/39S5F57
+```
+
+Dynamic RCNN\
+Computer Vision Learning 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗥-𝗖𝗡𝗡: Towards High-Quality Object Detection via Dynamic Training
+```
+https://bit.ly/3939gy5
+```
+
+Yolov5	\
+Computer Vision Learning 𝗬𝗼𝗹𝗼𝘃5 : 𝗞𝗶𝗻𝗴 𝗼𝗳 𝗼𝗯𝗷𝗲𝗰𝘁 𝗱𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
+```
+https://bit.ly/39QHTXq
+```
+
+RetinaNet\
+Computer Vision Learning RetinaNet : Focal Loss for Dense Object Detection
+```
+https://bit.ly/3o5NrlN
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/35xCHGk
+𝗣𝘆𝘁𝗼𝗿𝗰𝗵 RetinaNet : https://bit.ly/2KaRQWO
+𝘁𝗳-𝗸𝗲𝗿𝗮𝘀 RetinaNet : https://bit.ly/35vqm5q
+```
+
+R-FCN\
+Computer Vision Learning R-FCN — Positive-Sensitive Score Maps (Object Detection) by Microsoft  and Tsinghua University
+```
+https://bit.ly/3iCKsQL
+```
+
+MR-CNN & S-CNN\
+Computer Vision Learning MR-CNN & S-CNN — Multi-Region & Semantic-aware CNNs (Object Detection)
+```
+https://bit.ly/2Zw6QTf
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eumiZyz
+official Code : https://bit.ly/2No4t2g
+Notes : https://lnkd.in/eppd-S4
+```
+
+SSD\
+Computer Vision Learning SSD — Single Shot Detector (Object Detection)
+```
+https://bit.ly/37PWpyo
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9cEFYK
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eknTfCK
+official code : https://bit.ly/3dHNQcF
+Tensorflow : https://bit.ly/2NUCfvX
+pytorch :https://bit.ly/2ZP6uXV
+keras: https://bit.ly/2ZNW8ay
+```
+
+NOC\
+Computer Vision Learning NoC — Winner in 2015 COCO & ILSVRC Detection (Object Detection)
+```
+https://bit.ly/3uBrZJJ
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eBz8SmZ
+```
+
+G-RMI\
+Computer Vision Learning G-RMI — Winner in 2016 COCO Detection (Object Detection)
+```
+https://bit.ly/3kJDlap
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqBb62E
+official Code : https://lnkd.in/epKjuh5
+```
+
+TDM\
+Computer Vision Learning TDM — Top-Down Modulation (Object Detection)
+```
+https://bit.ly/3dV5zgN
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqBb62E
+official Code : https://bit.ly/3r6Mko8
+```
+
+FPN\
+Computer Vision Learning FPN — Feature Pyramid Network (Object Detection)
+```
+https://bit.ly/2OewZn0
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e4K4Tna
+Official Code : https://bit.ly/3r4WvcW
+tensorflow : https://bit.ly/3uKoX68
+pytorch : https://bit.ly/3r4WvcW
+keras : https://bit.ly/3e4cqVc
+```
+
+DCN\
+Computer Vision Learning DCN / DCNv1 — Deformable Convolutional Networks, 2nd Runner Up in  COCO Detection (Object Detection) 
+```
+https://bit.ly/3e3G4Kg
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e4K4Tna
+Official Code : https://bit.ly/2OdND6i
+tensorflow : https://bit.ly/3uKRSap
+pytorch : https://bit.ly/3bYDMcQ
+keras : https://bit.ly/3e5ZGh4
+```
+
+Light-Head-RCNN\
+Computer Vision Learning Light-Head R-CNN — In Defense of Two-Stage Object Detector (Object Detection)
+```
+https://bit.ly/388rtcT
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ev8kVGW
+Official Code : https://bit.ly/2OkpafB
+tensorflow : https://bit.ly/30f9X2d
+pytorch : https://bit.ly/3kI8bjD
+keras : https://bit.ly/30f9X2d
+```
+
+Cascade RCNN\
+Computer Vision Learning Cascade R-CNN — Delving into High Quality Object Detection (Object Detection)
+```
+https://bit.ly/3uUDlZz
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eRW2AMu
+Official Code : https://bit.ly/3bkvwVk
+tensorflow : https://bit.ly/3cjAKjF
+pytorch : https://bit.ly/3c3xM2j
+keras : https://bit.ly/38eWxHP
+```
+
+MegNet\
+Computer Vision Learning MegDet — A Large Mini-Batch Object Detector, 1st Place of COCO  Detection Challenge (Object Detection)
+```
+https://bit.ly/3bkNvuM
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eRZs2jt
+Official Code : https://bit.ly/3cbSzB7
+pytorch : https://bit.ly/3emNaJQ
+```
+
+StairNet\
+Computer Vision Learning StairNet — Top-Down Semantic Aggregation (Object Detection)
+```
+https://bit.ly/3bluE2P
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/euMerg6
+Official Code : https://bit.ly/38imvdw
+pytorch : https://bit.ly/38jPFZL
+```
+
+ImageNet Rethinking\
+Computer Vision Learning Rethinking ImageNet Pre-training (Object Detection, Semantic Segmentation)
+```
+https://bit.ly/3bqBfZZ
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ejeVtVC
+Official Code : https://bit.ly/3v2Qdgk
+```
+
+MultipathNet\
+Computer Vision Learning MultiPathNet / MultiPath / MPN — 1st Runner Up in 2015 COCO Detection & Segmentation (Object Detection / Instance Segmentation)
+```
+https://bit.ly/31fcTMR
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eZC5Cwk
+Official Code : https://bit.ly/3fdbNZX
+```
+
+D2Det\
+Computer Vision Learning 𝗗𝟮𝗗𝗲𝘁:Towards High Quality Object Detection and Instance Segmentation
+```
+https://bit.ly/3b2EDJL
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3aW0iDq
+Code : https://lnkd.in/e2UtY69
+```
+
+Libra R-CNN\
+Computer Vision Learning 𝙇𝙞𝙗𝙧𝙖 𝙍-𝘾𝙉𝙉: Towards Balanced Learning for Object Detection
+```
+https://bit.ly/3hDytnt
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eCz48YQ
+Code : https://lnkd.in/e7CuYKX
+```
+
+Attention-RPN\
+Computer Vision Learning 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻-𝗥𝗣𝗡: Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector
+```
+https://bit.ly/3oYescY
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e-8VuVM
+Proposed dataset: https://lnkd.in/ejA9UQP
+code: https://lnkd.in/eQRtbvu
+```
+
+Aug-FPN\
+Computer Vision Learning 𝗔𝘂𝗴𝗙𝗣𝗡: Improving Multi-scale Feature Learning for Object Detection
+```
+https://bit.ly/3fUbdzi
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8dbff5
+code : https://lnkd.in/eVXdJGm
+```
+
+Hit-Detector\
+Computer Vision Learning 𝗛𝗶𝘁-𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿: Hierarchical Trinity Architecture Search for Object Detection
+```
+https://bit.ly/3uGCLgB
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/epka5Kx
+code : https://lnkd.in/e7GAfKA
+```
+
+CentripetalNet\
+Computer Vision Learning 𝗖𝗲𝗻𝘁𝗿𝗶𝗽𝗲𝘁𝗮𝗹𝗡𝗲𝘁:: Pursuing High-quality Keypoint Pairs for Object Detection
+```
+https://bit.ly/2S1WNVB
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/evscDUK
+code : https://lnkd.in/eTgWsK4
+```
+
+Tide\
+Computer Vision Learning 𝗧𝗶𝗱𝗲 : A General Toolbox for Identifying Object Detection Errors
+```
+https://bit.ly/3j5evmh
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dUNRuNY
+code : https://lnkd.in/dEHRXfr 
+```
+
+UFO²\
+Computer Vision Learning 𝗨𝗙𝗢²: A Unified Framework towards Omni-supervised Object Detection
+```
+https://bit.ly/2SVS2xA
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eJim_-u
+Code : https://lnkd.in/eFXP7Z6
+```
+
+AABO : Adaptive Anchor Box Optimization\
+Computer Vision Learning 𝗔𝗔𝗕𝗢: Adaptive Anchor Box Optimization for Object Detection via Bayesian Sub-sampling
+```
+https://bit.ly/3qCSRaP
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e-8b3rA
+Code : https://lnkd.in/emxRuFJ
+```
+
+Instant-teaching\
+Computer Vision Learning 𝗜𝗻𝘀𝘁𝗮𝗻𝘁-𝗧𝗲𝗮𝗰𝗵𝗶𝗻𝗴: An End-to-End Semi-Supervised Object Detection Framework
+```
+https://bit.ly/3h0E2LU
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eBHrqVs
+```
+
+Refinement Network for RGB-D\
+Computer Vision Learning Progressively Guided Alternate Refinement Network for RGB-D 𝗦𝗮𝗹𝗶𝗲𝗻𝘁 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
+```
+https://bit.ly/3dtRh5O
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekSFBNw
+Code : https://lnkd.in/edP8u5u
+```
+
+CBNETv2\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗖𝗕𝗡𝗲𝘁𝗩𝟮: A Novel Composite Backbone Network Architecture for Object Detection
+```
+https://bit.ly/3s3ptvb
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gFkZ9z7g
+code : https://lnkd.in/gbcDug6f
+```
+
+Rank and Sort Loss\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗮𝗻𝗸 & 𝗦𝗼𝗿𝘁 𝗟𝗼𝘀𝘀 for Object Detection and Instance Segmentation
+```
+https://bit.ly/3sPQt1s
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNpC8Zee
+Code: https://lnkd.in/e5-5tp-X
+```
+	
+DetCo\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝘁𝗖𝗼: Unsupervised Contrastive Learning for Object Detection
+```
+https://bit.ly/3sQiRk9
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekDmDWgG
+Code : https://lnkd.in/eT_dezKY
+```
+
+𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗥-𝗖𝗡𝗡\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗥-𝗖𝗡𝗡 𝗳𝗼𝗿 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
+```
+https://bit.ly/397Zius
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eptJMdu8
+Code: https://lnkd.in/eCRFmm29
+```
+
+OS2D: One Stage Object Detection	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗢𝗦𝟮𝗗:One-Stage One-Shot Object Detection by Matching Anchor Features
+```
+https://bit.ly/3ufnEMD
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKnFcMJM
+Code: https://lnkd.in/eKD6--td
+```
+
+3Detr:3D Object Detection\
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 3𝗗𝗲𝘁𝗿: An End-to-End Transformer Model for 3D Object Detection by Facebook AI 
+```
+https://bit.ly/3Hfk6A8
+```
+
+Background Activation Suppression for Weakly Supervised Object Detection\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 𝗳𝗿𝗼𝗺 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗼𝗳 𝗖𝗵𝗶𝗻𝗮 𝗵𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗔𝗰𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 𝗦𝘂𝗽𝗽𝗿𝗲𝘀𝘀𝗶𝗼𝗻 𝗳𝗼𝗿 𝗪𝗲𝗮𝗸𝗹𝘆 𝗦𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗢𝗯𝗷𝗲𝗰𝘁 𝗟𝗼𝗰𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻
+```
+https://bit.ly/3Jvyzt2
+```
+
+SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗔𝗦𝗔: 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰𝘀-𝗔𝘂𝗴𝗺𝗲𝗻𝘁𝗲𝗱 𝗦𝗲𝘁 𝗔𝗯𝘀𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗣𝗼𝗶𝗻𝘁-𝗯𝗮𝘀𝗲𝗱 𝟯𝗗 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗯𝘆 𝗧𝗵𝗲 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗦𝘆𝗱𝗻𝗲𝘆
+```
+https://bit.ly/3tXduls
+```
+
+The KFIoU Loss for Rotated Object Detection\
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗧𝗵𝗲 𝗞𝗙𝗜𝗼𝗨 𝗟𝗼𝘀𝘀 𝗳𝗼𝗿 𝗥𝗼𝘁𝗮𝘁𝗲𝗱 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗯𝘆 𝗔𝗜 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲, 𝗦𝗵𝗮𝗻𝗴𝗵𝗮𝗶 𝗝𝗶𝗮𝗼 𝗧𝗼𝗻𝗴 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 
+```
+https://bit.ly/3NHUL5e
+```
+
+End to End Cascaded Image De-raining and Object Detetion NN\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗻 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 𝗖𝗮𝘀𝗰𝗮𝗱𝗲𝗱 𝗜𝗺𝗮𝗴𝗲 𝗗𝗲𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗯𝘆 𝗞𝗮𝗿𝗹𝘀𝗿𝘂𝗵𝗲 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆
+```
+https://bit.ly/375PLGw
+```
+
+Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection 
+```
+https://bit.ly/3L8a59H
+```
+
+RBGNet: Ray-based Grouping for 3D Object Detection by Center for Data Science\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 RBGNet: Ray-based Grouping for 3D Object Detection by Center for Data Science, Peking University
+```
+https://bit.ly/3EqkydH
+```
+
+
+CenterNet++ for Object Detection	
+```
+https://bit.ly/3woxrBG
+```
+
+Group R-CNN for Weakly Semi-supervised Object Detection with Points\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Group R-CNN for Weakly Semi-supervised Object Detection with Points 
+```
+https://bit.ly/3zfvU3W
+```
+
+# Object Detection / Image Classifier Block end
+
+
+
 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 ```
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
@@ -1795,13 +2163,7 @@ https://bit.ly/3nvcrGs
 Dataset: https://lnkd.in/eQiQ6sRc
 ```
 
-𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗥-𝗖𝗡𝗡\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗥-𝗖𝗡𝗡 𝗳𝗼𝗿 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
-```
-https://bit.ly/397Zius
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eptJMdu8
-Code: https://lnkd.in/eCRFmm29
-```
+
 
 Battle of Network Structure\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗕𝗮𝘁𝘁𝗹𝗲 𝗼𝗳 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀: An Empirical Study of CNN, Transformer, and MLP
@@ -1916,16 +2278,7 @@ Cross Domain Contrastive Learning
 ```
 https://bit.ly/3tDb2id
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eJFUj-hg
-```
-	
-OS2D: One Stage Object Detection	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗢𝗦𝟮𝗗:One-Stage One-Shot Object Detection by Matching Anchor Features
-```
-https://bit.ly/3ufnEMD
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKnFcMJM
-Code: https://lnkd.in/eKD6--td
-```
-
+```	
 PointManifoldCut	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗼𝗶𝗻𝘁𝗠𝗮𝗻𝗶𝗳𝗼𝗹𝗱𝗖𝘂𝘁: Point-wise Augmentation in the Manifold for Point Clouds
 ```
@@ -2144,12 +2497,6 @@ StyleGAN3\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘁𝘆𝗹𝗲𝗚𝗔𝗡𝟯: Alias-Free Generative Adversarial Networks by NVIDIA AI
 ```
 https://bit.ly/3kvFPKw
-```
-
-3Detr:3D Object Detection\
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 3𝗗𝗲𝘁𝗿: An End-to-End Transformer Model for 3D Object Detection by Facebook AI 
-```
-https://bit.ly/3Hfk6A8
 ```
 
 Do Self-Supervised and Supervised Methods Learn Similar Visual Representations?\
@@ -2482,12 +2829,6 @@ NeuralProphet\
 https://bit.ly/3JrUK38
 ```
 
-Background Activation Suppression for Weakly Supervised Object Detection\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 𝗳𝗿𝗼𝗺 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗼𝗳 𝗖𝗵𝗶𝗻𝗮 𝗵𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗔𝗰𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 𝗦𝘂𝗽𝗽𝗿𝗲𝘀𝘀𝗶𝗼𝗻 𝗳𝗼𝗿 𝗪𝗲𝗮𝗸𝗹𝘆 𝗦𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗢𝗯𝗷𝗲𝗰𝘁 𝗟𝗼𝗰𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻
-```
-https://bit.ly/3Jvyzt2
-```
-
 Learning to Detect Every Thing in an Open World\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 𝗳𝗿𝗼𝗺 University of California, Berkeley, Boston University  𝗵𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 Learning to Detect Every Thing in an Open World
 ```
@@ -2682,11 +3023,6 @@ Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale 
 https://bit.ly/3qRsTle
 ```
 
-SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗔𝗦𝗔: 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰𝘀-𝗔𝘂𝗴𝗺𝗲𝗻𝘁𝗲𝗱 𝗦𝗲𝘁 𝗔𝗯𝘀𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗣𝗼𝗶𝗻𝘁-𝗯𝗮𝘀𝗲𝗱 𝟯𝗗 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗯𝘆 𝗧𝗵𝗲 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗦𝘆𝗱𝗻𝗲𝘆
-```
-https://bit.ly/3tXduls
-```
 
 HyperionSolarNet: Solar Panel Detection from Aerial Images\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗛𝘆𝗽𝗲𝗿𝗶𝗼𝗻𝗦𝗼𝗹𝗮𝗿𝗡𝗲𝘁: 𝗦𝗼𝗹𝗮𝗿 𝗣𝗮𝗻𝗲𝗹 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗳𝗿𝗼𝗺 𝗔𝗲𝗿𝗶𝗮𝗹 𝗜𝗺𝗮𝗴𝗲𝘀 𝗯𝘆 𝗨𝗖 𝗕𝗲𝗿𝗸𝗲𝗹𝗲𝘆.
@@ -2833,12 +3169,6 @@ StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets\
 https://bit.ly/3iRlEp8
 ```
 
-The KFIoU Loss for Rotated Object Detection\
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗧𝗵𝗲 𝗞𝗙𝗜𝗼𝗨 𝗟𝗼𝘀𝘀 𝗳𝗼𝗿 𝗥𝗼𝘁𝗮𝘁𝗲𝗱 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗯𝘆 𝗔𝗜 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲, 𝗦𝗵𝗮𝗻𝗴𝗵𝗮𝗶 𝗝𝗶𝗮𝗼 𝗧𝗼𝗻𝗴 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 
-```
-https://bit.ly/3NHUL5e
-```
-
 The Met Dataset: Instance Level Recognition\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗧𝗵𝗲 𝗠𝗲𝘁 𝗗𝗮𝘁𝗮𝘀𝗲𝘁: 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲-𝗹𝗲𝘃𝗲𝗹 𝗥𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻 for the Artwork 𝗯𝘆 University of Amsterdam, Osaka University Czech Technical University in Prague and Columbia university
 ```
@@ -2967,12 +3297,6 @@ Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Uni
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis by Adobe Research
 ```
 https://bit.ly/373xs4T
-```
-
-End to End Cascaded Image De-raining and Object Detetion NN\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗻 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 𝗖𝗮𝘀𝗰𝗮𝗱𝗲𝗱 𝗜𝗺𝗮𝗴𝗲 𝗗𝗲𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗯𝘆 𝗞𝗮𝗿𝗹𝘀𝗿𝘂𝗵𝗲 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆
-```
-https://bit.ly/375PLGw
 ```
 
 Level-K to Nash Equilibrium\	
@@ -3226,11 +3550,6 @@ This paper is published arxiv2022.
 🔸 Github: https://lnkd.in/duC5ER7a
 ```
 
-Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection 
-```
-https://bit.ly/3L8a59H
-```
 
 DaViT: Dual Attention Vision Transformers\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 DaViT: Dual Attention Vision Transformers by Microsoft
@@ -3248,12 +3567,6 @@ Class-Incremental Learning with Strong Pre-trained Models\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Class-Incremental Learning with Strong Pre-trained Models by AWS AI Labs
 ```
 https://bit.ly/3MdlcOq
-```
-
-RBGNet: Ray-based Grouping for 3D Object Detection by Center for Data Science\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 RBGNet: Ray-based Grouping for 3D Object Detection by Center for Data Science, Peking University
-```
-https://bit.ly/3EqkydH
 ```
 
 Event Transformer\	
@@ -3314,11 +3627,6 @@ EditGAN: High-Precision Semantic Image Editing\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 EditGAN: High-Precision Semantic Image Editing by NVIDIA
 ```
 https://bit.ly/3yx2JJ2
-```
-
-CenterNet++ for Object Detection	
-```
-https://bit.ly/3woxrBG
 ```
 
 A case for using rotation invariant features in state of the art feature matchers\	
@@ -3452,14 +3760,6 @@ GraphWorld: A Methodology For Analyzing The Performance Of GNN Architectures On 
 ```
 https://bit.ly/3PUQexk
 ```
-
-
-Group R-CNN for Weakly Semi-supervised Object Detection with Points\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Group R-CNN for Weakly Semi-supervised Object Detection with Points 
-```
-https://bit.ly/3zfvU3W
-```
-
 
 Few-Shot Head Swapping in the Wild\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Few-Shot Head Swapping in the Wild by Baidu Inc.
