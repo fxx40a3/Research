@@ -10623,10 +10623,6 @@ Automated Answer Grading System machine learning
 https://projectworlds.in/automated-answer-grading-system-machine-learning-project/
 ```
 
-Iris Flower Classification with Decision Trees Web App
-```
-https://projectworlds.in/iris-flower-classification-with-decision-trees-web-app/
-```
 
 Handwritten digit recognition Python Flask
 ```
@@ -11189,12 +11185,6 @@ Training and Giving Inputs to a Machine Learning Model
 https://thecleverprogrammer.com/2021/11/29/how-to-give-inputs-to-a-machine-learning-model/
 ```
 
-16
-Product Demand Prediction
-```
-https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/
-```
-
 News Classification
 ```
 https://thecleverprogrammer.com/2021/10/07/news-classification-with-machine-learning/
@@ -11353,7 +11343,6 @@ Mall Customer Segmentation
 Predicting Admission into UCLA
 Predicting House Prices in Bengaluru
 Advandced Hyperparameter Tunning
-House Price Prediction Detailed Analysis
 Heart Disease Prediction
 Sentiment Analysis
 Clustering - Mall Customer Segmentation
@@ -11417,23 +11406,56 @@ AlexNet Neural Network Architecture
 Visualizing a Algorithm
 Training and Giving Inputs to a Model
 Product Demand Prediction
+https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/
 Electricity Price Prediction
+https://thecleverprogrammer.com/2021/11/15/electricity-price-prediction-with-machine-learning/
 Language Detection 110.Adding Labels to a Dataset for Sentiment Analysis
+https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
 Pfizer Vaccine Sentiment Analysis 112.News Classification 113.Omicron Variant Sentiment Analysis
-Iris Flower Classification 115.Water Quality Analysis 116.Twitter Sentiment Analysis 117.Squid Game Sentiment Analysis 118.Comparison of Classification Algorithms 119.Tata Motors Stock Price Prediction
+https://thecleverprogrammer.com/2021/10/12/pfizer-vaccine-sentiment-analysis-using-python/
+Iris Flower Classification 
+https://thecleverprogrammer.com/2021/10/17/iris-flower-classification-with-machine-learning/
+https://projectworlds.in/iris-flower-classification-with-decision-trees-web-app/
+115.Water Quality Analysis
+116.Twitter Sentiment Analysis
+117.Squid Game Sentiment
+118.Comparison of Classification Algorithms
+119.Tata Motors Stock Price Prediction
 Health Insurance Premium Prediction 121.Movie Rating Analysis for Beginners
 Number of Orders Prediction
 Apple Stock Price Prediction
 Sales Prediction
 Currency Exchange Rate Prediction
-End-to-end Project
+https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/
 Profit Prediction Model
+https://thecleverprogrammer.com/2021/04/29/profit-prediction-with-machine-learning/
 Automatic Time Series Forecasting
+https://thecleverprogrammer.com/2021/04/19/autots-in-python-tutorial/
 Ted-Talks Recommendation System
-Real-time Sentiment Analysis 181.Amazon Recommendation System
+https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/
+Real-time Sentiment Analysis
+https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/
+Real-time Sentiment Analysis
+Amazon Recommendation System
+https://thecleverprogrammer.com/2021/03/23/amazon-recommendation-system-using-python/
+
 Mobile Price Classification
+https://thecleverprogrammer.com/2021/03/05/mobile-price-classification-with-machine-learning/
+
 House Price Prediction
+https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
+House Price Prediction using Machine Learning in Python	
+https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
+House Price Prediction — USA Housing Data — with source code — easy project — 2023
+https://machinelearningprojects.net/house-price-prediction/
+House Price Prediction
+https://thecleverprogrammer.com/2020/12/29/house-price-prediction-with-python/
+House price prediction
+https://github.com/KalyanM45/House-Price-Prediction/tree/main
+
 Real-Time Face Mask Detection
+https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
+
 Gold Price Prediction
 Object Detection
 Age and Gender Detection with Python
@@ -11902,12 +11924,6 @@ Interactive Language Translator
 ```
 /https://thecleverprogrammer.com/2021/04/02/language-translator-using-python
 ```
-```
-
-52
-Language Detection
-```
-https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
 ```
 
 53
@@ -14720,9 +14736,7 @@ https://www.geeksforgeeks.org/dogecoin-price-prediction-with-machine-learning/?r
 Ridge and Lasso Regression
 
 https://thecleverprogrammer.com/2020/10/09/ridge-and-lasso-regression-with-python/
-House Price Prediction using Machine Learning in Python
 
-https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
 Flipkart Reviews Sentiment Analysis using Python
 
 https://www.geeksforgeeks.org/flipkart-reviews-sentiment-analysis-using-python/
@@ -14816,27 +14830,18 @@ MEETING REGULARLY:11PM to 12 AM
 Training and Giving Inputs to a Machine Learning Model
 
 https://thecleverprogrammer.com/2021/11/29/how-to-give-inputs-to-a-machine-learning-model/
-Product Demand Prediction
 
-https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/
-Electricity Price Prediction
 
-https://thecleverprogrammer.com/2021/11/15/electricity-price-prediction-with-machine-learning/
-Language Detection
 
 Adding Labels to a  for Sentiment Analysis
 
 https://thecleverprogrammer.com/2021/11/24/add-labels-to-a--for-sentiment-analysis/
-Pfizer Vaccine Sentiment Analysis
 
-https://thecleverprogrammer.com/2021/10/12/pfizer-vaccine-sentiment-analysis-using-python/
 5% progress
 Omicron Variant Sentiment Analysis
 
 https://thecleverprogrammer.com/2021/12/06/omicron-sentiment-analysis-using-python/
-Iris Flower Classification
 
-https://thecleverprogrammer.com/2021/10/17/iris-flower-classification-with-machine-learning/
 AlexNet Neural Network Architecture
 
 https://thecleverprogrammer.com/2021/12/13/alexnet-architecture-using-python/
@@ -14874,23 +14879,12 @@ Microsoft Stock Price Prediction
 Video Game Sales Prediction Model
 https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/
 
-Profit Prediction Model
-https://thecleverprogrammer.com/2021/04/29/profit-prediction-with-machine-learning/
 
-Automatic Time Series Forecasting
-https://thecleverprogrammer.com/2021/04/19/autots-in-python-tutorial/
 
-Ted-Talks Recommendation System
-https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/
 
-Real-time Sentiment Analysis
-https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/
 
-Amazon Recommendation System
-https://thecleverprogrammer.com/2021/03/23/amazon-recommendation-system-using-python/
 
-Mobile Price Classification
-https://thecleverprogrammer.com/2021/03/05/mobile-price-classification-with-machine-learning/
+
 
 Spotify Recommendation System
 https://thecleverprogrammer.com/2021/03/03/spotify-recommendation-system-with-machine-learning/
@@ -14910,7 +14904,6 @@ https://thecleverprogrammer.com/2021/03/27/tesla-stock-price-prediction-with-mac
 Financial Budget Analysis
 /
 Click-Through Rate Prediction Model
-Language Detection
 Create a Chatbot with Python
 Best Streaming Service Analysis
 Data Science Project on President Heights
@@ -15115,8 +15108,7 @@ https://www.geeksforgeeks.org/dogecoin-price-prediction-with-machine-learning/?r
 
 Ridge and Lasso Regression	
 https://thecleverprogrammer.com/2020/10/09/ridge-and-lasso-regression-with-python/		
-House Price Prediction using Machine Learning in Python	
-https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/		
+		
 Flipkart Reviews Sentiment Analysis using Python	
 https://www.geeksforgeeks.org/flipkart-reviews-sentiment-analysis-using-python/		
 Consumer Complaint Classification	
@@ -15174,8 +15166,7 @@ Sarcasm Detection
 Sales Prediction
 https://thecleverprogrammer.com/2021/05/19/sales-prediction-with-machine-learning/
 
-Currency Exchange Rate Prediction
-https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/
+
 
 Diamond Price Prediction Model
 https://thecleverprogrammer.com/2021/01/20/diamond-price-prediction-with-machine-learning/
@@ -15779,9 +15770,7 @@ https://machinelearningprojects.net/face-recognition-using-knn/
 Flight Price Prediction with Flask app — with source code — data visualizations — interesting project — 2023
 
 https://machinelearningprojects.net/flight-price-prediction/
-House Price Prediction — USA Housing Data — with source code — easy project — 2023
 
-https://machinelearningprojects.net/house-price-prediction/
 Stock Sentiment Analysis using headlines — with source code — easiest explanation — 2023
 
 https://machinelearningprojects.net/stock-sentiment-analysis/
@@ -15921,12 +15910,8 @@ https://thecleverprogrammer.com/2020/07/28/audio-feature-extraction/
 FastAI Model
 
 https://thecleverprogrammer.com/2021/01/22/fastai-in-machine-learning/
-House Price Prediction
 
-https://thecleverprogrammer.com/2020/12/29/house-price-prediction-with-python/
-Real-Time Face Mask Detection
 
-https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
 Netflix Recommendation System
 
 https://thecleverprogrammer.com/2022/07/05/netflix-recommendation-system-using-python/
@@ -16175,9 +16160,7 @@ https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction
 Article-Web-Scraping
 
 https://github.com/KalyanM45/Article-Web-Scraping/tree/main
-House price prediction
 
-https://github.com/KalyanM45/House-Price-Prediction/tree/main
 Gemini Chat Bot
 
 https://github.com/KalyanM45/Gemini-ChatBot
@@ -16444,10 +16427,6 @@ Article-Web-Scraping
 
 https://github.com/KalyanM45/Article-Web-Scraping/tree/main		
 
-House price prediction	
-
-
-https://github.com/KalyanM45/House-Price-Prediction/tree/main		
 
 
 Gemini Chat Bot	
