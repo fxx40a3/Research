@@ -1,5 +1,483 @@
 # Artificial Intellience Projects and Research
 
+# Semantic segmentation start
+
+```
+SNE-RoadSeg\
+Computer Vision Learning 𝗦𝗡𝗘-𝗥𝗼𝗮𝗱𝗦𝗲𝗴: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
+```
+https://bit.ly/3hyCEAL
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUm5gbk
+Code : https://lnkd.in/ea4k9xq
+Dataset : https://lnkd.in/ePiDCQ9
+```
+
+ImageNet Rethinking\
+Computer Vision Learning Rethinking ImageNet Pre-training (Object Detection, Semantic Segmentation)
+```
+https://bit.ly/3bqBfZZ
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ejeVtVC
+Official Code : https://bit.ly/3v2Qdgk
+```
+	
+FCN	\
+Computer Vision Learning 𝗙𝗖𝗡 — 𝗙𝘂𝗹𝗹𝘆 𝗖𝗼𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 (Semantic Segmentation)
+```
+https://bit.ly/3iE9U8C
+```
+
+CRF-RNN\
+Computer Vision Learning CRF-RNN: CRF-RNN — Conditional Random Fields as Recurrent Neural Networks (Semantic Segmentation)
+```
+https://bit.ly/2Y5nsR4
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/enQQKiU
+official : https://lnkd.in/einEFjc
+Keras: https://bit.ly/3p8f7aU
+Tensorflow : https://bit.ly/39V5lm8
+Pytorch : https://bit.ly/3p4qv7D
+```
+
+DPN\
+Computer Vision Learning DPN — Deep Parsing Network (Semantic Segmentation) 
+```
+https://bit.ly/363Cye2
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e2-mv_P, https://lnkd.in/eD9SHii
+Keras: https://bit.ly/2Nwxzw7 (2018 Model)
+Tensorflow : https://bit.ly/362fsV1
+```
+
+ParseNet\
+Computer Vision Learning ParseNet: Looking Wider to see better(Semantic Segmentation)
+```
+https://bit.ly/3oesFk5
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ensn6q2
+Caffe: https://bit.ly/3sNRozf
+keras : https://bit.ly/39eFHcX
+Tensorflow : https://bit.ly/3iKzit3
+Pytorch : https://bit.ly/2MhglCi
+```
+
+DilatedNet\
+Computer Vision Learning DilatedNet — Dilated Convolution (Semantic Segmentation)
+```
+https://bit.ly/2M9fuDS
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eA9ySQ4
+Official Code : https://lnkd.in/eSAYXSV
+Tensorflow : https://bit.ly/3a92fuV
+Keras : https://bit.ly/3a8DYVX
+Pytorch : https://bit.ly/3t6W03p
+```
+
+DRN\
+Computer Vision Learning Dilated Residual Network (DRN) (Image Classification and Semantic Segmentation)
+```
+https://bit.ly/2KXVmUH
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUpNgbJ
+Pytorch : https://bit.ly/3aiBpAR
+Tensorflow : https://bit.ly/2MeiFua
+Keras : https://bit.ly/2NLwUqO
+```
+
+RefineNet\
+Computer Vision Learning 𝗥𝗲𝗳𝗶𝗻𝗲𝗡𝗲𝘁 — Multi-path Refinement Network (Semantic Segmentation) 
+```
+https://bit.ly/3cpCBVq
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/etCDUBf
+Pytorch : https://bit.ly/3co3ZTL
+Tensorflow : https://bit.ly/3j2o4Av
+Keras : https://bit.ly/2Yve2hG
+```
+
+Resnet38\
+Computer Vision Learning ResNet-38 — Wider or Deeper ResNet? (Image Classification & Semantic Segmentation)
+```
+https://bit.ly/2N7tpKL
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eFR9Rkp
+tensorflow : https://bit.ly/3jxJupl
+pytorch : https://bit.ly/36PBk6q
+keras :https://bit.ly/2YTRoQs
+```
+
+
+ESPNetv2\
+Computer Vision Learning ESPNetv2 — A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network (Image Classification, Semantic Segmentation, etc)
+```
+https://bit.ly/3jWVoJv
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eVUmVm4
+official Code : https://bit.ly/2M1ck5e
+tensorflow: https://bit.ly/2NAdQM8
+pytorch: https://bit.ly/3aunid0
+keras: https://bit.ly/3axdrTP
+```
+
+
+ERFNet\
+Computer Vision Learning ERFNet — Efficient Residual Factorized ConvNet for Real-time (Semantic Segmentation)
+```
+https://bit.ly/2OxgC5c
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3btlnWo
+Official Code(Pytorch) : https://bit.ly/3buGY0D
+```
+
+LayerCascade\
+Computer Vision Learning Deep Layer Cascade (LC) — Not All Pixels Are Equal (Semantic Segmentation)
+```
+https://bit.ly/3qzWdd8
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gM2SX8k
+Official Code(Pytorch) : https://bit.ly/2PUvnjn
+```
+
+IDW-CNN\
+Computer Vision Learning IDW-CNN — Learning from Image Descriptions in the Wild Dataset Boosts the Accuracy (Semantic Segmentation)
+```
+https://bit.ly/3letEAY
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEJ3_d3
+Official Code : https://bit.ly/3rEB2YL
+```
+
+DIS\
+Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation)
+```
+https://bit.ly/3vi3xh3
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3bD2OPA
+```
+
+SDN\
+Computer Vision Learning SDN — Stacked Deconvolutional Network Using DenseNet (Semantic Segmentation)
+```
+https://bit.ly/3lftn0k
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehdStyH
+```
+
+ResNet-DUC-HDC\
+Computer Vision Learning ResNet-DUC-HDC — Dense Upsampling Convolution and Hybrid Dilated Convolution (Semantic Segmentation)
+```
+https://bit.ly/3lmdhlN
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqFenUD
+Official Code : https://bit.ly/38CNvVm
+```
+
+Deeplabv3+\
+Computer Vision Learning DeepLabv3+ — Atrous Separable Convolution (Semantic Segmentation)
+```
+https://bit.ly/3lfSRuR
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3lhmsny
+Official Code : https://lnkd.in/eNbrAyC
+tensorflow : https://bit.ly/2Nm1Tda
+pytorch : https://bit.ly/3qLCXcM
+keras : https://bit.ly/3ll88uq
+```
+
+
+c3\
+Computer Vision Learning C3 — Concentrated-Comprehensive Convolution (Semantic Segmentation)
+```
+https://bit.ly/3qX0yqK
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNiwENP
+Official Code : https://bit.ly/3rWRfsp
+tensorflow : https://bit.ly/3lq7hs7
+```
+
+DRRN\
+Computer Vision Learning DRRN, Zhang JNCA’20 — Deep Recursive Residual Network (Semantic Segmentation) 
+```
+https://bit.ly/3ltkWP9
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/epdGZBP
+Official Code : https://bit.ly/3s0IsWq
+```
+
+
+RandLA-Net\
+Computer Vision Learning RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds
+```
+https://bit.ly/3fYajD9
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eum5ZJw
+code :https://lnkd.in/ez6QxxR
+```
+
+Deep learning technique on Semantic Segmentation\
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 A Review on Deep Learning Techniques Applied to 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 
+```
+https://bit.ly/375hrID
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqcsT92
+Code : https://lnkd.in/eigeYbb
+```
+
+PerPixel Classification\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗲𝗿-𝗣𝗶𝘅𝗲𝗹 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 is Not All You Need for Semantic Segmentation
+```
+https://bit.ly/3lOomyg
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/edcfiBup
+code : https://lnkd.in/eeKumiPt
+```
+
+VMNet\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗩𝗠𝗡𝗲𝘁: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation
+```
+https://bit.ly/3k73jFZ
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eN7SUHp9
+Code: https://lnkd.in/eC-X4p-T
+```
+
+Graph-FPN	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗿𝗮𝗽𝗵-𝗙𝗖𝗡 for image semantic segmentation
+```
+https://bit.ly/2XH8T9f
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eP7NszKZ
+```
+
+Pixel Level Cycle Association	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗶𝘅𝗲𝗹-𝗟𝗲𝘃𝗲𝗹 𝗖𝘆𝗰𝗹𝗲 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗶𝗼𝗻: A New Perspective for Domain Adaptive Semantic Segmentation
+```
+https://bit.ly/3iTZMK6
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gmfNw8jA
+Code: https://lnkd.in/gSpWwm5n
+```
+
+SeMask\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 SeMask: Semantically Masked Transformers for Semantic Segmentation
+```
+https://bit.ly/3zfouM8
+```
+
+Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗟𝗮𝘄𝗶𝗻 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿: 𝗜𝗺𝗽𝗿𝗼𝘃𝗶𝗻𝗴 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿 𝘄𝗶𝘁𝗵 𝗠𝘂𝗹𝘁𝗶-𝗦𝗰𝗮𝗹𝗲 𝗥𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 𝘃𝗶𝗮 𝗟𝗮𝗿𝗴𝗲 𝗪𝗶𝗻𝗱𝗼𝘄 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗯𝘆 𝗕𝗲𝗶𝗷𝗶𝗻𝗴 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗣𝗼𝘀𝘁𝘀 𝗮𝗻𝗱 𝗧𝗲𝗹𝗲𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+```
+https://bit.ly/3qRsTle
+```
+
+HYDLA: Domain Adaptation in LiDAR Semantic Segmentation via Alternating Skip Connections and Hybrid Learning\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗛𝗬𝗟𝗗𝗔: 𝗘𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝗛𝘆𝗯𝗿𝗶𝗱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗼𝗺𝗮𝗶𝗻 𝗔𝗱𝗮𝗽𝘁𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗟𝗶𝗗𝗔𝗥 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
+```
+https://bit.ly/379dy8v
+```
+
+ResiDualGAN: Resize-Residual DualGAN for Cross-Domain Remote Sensing Images Semantic Segmentation\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 ResiDualGAN: Resize-Residual DualGAN for Cross-Domain Remote Sensing Images Semantic Segmentation by Peking University, China
+```
+https://bit.ly/3wWGY4T
+```
+
+COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets by  PSL University
+```
+https://bit.ly/3NCK6bZ
+```
+
+GroupViT: Semantic Segmentation Emerges from Text Supervision\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 GroupViT: Semantic Segmentation Emerges from Text Supervision by Nvidia
+```
+https://bit.ly/3NQv7eG
+```
+
+Neighborhood Attention Transformer\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation
+```
+https://bit.ly/3jNExK3
+```
+
+TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation
+```
+https://bit.ly/3M3EA0K
+```
+
+Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization by University of Oxford
+```
+https://bit.ly/3NTGsJQ
+```
+
+Piecewise
+Efficient piecewise training of deep structured models for semantic segmentation
+```
+https://arxiv.org/abs/1504.01013
+```
+
+FCN
+Fully Convolutional Networks for Semantic Segmentation
+```
+https://arxiv.org/pdf/1605.06211.pdf
+```
+
+ENet
+ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation
+```
+https://arxiv.org/pdf/1606.02147.pdf
+```
+
+RefineNet
+RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
+```
+https://arxiv.org/pdf/1611.06612.pdf
+```
+
+LRR
+Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
+```
+https://arxiv.org/pdf/1605.02264.pdf
+```
+
+FRRN
+Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes
+```
+https://arxiv.org/pdf/1611.08323.pdf
+```
+
+LinkNet
+LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation
+```
+https://arxiv.org/pdf/1707.03718.pdf
+```
+
+Tiramisu
+The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation
+```
+https://arxiv.org/pdf/1611.09326.pdf
+```
+
+ICNet
+ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+```
+https://arxiv.org/pdf/1704.08545.pdf
+```
+
+ERFNet
+Efficient ConvNet for Real-time Semantic Segmentation
+```
+http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf
+```
+
+GCN\
+Large Kernel Matters — Improve Semantic Segmentation by Global Convolutional Network
+```
+https://arxiv.org/pdf/1703.02719.pdf
+```
+
+DUC, HDC
+Understanding Convolution for Semantic Segmentation
+```
+https://arxiv.org/pdf/1702.08502.pdf
+```
+
+ShuffleSeg
+SHUFFLESEG: REAL-TIME SEMANTIC SEGMENTATION NETWORK
+```
+https://arxiv.org/pdf/1803.03816.pdf
+```
+
+
+AdaptSegNet
+Learning to Adapt Structured Output Space for Semantic Segmentation
+```
+https://arxiv.org/pdf/1802.10349.pdf
+```
+
+TuSimple-DUC
+Understanding Convolution for Semantic Segmentation
+```
+https://arxiv.org/pdf/1702.08502.pdf
+```
+
+ENCNet
+Context Encoding for Semantic Segmentation
+```
+https://arxiv.org/abs/1803.08904
+```
+
+ShelfNet
+ShelfNet for Real-time Semantic Segmentation
+```
+https://arxiv.org/pdf/1811.11254.pdf
+```
+
+CCC-ERFnet
+Concentrated-Comprehensive Convolutions for lightweight semantic segmentation
+```
+https://arxiv.org/pdf/1812.04920v1.pdf
+```
+
+DifNet-101
+DifNet: Semantic Segmentation by Diffusion Networks
+```
+http://papers.nips.cc/paper/7435-difnet-semantic-segmentation-by-diffusion-networks.pdf
+```
+
+BiSeNet(Res18)
+BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
+```
+https://arxiv.org/pdf/1808.00897.pdf
+```
+
+ESPNet
+ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
+```
+https://arxiv.org/pdf/1803.06815.pdf
+```
+
+EMANet
+Expectation-Maximization Attention Networks for Semantic Segmentation
+```
+https://arxiv.org/pdf/1907.13426.pdf
+```
+
+R-CNN
+Rich feature hierarchies for accurate object detection and semantic segmentation
+```
+https://arxiv.org/pdf/1311.2524.pdf
+```
+
+MR-CNN 
+Object detection via a multi-region &amp; semantic segmentation-aware CNN model
+```
+https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Gidaris_Object_Detection_via_ICCV_2015_paper.pdf
+```
+
+Semantic Segmentation using KerasCV DeepLabv3+
+```
+https://learnopencv.com/kerascv-deeplabv3-plus-semantic-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Semantic-Segmentation-using-KerasCV-with-DeepLabv3-Plus
+```
+
+
+Document Scanner: Custom Semantic Segmentation using PyTorch-DeepLabV3
+```
+https://learnopencv.com/custom-document-segmentation-using-deep-learning/
+https://github.com/spmallick/learnopencv/tree/master/Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3
+```
+
+
+PyTorch for Beginners: Semantic Segmentation using torchvision
+```
+https://www.learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/
+https://github.com/spmallick/learnopencv/tree/master/PyTorch-Segmentation-torchvision
+```
+
+Semantic Segmentation  
+```
+https://www.kaggle.com/datasets?search=semantic+segmentation
+https://www.kaggle.com/code/bulentsiyah/deep-learning-based-semantic-segmentation-keras
+```
+
+Real-time Semantic Segmentation with DJI Drone via RTMP
+```
+https://github.com/kylegraupe/real_time_semantic_segmentation_using_dji_drone
+```
+
+DeconvNet\
+Learning Deconvolution Network for Semantic Segmentation
+```
+https://arxiv.org/pdf/1505.04366.pdf
+```
+
+Applications of Foreground-Background separation with Semantic Segmentation
+```
+https://www.learnopencv.com/applications-of-foreground-background-separation-with-semantic-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/app-seperation-semseg
+```
+
+# Semantic segmentation end
+
 # People Counting start
 
 ```
@@ -57,15 +535,6 @@ https://www.kaggle.com/code/theaayushbajaj/detecting-congestion-on-the-road
 https://www.kaggle.com/code/mahmoudreda55/road-model-87-5
 
 ```		
-
-SNE-RoadSeg\
-Computer Vision Learning 𝗦𝗡𝗘-𝗥𝗼𝗮𝗱𝗦𝗲𝗴: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
-```
-https://bit.ly/3hyCEAL
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUm5gbk
-Code : https://lnkd.in/ea4k9xq
-Dataset : https://lnkd.in/ePiDCQ9
-```
 
 DDU-Net: Dual-Decoder-U-Net for Road Extraction Using High-Resolution Remote Sensing Images\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗗𝗨-𝗡𝗲𝘁: 𝗗𝘂𝗮𝗹-𝗗𝗲𝗰𝗼𝗱𝗲𝗿-𝗨-𝗡𝗲𝘁 𝗳𝗼𝗿 𝗥𝗼𝗮𝗱 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗨𝘀𝗶𝗻𝗴 𝗛𝗶𝗴𝗵-𝗥𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗥𝗲𝗺𝗼𝘁𝗲 𝗦𝗲𝗻𝘀𝗶𝗻𝗴 𝗜𝗺𝗮𝗴𝗲𝘀
@@ -323,13 +792,7 @@ Official Code : https://bit.ly/38imvdw
 pytorch : https://bit.ly/38jPFZL
 ```
 
-ImageNet Rethinking\
-Computer Vision Learning Rethinking ImageNet Pre-training (Object Detection, Semantic Segmentation)
-```
-https://bit.ly/3bqBfZZ
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ejeVtVC
-Official Code : https://bit.ly/3v2Qdgk
-```
+
 
 MultipathNet\
 Computer Vision Learning MultiPathNet / MultiPath / MPN — 1st Runner Up in 2015 COCO Detection & Segmentation (Object Detection / Instance Segmentation)
@@ -620,12 +1083,7 @@ Computer Vision Learning 𝗗𝗿𝗼𝗽𝗕𝗹𝗼𝗰𝗸: A 𝗥𝗲𝗴�
 ```
 https://bit.ly/3sM4TiG
 ```
-	
-FCN	\
-Computer Vision Learning 𝗙𝗖𝗡 — 𝗙𝘂𝗹𝗹𝘆 𝗖𝗼𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 (Semantic Segmentation)
-```
-https://bit.ly/3iE9U8C
-```
+
 	
 Unet	\
 Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation
@@ -699,17 +1157,6 @@ Tensorflow : https://bit.ly/391bnT4, https://bit.ly/3iuKKsM
 Pytorch : https://bit.ly/38XCoXq
 ```
 
-CRF-RNN\
-Computer Vision Learning CRF-RNN: CRF-RNN — Conditional Random Fields as Recurrent Neural Networks (Semantic Segmentation)
-```
-https://bit.ly/2Y5nsR4
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/enQQKiU
-official : https://lnkd.in/einEFjc
-Keras: https://bit.ly/3p8f7aU
-Tensorflow : https://bit.ly/39V5lm8
-Pytorch : https://bit.ly/3p4qv7D
-```
-
 Deeplabv2\
 Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 ```
@@ -718,15 +1165,6 @@ https://bit.ly/2Y9DgSx
 Keras: https://bit.ly/3iFcfzV, https://bit.ly/396wTWL
 Tensorflow : https://bit.ly/3o6q1wJ
 Pytorch : https://bit.ly/3p89nhy, https://bit.ly/3iIAnBW
-```
-
-DPN\
-Computer Vision Learning DPN — Deep Parsing Network (Semantic Segmentation) 
-```
-https://bit.ly/363Cye2
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e2-mv_P, https://lnkd.in/eD9SHii
-Keras: https://bit.ly/2Nwxzw7 (2018 Model)
-Tensorflow : https://bit.ly/362fsV1
 ```
 
 Grad-CAM\
@@ -741,16 +1179,6 @@ Pytorch : https://bit.ly/365HyPk,
 https://bit.ly/3sLcQES
 ```
 
-ParseNet\
-Computer Vision Learning ParseNet: Looking Wider to see better(Semantic Segmentation)
-```
-https://bit.ly/3oesFk5
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ensn6q2
-Caffe: https://bit.ly/3sNRozf
-keras : https://bit.ly/39eFHcX
-Tensorflow : https://bit.ly/3iKzit3
-Pytorch : https://bit.ly/2MhglCi
-```
 
 ResNeXt\
 Computer Vision Learning ResNeXt, by UC San Diego and Facebook Research
@@ -772,37 +1200,6 @@ official tensorflow : https://bit.ly/3t3ssUC
 Keras and tensorflow : https://bit.ly/3t2mXWb
 Pytorch : https://bit.ly/3t0fqab
 Colab : https://bit.ly/3a9sFg6
-```
-
-DilatedNet\
-Computer Vision Learning DilatedNet — Dilated Convolution (Semantic Segmentation)
-```
-https://bit.ly/2M9fuDS
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eA9ySQ4
-Official Code : https://lnkd.in/eSAYXSV
-Tensorflow : https://bit.ly/3a92fuV
-Keras : https://bit.ly/3a8DYVX
-Pytorch : https://bit.ly/3t6W03p
-```
-
-DRN\
-Computer Vision Learning Dilated Residual Network (DRN) (Image Classification and Semantic Segmentation)
-```
-https://bit.ly/2KXVmUH
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eUpNgbJ
-Pytorch : https://bit.ly/3aiBpAR
-Tensorflow : https://bit.ly/2MeiFua
-Keras : https://bit.ly/2NLwUqO
-```
-
-RefineNet\
-Computer Vision Learning 𝗥𝗲𝗳𝗶𝗻𝗲𝗡𝗲𝘁 — Multi-path Refinement Network (Semantic Segmentation) 
-```
-https://bit.ly/3cpCBVq
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/etCDUBf
-Pytorch : https://bit.ly/3co3ZTL
-Tensorflow : https://bit.ly/3j2o4Av
-Keras : https://bit.ly/2Yve2hG
 ```
 
 Preactivation-Resnet\
@@ -871,16 +1268,6 @@ https://bit.ly/36LRfTo
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eprHm7P
 Tensorflow : https://lnkd.in/e_sUxXm
 PyTorch : https://bit.ly/3cMOQf5
-```
-
-Resnet38\
-Computer Vision Learning ResNet-38 — Wider or Deeper ResNet? (Image Classification & Semantic Segmentation)
-```
-https://bit.ly/2N7tpKL
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eFR9Rkp
-tensorflow : https://bit.ly/3jxJupl
-pytorch : https://bit.ly/36PBk6q
-keras :https://bit.ly/2YTRoQs
 ```
 
 
@@ -986,17 +1373,6 @@ tensorflow: https://bit.ly/3djrYUz
 pytorch: https://bit.ly/3djrYUz
 ```
 
-ESPNetv2\
-Computer Vision Learning ESPNetv2 — A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network (Image Classification, Semantic Segmentation, etc)
-```
-https://bit.ly/3jWVoJv
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eVUmVm4
-official Code : https://bit.ly/2M1ck5e
-tensorflow: https://bit.ly/2NAdQM8
-pytorch: https://bit.ly/3aunid0
-keras: https://bit.ly/3axdrTP
-```
-
 
 FBNet\
 Computer Vision Learning FBNet — FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search (Image Classification)
@@ -1062,63 +1438,6 @@ https://bit.ly/3q6EHg8
 Official Code : https://bit.ly/3r6Mko8
 ```
 
-ERFNet\
-Computer Vision Learning ERFNet — Efficient Residual Factorized ConvNet for Real-time (Semantic Segmentation)
-```
-https://bit.ly/2OxgC5c
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3btlnWo
-Official Code(Pytorch) : https://bit.ly/3buGY0D
-```
-
-LayerCascade\
-Computer Vision Learning Deep Layer Cascade (LC) — Not All Pixels Are Equal (Semantic Segmentation)
-```
-https://bit.ly/3qzWdd8
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gM2SX8k
-Official Code(Pytorch) : https://bit.ly/2PUvnjn
-```
-
-IDW-CNN\
-Computer Vision Learning IDW-CNN — Learning from Image Descriptions in the Wild Dataset Boosts the Accuracy (Semantic Segmentation)
-```
-https://bit.ly/3letEAY
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEJ3_d3
-Official Code : https://bit.ly/3rEB2YL
-```
-
-DIS\
-Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation)
-```
-https://bit.ly/3vi3xh3
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3bD2OPA
-```
-
-SDN\
-Computer Vision Learning SDN — Stacked Deconvolutional Network Using DenseNet (Semantic Segmentation)
-```
-https://bit.ly/3lftn0k
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehdStyH
-```
-
-ResNet-DUC-HDC\
-Computer Vision Learning ResNet-DUC-HDC — Dense Upsampling Convolution and Hybrid Dilated Convolution (Semantic Segmentation)
-```
-https://bit.ly/3lmdhlN
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqFenUD
-Official Code : https://bit.ly/38CNvVm
-```
-
-Deeplabv3+\
-Computer Vision Learning DeepLabv3+ — Atrous Separable Convolution (Semantic Segmentation)
-```
-https://bit.ly/3lfSRuR
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3lhmsny
-Official Code : https://lnkd.in/eNbrAyC
-tensorflow : https://bit.ly/2Nm1Tda
-pytorch : https://bit.ly/3qLCXcM
-keras : https://bit.ly/3ll88uq
-```
-
 AutoDeeplab\
 Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation
 ```
@@ -1129,23 +1448,6 @@ pytorch :
 1. https://bit.ly/3bRcSEX
 2. https://bit.ly/3liYPuW
 3. https://bit.ly/3rWxIbE
-```
-
-c3\
-Computer Vision Learning C3 — Concentrated-Comprehensive Convolution (Semantic Segmentation)
-```
-https://bit.ly/3qX0yqK
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNiwENP
-Official Code : https://bit.ly/3rWRfsp
-tensorflow : https://bit.ly/3lq7hs7
-```
-
-DRRN\
-Computer Vision Learning DRRN, Zhang JNCA’20 — Deep Recursive Residual Network (Semantic Segmentation) 
-```
-https://bit.ly/3ltkWP9
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/epdGZBP
-Official Code : https://bit.ly/3s0IsWq
 ```
 
 BR²Net\
@@ -1706,14 +2008,6 @@ https://bit.ly/3xgDlUn
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eHYU5qz
 ```
 
-RandLA-Net\
-Computer Vision Learning RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds
-```
-https://bit.ly/3fYajD9
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eum5ZJw
-code :https://lnkd.in/ez6QxxR
-```
-
 Total3DUnderStanding\
 Computer Vision Learning 𝗧𝗼𝘁𝗮𝗹𝟯𝗗𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image
 ```
@@ -2059,14 +2353,6 @@ https://bit.ly/3rEIgMY
 Code : https://lnkd.in/eeqkHJP
 ```
 
-Deep learning technique on Semantic Segmentation\
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 A Review on Deep Learning Techniques Applied to 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 
-```
-https://bit.ly/375hrID
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqcsT92
-Code : https://lnkd.in/eigeYbb
-```
-
 Synthetic to Real\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗙𝗿𝗼𝗺 𝗦𝘆𝗻𝘁𝗵𝗲𝘁𝗶𝗰 𝘁𝗼 𝗥𝗲𝗮𝗹: Unsupervised Domain Adaptation for Animal Pose Estimation
 ```
@@ -2128,15 +2414,6 @@ EfficientNetv2\
 https://bit.ly/3xAQsiE
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehuJEsD
 code : https://lnkd.in/dWbUyW4
-```
-
-
-PerPixel Classification\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗲𝗿-𝗣𝗶𝘅𝗲𝗹 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 is Not All You Need for Semantic Segmentation
-```
-https://bit.ly/3lOomyg
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/edcfiBup
-code : https://lnkd.in/eeKumiPt
 ```
 
 Kaleido-BERT\	
@@ -2296,13 +2573,6 @@ https://bit.ly/3BicysB
 Code: https://lnkd.in/eRFaHmbg
 ```
 
-VMNet\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗩𝗠𝗡𝗲𝘁: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation
-```
-https://bit.ly/3k73jFZ
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eN7SUHp9
-Code: https://lnkd.in/eC-X4p-T
-```
 
 Airbert\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗶𝗿𝗯𝗲𝗿𝘁: 𝗜𝗻-𝗱𝗼𝗺𝗮𝗶𝗻 𝗣𝗿𝗲𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗳𝗼𝗿 𝗩𝗶𝘀𝗶𝗼𝗻-𝗮𝗻𝗱-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻
@@ -2311,8 +2581,6 @@ https://bit.ly/3nvcrGs
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKx-EMPa
 Dataset: https://lnkd.in/eQiQ6sRc
 ```
-
-
 
 Battle of Network Structure\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗕𝗮𝘁𝘁𝗹𝗲 𝗼𝗳 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀: An Empirical Study of CNN, Transformer, and MLP
@@ -2443,13 +2711,6 @@ https://bit.ly/2ZqtT4V
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyRmrg6v
 ```
 
-Graph-FPN	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗿𝗮𝗽𝗵-𝗙𝗖𝗡 for image semantic segmentation
-```
-https://bit.ly/2XH8T9f
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eP7NszKZ
-```
-	
 3D Shape Reconstruction	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝟯𝗗 𝗦𝗵𝗮𝗽𝗲 𝗥𝗲𝗰𝗼𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻 from Vision and Touch
 ```
@@ -2514,13 +2775,6 @@ https://bit.ly/3AzGVd6
 Code: https://lnkd.in/eZvHages
 ```
 
-Pixel Level Cycle Association	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗶𝘅𝗲𝗹-𝗟𝗲𝘃𝗲𝗹 𝗖𝘆𝗰𝗹𝗲 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗶𝗼𝗻: A New Perspective for Domain Adaptive Semantic Segmentation
-```
-https://bit.ly/3iTZMK6
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gmfNw8jA
-Code: https://lnkd.in/gSpWwm5n
-```
 
 Deep Model Fusion	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝗲𝗽 𝗠𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝗙𝘂𝘀𝗶𝗼𝗻
@@ -3093,12 +3347,6 @@ Untrained Deep NN\
 https://bit.ly/3JplL7r
 ```
 
-SeMask\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 SeMask: Semantically Masked Transformers for Semantic Segmentation
-```
-https://bit.ly/3zfouM8
-```
-
 
 JoJoGAN\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗜𝗹𝗹𝗶𝗻𝗼𝗶𝘀 𝗵𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗝𝗼𝗝𝗼𝗚𝗔𝗡: 𝗢𝗻𝗲 𝗦𝗵𝗼𝘁 𝗙𝗮𝗰𝗲 𝗦𝘁𝘆𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻
@@ -3166,13 +3414,6 @@ A Transformer-Based Siamese Network for Change Detection\
 https://bit.ly/3DxPYP5
 ```
 
-Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗟𝗮𝘄𝗶𝗻 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿: 𝗜𝗺𝗽𝗿𝗼𝘃𝗶𝗻𝗴 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿 𝘄𝗶𝘁𝗵 𝗠𝘂𝗹𝘁𝗶-𝗦𝗰𝗮𝗹𝗲 𝗥𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 𝘃𝗶𝗮 𝗟𝗮𝗿𝗴𝗲 𝗪𝗶𝗻𝗱𝗼𝘄 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗯𝘆 𝗕𝗲𝗶𝗷𝗶𝗻𝗴 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗣𝗼𝘀𝘁𝘀 𝗮𝗻𝗱 𝗧𝗲𝗹𝗲𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
-```
-https://bit.ly/3qRsTle
-```
-
-
 HyperionSolarNet: Solar Panel Detection from Aerial Images\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗛𝘆𝗽𝗲𝗿𝗶𝗼𝗻𝗦𝗼𝗹𝗮𝗿𝗡𝗲𝘁: 𝗦𝗼𝗹𝗮𝗿 𝗣𝗮𝗻𝗲𝗹 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗳𝗿𝗼𝗺 𝗔𝗲𝗿𝗶𝗮𝗹 𝗜𝗺𝗮𝗴𝗲𝘀 𝗯𝘆 𝗨𝗖 𝗕𝗲𝗿𝗸𝗲𝗹𝗲𝘆.
 ```
@@ -3213,12 +3454,6 @@ SeamlessGAN: Self-Supervised Synthesis of Tileable Texture Maps\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗲𝗮𝗺𝗹𝗲𝘀𝘀𝗚𝗔𝗡: 𝗦𝗲𝗹𝗳-𝗦𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗦𝘆𝗻𝘁𝗵𝗲𝘀𝗶𝘀 𝗼𝗳 𝗧𝗶𝗹𝗲𝗮𝗯𝗹𝗲 𝗧𝗲𝘅𝘁𝘂𝗿𝗲 𝗠𝗮𝗽𝘀 𝗯𝘆 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝗱𝗮𝗱 𝗖𝗮𝗿𝗹𝗼𝘀, 𝗦𝗽𝗮𝗶𝗻 
 ```
 https://bit.ly/3NIieTA
-```
-
-HYDLA: Domain Adaptation in LiDAR Semantic Segmentation via Alternating Skip Connections and Hybrid Learning\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗛𝗬𝗟𝗗𝗔: 𝗘𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝗛𝘆𝗯𝗿𝗶𝗱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗼𝗺𝗮𝗶𝗻 𝗔𝗱𝗮𝗽𝘁𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗟𝗶𝗗𝗔𝗥 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
-```
-https://bit.ly/379dy8v
 ```
 
 HardBoost: Boosting Zero-Shot Learning with Hard Classes\	
@@ -3288,11 +3523,6 @@ Transformer based SAR Images Despecking\
 https://bit.ly/3qWeILH
 ```
 
-ResiDualGAN: Resize-Residual DualGAN for Cross-Domain Remote Sensing Images Semantic Segmentation\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 ResiDualGAN: Resize-Residual DualGAN for Cross-Domain Remote Sensing Images Semantic Segmentation by Peking University, China
-```
-https://bit.ly/3wWGY4T
-```
 
 VRT\ 
 A Video Restoration Transformer\	
@@ -3382,11 +3612,6 @@ Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for plac
 https://bit.ly/375C76y
 ```
 
-COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets by  PSL University
-```
-https://bit.ly/3NCK6bZ
-```
 
 ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification by EPFL
@@ -3431,11 +3656,6 @@ Visual Attention Network\
 https://bit.ly/3Dt7rbv
 ```
 
-GroupViT: Semantic Segmentation Emerges from Text Supervision\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 GroupViT: Semantic Segmentation Emerges from Text Supervision by Nvidia
-```
-https://bit.ly/3NQv7eG
-```
 
 Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis by Adobe Research
@@ -3743,17 +3963,6 @@ Masked Siamese Networks for Label-Efficient Learning\
 https://bit.ly/3viEs6s
 ```
 
-Neighborhood Attention Transformer\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation
-```
-https://bit.ly/3jNExK3
-```
-
-TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation
-```
-https://bit.ly/3M3EA0K
-```
 
 MVSTER: Epipolar Transformer for Efficient Multi-View Stereo\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 MVSTER: Epipolar Transformer for Efficient Multi-View Stereo by Chinese Academy of Sciences
@@ -3911,25 +4120,16 @@ Few-Shot Head Swapping in the Wild\
 https://bit.ly/3xapGkn
 ```
 
-
 StyLandGAN: A StyleGAN based Landscape Image Synthesis using Depth-map\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 StyLandGAN: A StyleGAN based Landscape Image Synthesis using Depth-map by Vision AI Lab, AI Center, NCSOFT
 ```
 https://bit.ly/3GKX4Bi
 ```
 
-
 Spiking Approximations of the MaxPooling Operation in Deep SNNs\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Spiking Approximations of the MaxPooling Operation in Deep SNNs by University of Waterloo, Canada
 ```
 https://bit.ly/3GLp7AG
-```
-
-
-Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization by University of Oxford
-```
-https://bit.ly/3NTGsJQ
 ```
 
 NLP Language Models Treasure of Transformers
@@ -7219,25 +7419,12 @@ U-Net: Convolutional Networks for Biomedical Image Segmentation
 https://arxiv.org/pdf/1505.04597.pdf
 ```
 
-
-DeconvNet
-Learning Deconvolution Network for Semantic Segmentation
-```
-https://arxiv.org/pdf/1505.04366.pdf
-```
-
-
 ParseNet
 ParseNet: Looking Wider to See Better
 ```
 https://arxiv.org/abs/1506.04579
 ```
 
-Piecewise
-Efficient piecewise training of deep structured models for semantic segmentation
-```
-https://arxiv.org/abs/1504.01013
-```
 
 SegNet
 SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
@@ -7245,17 +7432,6 @@ SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
 https://arxiv.org/pdf/1511.00561.pdf
 ```
 
-FCN
-Fully Convolutional Networks for Semantic Segmentation
-```
-https://arxiv.org/pdf/1605.06211.pdf
-```
-
-ENet
-ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation
-```
-https://arxiv.org/pdf/1606.02147.pdf
-```
 
 DilatedNet
 MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS
@@ -7269,23 +7445,6 @@ PixelNet: Towards a General Pixel-Level Architecture
 https://arxiv.org/pdf/1609.06694.pdf
 ```
 
-RefineNet
-RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
-```
-https://arxiv.org/pdf/1611.06612.pdf
-```
-
-LRR
-Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
-```
-https://arxiv.org/pdf/1605.02264.pdf
-```
-
-FRRN
-Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes
-```
-https://arxiv.org/pdf/1611.08323.pdf
-```
 
 MultiNet
 MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving
@@ -7300,39 +7459,12 @@ https://arxiv.org/pdf/1606.00915.pdf
 ```
 
 
-LinkNet
-LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation
-```
-https://arxiv.org/pdf/1707.03718.pdf
-```
-
-Tiramisu
-The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation
-```
-https://arxiv.org/pdf/1611.09326.pdf
-```
-
-ICNet
-ICNet for Real-Time Semantic Segmentation on High-Resolution Images
-```
-https://arxiv.org/pdf/1704.08545.pdf
-```
-
-ERFNet
-Efficient ConvNet for Real-time Semantic Segmentation
-```
-http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf
-```
 
 PSPNet
 Pyramid Scene Parsing Network
 ```
 https://arxiv.org/pdf/1612.01105.pdf
 ```
-
-GCN
-Large Kernel Matters — Improve Semantic Segmentation by Global Convolutional Network
-https://arxiv.org/pdf/1703.02719.pdf
 
 Segaware
 Segmentation-Aware Convolutional Networks Using Local Attention Masks
@@ -7352,30 +7484,7 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 ```
 https://arxiv.org/pdf/1706.05587.pdf
 ```
-DUC, HDC
-Understanding Convolution for Semantic Segmentation
-```
-https://arxiv.org/pdf/1702.08502.pdf
-```
 
-ShuffleSeg
-SHUFFLESEG: REAL-TIME SEMANTIC SEGMENTATION NETWORK
-```
-https://arxiv.org/pdf/1803.03816.pdf
-```
-
-
-AdaptSegNet
-Learning to Adapt Structured Output Space for Semantic Segmentation
-```
-https://arxiv.org/pdf/1802.10349.pdf
-```
-
-TuSimple-DUC
-Understanding Convolution for Semantic Segmentation
-```
-https://arxiv.org/pdf/1702.08502.pdf
-```
 
 R2U-Net
 Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation
@@ -7395,52 +7504,12 @@ Dual Attention Network for Scene Segmentation
 https://arxiv.org/pdf/1809.02983.pdf
 ```
 
-
-
-ENCNet
-Context Encoding for Semantic Segmentation
-```
-https://arxiv.org/abs/1803.08904
-```
-
-ShelfNet
-ShelfNet for Real-time Semantic Segmentation
-```
-https://arxiv.org/pdf/1811.11254.pdf
-```
-
 LadderNet
 LADDERNET: MULTI-PATH NETWORKS BASED ON U-NET FOR MEDICAL IMAGE SEGMENTATION
 ```
 https://arxiv.org/pdf/1810.07810.pdf
 ```
 
-CCC-ERFnet
-Concentrated-Comprehensive Convolutions for lightweight semantic segmentation
-```
-https://arxiv.org/pdf/1812.04920v1.pdf
-```
-
-
-DifNet-101
-DifNet: Semantic Segmentation by Diffusion Networks
-```
-http://papers.nips.cc/paper/7435-difnet-semantic-segmentation-by-diffusion-networks.pdf
-```
-
-
-BiSeNet(Res18)
-BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
-```
-https://arxiv.org/pdf/1808.00897.pdf
-```
-
-
-ESPNet
-ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
-```
-https://arxiv.org/pdf/1803.06815.pdf
-```
 
 SPADE
 Semantic Image Synthesis with Spatially-Adaptive Normalization
@@ -7454,17 +7523,6 @@ Seamless Scene Segmentation
 https://arxiv.org/pdf/1905.01220v1.pdf
 ```
 
-EMANet
-Expectation-Maximization Attention Networks for Semantic Segmentation
-```
-https://arxiv.org/pdf/1907.13426.pdf
-```
-
-R-CNN
-Rich feature hierarchies for accurate object detection and semantic segmentation
-```
-https://arxiv.org/pdf/1311.2524.pdf
-```
 
 OverFeat 
 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
@@ -7484,11 +7542,6 @@ Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
 https://arxiv.org/pdf/1406.4729.pdf
 ```
 
-MR-CNN 
-Object detection via a multi-region &amp; semantic segmentation-aware CNN model
-```
-https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Gidaris_Object_Detection_via_ICCV_2015_paper.pdf
-```
 
 AttentionNet
 AttentionNet: Aggregating Weak Directions for Accurate Object Detection
@@ -8234,21 +8287,10 @@ Top 5 AI papers of September 2023
 https://learnopencv.com/top-5-ai-papers-of-september-2023/
 ```
 
-
-
 Empowering Drivers: The Rise and Role of Advanced Driver Assistance Systems
 ```
 https://learnopencv.com/advanced-driver-assistance-systems/
 ```
-
-
-
-Semantic Segmentation using KerasCV DeepLabv3+
-```
-https://learnopencv.com/kerascv-deeplabv3-plus-semantic-segmentation/
-https://github.com/spmallick/learnopencv/tree/master/Semantic-Segmentation-using-KerasCV-with-DeepLabv3-Plus
-```
-
 
 Object Detection using KerasCV YOLOv8
 ```
@@ -8671,14 +8713,6 @@ What is Face Detection? – The Ultimate Guide for 2022
 https://learnopencv.com/what-is-face-detection-the-ultimate-guide/
 https://github.com/spmallick/learnopencv/tree/master/Face-Detection-Ultimate-Guide
 ```
-
-
-Document Scanner: Custom Semantic Segmentation using PyTorch-DeepLabV3
-```
-https://learnopencv.com/custom-document-segmentation-using-deep-learning/
-https://github.com/spmallick/learnopencv/tree/master/Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3
-```
-
 
 Fine Tuning YOLOv7 on Custom Dataset
 ```
@@ -9466,14 +9500,6 @@ https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-
 https://github.com/spmallick/learnopencv/tree/master/VideoBackgroundEstimation
 ```
 
-
-Applications of Foreground-Background separation with Semantic Segmentation
-```
-https://www.learnopencv.com/applications-of-foreground-background-separation-with-semantic-segmentation/
-https://github.com/spmallick/learnopencv/tree/master/app-seperation-semseg
-```
-
-
 EfficientNet: Theory + Code
 ```
 https://www.learnopencv.com/efficientnet-theory-code
@@ -9493,14 +9519,6 @@ PyTorch for Beginners: Faster R-CNN Object Detection with PyTorch
 https://www.learnopencv.com/faster-r-cnn-object-detection-with-pytorch
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-faster-RCNN
 ```
-
-
-PyTorch for Beginners: Semantic Segmentation using torchvision
-```
-https://www.learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/
-https://github.com/spmallick/learnopencv/tree/master/PyTorch-Segmentation-torchvision
-```
-
 
 PyTorch for Beginners: Comparison of pre-trained models for Image Classification
 ```
@@ -13118,14 +13136,6 @@ Retinal Vessel Segmentation
 ```
 https://www.kaggle.com/datasets?search=Retinal+Vessel+Segmentation
 ```
-
-Semantic Segmentation  
-```
-https://www.kaggle.com/datasets?search=semantic+segmentation
-https://www.kaggle.com/code/bulentsiyah/deep-learning-based-semantic-segmentation-keras
-```
-
-
 Skin Cancer Segmentation
 ```
 https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification/code
@@ -13255,9 +13265,7 @@ https://www.kaggle.com/code/balajikartheek/drone-image-classification
 
 https://www.kaggle.com/discussions/accomplishments/552659
 https://github.com/kylegraupe
-1
-Real-time Semantic Segmentation with DJI Drone via RTMP
-https://github.com/kylegraupe/real_time_semantic_segmentation_using_dji_drone
+
 2
 Quantitative Modeling - Real Estate Portfolio Optimization
 3
@@ -13964,11 +13972,6 @@ Image Synthesis using Generative Adversarial Networks (GANs)
 Emotion Recognition through Facial Expressions
 Facial expression detection using the Deepface module in Python
 Instance segmentation using Pytorch
-Semantic segmentation using Pytorch
-Face similarity Detection using PyTorch
-Age Conversion Using GANs Algorithm
-Business Card Recognization Using Deep Learning
-Traffic light detection using Deep Learning
 ```
 
 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 
