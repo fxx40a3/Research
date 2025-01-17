@@ -12366,8 +12366,7 @@ https://thecleverprogrammer.com/2021/01/24/click-through-rate-prediction-with-ma
 51
 Interactive Language Translator
 ```
-/https://thecleverprogrammer.com/2021/04/02/language-translator-using-python
-```
+https://thecleverprogrammer.com/2021/04/02/language-translator-using-python
 ```
 
 53
