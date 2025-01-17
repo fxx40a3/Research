@@ -1,5 +1,96 @@
 # Artificial Intellience Projects and Research
 
+# Covid 19 Analysis start
+
+Covid 19 Analysis.
+```
+https://thecleverprogrammer.com/2020/10/05/covid-19-analysis-with-python/
+```
+Covid-19 Vaccine Analysis
+```
+https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
+```
+Covid-19 Cases Prediction for Next 30 Days	
+```
+https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/
+```
+Detecting Covid-19 with Chest X-ray	
+```
+https://www.geeksforgeeks.org/detecting-covid-19-with-chest-x-ray/		
+```
+
+Detecting COVID-19 From Chest X-Ray Images using CNN	
+```
+https://www.geeksforgeeks.org/detecting-covid-19-from-chest-x-ray-images-using-cnn/	
+```
+
+VGGNet For Covid19\
+Computer Vision Learning  𝐕𝐆𝐆𝐍𝐞𝐭 for COVID-19 Detection (Biomedical Image Classification) 
+```
+https://bit.ly/3ewquW6
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/g2upBth
+```
+
+Covid-19 Cases Predictions for Next 30 Days
+```
+https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/
+```
+
+Covid-19 Detection
+```
+https://thecleverprogrammer.com/2020/07/09/covid-19-detection/
+```
+
+Covid-19 Cases prediction for next 30 days
+```
+https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/
+```
+
+Covid-19 Cases Prediction for Next 30 Days
+```
+https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/ 
+```
+
+Covid-19 Detection
+```
+https://thecleverprogrammer.com/2020/07/09/covid-19-detection/ 
+```
+
+5 COVID19 Projects with Python
+```
+https://amankharwal.medium.com/5-covid-19-projects-with-python-and-machine-learning-63d51cde96e2
+```
+
+Covid-19 Death Rate Analysis with Machine Learning 
+```
+https://thecleverprogrammer.com/2020/05/21/covid-19-death-rate-analysis-with-python/ 
+```
+
+Covid-19 Vaccine Analysis
+```
+https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
+```
+
+face-mask-detector
+```
+https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+```
+
+Covid-19 Deaths Prediction
+```
+https://thecleverprogrammer.com/2022/03/29/covid-19-deaths-prediction-with-machine-learning/
+```
+
+Covid-19 Vaccine Sentiment Analysis
+```
+https://thecleverprogrammer.com/2021/01/11/covid-19-vaccine-sentiment-analysis/
+```
+
+Covid-19 Projects with Machine Learning
+```
+https://thecleverprogrammer.com/2020/11/21/covid-19-projects-with-python-and-machine-learning/
+````
+# Covid 19 Analysis end
 
 # Sales Prediction start
 
@@ -2419,12 +2510,6 @@ https://bit.ly/3vj4lRX
 Code: https://lnkd.in/etiTzns
 ```
 
-VGGNet For Covid19\
-Computer Vision Learning  𝐕𝐆𝐆𝐍𝐞𝐭 for COVID-19 Detection (Biomedical Image Classification) 
-```
-https://bit.ly/3ewquW6
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/g2upBth
-```
 
 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁)\
 Computer Vision Learning  𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁): Brain Lesion Segmentation (Biomedical Image Segmentation)
@@ -6009,11 +6094,6 @@ Machine Learning Projects on Time Series Forecasting
 https://medium.com/coders-camp/10-machine-learning-projects-on-time-series-forecasting-ee0368420ccd
 ```
 
-1\
-Covid-19 Cases Predictions for Next 30 Days
-```
-https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/
-```
 
 2\
 Stock Price Prediction using Linear Regression   
@@ -6165,10 +6245,6 @@ https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
 ```
 
 
-Covid-19 Detection
-```
-https://thecleverprogrammer.com/2020/07/09/covid-19-detection/
-```
 
 Dog and Cat Classification
 ```
@@ -6183,11 +6259,6 @@ https://thecleverprogrammer.com/2020/12/04/online-shopping-intention-analysis-wi
 Amazon Bestselling Books Analysis
 ```
 https://thecleverprogrammer.com/2020/11/30/amazon-bestselling-books-analysis-with-python/
-```
-
-Covid-19 Cases prediction for next 30 days
-```
-https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/
 ```
 
 YouTube Trending Videos Analysis
@@ -6597,10 +6668,7 @@ Machine Learning Projects on Future Prediction with Python
 ```
 https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
 ```
-Covid-19 Cases Prediction for Next 30 Days
-```
-https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/ 
-```
+
 
 Employee Attrition Prediction
 ```
@@ -6876,10 +6944,6 @@ Titanic Survival Prediction
  
 ```
 
-Covid-19 Detection
-```
-https://thecleverprogrammer.com/2020/07/09/covid-19-detection/ 
-```
 
 Skin Cancer Classification
 ```
@@ -7015,10 +7079,6 @@ Next Word Prediction Model
 https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/ 
 ```
 
-Covid-19 Detection 
-```
-https://thecleverprogrammer.com/2020/07/09/covid-19-detection/ 
-```
 
 Dog and Cat Classification 
 ```
@@ -7026,16 +7086,6 @@ https://thecleverprogrammer.com/2020/06/16/dog-and-cat-classification-using-conv
 ```
 
 
-19	
-5 COVID19 Projects with Python
-```
-https://amankharwal.medium.com/5-covid-19-projects-with-python-and-machine-learning-63d51cde96e2
-```
-
-Covid-19 Death Rate Analysis with Machine Learning 
-```
-https://thecleverprogrammer.com/2020/05/21/covid-19-death-rate-analysis-with-python/ 
-```
 
 100+ Machine Learning Projects Solved and Explained
 ```
@@ -11929,14 +11979,10 @@ Handwriting Recognition
 Visualize a Solar System with Python.
 Hate Speech Detection Model
 Learning Gladiator
-Time Series - Covid-19 Cases Predictions for Next 30 Days
 Time Series - Stock Price Prediction using Linear Regression
 Time Series - Earthquake Prediction Model
 Time Series - Predict Migration
 Time Series - Weather Prediction Model
-Contact Tracing with 211.Covid-19 Telegram Bot with Python
-Covid-19 Detection with
-Covid-19 Death Rate Analysis with
 HealthCare - Heart Disease Prediction
 HealthCare - Skin Cancer Classification
 HealthCare -Lung Segmentation
@@ -11964,7 +12010,6 @@ Time Series Forecasting
 Time Series With LSTM
 Indian Cricket Team Player's Next Match Performance Prediction
 Titanic Survival Prediction
-Tracking of Covid-19 in Animals.
 Traffic Sign Recognition
 Wine Quality Prediction
 Play Money Ball
@@ -12319,11 +12364,7 @@ Microsoft Stock Price Prediction
 https://thecleverprogrammer.com/2021/06/21/microsoft-stock-price-prediction-with-machine-learning/
 ```
 
-42
-Covid-19 Vaccine Analysis
-```
-https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
-```
+
 
 
 44
@@ -12964,7 +13005,6 @@ Image generation with Convolutional Autoencoders
 Lung Cancer Detection using Convolutional Neural Network (CNN) Tensorflow
 Lung Cancer Detection Using Transfer Learning
 Lung cancer detection using PyTorch
-Detecting Covid-19 with Chest X-ray
 Skin Cancer Detection Using TensorFlow
 Hand Gesture Recognition with Convolutional Neural Networks
 Optical Character Recognition Using Pytorch
@@ -13878,7 +13918,6 @@ https://www.geeksforgeeks.org/facemask-detection-using-tensorflow-in-python/
 
 https://github.com/pik1989/FaceMaskDetection/tree/main
 
-https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 
 https://makeoptim.com/en/deep-learning/yiai-object-detection
 Others
@@ -14769,9 +14808,7 @@ https://thecleverprogrammer.com/2022/02/15/flipkart-reviews-sentiment-analysis-u
 Breast Cancer Survival Prediction
 
 https://thecleverprogrammer.com/2022/03/08/breast-cancer-survival-prediction-with-machine-learning/
-Covid-19 Deaths Prediction
 
-https://thecleverprogrammer.com/2022/03/29/covid-19-deaths-prediction-with-machine-learning/
 Stock Price Prediction with LSTM Neural Network
 
 https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/
@@ -15119,8 +15156,7 @@ Flipkart Reviews Sentiment Analysis
 https://thecleverprogrammer.com/2022/02/15/flipkart-reviews-sentiment-analysis-using-python/		
 Breast Cancer Survival Prediction	
 https://thecleverprogrammer.com/2022/03/08/breast-cancer-survival-prediction-with-machine-learning/		
-Covid-19 Deaths Prediction	
-https://thecleverprogrammer.com/2022/03/29/covid-19-deaths-prediction-with-machine-learning/		
+		
 Stock Price Prediction with LSTM Neural Network	
 https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/		
 Cryptocurrency Price Prediction for the next 30 days	
@@ -15160,9 +15196,6 @@ https://thecleverprogrammer.com/2021/01/20/diamond-price-prediction-with-machine
 
 Book Recommendation System
 https://thecleverprogrammer.com/2021/01/17/book-recommendation-system/
-
-Covid-19 Vaccine Sentiment Analysis
-https://thecleverprogrammer.com/2021/01/11/covid-19-vaccine-sentiment-analysis/
 
 Human Activity Recognition Model
 https://thecleverprogrammer.com/2021/01/10/human-activity-recognition-with-machine-learning/
@@ -15662,9 +15695,7 @@ https://thecleverprogrammer.com/2020/06/11/weather-forecasting-with-machine-lear
 SMS Spam Detection with Machine Learning
 
 https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/
-Covid-19 Detection with Machine Learning and AI
 
-https://thecleverprogrammer.com/2020/07/09/covid-19-detection/
 Employee Turnover Prediction with Machine Learning
 
 https://thecleverprogrammer.com/2020/07/12/employee-turnover-prediction/
@@ -15687,9 +15718,7 @@ https://thecleverprogrammer.com/2020/07/20/binary-classification-model/
 Data Augmentation with Deep Learning
 
 https://thecleverprogrammer.com/2020/07/20/data-augmentation-in-deep-learning/
-Covid-19 Projects with Machine Learning
 
-https://thecleverprogrammer.com/2020/11/21/covid-19-projects-with-python-and-machine-learning/
 Deep Learning Projects with Machine Learning
 
 https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/
@@ -15950,9 +15979,7 @@ https://thecleverprogrammer.com/2020/07/26/openai-gym-in-machine-learning/
 Machine Translation Model
 
 https://thecleverprogrammer.com/2020/07/28/machine-translation-model/
-Covid 19 Analysis.
 
-https://thecleverprogrammer.com/2020/10/05/covid-19-analysis-with-python/
 Build the TikTok Algorithm with Machine Learning.
 
 https://thecleverprogrammer.com/2020/09/26/tiktok-algorithm-with-machine-learning/
@@ -16051,9 +16078,7 @@ https://thecleverprogrammer.com/2021/03/21/end-to-end-machine-learning-project/
 Customer Personality Analysis
 
 https://thecleverprogrammer.com/2021/02/08/customer-personality-analysis-with-python/
-Covid-19 Vaccine Analysis
 
-https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
 Student Grades Prediction Model
 
 https://thecleverprogrammer.com/2021/04/16/student-grades-prediction-with-machine-learning/
@@ -16207,8 +16232,7 @@ https://thecleverprogrammer.com/2020/12/01/keyword-extraction-with-python/
 Amazon Best Selling Books Analysis	
 https://thecleverprogrammer.com/2020/11/30/amazon-bestselling-books-analysis-with-python/	
 
-Covid-19 Cases Prediction for Next 30 Days	
-https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/	
+	
 
 
 Visualize a Solar System with Python.	
@@ -16284,12 +16308,6 @@ lung-cancer-detection-using-convolutional-neural-network-cnn/
 
 Lung Cancer Detection Using Transfer Learning	
 https://www.geeksforgeeks.org/lung-cancer-detection-using-transfer-learning/	
-
-Detecting Covid-19 with Chest X-ray	
-https://www.geeksforgeeks.org/detecting-covid-19-with-chest-x-ray/		
-
-Detecting COVID-19 From Chest X-Ray Images using CNN	
-https://www.geeksforgeeks.org/detecting-covid-19-from-chest-x-ray-images-using-cnn/	
 
 Ted Talks Recommendation System	
 https://www.geeksforgeeks.org/ted-talks-recommendation-system-with-machine-learning/		
