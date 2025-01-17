@@ -13517,6 +13517,8 @@ Unsupervised Anomaly Detection in Industrial Inspection
 ```
 
 ```
+
+```
 https://www.geeksforgeeks.org/computer-vision-projects/
 Detect the RGB color from a webcam using Python – OpenCV
 Face Detection using Python and OpenCV with a webcam
@@ -13587,6 +13589,8 @@ Neural Style Transfer Using Pytorch
 Image Synthesis using Generative Adversarial Networks (GANs)
 Emotion Recognition through Facial Expressions
 Facial expression detection using the Deepface module in Python
+Face similarity Detection
+Age Conversion/Age Detection
 ```
 
 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 
