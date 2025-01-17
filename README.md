@@ -15998,656 +15998,476 @@ https://thecleverprogrammer.com/2022/03/22/instagram-reach-analysis-using-python
 
 
 ```
-Real-time Gender Detection System 2
-```	
-
 Real-time Gender Detection System
-
-| 
 Dogecoin Price Prediction
-
 Google Play Store Sentiment Analysis
-
 Amazon Alexa Reviews Sentiment Analysis
-
 Social Media Ads Classification
-
 Fake News Detection
-Social Media Followers Prediction
-
-Amazon Product Reviews Sentiment Analysis
-
-Hate Speech Detection
-
-End-to-end Hate Speech Detection System
-
-Gender Detection
+Sarcasm Detection
 
 Sales Prediction
-
 https://thecleverprogrammer.com/2021/05/19/sales-prediction-with-machine-learning/
+
 Currency Exchange Rate Prediction
-
 https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/
+
 Diamond Price Prediction Model
-
 https://thecleverprogrammer.com/2021/01/20/diamond-price-prediction-with-machine-learning/
+
 Book Recommendation System
-
 https://thecleverprogrammer.com/2021/01/17/book-recommendation-system/
+
 Covid-19 Vaccine Sentiment Analysis
-
 https://thecleverprogrammer.com/2021/01/11/covid-19-vaccine-sentiment-analysis/
-MEETING REGULARLY:11PM to 12 AM
+
 Human Activity Recognition Model
-
 https://thecleverprogrammer.com/2021/01/10/human-activity-recognition-with-machine-learning/
+
 Cohort Analysis
-
 https://thecleverprogrammer.com/2021/01/08/cohort-analysis-with-python/
+
 End to end Machine Learning Projects
-
 https://thecleverprogrammer.com/2021/01/07/deploy-machine-learning-model-with-python/
+
 Life Expectancy Analysis
-
 https://thecleverprogrammer.com/2021/01/06/life-expectancy-analysis-with-python/
+
 Bitcoin Price Prediction
-
 https://thecleverprogrammer.com/2021/01/05/bitcoin-price-prediction-with-python/
+
 Human Resource Analysis
-
 https://thecleverprogrammer.com/2021/01/04/human-resource-analysis-with-python/
+
 Energy Consumption Prediction
-
 https://thecleverprogrammer.com/2021/01/23/energy-consumption-prediction-with-machine-learning/
+
 LightGBM Model
-
 https://thecleverprogrammer.com/2021/01/15/lightgbm-in-machine-learning/
-Gold Price Prediction
 
+Gold Price Prediction
 https://thecleverprogrammer.com/2020/12/23/gold-price-prediction-with-python/
  
 Highest-Paid Athletes Analysis
-
 https://thecleverprogrammer.com/2020/12/21/highest-paid-athletes-analysis-with-python/
+
 Text Generation
 
-https://thecleverprogrammer.com/2020/12/20/text-generation-with-python/
-Spelling Correction with Python
-
-https://thecleverprogrammer.com/2020/12/18/spelling-correction-with-python/
-Income Classification
-
-https://thecleverprogrammer.com/2020/12/15/income-classification-with-python/
-Language Translation Model
-
-https://thecleverprogrammer.com/2020/12/08/language-translation-with-python/
-Autocorrect Keyboard with Python and Machine Learning.
-
-https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/
-Flower Detect
-
-https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/#google_vignette
-Deepfake Detection with Machine Learning.
-
-Next Word Prediction Model
-
-https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
-Resume Screening
-
-https://thecleverprogrammer.com/2020/12/06/resume-screening-with-python/
-Sign Language Classification
-
-https://thecleverprogrammer.com/2020/12/05/sign-language-classification-with-python/
-Online Shopping Intention Analysis
-
-https://thecleverprogrammer.com/2020/12/04/online-shopping-intention-analysis-with-python/
-Network Graph Analysis
-
-https://thecleverprogrammer.com/2020/12/03/network-graph-analysis-with-python/
-Keyword Extraction
-
-https://thecleverprogrammer.com/2020/12/01/keyword-extraction-with-python/
-Amazon Best Selling Books Analysis
-
-https://thecleverprogrammer.com/2020/11/30/amazon-bestselling-books-analysis-with-python/
-Covid-19 Cases Prediction for Next 30 Days
-
-https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/
 YouTube Trending Videos Analysis
-
 https://thecleverprogrammer.com/2020/11/28/youtube-trending-videos-analysis-with-python/
+
 Gender Classification
-
 https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/
+
 Flower Recognition
-
 https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/
+
 Flower Recognition Using Convolutional Neural Network
-
 https://www.geeksforgeeks.org/flower-recognition-using-convolutional-neural-network/
+
 Pneumonia Detection
-
 https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/
+
 Employee Attrition Prediction
-
 https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/
+
 Face mask Detection
-
 https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
+
 Market Basket Analysis using Apriori Algorithm
-
 https://thecleverprogrammer.com/2020/11/16/apriori-algorithm-using-python/
+
 Breast Cancer Detection
-
 https://thecleverprogrammer.com/2020/11/14/breast-cancer-detection-with-machine-learning/
-MEETING REGULARLY:11PM to 12 AM
+
 Earthquake Prediction Model
-
 https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/
+
 Outlier Detection
-
 https://thecleverprogrammer.com/2020/11/12/outlier-detection-with-python/
+
 Heart Disease Prediction
-
 https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/
-Plastic Users Analysis
 
+Plastic Users Analysis
 https://thecleverprogrammer.com/2020/11/09/plastic-users-analysis-with-python/
 
 https://github.com/PhilippeCodes/Open-Food-Facts-Data-Analysis/blob/master/Open%20Food%20Facts.ipynb
-Landmark Detection
 
+Landmark Detection
 https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/
+
 Visualize a Solar System with Python.
 
-https://thecleverprogrammer.com/2020/10/07/visualize-a-solar-system-with-python/
-Hate Speech Detection Model
-
-https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/
-Build Instagram Filters with Python.
-
-https://thecleverprogrammer.com/2020/09/24/instagram-filters-with-python/
-translate Languages Using Python
-
-https://thecleverprogrammer.com/2020/08/10/translate-using-python/
-XGBoost Algorithm in Machine Learning
-
-https://thecleverprogrammer.com/2020/09/04/xgboost-in-machine-learning/
-Face Landmarks Detection
-
-https://thecleverprogrammer.com/2020/07/22/face-landmarks-detection/
-Image Filtering with Machine Learning
-
-https://thecleverprogrammer.com/2020/07/25/image-filtering-with-machine-learning/
-Gender Classification Model
-
-https://thecleverprogrammer.com/2020/08/02/gender-classification-model/
-Create a 3D Video with Python and Machine Learning.
-
-https://thecleverprogrammer.com/2020/09/14/3d-video-with-python/
-Parkinson’s Disease Prediction
-
-https://www.geeksforgeeks.org/parkinson-disease-prediction-using-machine-learning-python/
-Zillow Home Value (Zestimate) prediction
-
-https://www.geeksforgeeks.org/zillow-home-value-zestimate-prediction-in-ml/
-Bitcoin Price Prediction
-
-https://www.geeksforgeeks.org/bitcoin-price-prediction-using-machine-learning-in-python/
- 
-Stock Price Prediction
-
-https://www.geeksforgeeks.org/stock-price-prediction-using-machine-learning-in-python/
-Microsoft Stock Price Prediction
-
-https://www.geeksforgeeks.org/microsoft-stock-price-prediction-with-machine-learning/
-Predicting Stock Price Direction using Support Vector Machines
-
-https://www.geeksforgeeks.org/predicting-stock-price-direction-using-support-vector-machines/?ref=rp
 Share Price Forecasting Using Facebook Prophet
-
 https://www.geeksforgeeks.org/share-price-forecasting-using-facebook-prophet/
+
 Wine Quality Prediction
-
 https://www.geeksforgeeks.org/wine-quality-prediction-machine-learning/
+
 Sales Forecast Prediction
-
 https://www.geeksforgeeks.org/sales-forecast-prediction-python/
+
 Customer Segmentation using Unsupervised
-
 https://www.geeksforgeeks.org/customer-segmentation-using-unsupervised-machine-learning-in-python/
+
 Analyzing selling price of used cars
-
 https://www.geeksforgeeks.org/analyzing-selling-price-of-used-cars-using-python/
+
 Box Office Revenue Prediction Using Linear Regression
-
 https://www.geeksforgeeks.org/box-office-revenue-prediction-using-linear-regression-in-ml/
+
 Loan Approval Prediction
-
 https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/
+
 Loan Eligibility prediction using Machine Learning Models
-
 https://www.geeksforgeeks.org/loan-eligibility-prediction-using-machine-learning-models-in-python/
+
 Boston Housing Kaggle Challenge with Linear Regression
-
 https://www.geeksforgeeks.org/ml-boston-housing-kaggle-challenge-with-linear-regression/
+
 IPL Score Prediction
-
 https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/?ref=rp
+
 Calories Burnt Prediction
-
 https://www.geeksforgeeks.org/calories-burnt-prediction-using-machine-learning/
+
 Medical Insurance Price Prediction
-
 https://www.geeksforgeeks.org/medical-insurance-price-prediction-using-machine-learning-python/
-MEETING REGULARLY:11PM to 12 AM
+
 Vehicle Count Prediction From Sensor Data
-
 https://www.geeksforgeeks.org/vehicle-count-prediction-from-sensor-data/
+
 Ola Bike Ride Request Forecast
-
 https://www.geeksforgeeks.org/ola-bike-ride-request-forecast-using-ml/
+
 Rainfall Prediction
-
 https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/
+
 Recognizing HandWritten Digits in Scikit Learn
-
 https://www.geeksforgeeks.org/recognizing-handwritten-digits-in-scikit-learn/
+
 Handwritten Digit Recognition using Neural Network
-
 https://www.geeksforgeeks.org/handwritten-digit-recognition-using-neural-network/
+
+
+
 Twitter Sentiment Analysis
-
 https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
+
 Facebook Sentiment Analysis using python
-
 https://www.geeksforgeeks.org/facebook-sentiment-analysis-using-python/
+
 Human Scream Detection and Analysis for Controlling Crime Rate
-
 https://www.geeksforgeeks.org/human-scream-detection-and-analysis-for-controlling-crime-rate-project-idea/
+
 Spaceship Titanic Project using Machine Learning in Python
-
 https://www.geeksforgeeks.org/spaceship-titanic-project-using-machine-learning-python/
+
 Inventory Demand Forecasting using Machine Learning in Python
-
 https://www.geeksforgeeks.org/inventory-demand-forecasting-using-machine-learning-python/
+
 Waiter’s Tip Prediction using Machine Learning
-
-https://www.geeksforgeeks.org/waiters-tip-prediction-using-machine-learning/
-Fake News Detection using Machine Learning
-
-https://www.geeksforgeeks.org/fake-news-detection-using-machine-learning/
- 
-Image Caption Generator using Deep Learning on Flickr8K 
-
-https://www.geeksforgeeks.org/image-caption-generator-using-deep-learning-on-flickr8k-/
-Dog Breed Classification using Transfer Learning
-
-https://www.geeksforgeeks.org/dog-breed-classification-using-transfer-learning/
-Lung Cancer Detection using Convolutional Neural Network (CNN)
-
-https://www.geeksforgeeks.org/lung-cancer-detection-using-convolutional-neural-network-cnn/
-Lung Cancer Detection Using Transfer Learning
-
-https://www.geeksforgeeks.org/lung-cancer-detection-using-transfer-learning/
-Pneumonia Detection using Deep Learning
-
-https://www.geeksforgeeks.org/pneumonia-detection-using-deep-learning/
-Detecting Covid-19 with Chest X-ray
-
-https://www.geeksforgeeks.org/detecting-covid-19-with-chest-x-ray/
-Detecting COVID-19 From Chest X-Ray Images using CNN
-
-https://www.geeksforgeeks.org/detecting-covid-19-from-chest-x-ray-images-using-cnn/
-Ted Talks Recommendation System
-
-https://www.geeksforgeeks.org/ted-talks-recommendation-system-with-machine-learning/
-Implementation of Movie Recommender System
-
-https://www.geeksforgeeks.org/python-implementation-of-movie-recommender-system/
-Movie recommendation based on emotion
-
-https://www.geeksforgeeks.org/movie-recommendation-based-emotion-python/
-Music Recommendation System
-
-https://www.geeksforgeeks.org/music-recommendation-system-using-machine-learning/
-Speech Recognition in Python using Google Speech API
-
-https://www.geeksforgeeks.org/speech-recognition-in-python-using-google-speech-api/
-Voice Assistant
-
-https://www.geeksforgeeks.org/voice-assistant-using-python/
-Next Sentence Prediction using BERT
-
-https://www.geeksforgeeks.org/next-sentence-prediction-using-bert/
-Hate Speech Detection
-
-https://www.geeksforgeeks.org/hate-speech-detection-using-deep-learning/
-MEETING REGULARLY:11PM to 12 AM
-Fine-tuning the BERT model for Sentiment Analysis
-
-https://www.geeksforgeeks.org/fine-tuning-bert-model-for-sentiment-analysis/
-Sentiment Classification Using BERT
-
-https://www.geeksforgeeks.org/sentiment-classification-using-bert/
-Sentiment Analysis with Recurrent Neural Networks (RNN)
-
-https://www.geeksforgeeks.org/sentiment-analysis-with-an-recurrent-neural-networks-rnn/
-Autocorrect Feature
-
-https://www.geeksforgeeks.org/autocorrector-feature-using-nlp-in-python/
-Analysis of Restaurant reviews
-
-https://www.geeksforgeeks.org/python-nlp-analysis-of-restaurant-reviews/
-Restaurant Review Analysis Using NLP and SQLite
-
-https://www.geeksforgeeks.org/restaurant-review-analysis-using-nlp-and-sqlite/
-Heart Disease Prediction using ANN
-
 https://www.geeksforgeeks.org/heart-disease-prediction-using-ann/
+
 Intrusion Detection System Using Machine Learning Algorithms
 
-
 Detect and Recognize Car License Plate from a video in real-time
-
 https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/
+
 AI-Driven Snake Game using Deep Q Learning
-
 https://www.geeksforgeeks.org/ai-driven-snake-game-using-deep-q-learning/
+
 Human Activity Recognition – Using Deep Learning Model
-
 https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/?ref=rp
+
 Maths with Gestures using AI
-
 https://www.computervision.zone/courses/maths-with-gestures-using-ai/
+
 Live: Automated Comments Sorter
-
 https://www.computervision.zone/courses/live-automated-comments-sorter/
+
 Automated Dino Game
-
 https://www.computervision.zone/courses/automated-dino-game/
+
+
+
 Learn Computer Vision with CVZone
-
 https://www.computervision.zone/courses/learn-computer-vision-with-cvzone/
+
 Anti Spoofing/Liveliness Detector
-
 https://www.computervision.zone/courses/anti-spoofing-liveliness-detector/
+
 Computer Vision Web Development ‚Äì Introduction
-
 https://www.computervision.zone/courses/computer-vision-web-development-introduction/
+
 Money Counter
-
 https://www.computervision.zone/courses/money-coin-counter/
+
 Shirt Try On
-
 https://www.computervision.zone/courses/shirt-try-on/
+
 Face Recognition with Real-Time Database
-
 https://www.computervision.zone/courses/face-recognition-with-real-time-database/
+
 Coffee Machine Virtual Interface
-
 https://www.computervision.zone/courses/coffee-machine-virtual-interface/
+
 Waste Classifier
-
 https://www.computervision.zone/courses/waste-classifier/
+
 Educational Kids Game
-
 https://www.computervision.zone/courses/educational-kids-game/
+
 Hand Sign Detection (ASL)
-
 https://www.computervision.zone/courses/hand-sign-detection-asl/
+
 Rock Paper Scissor
-
 https://www.computervision.zone/courses/rock-paper-scissor/
+
 AI Typing Tutor
-
 https://www.computervision.zone/courses/ai-typing-tutor/
+
 3d Head Tracking with Car Movement
-
 https://www.computervision.zone/courses/3d-head-tracking-with-car-movement/
-MEETING REGULARLY:11PM to 12 AM
+
 Pong Game using Hand Gestures
-
 https://www.computervision.zone/courses/pong-game-using-hand-gestures/
+
 3d Hand Tracking
-
 https://www.computervision.zone/courses/3d-hand-tracking/
+
 Hand Gesture Presentation
-
 https://www.computervision.zone/courses/hand-gesture-presentation/
+
 3D Ball Tracking
-
 https://www.computervision.zone/courses/3d-ball-tracking/
+
 Snake Game
-
 https://www.computervision.zone/courses/snake-game/
+
 3D Motion Capture
-
 https://www.computervision.zone/courses/3d-motion-capture/
+
 Computer Vision Game Development Chapter 1
-
 https://www.computervision.zone/courses/computer-vision-game-development-chapter-1/
+
 Face Distance Measurement
-
 https://www.computervision.zone/courses/face-distance-measurement/
+
 Eye Blink Counter
-
 https://www.computervision.zone/courses/eye-blink-counter/
+
 Parking Space Counter
-
 https://www.computervision.zone/courses/parking-space-counter/
+
 Basket Ball Shot Predictor
-
 https://www.computervision.zone/courses/basket-ball-shot-predictor/
+
 Hand Distance Measurement
-
 https://www.computervision.zone/courses/hand-distance-measurement/
+
 Virtual Calculator
-
 https://www.computervision.zone/courses/virtual-calculator/
+
 Velcro Dart Board
-
 https://www.computervision.zone/courses/velcro-dart-board/
+
 Computer Vision Arduino (Chapter 1)
-
 https://www.computervision.zone/courses/computer-vision-arduino-chapter-1/
+
 Virtual Quiz Game
-
 https://www.computervision.zone/courses/virtual-quiz-game/
+
 Virtual Image Drag and Drop
-
 https://www.computervision.zone/courses/virtual-image-drag-and-drop/
+
 Virtual Zoom Gesture
-
 https://www.computervision.zone/courses/virtual-zoom-gesture/
+
 Multiple Hand Gesture Control
-
 https://www.computervision.zone/courses/multiple-hand-gesture-control/
+
 Virtual Drag and Drop
-
 https://www.computervision.zone/courses/virtual-drag-and-drop/
+
 AI Virtual Keyboard
-
 https://www.computervision.zone/courses/ai-virtual-keyboard/
-PNG Overlay
 
+PNG Overlay
 https://www.computervision.zone/courses/png-overlay/
  
 AI Virtual Mouse
-
 https://www.computervision.zone/courses/ai-virtual-mouse/
+
 Pose Estimation
-
 https://www.computervision.zone/courses/pose-estimation/
+
 Personal AI Trainer
-
 https://www.computervision.zone/courses/personal-ai-trainer/
+
 Animatronic Eye Tracking
-
 https://www.computervision.zone/courses/animatronic-eye-tracking/
+
 Jetson Nano Robot Car
-
 https://www.computervision.zone/courses/jetson-nano-robot-car/
+
 Face Attendance Device
-
 https://www.computervision.zone/courses/face-attendance-device/
+
 468 Face Landmarks
-
 https://www.computervision.zone/courses/468-face-landmarks/
+
+
 Finger Counter
-
 https://www.computervision.zone/courses/finger-counter/
+
 Gesture Volume Control
-
 https://www.computervision.zone/courses/gesture-volume-control/
-MEETING REGULARLY:11PM to 12 AM
+
 Hand Tracking
-
 https://www.computervision.zone/courses/hand-tracking/
+
 Face Detection 60 FPS
-
 https://www.computervision.zone/courses/face-detection-60-fps/
+
 AI Virtual Painter
-
 https://www.computervision.zone/courses/ai-virtual-painter/
+
 Face Attendance
-
 https://www.computervision.zone/courses/face-attendance/
+
 Document Scanner
-
 https://www.computervision.zone/courses/document-scanner/
+
 Drone Face Tracking
-
 https://www.computervision.zone/courses/drone-face-tracking/
+
 Text Detection
-
 https://www.computervision.zone/courses/text-detection/
+
 Gesture Controlled Robot Arm
-
 https://www.computervision.zone/courses/gesture-controlled-robot-arm/
+
 Object Following Robot with Arduino
-
 https://www.computervision.zone/courses/object-following-robot-with-arduino/
+
 Angle Finder
-
 https://www.computervision.zone/courses/angle-finder/
+
 Object Size Measurement
-
 https://www.computervision.zone/courses/object-size-measurement/
+
 Qr Reader
-
 https://www.computervision.zone/courses/qr-reader/
-Facial Landmarks
 
+Facial Landmarks
 https://www.computervision.zone/courses/facial-landmarks/
  
 Augmented Reality
-
 https://www.computervision.zone/courses/augmented-reality/
+
 Self Driving Simulation using NVIDIA‚Äôs Model
-
 https://www.computervision.zone/courses/self-driving-simulation-using-nvidias-model/
-Traffic Sign Classification
 
+Traffic Sign Classification
 https://www.computervision.zone/courses/traffic-sign-classification/
  
-
 https://www.computervision.zone/courses/object-detection-mobile-net-ssd/
-
 https://www.computervision.zone/courses/self-driving-car-using-raspberry-pi/
+
 Stock Price Prediction
-
 https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
+
 Real-time Sentiment Analysis System
-
 https://thecleverprogrammer.com/2021/03/19/streamlit-tutorial-using-python/
+
 Contact Tracing with Machine Learning
-
 https://thecleverprogrammer.com/2020/08/20/contact-tracing-with-machine-learning/
+
 Deploy a Chatbot with Python into a Web Application
-
 https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/
-Summarize Text with Machine Learning
 
+Summarize Text with Machine Learning
 https://thecleverprogrammer.com/2020/08/24/summarize-text-with-machine-learning/
+
+
 Language Classification with Machine Learning.
 
 OTP Verification GUI with Python
-
 https://thecleverprogrammer.com/2020/08/24/otp-verification-gui-with-python/
-Create an Audiobook with Python
 
+Create an Audiobook with Python
 https://thecleverprogrammer.com/2020/10/22/create-an-audiobook-with-python/
+
 Titanic Survival Analysis
 
 Gender Classification Model
-
 https://thecleverprogrammer.com/2020/08/02/gender-classification-model/
+
 Daily Births Forecasting
-
 https://thecleverprogrammer.com/2020/08/27/daily-births-forecasting-with-machine-learning/
+
 Binary Search Algorithm
-
 https://thecleverprogrammer.com/2020/08/28/binary-search-algorithm-with-python/
+
 Galaxy Classification with Machine Learning
-
 https://thecleverprogrammer.com/2020/08/28/galaxy-classification-with-machine-learning/
+
 Time Series with LSTM Model
-
 https://thecleverprogrammer.com/2020/08/29/time-series-with-lstm-in-machine-learning/
+
 Predict Weather with Machine Learning
-
 https://thecleverprogrammer.com/2020/08/30/predict-weather-with-machine-learning/
-MEETING REGULARLY:11PM to 12 AM
+
 Create a Package with Python
-
 https://thecleverprogrammer.com/2020/08/30/how-to-create-a-package-with-python/
+
 Diamonds Analysis with Python
-
 https://thecleverprogrammer.com/2020/08/31/diamonds-analysis-with-python/
+
 Predict Fuel Efficiency
-
 https://thecleverprogrammer.com/2020/09/02/predict-fuel-efficiency-with-machine-learning/
+
 ABC Analysis with Python
-
 https://thecleverprogrammer.com/2020/09/03/abc-analysis-with-machine-learning/
+
 RFM Analysis with Python
-
 https://thecleverprogrammer.com/2020/09/07/rfm-analysis-with-python/
+
 Build Neural Network with Python Code
-
 https://thecleverprogrammer.com/2020/09/07/neural-network-with-python-code/
+
 Genetic Algorithm with Python
-
 https://thecleverprogrammer.com/2020/09/08/genetic-algorithm-with-python/
+
 Predict Migration with Machine Learning
-
 https://thecleverprogrammer.com/2020/09/08/predict-migration-with-machine-learning/
+
 Analyze Healthcare Data
-
 https://thecleverprogrammer.com/2020/09/09/analyze-healthcare-data-with-python/
+
 Data Science Project on Text and Annotations
-
 https://thecleverprogrammer.com/2020/05/09/data-science-project-on-text-and-annotations/
+
 Data Science Project on — Handwritten Digits
-
 https://thecleverprogrammer.com/2020/05/09/data-science-project-on-handwritten-digits/
+
 Data Science Project on- Support Vector Machines
-
 https://thecleverprogrammer.com/2020/07/06/support-vector-machines-svm-in-machine-learning/
+
 Data Science Project — Stock Price Prediction with Machine Learning
-
 https://thecleverprogrammer.com/2020/05/11/data-science-project-stock-price-prediction-with-machine-learning/
+
 Data Science Project on — Classification of Text
-
 https://thecleverprogrammer.com/2020/05/14/data-science-project-on-classification-of-text/
+
 Data Science Project on-Extracting HOG Features
-
 https://thecleverprogrammer.com/2020/05/15/data-science-project-on-extracting-hog-features/
-Data Science Project on — Amazon Products Reviews Sentiment Analysis with Machine Learning
 
+Data Science Project on — Amazon Products Reviews Sentiment Analysis with Machine Learning
 https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/
+
 Data Science Project — Email spam Detection with Machine Learning
 
 https://thecleverprogrammer.com/2020/05/17/data-science-project-email-spam-detection-with-machine-learning/
@@ -16684,7 +16504,7 @@ https://thecleverprogrammer.com/2020/05/25/algorithmic-trading-strategy-with-mac
 Movie Reviews Sentiment Analysis -Binary Classification with Machine Learning
 
 https://thecleverprogrammer.com/2020/05/25/movie-reviews-sentiment-analysis-binary-classification-with-machine-learning/
-MEETING REGULARLY:11PM to 12 AM
+
 Data Science Project — Supermarket Sales Analysis
 
 https://thecleverprogrammer.com/2020/05/26/data-science-project-supermarket-sales-analysis/
@@ -16779,7 +16599,7 @@ https://machinelearningprojects.net/face-and-eye-detection-in-cv2/
 HealthCure — medical project — 7 disease detections
 
 https://machinelearningprojects.net/healthcure-medical-project/
-MEETING REGULARLY:11PM to 12 AM
+
 HealthCure — an all in one medical solution — medical project — 7 disease detections — 2023
 
 https://machinelearningprojects.net/healthcure-medical-project/
@@ -16849,7 +16669,7 @@ Identifying weight category of person using Random Forest
 
 https://techieyantechnologies.com/identifying-weight-category-of-person-using-random-forest/
  
-MEETING REGULARLY:11PM to 12 AM
+
 Helping patients know whether they are diabetic or not using Machine Learning
 
 https://techieyantechnologies.com/helping-patients-know-whether-they-are-diabetic-or-not-using-machine-learning/
@@ -16984,7 +16804,7 @@ https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/
 Fake Currency Detection with Machine Learning.
 
 https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-learning/
-MEETING REGULARLY:11PM to 12 AM
+
 Predict Tinder Matches with Machine Learning.
 
 https://thecleverprogrammer.com/2020/09/28/predict-tinder-matches-with-machine-learning/
@@ -17107,7 +16927,7 @@ End-to-End Machine Learning Model
 End-to-end Machine Learning Project
 
 https://thecleverprogrammer.com/2021/03/21/end-to-end-machine-learning-project/
-MEETING REGULARLY:11PM to 12 AM
+
 Customer Personality Analysis
 
 https://thecleverprogrammer.com/2021/02/08/customer-personality-analysis-with-python/
@@ -17191,7 +17011,7 @@ https://www.kaggle.com//kazanova/sentiment140
 https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/
 
 https://medium.com/@nileshshindeofficial/building-a-machine-learning-model-api-with-flask-a-step-by-step-guide-6f85e9bb9773
-MEETING REGULARLY:11PM to 12 AM
+
 
 https://www.statworx.com/en/content-hub/blog/how-to-build-a-machine-learning-api-with-python-and-flask/
 
@@ -17217,43 +17037,10 @@ python app.py, works goodstreamlit run app.pywebmaster.noor@gmail.comAPI KEY: AI
 AI-Project-Gallery/Chatbot using Langchain
 
 https://github.com/topics/nlp-projects
-streamlit run app.py, Not WorkingAPI KEY: sk-proj-oMLi8fqkzQDoFoEh43qAT3BlbkFJwCDpnGWk7FS0ndolKZXgwebmaster.noor@gmail.com
-Diabetes Disease Prediction
-
-https://github.com/topics/nlp-projects
-DocGenius-Revolutionizing-PDFs-with-AI
-
-https://github.com/topics/nlp-projects
-works fine but API KEY Issue
-Heart-Disease-Prediction
-
-https://github.com/topics/nlp-projects
-works goodhttp://127.0.0.1:5000/
-End-to-End-Image-Scraping
-works good, http://127.0.0.1:5000/
-Reseach Website
-
-https://github.com/topics/nlp-projects
- 
-
-Real-time Gender Detection System	
-
-
-Dogecoin Price Prediction	
-
-
-Google Play Store Sentiment Analysis	
-
-
-Amazon Alexa Reviews Sentiment Analysis	
-
-
-Social Media Ads Classification	
-
-
-Fake News Detection			
-
-Sarcasm Detection			
+streamlit run app.py, Not Working
+API KEY: sk-proj-oMLi8fqkzQDoFoEh43qAT3BlbkFJwCDpnGWk7FS0ndolKZXg
+webmaster.noor@gmail.com
+	
 
 Social Media Followers Prediction			
 
@@ -17264,53 +17051,6 @@ Hate Speech Detection
 End-to-end Hate Speech Detection System		
 
 Gender Detection			
-
-Sales Prediction	
-https://thecleverprogrammer.com/2021/05/19/sales-prediction-with-machine-learning/		
-
-Currency Exchange Rate Prediction	
-https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/	
-
-Diamond Price Prediction Model	
-https://thecleverprogrammer.com/2021/01/20/diamond-price-prediction-with-machine-learning/		
-
-Book Recommendation System	
-https://thecleverprogrammer.com/2021/01/17/book-recommendation-system/		
-
-Covid-19 Vaccine Sentiment Analysis	
-https://thecleverprogrammer.com/2021/01/11/covid-19-vaccine-sentiment-analysis/		
-
-MEETING REGULARLY:11PM to 12 AM			
-Human Activity Recognition Model	
-
-https://thecleverprogrammer.com/2021/01/10/human-activity-recognition-with-machine-learning/		
-
-Cohort Analysis	
-https://thecleverprogrammer.com/2021/01/08/cohort-analysis-with-python/
-
-End to end Machine Learning Projects	
-https://thecleverprogrammer.com/2021/01/07/deploy-machine-learning-model-with-python/	
-
-Life Expectancy Analysis	
-https://thecleverprogrammer.com/2021/01/06/life-expectancy-analysis-with-python/		
-
-Bitcoin Price Prediction	
-https://thecleverprogrammer.com/2021/01/05/bitcoin-price-prediction-with-python/	
-
-Human Resource Analysis	
-https://thecleverprogrammer.com/2021/01/04/human-resource-analysis-with-python/		
-
-Energy Consumption Prediction	
-https://thecleverprogrammer.com/2021/01/23/energy-consumption-prediction-with-machine-learning/	
-
-LightGBM Model	
-https://thecleverprogrammer.com/2021/01/15/lightgbm-in-machine-learning/		
-
-Gold Price Prediction	
-https://thecleverprogrammer.com/2020/12/23/gold-price-prediction-with-python/		
-
-Highest-Paid Athletes Analysis	
-https://thecleverprogrammer.com/2020/12/21/highest-paid-athletes-analysis-with-python/		
 
 Text Generation	
 https://thecleverprogrammer.com/2020/12/20/text-generation-with-python/		
@@ -17328,7 +17068,7 @@ Autocorrect Keyboard with Python and Machine Learning.
 https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/		
 
 Flower Detect	
-https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/#google_vignette		
+https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/		
 
 Deepfake Detection with Machine Learning.	
 https://thecleverprogrammer.com/2020/10/03/deepfake-detection-with-python/		
@@ -17357,52 +17097,6 @@ https://thecleverprogrammer.com/2020/11/30/amazon-bestselling-books-analysis-wit
 Covid-19 Cases Prediction for Next 30 Days	
 https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/	
 
-YouTube Trending Videos Analysis	
-https://thecleverprogrammer.com/2020/11/28/youtube-trending-videos-analysis-with-python/	
-
-
-Gender Classification	
-https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/		
-
-Flower Recognition	
-https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/		
-
-Flower Recognition Using Convolutional Neural Network	
-https://www.geeksforgeeks.org/flower-recognition-using-convolutional-neural-network/
-
-Pneumonia Detection	
-https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/		
-
-Employee Attrition Prediction	
-https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/		
-
-Face mask Detection	
-https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/		
-
-Market Basket Analysis using Apriori Algorithm	
-https://thecleverprogrammer.com/2020/11/16/apriori-algorithm-using-python/		
-
-Breast Cancer Detection	
-https://thecleverprogrammer.com/2020/11/14/breast-cancer-detection-with-machine-learning/		
-
-MEETING REGULARLY:11PM to 12 AM			
-Earthquake Prediction Model	
-https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/	
-
-Outlier Detection	
-https://thecleverprogrammer.com/2020/11/12/outlier-detection-with-python/		
-
-Heart Disease Prediction	
-https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/		
-
-Plastic Users Analysis	
-https://thecleverprogrammer.com/2020/11/09/plastic-users-analysis-with-python/		
-
-
-https://github.com/PhilippeCodes/Open-Food-Facts-Data-Analysis/blob/master/Open%20Food%20Facts.ipynb		
-
-Landmark Detection	
-https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/		
 
 Visualize a Solar System with Python.	
 https://thecleverprogrammer.com/2020/10/07/visualize-a-solar-system-with-python/	
@@ -17456,80 +17150,7 @@ https://www.geeksforgeeks.org/
 predicting-stock-price-direction-using-support-vector-machines/?ref=rp		
 
 Share Price Forecasting Using Facebook Prophet	
-https://www.geeksforgeeks.org/share-price-forecasting-using-facebook-prophet/		
 
-Wine Quality Prediction	
-https://www.geeksforgeeks.org/wine-quality-prediction-machine-learning/		
-
-Sales Forecast Prediction	
-https://www.geeksforgeeks.org/sales-forecast-prediction-python/		
-
-Customer Segmentation using Unsupervised	
-https://www.geeksforgeeks.org/customer-segmentation-using-unsupervised-machine-learning-in-python/	
-
-Analyzing selling price of used cars	
-https://www.geeksforgeeks.org/analyzing-selling-price-of-used-cars-using-python/		
-
-Box Office Revenue Prediction Using Linear Regression	
-https://www.geeksforgeeks.org/
-
-box-office-revenue-prediction-using-linear-regression-in-ml/		
-
-Loan Approval Prediction	
-https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/		
-
-Loan Eligibility prediction using Machine Learning Models	
-https://www.geeksforgeeks.org/
-
-loan-eligibility-prediction-using-machine-learning-models-in-python/		
-
-Boston Housing Kaggle Challenge with Linear Regression	
-https://www.geeksforgeeks.org/
-
-ml-boston-housing-kaggle-challenge-with-linear-regression/		
-
-IPL Score Prediction	
-https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/?ref=rp		
-
-Calories Burnt Prediction	
-https://www.geeksforgeeks.org/calories-burnt-prediction-using-machine-learning/		
-
-Medical Insurance Price Prediction	
-https://www.geeksforgeeks.org/medical-insurance-price-prediction-using-machine-learning-python/		
-
-MEETING REGULARLY:11PM to 12 AM			
-Vehicle Count Prediction From Sensor Data	
-https://www.geeksforgeeks.org/vehicle-count-prediction-from-sensor-data/		
-
-Ola Bike Ride Request Forecast	
-https://www.geeksforgeeks.org/ola-bike-ride-request-forecast-using-ml/		
-
-Rainfall Prediction	
-https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/		
-
-Recognizing HandWritten Digits in Scikit Learn	
-https://www.geeksforgeeks.org/recognizing-handwritten-digits-in-scikit-learn/		
-
-Handwritten Digit Recognition using Neural Network	
-https://www.geeksforgeeks.org/handwritten-digit-recognition-using-neural-network/
-
-Twitter Sentiment Analysis	
-https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/		
-
-Facebook Sentiment Analysis using python	
-https://www.geeksforgeeks.org/facebook-sentiment-analysis-using-python/		
-
-Human Scream Detection and Analysis for Controlling Crime Rate	
-https://www.geeksforgeeks.org/
-
-human-scream-detection-and-analysis-for-controlling-crime-rate-project-idea/		
-
-Spaceship Titanic Project using Machine Learning in Python	
-https://www.geeksforgeeks.org/
-
-spaceship-titanic-project-using-machine-learning-python/		
-Inventory Demand Forecasting using Machine Learning in Python	
-https://www.geeksforgeeks.org/inventory-demand-forecasting-using-machine-learning-python/		
 Waiter’s Tip Prediction using Machine Learning	
 https://www.geeksforgeeks.org/waiters-tip-prediction-using-machine-learning/		
 Fake News Detection using Machine Learning	
@@ -17583,7 +17204,7 @@ https://www.geeksforgeeks.org/next-sentence-prediction-using-bert/
 
 Hate Speech Detection	
 https://www.geeksforgeeks.org/hate-speech-detection-using-deep-learning/		
-MEETING REGULARLY:11PM to 12 AM			
+			
 Fine-tuning the BERT model for Sentiment Analysis	
 https://www.geeksforgeeks.org/fine-tuning-bert-model-for-sentiment-analysis/	
 
@@ -17601,602 +17222,6 @@ https://www.geeksforgeeks.org/python-nlp-analysis-of-restaurant-reviews/
 
 Restaurant Review Analysis Using NLP and SQLite	
 https://www.geeksforgeeks.org/restaurant-review-analysis-using-nlp-and-sqlite/	
-
-Heart Disease Prediction using ANN	
-https://www.geeksforgeeks.org/heart-disease-prediction-using-ann/		
-
-Intrusion Detection System Using Machine Learning Algorithms	
-https://www.geeksforgeeks.org/
-
-intrusion-detection-system-using-machine-learning-algorithms/		
-
-Detect and Recognize Car License Plate from a video in real-time	
-https://www.geeksforgeeks.org/
-
-detect-and-recognize-car-license-plate-from-a-video-in-real-time/		
-
-AI-Driven Snake Game using Deep Q Learning	
-https://www.geeksforgeeks.org/ai-driven-snake-game-using-deep-q-learning/		
-
-Human Activity Recognition – Using Deep Learning Model	
-	
-Maths with Gestures using AI	[
-https://www.computervision.zone/courses/maths-with-gestures-using-ai/ ](
-https://www.computervision.zone/courses/maths-with-gestures-using-ai/)       		
-Live: Automated Comments Sorter	[
-https://www.computervision.zone/courses/live-automated-comments-sorter/ ](
-https://www.computervision.zone/courses/live-automated-comments-sorter/)       		
-Automated Dino Game	[
-https://www.computervision.zone/courses/automated-dino-game/ ](
-https://www.computervision.zone/courses/automated-dino-game/)       		
-Learn Computer Vision with CVZone	[
-https://www.computervision.zone/courses/learn-computer-vision-with-cvzone/ ](
-https://www.computervision.zone/courses/learn-computer-vision-with-cvzone/)       		
-Anti Spoofing/Liveliness Detector	[
-https://www.computervision.zone/courses/anti-spoofing-liveliness-detector/ ](
-https://www.computervision.zone/courses/anti-spoofing-liveliness-detector/)       		
-Computer Vision Web Development ‚Äì Introduction	[
-https://www.computervision.zone/courses/computer-vision-web-development-introduction/ ](
-https://www.computervision.zone/courses/computer-vision-web-development-introduction/)       		
-Money Counter	[
-https://www.computervision.zone/courses/money-coin-counter/ ](
-https://www.computervision.zone/courses/money-coin-counter/)       		
-Shirt Try On	[
-https://www.computervision.zone/courses/shirt-try-on/ ](
-https://www.computervision.zone/courses/shirt-try-on/)       		
-Face Recognition with Real-Time Database	[
-https://www.computervision.zone/courses/face-recognition-with-real-time-database/ ](
-https://www.computervision.zone/courses/face-recognition-with-real-time-database/)       		
-Coffee Machine Virtual Interface	[
-https://www.computervision.zone/courses/coffee-machine-virtual-interface/ ](
-https://www.computervision.zone/courses/coffee-machine-virtual-interface/)       		
-Waste Classifier	[
-https://www.computervision.zone/courses/waste-classifier/ ](
-https://www.computervision.zone/courses/waste-classifier/)       		
-Educational Kids Game	[
-https://www.computervision.zone/courses/educational-kids-game/ ](
-https://www.computervision.zone/courses/educational-kids-game/)       		
-Hand Sign Detection (ASL)	[
-https://www.computervision.zone/courses/hand-sign-detection-asl/ ](
-https://www.computervision.zone/courses/hand-sign-detection-asl/)       		
-Rock Paper Scissor	[
-https://www.computervision.zone/courses/rock-paper-scissor/ ](
-https://www.computervision.zone/courses/rock-paper-scissor/)       		
-AI Typing Tutor	[
-https://www.computervision.zone/courses/ai-typing-tutor/ ](
-https://www.computervision.zone/courses/ai-typing-tutor/)		
-3d Head Tracking with Car Movement	[
-https://www.computervision.zone/courses/3d-head-tracking-with-car-movement/ ](
-https://www.computervision.zone/courses/3d-head-tracking-with-car-movement/) 		
-MEETING REGULARLY:11PM to 12 AM			
-Pong Game using Hand Gestures	[
-https://www.computervision.zone/courses/pong-game-using-hand-gestures/ ](
-https://www.computervision.zone/courses/pong-game-using-hand-gestures/) 		
-3d Hand Tracking	
-https://www.computervision.zone/courses/3d-hand-tracking/		
-Hand Gesture Presentation	
-https://www.computervision.zone/courses/hand-gesture-presentation/		
-3D Ball Tracking	
-https://www.computervision.zone/courses/3d-ball-tracking/		
-Snake Game	
-https://www.computervision.zone/courses/snake-game/		
-3D Motion Capture	[
-https://www.computervision.zone/courses/3d-motion-capture/ ](
-https://www.computervision.zone/courses/3d-motion-capture/) 		
-Computer Vision Game Development Chapter 1	[
-https://www.computervision.zone/courses/computer-vision-game-development-chapter-1/ ](
-https://www.computervision.zone/courses/computer-vision-game-development-chapter-1/)       		
-Face Distance Measurement	[
-https://www.computervision.zone/courses/face-distance-measurement/ ](
-https://www.computervision.zone/courses/face-distance-measurement/)       		
-Eye Blink Counter	[
-https://www.computervision.zone/courses/eye-blink-counter/ ](
-https://www.computervision.zone/courses/eye-blink-counter/)       		
-Parking Space Counter	[
-https://www.computervision.zone/courses/parking-space-counter/ ](
-https://www.computervision.zone/courses/parking-space-counter/)       		
-Basket Ball Shot Predictor	[
-https://www.computervision.zone/courses/basket-ball-shot-predictor/ ](
-https://www.computervision.zone/courses/basket-ball-shot-predictor/)       		
-Hand Distance Measurement	[
-https://www.computervision.zone/courses/hand-distance-measurement/ ](
-https://www.computervision.zone/courses/hand-distance-measurement/)       		
-Virtual Calculator	[
-https://www.computervision.zone/courses/virtual-calculator/ ](
-https://www.computervision.zone/courses/virtual-calculator/)       		
-Velcro Dart Board	[
-https://www.computervision.zone/courses/velcro-dart-board/ ](
-https://www.computervision.zone/courses/velcro-dart-board/)       		
-Computer Vision Arduino (Chapter 1)	[
-https://www.computervision.zone/courses/computer-vision-arduino-chapter-1/ ](
-https://www.computervision.zone/courses/computer-vision-arduino-chapter-1/)       		
-Virtual Quiz Game	[
-https://www.computervision.zone/courses/virtual-quiz-game/ ](
-https://www.computervision.zone/courses/virtual-quiz-game/)       		
-Virtual Image Drag and Drop	[
-https://www.computervision.zone/courses/virtual-image-drag-and-drop/ ](
-https://www.computervision.zone/courses/virtual-image-drag-and-drop/)       		
-Virtual Zoom Gesture	[
-https://www.computervision.zone/courses/virtual-zoom-gesture/ ](
-https://www.computervision.zone/courses/virtual-zoom-gesture/)       		
-Multiple Hand Gesture Control	[
-https://www.computervision.zone/courses/multiple-hand-gesture-control/ ](
-https://www.computervision.zone/courses/multiple-hand-gesture-control/)       		
-Virtual Drag and Drop	[
-https://www.computervision.zone/courses/virtual-drag-and-drop/ ](
-https://www.computervision.zone/courses/virtual-drag-and-drop/)       		
-AI Virtual Keyboard	[
-https://www.computervision.zone/courses/ai-virtual-keyboard/ ](
-https://www.computervision.zone/courses/ai-virtual-keyboard/)       		
-PNG Overlay	[
-https://www.computervision.zone/courses/png-overlay/ ](
-https://www.computervision.zone/courses/png-overlay/)       		
-
-AI Virtual Mouse	[
-https://www.computervision.zone/courses/ai-virtual-mouse/ ](
-https://www.computervision.zone/courses/ai-virtual-mouse/)       		
-Pose Estimation	[
-https://www.computervision.zone/courses/pose-estimation/ ](
-https://www.computervision.zone/courses/pose-estimation/)       		
-Personal AI Trainer	[
-https://www.computervision.zone/courses/personal-ai-trainer/ ](
-https://www.computervision.zone/courses/personal-ai-trainer/)       		
-Animatronic Eye Tracking	[
-https://www.computervision.zone/courses/animatronic-eye-tracking/ ](
-https://www.computervision.zone/courses/animatronic-eye-tracking/)       		
-Jetson Nano Robot Car	[
-https://www.computervision.zone/courses/jetson-nano-robot-car/ ](
-https://www.computervision.zone/courses/jetson-nano-robot-car/)  		
-Face Attendance Device	[
-https://www.computervision.zone/courses/face-attendance-device/ ](
-https://www.computervision.zone/courses/face-attendance-device/)       		
-468 Face Landmarks	
-https://www.computervision.zone/courses/468-face-landmarks/		
-Finger Counter	[
-https://www.computervision.zone/courses/finger-counter/ ](
-https://www.computervision.zone/courses/finger-counter/)       		
-Gesture Volume Control	[
-https://www.computervision.zone/courses/gesture-volume-control/ ](
-https://www.computervision.zone/courses/gesture-volume-control/)       		
-MEETING REGULARLY:11PM to 12 AM			
-Hand Tracking	[
-https://www.computervision.zone/courses/hand-tracking/ ](
-https://www.computervision.zone/courses/hand-tracking/)       		
-Face Detection 60 FPS	[
-https://www.computervision.zone/courses/face-detection-60-fps/ ](
-https://www.computervision.zone/courses/face-detection-60-fps/)       		
-AI Virtual Painter	[
-https://www.computervision.zone/courses/ai-virtual-painter/ ](
-https://www.computervision.zone/courses/ai-virtual-painter/)       		
-Face Attendance	[
-https://www.computervision.zone/courses/face-attendance/ ](
-https://www.computervision.zone/courses/face-attendance/)       		
-Document Scanner	[
-https://www.computervision.zone/courses/document-scanner/ ](
-https://www.computervision.zone/courses/document-scanner/)       		
-Drone Face Tracking	[
-https://www.computervision.zone/courses/drone-face-tracking/ ](
-https://www.computervision.zone/courses/drone-face-tracking/)       		
-Text Detection	[
-https://www.computervision.zone/courses/text-detection/ ](
-https://www.computervision.zone/courses/text-detection/)       		
-Gesture Controlled Robot Arm	[
-https://www.computervision.zone/courses/gesture-controlled-robot-arm/ ](
-https://www.computervision.zone/courses/gesture-controlled-robot-arm/)       		
-Object Following Robot with Arduino	[
-https://www.computervision.zone/courses/object-following-robot-with-arduino/ ](
-https://www.computervision.zone/courses/object-following-robot-with-arduino/)       		
-Angle Finder	[
-https://www.computervision.zone/courses/angle-finder/ ](
-https://www.computervision.zone/courses/angle-finder/)       		
-Object Size Measurement	[
-https://www.computervision.zone/courses/object-size-measurement/ ](
-https://www.computervision.zone/courses/object-size-measurement/)       		
-Qr Reader	[
-https://www.computervision.zone/courses/qr-reader/ ](
-https://www.computervision.zone/courses/qr-reader/)       		
-Facial Landmarks	[
-https://www.computervision.zone/courses/facial-landmarks/ ](
-https://www.computervision.zone/courses/facial-landmarks/)       		
-
-Augmented Reality	[
-https://www.computervision.zone/courses/augmented-reality/ ](
-https://www.computervision.zone/courses/augmented-reality/)       		
-Self Driving Simulation using NVIDIA‚Äôs Model	[
-https://www.computervision.zone/courses/self-driving-simulation-using-nvidias-model/ ](
-https://www.computervision.zone/courses/self-driving-simulation-using-nvidias-model/)       		
-Traffic Sign Classification	[
-https://www.computervision.zone/courses/traffic-sign-classification/ ](
-https://www.computervision.zone/courses/traffic-sign-classification/)       		
-
-
-https://www.computervision.zone/courses/object-detection-mobile-net-ssd/					[
-https://www.computervision.zone/courses/self-driving-car-using-raspberry-pi/ ](
-https://www.computervision.zone/courses/self-driving-car-using-raspberry-pi/)       		
-Stock Price Prediction	
-https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/		
-Real-time Sentiment Analysis System	
-https://thecleverprogrammer.com/2021/03/19/streamlit-tutorial-using-python/		
-Contact Tracing with Machine Learning	
-https://thecleverprogrammer.com/2020/08/20/contact-tracing-with-machine-learning/		
-Deploy a Chatbot with Python into a Web Application	
-https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/		
-Summarize Text with Machine Learning	
-https://thecleverprogrammer.com/2020/08/24/summarize-text-with-machine-learning/		
-Language Classification with Machine Learning.			
-OTP Verification GUI with Python	
-https://thecleverprogrammer.com/2020/08/24/otp-verification-gui-with-python/		
-Create an Audiobook with Python	
-https://thecleverprogrammer.com/2020/10/22/create-an-audiobook-with-python/		
-Titanic Survival Analysis			
-Gender Classification Model	
-https://thecleverprogrammer.com/2020/08/02/gender-classification-model/		
-Daily Births Forecasting	
-https://thecleverprogrammer.com/2020/08/27/daily-births-forecasting-with-machine-learning/		
-Binary Search Algorithm	
-https://thecleverprogrammer.com/2020/08/28/binary-search-algorithm-with-python/		
-Galaxy Classification with Machine Learning	
-https://thecleverprogrammer.com/2020/08/28/galaxy-classification-with-machine-learning/		
-Time Series with LSTM Model	
-https://thecleverprogrammer.com/2020/08/29/time-series-with-lstm-in-machine-learning/		
-Predict Weather with Machine Learning	
-https://thecleverprogrammer.com/2020/08/30/predict-weather-with-machine-learning/		
-MEETING REGULARLY:11PM to 12 AM			
-Create a Package with Python	
-https://thecleverprogrammer.com/2020/08/30/how-to-create-a-package-with-python/		
-Diamonds Analysis with Python	
-https://thecleverprogrammer.com/2020/08/31/diamonds-analysis-with-python/		
-Predict Fuel Efficiency	
-https://thecleverprogrammer.com/2020/09/02/predict-fuel-efficiency-with-machine-learning/		
-ABC Analysis with Python	
-https://thecleverprogrammer.com/2020/09/03/abc-analysis-with-machine-learning/		
-RFM Analysis with Python	
-https://thecleverprogrammer.com/2020/09/07/rfm-analysis-with-python/		
-Build Neural Network with Python Code	
-https://thecleverprogrammer.com/2020/09/07/neural-network-with-python-code/		
-Genetic Algorithm with Python	
-https://thecleverprogrammer.com/2020/09/08/genetic-algorithm-with-python/		
-Predict Migration with Machine Learning	
-https://thecleverprogrammer.com/2020/09/08/predict-migration-with-machine-learning/		
-Analyze Healthcare Data	
-https://thecleverprogrammer.com/2020/09/09/analyze-healthcare-data-with-python/		
-Data Science Project on Text and Annotations	
-https://thecleverprogrammer.com/2020/05/09/data-science-project-on-text-and-annotations/		
-Data Science Project on — Handwritten Digits	
-https://thecleverprogrammer.com/2020/05/09/data-science-project-on-handwritten-digits/		
-Data Science Project on- Support Vector Machines	
-https://thecleverprogrammer.com/2020/07/06/support-vector-machines-svm-in-machine-learning/		
-Data Science Project — Stock Price Prediction with Machine Learning	
-https://thecleverprogrammer.com/2020/05/11/data-science-project-stock-price-prediction-with-machine-learning/		
-Data Science Project on — Classification of Text	
-https://thecleverprogrammer.com/2020/05/14/data-science-project-on-classification-of-text/		
-Data Science Project on-Extracting HOG Features	
-https://thecleverprogrammer.com/2020/05/15/data-science-project-on-extracting-hog-features/		
-Data Science Project on — Amazon Products Reviews Sentiment Analysis with Machine Learning	
-https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/		
-Data Science Project — Email spam Detection with Machine Learning	
-https://thecleverprogrammer.com/2020/05/17/data-science-project-email-spam-detection-with-machine-learning/		
-Data Science Project — Heart Disease Prediction with Machine Learning	
-https://thecleverprogrammer.com/2020/05/20/data-science-project-heart-disease-prediction-with-machine-learning/		
-Data Science Project — Movie Recommendation System	
-https://thecleverprogrammer.com/2020/05/20/data-science-project-movie-recommendation-system/		
-Data Science Project — Student Performance Analysis with Machine Learning	
-https://thecleverprogrammer.com/2020/05/21/data-science-project-student-performance-analysis-with-machine-learning/		
-Data Science Project on FIFA Analysis with python	
-https://thecleverprogrammer.com/2020/05/22/data-science-project-on-fifa-analysis-with-python/		
-Data science project — Fake News Classification	
-https://thecleverprogrammer.com/2020/05/22/data-science-project-fake-news-classification/		
-Data Science Project — DNA Sequencing with Machine Learning	
-https://thecleverprogrammer.com/2020/05/23/data-science-project-dna-sequencing-with-machine-learning/		
-Data Science Project — Book Recommendation System with Machine Learning	
-https://thecleverprogrammer.com/2020/05/23/data-science-project-book-recommendation-system-with-machine-learning/		
-Data Science Project — Bitcoin Price Prediction with Machine Learning	
-https://thecleverprogrammer.com/2020/05/23/data-science-project-bitcoin-price-prediction-with-machine-learning/		
-Machine Learning Project — Artificial Neural Networks	
-https://thecleverprogrammer.com/2020/05/24/machine-learning-project-artificial-neural-networks/		
-Algorithmic Trading Strategy with Machine Learning and Python	
-https://thecleverprogrammer.com/2020/05/25/algorithmic-trading-strategy-with-machine-learning-and-python/		
-Movie Reviews Sentiment Analysis -Binary Classification with Machine Learning	
-https://thecleverprogrammer.com/2020/05/25/movie-reviews-sentiment-analysis-binary-classification-with-machine-learning/		
-MEETING REGULARLY:11PM to 12 AM			
-Data Science Project — Supermarket Sales Analysis	
-https://thecleverprogrammer.com/2020/05/26/data-science-project-supermarket-sales-analysis/		
-Data Science Project — GDP Analysis	
-https://thecleverprogrammer.com/2020/05/26/data-science-project-gdp-analysis/		
-Data Science Project — Predict Customer Churn with Python and Machine Learning	
-https://thecleverprogrammer.com/2020/05/26/data-science-project-predict-customer-churn-with-python-and-machine-learning/		
-Data Science Project — San Francisco Crime Analysis	
-https://thecleverprogrammer.com/2020/05/26/data-science-project-san-francisco-crime-analysis/		
-Machine Learning Project — Human Activity Recognition using Smartphone Data	
-https://thecleverprogrammer.com/2020/05/27/machine-learning-project-human-activity-recognition-using-smartphone-data/		
-
-Weather Forecasting with Machine Learning	
-https://thecleverprogrammer.com/2020/06/11/weather-forecasting-with-machine-learning/		
-SMS Spam Detection with Machine Learning	
-https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/		
-Covid-19 Detection with Machine Learning and AI	
-https://thecleverprogrammer.com/2020/07/09/covid-19-detection/		
-Customer Segmentation with Machine Learning	
-https://thecleverprogrammer.com/2020/07/12/customer-segmentation/		
-Employee Turnover Prediction with Machine Learning	
-https://thecleverprogrammer.com/2020/07/12/employee-turnover-prediction/		
-Predict Diabetes with Machine Learning	
-https://thecleverprogrammer.com/2020/07/13/predict-diabetes-with-machine-learning/		
-Time Series Forecasting with ARIMA Model	
-https://thecleverprogrammer.com/2020/07/01/time-series-analysis-and-forecasting-with-python/		
-Natural Language Processing on WhatsApp Chats	
-https://thecleverprogrammer.com/2020/07/16/nlp-for-whatsapp-chats/		
-Fake News Detection Model	
-https://thecleverprogrammer.com/2020/07/18/fake-news-detection-model/		
-
-Binary Classification Model	
-https://thecleverprogrammer.com/2020/07/20/binary-classification-model/		
-Data Augmentation with Deep Learning	
-https://thecleverprogrammer.com/2020/07/20/data-augmentation-in-deep-learning/		
-Covid-19 Projects with Machine Learning	
-https://thecleverprogrammer.com/2020/11/21/covid-19-projects-with-python-and-machine-learning/		
-Deep Learning Projects with Machine Learning	
-https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/		
-Recommendation System Projects with Machine Learning	
-https://thecleverprogrammer.com/2020/11/23/recommendation-system-projects-with-python/		
-Sentiment Analysis Projects with Machine Learning	
-https://thecleverprogrammer.com/2020/11/25/sentiment-analysis-projects-with-python/		
-Classification Projects For Machine Learning	
-https://thecleverprogrammer.com/2020/11/26/classification-projects-with-python/		
-Regression Projects for Machine Learning	
-https://thecleverprogrammer.com/2020/11/27/regression-projects-with-python/		
-Chatbot Projects with Python	
-https://thecleverprogrammer.com/2020/11/29/chatbot-projects-with-python/		
-Machine Learning Projects on Future Prediction	
-https://thecleverprogrammer.com/2020/11/29/machine-learning-projects-on-future-prediction/		
-Machine Learning Projects for Resume	
-https://thecleverprogrammer.com/2021/01/19/machine-learning-projects-for-resume/		
-Best Data Science Projects for Resume	
-https://thecleverprogrammer.com/2021/01/16/best-data-science-projects-for-resume/		
-Machine Learning Projects on Social Media Analysis	
-https://thecleverprogrammer.com/2021/02/01/machine-learning-projects-on-social-media-analysis/		
-
-Movie Recommendation System	
-https://machinelearningprojects.net/movie-recommendation-system/		
-Face and eye detection using Haarcascades	
-https://machinelearningprojects.net/face-and-eye-detection-in-cv2/		
-
-HealthCure — medical project — 7 disease detections	
-https://machinelearningprojects.net/healthcure-medical-project/		
-MEETING REGULARLY:11PM to 12 AM			
-HealthCure — an all in one medical solution — medical project — 7 disease detections — 2023	
-https://machinelearningprojects.net/healthcure-medical-project/		
-
-Face Recognition-Based Attendance System — with source code — Flask App — With GUI — 2023	
-https://machinelearningprojects.net/face-recognition-based-attendance-system/		
-Self Organizing Maps — simplest way — with source code — 2023	
-https://machinelearningprojects.net/self-organizing-maps/		
-Pedestrian Detection using HOGs in Python — simplest way — easy project — 2023	
-https://machinelearningprojects.net/pedestrian-detection-using-hog/		
-IPL Score Prediction with Flask app — with source code — 2023	
-https://machinelearningprojects.net/ipl-score-prediction/		
-Weight Category prediction using Random Forest — with source code — 2023	
-https://machinelearningprojects.net/weight-category-prediction/		
-How to perform Face Recognition using KNN — with source code — interesting project — 2023	
-https://machinelearningprojects.net/face-recognition-using-knn/		
-Flight Price Prediction with Flask app — with source code — data visualizations — interesting project — 2023	
-https://machinelearningprojects.net/flight-price-prediction/		
-House Price Prediction — USA Housing Data — with source code — easy project — 2023	
-https://machinelearningprojects.net/house-price-prediction/		
-Stock Sentiment Analysis using headlines — with source code — easiest explanation — 2023	
-https://machinelearningprojects.net/stock-sentiment-analysis/		
-Wine Quality Prediction — with source code — 2023	
-https://machinelearningprojects.net/wine-quality-prediction/		
-Bank Note Authentication using Random Forest — with source code — easy project — 2023	
-https://machinelearningprojects.net/bank-note-authentication/		
-Flipkart Reviews extraction and sentiment analysis with Flask app — very exciting project — 2023	
-https://machinelearningprojects.net/flipkart-reviews-extraction-and-sentiment-analysis/		
-How to find the most dominant colors in an image using KMeans clustering — with source code — interesting project — 2023	
-https://machinelearningprojects.net/most-dominant-colors-in-an-image/		
-Movie Recommendation System in 2 ways — with source code — 2023	
-https://machinelearningprojects.net/movie-recommendation-system/		
-
-Face and Eye detection in cv2 using Haarcascades — with source code — easiest way — 2023	
-https://machinelearningprojects.net/face-and-eye-detection-in-cv2/		
-Spam Detection using Count Vectorizer — with source code — easy explanation — 2023	
-https://machinelearningprojects.net/spam-detection/		
-House Tax Prediction using Random Forest — Boston Housing Data — with source code — 2023	
-https://machinelearningprojects.net/house-tax-prediction/		
-Chronic Kidney Disease Prediction using M.L Algorithms	
-https://techieyantechnologies.com/chronic-kidney-disease-prediction-using-m-l-algorithms/		
-Making a Machine to predict whether a person is affected which Heart Disease or Not.	
-https://techieyantechnologies.com/heart-disease-prediction-using-machine-learning/		
-Predicting the trend of the house prices with United States housing data and Regression models	
-https://techieyantechnologies.com/predicting-the-trend-of-the-house-prices-with-united-states-housing-data-and-regression-models/		
-Identifying weight category of person using Random Forest	
-https://techieyantechnologies.com/identifying-weight-category-of-person-using-random-forest/		
-
-MEETING REGULARLY:11PM to 12 AM			
-Helping patients know whether they are diabetic or not using Machine Learning	
-https://techieyantechnologies.com/helping-patients-know-whether-they-are-diabetic-or-not-using-machine-learning/		
-Heart Disease Prediction using Machine Learning	
-https://techieyantechnologies.com/heart-disease-prediction-using-machine-learning/		
-Identifying male or female based on voice using XGBoost and ML	
-https://techieyantechnologies.com/identifying-male-or-female-based-on-voice-using-xgboost-and-ml/		
-Tic Tac Toe Game with AI Integrated and Front End Framework	
-https://techieyantechnologies.com/tic-tac-toe-game-with-ai-integrated-and-front-end-framework/		
-Making the Data Balanced without any Bias to avoid Overfitting and making wrong predictions.	
-https://techieyantechnologies.com/making-the-data-balanced-without-any-bias-to-avoid-overfitting-and-making-wrong-predictions/		
-Product Recommendation Systems	
-https://github.com/LaxmiChaudhary/Amzon-Product-Recommendation		
-Plagiarism Analyzer	
-https://github.com/Kalebu/Plagiarism-checker-Python		
-Prediction of Bird Species	
-https://github.com/johnmartinsson/bird-species-classification		
-Dog and Cat Classification	
-https://github.com/girishkuniyal/Cat-Dog-CNN-Classifier		
-Next Word Prediction	
-https://github.com/Bharath-K3/Next-Word-Prediction-with-NLP-and-Deep-Learning		
-Face Recognition	
-https://github.com/serengil/deepface		
-Mask Detection	
-https://github.com/chandrikadeb7/Face-Mask-Detection		
-Heart Disease Prediction    	
-https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning		
-CV Analysis	
-https://github.com/HiteshAgarwal1/Personality-Prediction-Through-CV		
-Sales Predictor	
-https://github.com/ROHANNAIK/Sales-Prediction		
-Automated Attendance System	
-https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN		
-Pneumonia Detection	
-https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning		
-AI Chatbots	
-https://github.com/topics/ai-chatbot		
-AI Self-driving cars	
-https://github.com/ndrplz/self-driving-car			
-Game of Chess	
-https://github.com/luweizhang/chess-ai		
-Human Pose estimation	
-https://github.com/wangzheallen/awesome-human-pose-estimation		
-Face Aging	
-https://github.com/HasnainRaz/Fast-AgingGAN		
-Image Caption Generator	
-https://github.com/MITESHPUTHRANNEU/Image-Caption-Generator		
-Voice-based Virtual Assistant	
-https://github.com/ggeop/Python-ai-assistant		
-500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code	
-https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?tab=readme-ov-file		
-
-WEB-BASED CHATBOT USING FLASK API(FLASK)	
-https://buffml.com/web-based-chatbot-using-flask-api/		
-FAKE NEWS DETECTION USING MACHINE LEARNING WITH FLASK WEB APPLICATION(FLASK)	
-https://buffml.com/fake-news-detection-using-machine-learning-with-flask-web-application/		
-UBER RIDES PREDICTION USING MACHINE LEARNING(FLASK)	
-https://buffml.com/uber-rides-prediction-using-machine-learning/		
-DIAGNOSIS FOR PREDICTION OF KNEE OSTEOARTHRITIS USING DEEP LEARNING(FLASK)	
-https://buffml.com/diagnosis-for-prediction-of-knee-osteoarthritis-using-deep-learning/		
-Machine Translation Model	
-https://thecleverprogrammer.com/2020/07/28/machine-translation-model/		
-Named Entity Recognition	
-https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/		
-Audio Feature Extraction	
-https://thecleverprogrammer.com/2020/07/28/audio-feature-extraction/		
-FastAI Model	
-https://thecleverprogrammer.com/2021/01/22/fastai-in-machine-learning/		
-House Price Prediction	
-https://thecleverprogrammer.com/2020/12/29/house-price-prediction-with-python/		
-Real-Time Face Mask Detection	
-https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/		
-Netflix Recommendation System	
-https://thecleverprogrammer.com/2022/07/05/netflix-recommendation-system-using-python/		
-Named Entity Recognition	
-https://thecleverprogrammer.com/2020/12/25/named-entity-recognition-with-python/		
-Number Plate Detection	
-https://thecleverprogrammer.com/2020/12/24/number-plate-detection-with-python/		
-IPL Analysis with Python	
-https://thecleverprogrammer.com/2020/12/23/ipl-analysis-with-python/		
-Hand Gesture Recognition	
-https://thecleverprogrammer.com/2020/11/20/hand-gesture-recognition-with-python/		
-Chatbot with Machine Learning			
-Age and Gender Detection with Python	
-https://thecleverprogrammer.com/2020/10/29/age-and-gender-detection-with-python/		
-Machine Learning in 5 lines of code.	
-https://thecleverprogrammer.com/2020/11/07/machine-learning-in-5-lines-with-mindsdb/		
-Predict US Elections with Python.	
-https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/		
-Fake Currency Detection with Machine Learning.	
-https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-learning/		
-MEETING REGULARLY:11PM to 12 AM			
-Predict Tinder Matches with Machine Learning.	
-https://thecleverprogrammer.com/2020/09/28/predict-tinder-matches-with-machine-learning/		
-Image Segmentation	
-https://thecleverprogrammer.com/2020/07/22/image-segmentation/		
-Title Generator with Python.			
-Build Google Search Algorithm with Python.	
-https://thecleverprogrammer.com/2020/09/29/google-search-algorithm-with-python/		
-Face Landmarks Detection	
-https://thecleverprogrammer.com/2020/07/22/face-landmarks-detection/		
-Pencil Sketch with Python.	
-https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/		
-OpenAI Gym in Machine Learning	
-https://thecleverprogrammer.com/2020/07/26/openai-gym-in-machine-learning/		
-Machine Translation Model	
-https://thecleverprogrammer.com/2020/07/28/machine-translation-model/		
-Covid 19 Analysis.	
-https://thecleverprogrammer.com/2020/10/05/covid-19-analysis-with-python/		
-Build the TikTok Algorithm with Machine Learning.	
-https://thecleverprogrammer.com/2020/09/26/tiktok-algorithm-with-machine-learning/		
-Analyze ILP Matches.	
-https://thecleverprogrammer.com/2020/09/23/analyze-ipl-with-python/		
-Barcode and QR code Reader with Python	
-https://thecleverprogrammer.com/2020/10/23/barcode-and-qr-code-reader-with-python/		
-Extract Text From PDF with Python.	
-https://thecleverprogrammer.com/2020/10/06/extract-text-from-pdf-using-python/		
-Predict IPL Winner 2020.	
-https://thecleverprogrammer.com/2020/09/22/predict-ipl-winner-with-machine-learning/		
-Predict Car Prices.	
-https://thecleverprogrammer.com/2020/09/21/predict-car-prices-with-machine-learning/		
-Analyze Call Records.	
-https://thecleverprogrammer.com/2020/09/19/analyze-call-records-with-machine-learning/		
-Create an API with Python.	
-https://thecleverprogrammer.com/2020/09/16/api-with-python/		
-Send Custom Emails with Python.	
-https://thecleverprogrammer.com/2020/09/15/send-emails-with-python/		
-Colour Recognition with Machine Learning.	
-https://thecleverprogrammer.com/2020/09/14/colour-recognition-with-python/		
-Create a 3D Video Animation.	
-https://thecleverprogrammer.com/2020/09/14/3d-video-with-python/		
-Graph Algorithms in Machine Learning.	
-https://thecleverprogrammer.com/2020/10/09/graph-algorithms-with-python/		
-Image Features Extraction.	
-https://thecleverprogrammer.com/2020/09/13/image-features-extraction-with-machine-learning/		
-Rainfall Prediction with Machine Learning.	
-https://thecleverprogrammer.com/2020/09/11/rainfall-prediction-with-machine-learning/		
-Classify Nationalities with Machine Learning.	
-https://thecleverprogrammer.com/2020/09/27/classify-nationalities-with-machine-learning/		
-
-Topic Modeling with Python	
-https://thecleverprogrammer.com/2020/10/24/topic-modeling-with-python/		
-Named Entity Recognition	
-https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/		
-GPT-3 Applications	[
-https://github.com/openai/gpt-3](
-https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/)		
-Translate Languages Using Python	
-https://thecleverprogrammer.com/2020/08/10/translate-using-python/		
-Network Security Analysis	
-https://thecleverprogrammer.com/2020/08/12/network-security-with-machine-learning/		
-Bar Chart Race with Python	
-https://thecleverprogrammer.com/2020/08/14/bar-chart-race-with-python/		
-Keyword Research with Python	
-https://thecleverprogrammer.com/2020/08/14/keyword-research-with-python/		
-Fashion Recommendation System	
-https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/		
-Face Detection with Python	
-https://thecleverprogrammer.com/2020/10/09/face-detection-with-python/		
-Emotion Detection Model	
-https://thecleverprogrammer.com/2020/08/16/emotion-detection-model/		
-Telegram Bot with Python	
-https://thecleverprogrammer.com/2020/08/18/telegram-bot-with-python/		
-Handwriting Recognition	
-https://thecleverprogrammer.com/2020/10/10/handwriting-recognition-with-python/		
-Netflix Data Analysis	
-https://thecleverprogrammer.com/2021/01/16/netflix-data-analysis-with-python/		
-Satellite Imagery Analysis	
-https://thecleverprogrammer.com/2021/01/14/satellite-imagery-analysis/		
-Topic Modelling	
-https://thecleverprogrammer.com/2021/01/12/topic-modeling-with-machine-learning/		
-End-to-End Machine Learning Model			
-End-to-end Machine Learning Project	
-https://thecleverprogrammer.com/2021/03/21/end-to-end-machine-learning-project/		
-MEETING REGULARLY:11PM to 12 AM			
-Customer Personality Analysis	
-https://thecleverprogrammer.com/2021/02/08/customer-personality-analysis-with-python/		
-Covid-19 Vaccine Analysis	
-https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/		
-Student Grades Prediction Model	
-https://thecleverprogrammer.com/2021/04/16/student-grades-prediction-with-machine-learning/		
-Saving a Machine Learning Model			
-Uber Trips Analysis			
-Google Search Analysis			
-Interactive Language Translator
-
 
 https://github.com/koosha-t/Sentiment-Analysis-NLP-for-Marketting/tree/main		
 
@@ -18234,23 +17259,6 @@ Machine Learning Projects for Beginners
 https://thecleverprogrammer.com/2024/03/14/machine-learning-projects-for-beginners-3/		
 Machine Learning Algorithms	
 https://thecleverprogrammer.com/2022/12/06/machine-learning-roadmap/		
-
-COMMON MACHINE LEARNING ALGORITHMS	
-
-Linear regression: Linear regression is a simple machine learning algorithm that is used to model the relationship between a dependent variable and one or more independent variables. It is commonly used to predict a continuous numerical outcome based on a set of input features.	
-
-Logistic regression: Logistic regression is a type of regression analysis that is used to predict a binary outcome (i.e., a outcome that can only have two possible values, such as “yes” or “no”). It is a widely used method for classification tasks, such as predicting whether a customer will churn or not.		
-Decision trees: Decision trees are a type of machine learning algorithm that are used to model the decision-making process. They consist of a series of decision nodes, where each node represents a decision point, and leaf nodes, where the final decision is made. Decision trees are often used for classification tasks, such as determining whether a customer will churn or not.		
-
-Random forests: Random forests are a type of ensemble learning algorithm that combines multiple decision trees to make a prediction. Each tree in the ensemble is trained on a different subset of the data, and the final prediction is made by averaging the predictions of all the trees. Random forests are often used for regression and classification tasks.		
-
-K-means clustering: K-means clustering is a type of unsupervised machine learning algorithm that is used to group data points into clusters based on their similarity. It is commonly used for clustering tasks, such as customer segmentation or anomaly detection.
-
-Naive Bayes is a type of machine learning algorithm that is based on the Bayes theorem of probability. It is called “naive” because it makes the assumption that all the features in the data are independent of each other, which is often not the case in real-world data. Despite this assumption, Naive Bayes algorithms can still perform well in many situations and are widely used for classification tasks.	
-
-Support Vector Machines (SVMs) are a type of supervised learning algorithm that can be used for classification or regression tasks. The idea behind SVMs is to find the hyperplane in a high-dimensional space that maximally separates the different classes. Once this hyperplane is found, new data can be easily classified by assigning them to the side of the hyperplane on which they fall.		
-
-A neural network is a type of machine learning algorithm modeled after the structure and function of the human brain. It is composed of multiple layers of interconnected “neurons,” which process and transmit information. Neural networks are trained using large amounts of data and are able to learn and make predictions or decisions based on that data. They are commonly used in a variety of applications, such as image recognition, natural language processing, and time series forecasting.	
 
 
 Deep learning algorithms	
@@ -18316,3 +17324,5 @@ NLP Projects
 
 
 https://github.com/topics/nlp-projects
+
+```
