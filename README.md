@@ -1,7 +1,35 @@
 # Artificial Intellience Projects and Research
 
 
+# Sales Prediction start
 
+Big Mart Sales Prediction using Machine Learning
+```
+https://projectworlds.in/big-mart-sales-prediction-using-machine-learning-web-app/
+```
+
+
+Black Friday Sales Prediction project Machine Learning
+```
+https://projectworlds.in/black-friday-sales-prediction-project-with-source-code/
+```
+
+Future Sales Prediction
+```
+https://thecleverprogrammer.com/2022/03/01/future-sales-prediction-with-machine-learning/
+```
+
+Video Game Sales Prediction Model
+```
+https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/
+```
+
+Sales Prediction
+```
+https://thecleverprogrammer.com/2021/05/19/sales-prediction-with-machine-learning/
+```
+
+# Sales Prediction end
 
 # DRONE Technology start
 
@@ -11123,10 +11151,6 @@ Drug Recommendation System based on Sentiment Analysis
 https://projectworlds.in/drug-recommendation-system-based-on-sentiment-analysis-of-drug-reviews
 ```
 
-Big Mart Sales Prediction using Machine Learning
-```
-https://projectworlds.in/big-mart-sales-prediction-using-machine-learning-web-app/
-```
 
 Phishing Web Sites Detection Using Machine Learning Project
 ```
@@ -11171,10 +11195,6 @@ Fake Product Review Detection using Machine Learning
 https://projectworlds.in/fake-product-review-detection-using-machine-learning/
 ```
 
-Black Friday Sales Prediction project Machine Learning
-```
-https://projectworlds.in/black-friday-sales-prediction-project-with-source-code/
-```
 
 Diabetes Prediction using Machine Learning
 ```
@@ -11551,11 +11571,6 @@ Online Payments Fraud Detection
 https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/
 ```
 
-3\
-Future Sales Prediction
-```
-https://thecleverprogrammer.com/2022/03/01/future-sales-prediction-with-machine-learning/
-```
 
 4\
 Waiter Tips Analysis &amp; Prediction
@@ -11768,7 +11783,6 @@ https://thecleverprogrammer.com/2020/07/12/customer-segmentation/
 ```
 Car And Pedestrian Tracker
 Startups Success Rate Prediction
-Bigmart Sales Prediction Analysis
 Turkiye Student Evaluation Analysis
 Traffic Forecast
 Million Songs Dataset
@@ -11777,7 +11791,6 @@ Iris dataset analysis
 Image to Text Conversion & Extraction
 IMDb sentiment review Analysis using ML
 Boston Housing Prediction Analysis
-Black Friday Sales Prediction Analysis
 Bike Sharing Demand Analysis
 Data Scientist's Salary Prediction
 Diabetes Classification
@@ -11838,7 +11851,6 @@ Autoencoder Fashion MNIST 88.Movie Recommendation Engine
 Spam Email Classification 90.Traffic Sign Recognizer
 Forbes 100 Billionaires Wealth Spending Analysis.
 Online Payments Fraud Detection
-Future Sales Prediction 94.Waiter Tips Analysis & Prediction
 Stock Price Prediction
 Flipkart Reviews Sentiment Analysis
 Stock Price Prediction with LSTM Neural Network 98.Cryptocurrency Price Prediction for the next 30 days
@@ -11868,7 +11880,6 @@ https://projectworlds.in/iris-flower-classification-with-decision-trees-web-app/
 Health Insurance Premium Prediction 121.Movie Rating Analysis for Beginners
 Number of Orders Prediction
 Apple Stock Price Prediction
-Sales Prediction
 Currency Exchange Rate Prediction
 https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/
 Profit Prediction Model
@@ -12214,7 +12225,6 @@ Predicting Heart Attacks
 Predicting Seizures in Intracranial EEG Recordings
 structural Health Monitoring in Extreme Events from Perspective
 Online Kernel Learning for Active Sensor Networks
-ECommerce Sales Prediction Using Listing Keywords
 Review Scheduling for Maximum Long-Term Retention of Knowledge
 Adaptive Spaced Repetition
 Do a Barrel Roll
@@ -12315,11 +12325,6 @@ Covid-19 Vaccine Analysis
 https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
 ```
 
-43
-Video Game Sales Prediction Model
-```
-https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/
-```
 
 44
 Student Grades Prediction Model
@@ -14748,9 +14753,7 @@ https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-l
 Ukraine vs Russia Twitter Sentiment Analysis
 
 https://thecleverprogrammer.com/2022/03/15/ukraine-russia-war-twitter-sentiment-analysis-using-python/
-Future Sales Prediction
 
-https://thecleverprogrammer.com/2022/03/01/future-sales-prediction-with-machine-learning/
 Cat & Dog Classification using Convolutional Neural Network in Python
 
 https://www.geeksforgeeks.org/cat-dog-classification-using-convolutional-neural-network-in-python/
@@ -14874,16 +14877,6 @@ Count Objects in Image
 WhatsApp Chats Sentiment Analysis
 WhatsApp Chats Analysis
 Microsoft Stock Price Prediction
-
-Video Game Sales Prediction Model
-https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/
-
-
-
-
-
-
-
 
 Spotify Recommendation System
 https://thecleverprogrammer.com/2021/03/03/spotify-recommendation-system-with-machine-learning/
@@ -15116,8 +15109,6 @@ Waiter Tips Analysis & Prediction
 https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-learning/		
 Ukraine vs Russia Twitter Sentiment Analysis	
 https://thecleverprogrammer.com/2022/03/15/ukraine-russia-war-twitter-sentiment-analysis-using-python/		
-Future Sales Prediction	
-https://thecleverprogrammer.com/2022/03/01/future-sales-prediction-with-machine-learning/		
 Cat & Dog Classification using Convolutional Neural Network in Python	
 https://www.geeksforgeeks.org/cat-dog-classification-using-convolutional-neural-network-in-python/		
 Traffic Signs Recognition using CNN and Keras in Python	
@@ -15161,9 +15152,6 @@ Amazon Alexa Reviews Sentiment Analysis
 Social Media Ads Classification
 Fake News Detection
 Sarcasm Detection
-
-Sales Prediction
-https://thecleverprogrammer.com/2021/05/19/sales-prediction-with-machine-learning/
 
 
 
