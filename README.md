@@ -1,5 +1,12 @@
 # Artificial Intellience Projects and Research
 
+# Language Detection
+
+Language Detection 110.Adding Labels to a Dataset for Sentiment Analysis
+```
+https://thecleverprogrammer.com/2021/04/04/language-detection-with-python/
+```
+
 # Covid 19 Analysis start
 
 Covid 19 Analysis.
