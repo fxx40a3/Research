@@ -15997,105 +15997,10 @@ https://thecleverprogrammer.com/2022/03/22/instagram-reach-analysis-using-python
 ```
 
 
-Website Traffic Forecasting	
-https://thecleverprogrammer.com/2022/06/28/website-traffic-forecasting-using-python/		
-Credit Card Clustering	
-https://thecleverprogrammer.com/2022/10/03/credit-card-clustering-with-machine-learning/		
-Password Strength Checker	
-https://thecleverprogrammer.com/2022/08/22/password-strength-checker-with-machine-learning/		
-Spam Comments Detection	
-https://thecleverprogrammer.com/2022/08/02/spam-comments-detection-with-machine-learning/		
-Clustering Music Genres	
-https://thecleverprogrammer.com/2022/04/05/clustering-music-genres-with-machine-learning/		
-Classification with Neural Networks	
-https://thecleverprogrammer.com/2022/01/10/classification-with-neural-networks-using-python/		
-Stress Detection	
-https://thecleverprogrammer.com/2021/12/20/stress-detection-with-machine-learning/		
-Visualizing a Machine Learning Algorithm	
-https://thecleverprogrammer.com/2021/12/29/visualize-a-machine-learning-algorithm-using-python/		
-MEETING REGULARLY:11PM to 12 AM			
-Training and Giving Inputs to a Machine Learning Model	
-https://thecleverprogrammer.com/2021/11/29/how-to-give-inputs-to-a-machine-learning-model/		
-Product Demand Prediction	
-https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/		
-Electricity Price Prediction	
-https://thecleverprogrammer.com/2021/11/15/electricity-price-prediction-with-machine-learning/		
-Language Detection			
-Adding Labels to a  for Sentiment Analysis	
-https://thecleverprogrammer.com/2021/11/24/add-labels-to-a--for-sentiment-analysis/		
-Pfizer Vaccine Sentiment Analysis	
-https://thecleverprogrammer.com/2021/10/12/pfizer-vaccine-sentiment-analysis-using-python/	5% progress	
-Omicron Variant Sentiment Analysis	
-https://thecleverprogrammer.com/2021/12/06/omicron-sentiment-analysis-using-python/		
-Iris Flower Classification	
-https://thecleverprogrammer.com/2021/10/17/iris-flower-classification-with-machine-learning/		
-AlexNet Neural Network Architecture	
-https://thecleverprogrammer.com/2021/12/13/alexnet-architecture-using-python/		
-Water Quality Analysis	/		
-Twitter Sentiment Analysis	/		
-Squid Game Sentiment Analysis	/		
-Comparison of Classification Algorithms			
-Tata Motors Stock Price Prediction	
-https://thecleverprogrammer.com/2021/10/22/tata-motors-stock-price-prediction-with-machine-learning/		
-Health Insurance Premium Prediction	
-https://thecleverprogrammer.com/2021/10/26/health-insurance-premium-prediction-with-machine-learning/		
-Movie Rating Analysis for Beginners	
-https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/		
-Number of Orders Prediction			
-Apple Stock Price Prediction			
-Insurance Prediction	/		
-Worldwide Billionaires Analysis			
-Unemployment Analysis	/		
-Car Price Prediction Model			
-Spam Detection			
-Count Objects in Image			
-WhatsApp Chats Sentiment Analysis			
-WhatsApp Chats Analysis			
-Microsoft Stock Price Prediction			
-Video Game Sales Prediction Model	
-https://thecleverprogrammer.com/2021/05/28/video-game-sales-prediction-model-with-python/		
-Profit Prediction Model	
-https://thecleverprogrammer.com/2021/04/29/profit-prediction-with-machine-learning/		
-MEETING REGULARLY:11PM to 12 AM			
-Automatic Time Series Forecasting	
-https://thecleverprogrammer.com/2021/04/19/autots-in-python-tutorial/		
-Ted-Talks Recommendation System	
-https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/		
-Real-time Sentiment Analysis	
-https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/		
-Amazon Recommendation System	
-https://thecleverprogrammer.com/2021/03/23/amazon-recommendation-system-using-python/		
-Mobile Price Classification	
-https://thecleverprogrammer.com/2021/03/05/mobile-price-classification-with-machine-learning/		
-Spotify Recommendation System	
-https://thecleverprogrammer.com/2021/03/03/spotify-recommendation-system-with-machine-learning/		
-Text Emotions Detection	
-https://thecleverprogrammer.com/2021/02/19/text-emotions-detection-with-machine-learning/		
-Hotel Recommendation System	
-https://thecleverprogrammer.com/2021/02/13/hotel-recommendation-system-with-machine-learning/		
-Bankruptcy Prediction Model	
-https://thecleverprogrammer.com/2021/03/13/bankruptcy-prediction-model-with-machine-learning/		
-Tesla Stock Price Prediction Model	
-https://thecleverprogrammer.com/2021/03/27/tesla-stock-price-prediction-with-machine-learning/		
-Financial Budget Analysis	/		
-Click-Through Rate Prediction Model			
-Language Detection			
-Create a Chatbot with Python			
-Best Streaming Service Analysis			
-Data Science Project on President Heights			
-Data Science Project on Birth Rate Analysis			
-Data Science Project on Time Series			
-MEETING REGULARLY:11PM to 12 AM			
-Data Science Project on Area and Population			
-A Complete Machine Learning Project Walkthrough			
-Text Summarization			
-Keyword Extraction			
-End-to-end Fake News Detection System			
-End-to-end Spam Detection System			
-Hotel Reviews Sentiment Analysis	
+```
+Real-time Gender Detection System 2
+```	
 
-
-<google-sheets-html-origin><style type=text/css><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 Real-time Gender Detection System
 
 | 
