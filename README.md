@@ -1,5 +1,246 @@
 # Artificial Intellience Projects and Research
 
+# Instance segmentation start
+
+MultipathNet\
+Computer Vision Learning MultiPathNet / MultiPath / MPN — 1st Runner Up in 2015 COCO Detection & Segmentation (Object Detection / Instance Segmentation)
+```
+https://bit.ly/31fcTMR
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eZC5Cwk
+Official Code : https://bit.ly/3fdbNZX
+```
+
+D2Det\
+Computer Vision Learning 𝗗𝟮𝗗𝗲𝘁:Towards High Quality Object Detection and Instance Segmentation
+```
+https://bit.ly/3b2EDJL
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3aW0iDq
+Code : https://lnkd.in/e2UtY69
+```
+
+Rank and Sort Loss\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗮𝗻𝗸 & 𝗦𝗼𝗿𝘁 𝗟𝗼𝘀𝘀 for Object Detection and Instance Segmentation
+```
+https://bit.ly/3sPQt1s
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNpC8Zee
+Code: https://lnkd.in/e5-5tp-X
+```
+
+SDS\
+Computer Vision Learning SDS — Simultaneous Detection and Segmentation (Instance Segmentation)
+```
+https://bit.ly/3f0CZLw
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/er5nsYx
+Official Code : https://bit.ly/3cVpwlo
+```
+
+
+HyperColumn\
+Computer Vision Learning Hypercolumn (Instance Segmentation) by FAIR(Facebook Research)
+```
+https://bit.ly/3vV7Jn5
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKxkH9M
+Official Code : https://bit.ly/3d1fGPg
+```
+
+DeepMask\
+Computer Vision Learning DeepMask (Instance Segmentation) by Facebook AI (FAIR)
+```
+https://bit.ly/3cY2RVR
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKxkH9M
+Official Code : https://bit.ly/2NJJKpT
+Tensorflow2: https://bit.ly/3lGHzzT
+```
+
+SharpMask\
+Computer Vision Learning SharpMask — 1st Runner Up in COCO Segmentation 2015 (Instance Segmentation) by Facebook AI Research
+```
+https://bit.ly/3rg0h2r
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ewcQsVZ
+Official Code : https://lnkd.in/eArhuen
+```
+
+
+MNC\
+Computer Vision Learning MNC — Multi-task Network Cascade, Winner in 2015 COCO Segmentation (Instance Segmentation)
+```
+https://bit.ly/39rRXqj
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehD9P8r
+Official Code : https://lnkd.in/eAhRMWe
+```
+
+InstanceFCN\
+Computer Vision Learning InstanceFCN — Instance-Sensitive Score Maps (Instance Segmentation)
+```
+https://bit.ly/3wbQuy8
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eTnSUk3
+```
+
+FCIS\
+Computer Vision Learning FCIS — Winner in 2016 COCO Segmentation (Instance Segmentation)
+```
+https://bit.ly/3dhPz6B
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNiPGWY
+Code : https://lnkd.in/etsK8bM
+```
+
+MaskLab\
+Computer Vision Learning MaskLab — Refining with Semantic and Direction Features (Instance Segmentation)
+```
+https://bit.ly/3wb3Vya
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gWUFCUw
+```
+
+PANet\
+Computer Vision Learning PANet — Path Aggregation Network, 1st Place in COCO  Challenge (Instance Segmentation)
+```
+https://bit.ly/2PmQTNs
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8znDYE
+Official Code : https://lnkd.in/efzK7xa
+```
+
+
+Deep Snake- Instance Segmentation\
+Computer Vision Learning 𝗗𝗲𝗲𝗽 𝗦𝗻𝗮𝗸𝗲 for Real-Time Instance Segmentation
+```
+https://bit.ly/3dQmdhm
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKi7bAx
+code : https://lnkd.in/eApEqFb
+```
+
+BlendMask\
+Computer Vision Learning 𝗕𝗹𝗲𝗻𝗱𝗠𝗮𝘀𝗸: Top-Down Meets Bottom-Up for Instance Segmentation
+```
+https://bit.ly/32LVXyf
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8nz2u7
+𝗖𝗼𝗱𝗲: https://lnkd.in/eN9KVwX
+```
+
+PolyTransform\
+Computer Vision Learning 𝗣𝗼𝗹𝘆𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺: Deep Polygon Transformer for Instance Segmentation
+```
+https://bit.ly/3gT11ZZ
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/en932C5
+```
+
+
+PolarMask\
+Computer Vision Learning 𝗣𝗼𝗹𝗮𝗿𝗠𝗮𝘀𝗸: Single Shot Instance Segmentation With Polar Representation
+```
+https://bit.ly/3uklSsO
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dvmS3aJ
+Code : https://lnkd.in/dKuiUgu
+```
+
+FGN\
+Computer Vision Learning 𝗙𝗚𝗡: Fully Guided Network for Few-Shot Instance Segmentation
+```
+https://bit.ly/3uiyyAl
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekjkZzZ
+```
+
+
+PointGroup\
+Computer Vision Learning 𝗣𝗼𝗶𝗻𝘁𝗚𝗿𝗼𝘂𝗽: Dual-Set Point Grouping for 3D Instance Segmentation
+```
+https://bit.ly/2QfeKPP
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eFzMqV2
+Code : https://lnkd.in/eUdMgk4
+```
+
+3D-MPA\
+Computer Vision Learning 𝟯𝗗-𝗠𝗣𝗔: Multi-Proposal Aggregation for 3D Semantic Instance Segmentation
+```
+https://bit.ly/3bqz9J6
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ee8dgGP
+Code : https://lnkd.in/epi-eGF
+```
+
+Saliency Propagation\
+Computer Vision Learning Learning Saliency Propagation for Semi-Supervised Instance Segmentation
+```
+https://bit.ly/3tXTvj4
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehE_KcB
+Code : https://lnkd.in/eZmMHcx
+```
+
+
+OccuSeg\
+Computer Vision Learning 𝗢𝗰𝗰𝘂𝗦𝗲𝗴: Occupancy-aware 3D Instance Segmentation 
+```
+https://bit.ly/3bUJtta
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gQQA5nn
+```
+
+
+SipMask\
+Computer Vision Learning 𝗦𝗶𝗽𝗠𝗮𝘀𝗸: Spatial Information Preservation for Fast Image and Video Instance Segmentation
+```
+https://bit.ly/3gMBoJE
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9wXqNs
+Code : https://lnkd.in/epiH2ei
+```
+
+
+Survey : Instance Segmentation\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗦𝘂𝗿𝘃𝗲𝘆 𝗼𝗻 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻: 𝗦𝘁𝗮𝘁𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗮𝗿𝘁
+```
+https://bit.ly/3k90xQB
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eg8rz9sP
+```
+
+
+Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors by University of Liverpool, UK
+```
+https://bit.ly/3LBS96P
+```
+
+
+Temporally Efficient Vision Transformer for Video Instance Segmentation\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Temporally Efficient Vision Transformer for Video Instance Segmentation 
+```
+https://bit.ly/3w6xkf3
+```
+
+
+YOLACT-700\
+YOLACT Real-time Instance Segmentation
+```
+https://arxiv.org/pdf/1904.02689v1.pdf
+```
+
+YOLOv9 Instance Segmentation on Medical Dataset
+```
+https://learnopencv.com/yolov9-instance-segmentation-on-medical-dataset/
+https://github.com/spmallick/learnopencv/tree/master/YOLOv9-Instance-Segmentation-on-Medical-Dataset
+```
+
+Train YOLOv8 Instance Segmentation on Custom Data
+```
+https://learnopencv.com/train-yolov8-instance-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Train-YOLOv8-Instance-Segmentation-on-Custom-Data
+```
+
+Getting Started with YOLOv5 Instance Segmentation
+```
+https://learnopencv.com/getting-started-with-yolov5-instance-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Getting-Started-with-YOLOv5-Instance-Segmentation
+```
+
+PyTorch for Beginners: Mask R-CNN Instance Segmentation with PyTorch
+```
+https://www.learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch/
+/spmallick/learnopencv/blob/master/PyTorch-Mask-RCNN
+```
+
+Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)
+```
+https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/
+https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN
+```
+
+# Instance segmentation end
 
 # Business Card Recognization start
 
@@ -832,21 +1073,6 @@ pytorch : https://bit.ly/38jPFZL
 
 
 
-MultipathNet\
-Computer Vision Learning MultiPathNet / MultiPath / MPN — 1st Runner Up in 2015 COCO Detection & Segmentation (Object Detection / Instance Segmentation)
-```
-https://bit.ly/31fcTMR
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eZC5Cwk
-Official Code : https://bit.ly/3fdbNZX
-```
-
-D2Det\
-Computer Vision Learning 𝗗𝟮𝗗𝗲𝘁:Towards High Quality Object Detection and Instance Segmentation
-```
-https://bit.ly/3b2EDJL
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3aW0iDq
-Code : https://lnkd.in/e2UtY69
-```
 
 Libra R-CNN\
 Computer Vision Learning 𝙇𝙞𝙗𝙧𝙖 𝙍-𝘾𝙉𝙉: Towards Balanced Learning for Object Detection
@@ -936,14 +1162,6 @@ https://bit.ly/3s3ptvb
 code : https://lnkd.in/gbcDug6f
 ```
 
-Rank and Sort Loss\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗮𝗻𝗸 & 𝗦𝗼𝗿𝘁 𝗟𝗼𝘀𝘀 for Object Detection and Instance Segmentation
-```
-https://bit.ly/3sPQt1s
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNpC8Zee
-Code: https://lnkd.in/e5-5tp-X
-```
-	
 DetCo\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝘁𝗖𝗼: Unsupervised Contrastive Learning for Object Detection
 ```
@@ -1495,13 +1713,6 @@ https://bit.ly/3f0jGlI
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eMYSFN7
 ```
 
-SDS\
-Computer Vision Learning SDS — Simultaneous Detection and Segmentation (Instance Segmentation)
-```
-https://bit.ly/3f0CZLw
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/er5nsYx
-Official Code : https://bit.ly/3cVpwlo
-```
 
 AdderNet\
 Computer Vision Learning AdderNet: Do We Really Need Multiplications in Deep Learning? (Image Classification)
@@ -1511,69 +1722,6 @@ https://bit.ly/3sfMdYa
 Official Code : https://lnkd.in/e2JnQpt
 ```
 
-HyperColumn\
-Computer Vision Learning Hypercolumn (Instance Segmentation) by FAIR(Facebook Research)
-```
-https://bit.ly/3vV7Jn5
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKxkH9M
-Official Code : https://bit.ly/3d1fGPg
-```
-
-DeepMask\
-Computer Vision Learning DeepMask (Instance Segmentation) by Facebook AI (FAIR)
-```
-https://bit.ly/3cY2RVR
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKxkH9M
-Official Code : https://bit.ly/2NJJKpT
-Tensorflow2: https://bit.ly/3lGHzzT
-```
-
-SharpMask\
-Computer Vision Learning SharpMask — 1st Runner Up in COCO Segmentation 2015 (Instance Segmentation) by Facebook AI Research
-```
-https://bit.ly/3rg0h2r
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ewcQsVZ
-Official Code : https://lnkd.in/eArhuen
-```
-
-
-MNC\
-Computer Vision Learning MNC — Multi-task Network Cascade, Winner in 2015 COCO Segmentation (Instance Segmentation)
-```
-https://bit.ly/39rRXqj
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehD9P8r
-Official Code : https://lnkd.in/eAhRMWe
-```
-
-InstanceFCN\
-Computer Vision Learning InstanceFCN — Instance-Sensitive Score Maps (Instance Segmentation)
-```
-https://bit.ly/3wbQuy8
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eTnSUk3
-```
-
-FCIS\
-Computer Vision Learning FCIS — Winner in 2016 COCO Segmentation (Instance Segmentation)
-```
-https://bit.ly/3dhPz6B
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNiPGWY
-Code : https://lnkd.in/etsK8bM
-```
-
-MaskLab\
-Computer Vision Learning MaskLab — Refining with Semantic and Direction Features (Instance Segmentation)
-```
-https://bit.ly/3wb3Vya
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gWUFCUw
-```
-
-PANet\
-Computer Vision Learning PANet — Path Aggregation Network, 1st Place in COCO  Challenge (Instance Segmentation)
-```
-https://bit.ly/2PmQTNs
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8znDYE
-Official Code : https://lnkd.in/efzK7xa
-```
 
 CUDMedVision1\
 Computer Vision Learning CUMedVision1 — Fully Convolutional Network (Biomedical Image Segmentation)
@@ -1763,21 +1911,6 @@ https://bit.ly/3dLw9Zf
 code : https://lnkd.in/eAZDbjz
 ```
 
-Deep Snake- Instance Segmentation\
-Computer Vision Learning 𝗗𝗲𝗲𝗽 𝗦𝗻𝗮𝗸𝗲 for Real-Time Instance Segmentation
-```
-https://bit.ly/3dQmdhm
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKi7bAx
-code : https://lnkd.in/eApEqFb
-```
-
-BlendMask\
-Computer Vision Learning 𝗕𝗹𝗲𝗻𝗱𝗠𝗮𝘀𝗸: Top-Down Meets Bottom-Up for Instance Segmentation
-```
-https://bit.ly/32LVXyf
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8nz2u7
-𝗖𝗼𝗱𝗲: https://lnkd.in/eN9KVwX
-```
 
 CenterNet\
 Computer Vision Learning Super-Resolution Convolutional Neural Network 𝗦𝗥𝗖𝗡𝗡 
@@ -1812,28 +1945,6 @@ official : https://lnkd.in/eVBtrtM
 Code : https://lnkd.in/ezCzsHx
 ```
 
-PolyTransform\
-Computer Vision Learning 𝗣𝗼𝗹𝘆𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺: Deep Polygon Transformer for Instance Segmentation
-```
-https://bit.ly/3gT11ZZ
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/en932C5
-```
-
-
-PolarMask\
-Computer Vision Learning 𝗣𝗼𝗹𝗮𝗿𝗠𝗮𝘀𝗸: Single Shot Instance Segmentation With Polar Representation
-```
-https://bit.ly/3uklSsO
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dvmS3aJ
-Code : https://lnkd.in/dKuiUgu
-```
-
-FGN\
-Computer Vision Learning 𝗙𝗚𝗡: Fully Guided Network for Few-Shot Instance Segmentation
-```
-https://bit.ly/3uiyyAl
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekjkZzZ
-```
 
 Meta-SR\
 Computer Vision Learning 𝗠𝗲𝘁𝗮-𝗦𝗥: A Magnification-Arbitrary Network for Super-Resolution
@@ -1895,30 +2006,6 @@ https://bit.ly/3uWJ8h7
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eYF3fd9
 ```
 
-PointGroup\
-Computer Vision Learning 𝗣𝗼𝗶𝗻𝘁𝗚𝗿𝗼𝘂𝗽: Dual-Set Point Grouping for 3D Instance Segmentation
-```
-https://bit.ly/2QfeKPP
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eFzMqV2
-Code : https://lnkd.in/eUdMgk4
-```
-
-3D-MPA\
-Computer Vision Learning 𝟯𝗗-𝗠𝗣𝗔: Multi-Proposal Aggregation for 3D Semantic Instance Segmentation
-```
-https://bit.ly/3bqz9J6
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ee8dgGP
-Code : https://lnkd.in/epi-eGF
-```
-
-Saliency Propagation\
-Computer Vision Learning Learning Saliency Propagation for Semi-Supervised Instance Segmentation
-```
-https://bit.ly/3tXTvj4
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ehE_KcB
-Code : https://lnkd.in/eZmMHcx
-```
-
 
 SiamRPN++\
 Computer Vision 𝐒𝐢𝐚𝐦𝐑𝐏𝐍++: Currently the highest precision single target tracking 
@@ -1951,12 +2038,6 @@ Computer Vision Learning 𝗨𝗖𝗧𝗚𝗔𝗡: Diverse Image Inpainting Base
 https://bit.ly/3fQg9ox
 ```
 
-OccuSeg\
-Computer Vision Learning 𝗢𝗰𝗰𝘂𝗦𝗲𝗴: Occupancy-aware 3D Instance Segmentation 
-```
-https://bit.ly/3bUJtta
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gQQA5nn
-```
 
 LAPGAN\
 Computer Vision Learning 𝙇𝘼𝙋𝙂𝘼𝙉 — Laplacian Generative Adversarial Network (GAN)
@@ -2166,14 +2247,6 @@ https://bit.ly/3qiIF7l
 code : https://lnkd.in/eA69E37 
 ```
 
-
-SipMask\
-Computer Vision Learning 𝗦𝗶𝗽𝗠𝗮𝘀𝗸: Spatial Information Preservation for Fast Image and Video Instance Segmentation
-```
-https://bit.ly/3gMBoJE
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9wXqNs
-Code : https://lnkd.in/epiH2ei
-```
 
 
 SCAN\
@@ -2682,12 +2755,6 @@ https://bit.ly/3hvqCYl
 Code: https://lnkd.in/erarGzyT
 ```
 
-Survey : Instance Segmentation\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔 𝗦𝘂𝗿𝘃𝗲𝘆 𝗼𝗻 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝗦𝗲𝗴𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻: 𝗦𝘁𝗮𝘁𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗮𝗿𝘁
-```
-https://bit.ly/3k90xQB
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eg8rz9sP
-```
 
 SO-Pose\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗢-𝗣𝗼𝘀𝗲: Exploiting Self-Occlusion for Direct 6D Pose Estimation by Google 
@@ -3669,11 +3736,6 @@ How Do Vision Transformers Work?\
 https://bit.ly/3NE1mO2
 ```
 
-Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors by University of Liverpool, UK
-```
-https://bit.ly/3LBS96P
-```
 
 PENCIL: Deep Learning with Noisy Labels\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 PENCIL: Deep Learning with Noisy Labels by National Natural Science
@@ -4008,11 +4070,6 @@ MVSTER: Epipolar Transformer for Efficient Multi-View Stereo\
 https://bit.ly/3MaDTCR
 ```
 
-Temporally Efficient Vision Transformer for Video Instance Segmentation\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Temporally Efficient Vision Transformer for Video Instance Segmentation 
-```
-https://bit.ly/3w6xkf3
-```
 
 EditGAN: High-Precision Semantic Image Editing\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 EditGAN: High-Precision Semantic Image Editing by NVIDIA
@@ -7813,12 +7870,6 @@ Libra R-CNN: Towards Balanced Learning for Object Detection
 https://arxiv.org/pdf/1904.02701v1.pdf
 ```
 
-YOLACT-700
-YOLACT Real-time Instance Segmentation
-```
-https://arxiv.org/pdf/1904.02689v1.pdf
-```
-
 
 DetNASNet(3.8)
 DetNAS: Backbone Search for Object Detection
@@ -8128,12 +8179,6 @@ https://learnopencv.com/sdxl-inpainting/
 https://github.com/spmallick/learnopencv/tree/master/SDXL-inpainting
 ```
 
-
-YOLOv9 Instance Segmentation on Medical Dataset
-```
-https://learnopencv.com/yolov9-instance-segmentation-on-medical-dataset/
-https://github.com/spmallick/learnopencv/tree/master/YOLOv9-Instance-Segmentation-on-Medical-Dataset
-```
 
 
 A Comprehensive Guide to Robotics
@@ -8454,11 +8499,6 @@ https://github.com/spmallick/learnopencv/tree/master/Train-YOLO-NAS-on-Custom-Da
 ```
 
 
-Train YOLOv8 Instance Segmentation on Custom Data
-```
-https://learnopencv.com/train-yolov8-instance-segmentation/
-https://github.com/spmallick/learnopencv/tree/master/Train-YOLOv8-Instance-Segmentation-on-Custom-Data
-```
 
 
 YOLO-NAS: New Object Detection Model Beats YOLOv6 &amp; YOLOv8
@@ -8621,11 +8661,6 @@ https://github.com/spmallick/learnopencv/tree/master/Ultralytics-YOLOv8-State-of
 ```
 
 
-Getting Started with YOLOv5 Instance Segmentation
-```
-https://learnopencv.com/getting-started-with-yolov5-instance-segmentation/
-https://github.com/spmallick/learnopencv/tree/master/Getting-Started-with-YOLOv5-Instance-Segmentation
-```
 
 
 The Ultimate Guide To DeepLabv3 - With PyTorch Inference
@@ -9545,11 +9580,6 @@ https://github.com/spmallick/learnopencv/tree/master/EfficientNet
 ```
 
 
-PyTorch for Beginners: Mask R-CNN Instance Segmentation with PyTorch
-```
-https://www.learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch/
-/spmallick/learnopencv/blob/master/PyTorch-Mask-RCNN
-```
 
 
 PyTorch for Beginners: Faster R-CNN Object Detection with PyTorch
@@ -9789,11 +9819,6 @@ https://github.com/spmallick/learnopencv/tree/master/HandPose
 ```
 
 
-Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)
-```
-https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/
-https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN
-```
 
 
 Install OpenCV 4 on Ubuntu 18.04 (C++ and Python)
@@ -11830,7 +11855,6 @@ Stress Detection in words
 Youtube video recommendation system
 Twitter Hashtag Prediction
 Detection and counting of blood cells with deep learning
-Instance Segmentation Project
 Fake Currency Detection
 Flower Recognition
 Deepfake Detection
@@ -13563,7 +13587,6 @@ Neural Style Transfer Using Pytorch
 Image Synthesis using Generative Adversarial Networks (GANs)
 Emotion Recognition through Facial Expressions
 Facial expression detection using the Deepface module in Python
-Instance segmentation using Pytorch
 ```
 
 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 
