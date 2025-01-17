@@ -11291,6 +11291,31 @@ Used Car Price Prediction Using Machine Learning
 ```
 https://projectworlds.in/used-car-price-prediction-using-machine-learning/
 ```
+# Wine Quality Prediction Analysis start
+```
+Wine Quality Prediction
+https://www.geeksforgeeks.org/wine-quality-prediction-machine-learning/
+Wine Quality Prediction — with source code — 2023
+https://machinelearningprojects.net/wine-quality-prediction/
+```
+# Wine Quality Prediction Analysis end
+
+# Income Classification start
+
+Income Classification	
+```
+https://thecleverprogrammer.com/2020/12/15/income-classification-with-python/	
+```
+# Income Classification end
+
+# Cifar-10 start
+```
+https://github.com/noumannahmad/Flask/tree/master/CIFAR-10-image-classification
+Python 3.7 Works fine
+python main.py
+Successfully runs like a charm
+```
+# Cifar-10 end
 
 # Car Price Prediction end
 
@@ -11308,11 +11333,8 @@ https://thecleverprogrammer.com/2020/07/12/customer-segmentation/
 
 ```
 Car And Pedestrian Tracker
-Cifar-10
-Income Classification using ML
 Startups Success Rate Prediction
 Bigmart Sales Prediction Analysis
-Wine Quality Prediction Analysis
 Turkiye Student Evaluation Analysis
 Traffic Forecast
 Million Songs Dataset
@@ -11463,7 +11485,6 @@ Indian Cricket Team Player's Next Match Performance Prediction
 Titanic Survival Prediction
 Tracking of Covid-19 in Animals.
 Traffic Sign Recognition
-Wine Quality Prediction
 Play Money Ball
 Baseball
 Predict Stock Prices
@@ -11925,7 +11946,6 @@ Image Animation using First Order Motion Model
 Birth Rate Analysis
 Gold Price Prediction
 Text Generation Project
-Income Classification
 Market Basket Analysis using Apriori Algorithm
 Outlier Detection Project
 OpenAI Gym in Machine Learning
@@ -13403,7 +13423,6 @@ Face recognition using Artificial Intelligence
 Face recognition using GUI
 FaceMask Detection using TensorFlow in Python
 Python OpenCV – Super-resolution with deep learning
-CIFAR-10 Image Classification in TensorFlow
 Dog Breed Classification Using Transfer Learning
 Flower Recognition Using Convolutional Neural Network
 Emojify using Face Recognition with Machine Learning
@@ -13705,10 +13724,7 @@ Multi-Class Image Classification Flask App \| Complete Project
 
 https://buffml.com/multi-class-image-classification-flask-app-complete-project/
 
-https://github.com/noumannahmad/Flask/tree/master/CIFAR-10-image-classification
-Python 3.7 Works fine
-python main.py
-Successfully runs like a charm
+
 ```
 
 ```
@@ -14247,22 +14263,6 @@ https://github.com/noumannahmad/Flask/tree/master
 Multi-Class Image Classification Flask App | Complete Project		
 
 https://buffml.com/multi-class-image-classification-flask-app-complete-project/		
-
-https://github.com/noumannahmad/Flask/tree/master/CIFAR-10-image-classification		
-Python 3.7 Works fine		
-python main.py		
-Successfully runs like a charm		
-
-https://www.javatpoint.com/image-forgery-detection-using-machine-learning		
-
-
-		
-
-https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265		
-
-https://amankharwal.medium.com/25-machine-learning-projects-with-python-9af3ca130566
-
- 
 
 https://machinelearningprojects.net/milk-production-prediction/
 Machine learning projects at a glance
@@ -15763,8 +15763,7 @@ Visualize a Solar System with Python.
 Share Price Forecasting Using Facebook Prophet
 https://www.geeksforgeeks.org/share-price-forecasting-using-facebook-prophet/
 
-Wine Quality Prediction
-https://www.geeksforgeeks.org/wine-quality-prediction-machine-learning/
+
 
 Sales Forecast Prediction
 https://www.geeksforgeeks.org/sales-forecast-prediction-python/
@@ -16285,9 +16284,7 @@ https://machinelearningprojects.net/house-price-prediction/
 Stock Sentiment Analysis using headlines — with source code — easiest explanation — 2023
 
 https://machinelearningprojects.net/stock-sentiment-analysis/
-Wine Quality Prediction — with source code — 2023
 
-https://machinelearningprojects.net/wine-quality-prediction/
 Bank Note Authentication using Random Forest — with source code — easy project — 2023
 
 https://machinelearningprojects.net/bank-note-authentication/
@@ -16707,9 +16704,7 @@ https://thecleverprogrammer.com/2020/12/20/text-generation-with-python/
 
 Spelling Correction with Python	
 https://thecleverprogrammer.com/2020/12/18/spelling-correction-with-python/		
-
-Income Classification	
-https://thecleverprogrammer.com/2020/12/15/income-classification-with-python/		
+	
 
 Language Translation Model	
 https://thecleverprogrammer.com/2020/12/08/language-translation-with-python/		
