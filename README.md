@@ -2,6 +2,7 @@
 
 
 
+
 # DRONE Technology start
 
 Real-time Semantic Segmentation with DJI Drone via RTMP
@@ -356,8 +357,8 @@ https://www.youtube.com/watch?v=wCPuj_iJHmY
 
 https://www.youtube.com/watch?v=5dh9abXqMok
 
-https://github.com/murtazahassan/Tello-Object-Tracking 
-``` 
+https://github.com/murtazahassan/Tello-Object-Tracking
+```
 
 
 YOLO (Real Time Object Detect) 
@@ -446,6 +447,7 @@ pip install DroneBlocksTelloSimulator
 ```
  
 # DRONE Technology end
+
 
 # Face Detection start
 ```
