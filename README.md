@@ -1,5 +1,33 @@
 # Artificial Intellience Projects and Research
 
+# People Counting start
+
+```
+https://pyimagesearch.com/2018/08/13/opencv-people-counter/
+https://help.ubidots.com/en/articles/1674356-people-counting-systems-with-opencv-python-and-ubidots
+https://medium.com/@rahil.gh.moosavi/counting-people-on-escalator-using-yolov8-and-opencv-from-scratch-1da725c0df66
+https://pyimagesearch.com/2023/08/21/people-counter-on-oak/
+https://github.com/clemente0731/Real-time-Traffic-and-Pedestrian-Counting
+https://www.geeksforgeeks.org/count-people-who-can-watch-the-movie/
+https://github.com/cristinaa211/People_counting_CNN_UWB
+https://www.kaggle.com/code/toosky/dl-2024bd02-202205650104
+https://www.kaggle.com/code/harinivasganjarla/people-count-resnet50
+https://www.kaggle.com/code/lazerit55/ml-proj-team-5-2-crowd-counting
+https://www.kaggle.com/code/fatmamemes/notebook8ee42e7ffc
+https://www.kaggle.com/code/meetvora090201/crowd-count-linear-regression-thermal-imaging
+https://www.kaggle.com/code/imjunias/crowd-counting-comparing-resnet50-vgg16-vgg19
+https://www.kaggle.com/code/manojnag/crowd-video-yolov7-people-number-monitoring
+https://www.kaggle.com/code/ekaterinadranitsyna/crowd-detection-model
+https://www.kaggle.com/datasets/yurenneu/people-counting-dataset
+https://www.kaggle.com/code/anaselmasry/crowd-counting
+https://www.kaggle.com/code/stpeteishii/crowd-video-yolov8-people-number-monitoring/notebook
+https://www.kaggle.com/code/grayphantom/counting-people-yolov3-gluoncv
+https://www.kaggle.com/code/paveltrusov/human-tracking-and-counting
+
+```		
+
+# People Counting end
+
 # DeepDream start
 
 ```
@@ -13941,7 +13969,6 @@ Face similarity Detection using PyTorch
 Age Conversion Using GANs Algorithm
 Business Card Recognization Using Deep Learning
 Traffic light detection using Deep Learning
-People Counting Using Deep Learning
 ```
 
 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 
