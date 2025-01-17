@@ -1,5 +1,28 @@
 # Artificial Intellience Projects and Research
 
+# Age and Gender Prediction start
+
+Age Detection
+```
+https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view
+```
+# Age and Gender Prediction end
+
+# Facial expression detection start
+
+FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos by Fudan University, Shanghai
+```
+https://bit.ly/3NCHTxd
+```
+
+Music Recommendation Based on Facial Expression
+```
+https://projectworlds.in/music-recommendation-based-on-facial-expression-sporify-api-python/
+```
+
+# Facial expression detection end
+
 # Instance segmentation start
 
 MultipathNet\
@@ -3889,11 +3912,7 @@ TensoRF: Tensorial Radiance Fields\
 https://bit.ly/3iWAFWI
 ```
 
-FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos by Fudan University, Shanghai
-```
-https://bit.ly/3NCHTxd
-```
+
 
 One-Shot Adaptation of GAN in Just One CLIP\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 One-Shot Adaptation of GAN in Just One CLIP by KAIST
@@ -10590,10 +10609,6 @@ Food recommends based on your mood python django
 https://projectworlds.in/food-recommends-based-on-your-mood-python-django/
 ```
 
-Music Recommendation Based on Facial Expression
-```
-https://projectworlds.in/music-recommendation-based-on-facial-expression-sporify-api-python/
-```
 
 Automated Answer Grading System machine learning
 ```
@@ -11556,7 +11571,6 @@ Accurate Campaign Targeting Using Classification Algorithms
 Forecasting Bike Rental Demand
 Predicting User Following Behavior On Tencent Weibo
 Improving Taxi Revenue With Reinforcement Learning
-Learning Facial Expressions From an Image
 All Your Base Are Belong To Us English Texts Written by Non-Native Speakers
 Identifying Regions High Turbidity
 A Comparison of Classification Methods for Expression Quantitative Trait
@@ -11599,7 +11613,6 @@ for Network Intrusion Detection
 Predicting Paper Counts in the Biological Sciences
 Prediction of Price Increase for MTG Cards
 Twitter Classification into the Amazon Browse Node Hierarchy
-Determining Mood From Facial Expressions
 Visualizing Personalized Cancer Risk Prediction
 Predicting the Total Number of Points Scored in NFL Games
 Short-Term Power Forecasting Of Solar PV Systems Using Techniques
@@ -11869,7 +11882,6 @@ Bike Share Usage Prediction in London
 Yelp Recommendation Project
 Prediction of consumer credit risk
 Network Intrusion Detection
-Determining Mood From Facial Expressions
 Recognition and Classification of Fast Food Images
 Bone Segmentation MRI Scans
 Mood Detection with Tweets
@@ -12064,7 +12076,6 @@ Forecasting Bike Rental Demand Machine Learning projects
 Predicting User Following Behavior On Tencent Weibo Mac
 ine Learning projects
 Improving Taxi Revenue With Reinforcement Learning Machine Learning projects
-Learning Facial Expressions From an Image Machine Learning projects
 All Your Base Are Belong To Us English Texts Written by Non-Native Speakers Machine Learning projects
 Identifying Regions High Turbidity Machine Learning projects
 A Comparison of Classification Methods for Expression Quantitative Trait Loci Machine Learning projects
@@ -13359,7 +13370,6 @@ Implement Canny Edge Detector in Python using OpenCV
 Gun Detection using Python-OpenCV
 Real-time object color detection using OpenCV
 Right and Left Hand Detection Using Python
-Age Detection Using Deep Learning in OpenCV
 OpenCV – Drowsiness Detection
 Build GUI Application Pencil Sketch from Photo in Python
 Measure Size of an Object Using Python OpenCV
@@ -13373,7 +13383,6 @@ License Plate Recognition with OpenCV and Tesseract OCR
 Handwritten Digit Recognition using Neural Network
 Image Classification with Convolutional Neural Networks (CNNs) Using Pytorch
 Human Pose Estimation with OpenCVUsing
-Age and Gender Prediction from Image Using Pytorch
 Face detection using Cascade Classifier using OpenCV-Python
 Face recognition using Artificial Intelligence
 Face recognition using GUI
@@ -13420,8 +13429,6 @@ Neural Style Transfer Using Pytorch
 Image Synthesis using Generative Adversarial Networks (GANs)
 Emotion Recognition through Facial Expressions
 Facial expression detection using the Deepface module in Python
-Face similarity Detection
-Age Conversion/Age Detection
 ```
 
 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code 
@@ -15073,9 +15080,7 @@ https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main
 
 https://bitbucket.org/viewsoftbd/licence-plate-detection/src/main/
 
-Age Detection
-/Users/user/Desktop/AI/age-detection-using-deep-learning-in-opencv
-https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view
+
 
 https://bitbucket.org/viewsoftbd/age-detection/src/main/
 
