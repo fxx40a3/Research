@@ -5,6 +5,8 @@
 Pneumonia Detection
 ```
 https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/
+https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning
+https://www.geeksforgeeks.org/pneumonia-detection-using-deep-learning/
 ```
 # Pneumonia Detection end
 
@@ -5707,11 +5709,6 @@ Air Quality Index Analysis
 https://thecleverprogrammer.com/2020/11/23/air-quality-index-analysis-with-python/
 ```
 
-Pneumonia Detection
-```
-https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/
-```
-
 Employee Attrition Prediction
 ```
 https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/
@@ -6475,10 +6472,6 @@ https://thecleverprogrammer.com/2020/05/20/data-science-project-movie-recommenda
 https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a721
 ```
 
-Pneumonia Detection 
-```    
-https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/ 
-```
 Classify Nationalities 
 ```
 https://thecleverprogrammer.com/2020/09/27/classify-nationalities-with-machine-learning/ 
@@ -13406,7 +13399,6 @@ Image generation with Convolutional Autoencoders
 Lung Cancer Detection using Convolutional Neural Network (CNN) Tensorflow
 Lung Cancer Detection Using Transfer Learning
 Lung cancer detection using PyTorch
-Pneumonia Detection Using Deep Learning
 Detecting Covid-19 with Chest X-ray
 Skin Cancer Detection Using TensorFlow
 Hand Gesture Recognition with Convolutional Neural Networks
@@ -15714,9 +15706,6 @@ https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/
 Flower Recognition Using Convolutional Neural Network
 https://www.geeksforgeeks.org/flower-recognition-using-convolutional-neural-network/
 
-Pneumonia Detection
-https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/
-
 Employee Attrition Prediction
 https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/
 
@@ -16367,9 +16356,7 @@ https://github.com/ROHANNAIK/Sales-Prediction
 Automated Attendance System
 
 https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN
-Pneumonia Detection
 
-https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning
 AI Chatbots
 
 https://github.com/topics/ai-chatbot
@@ -16817,9 +16804,6 @@ lung-cancer-detection-using-convolutional-neural-network-cnn/
 
 Lung Cancer Detection Using Transfer Learning	
 https://www.geeksforgeeks.org/lung-cancer-detection-using-transfer-learning/	
-
-Pneumonia Detection using Deep Learning	
-https://www.geeksforgeeks.org/pneumonia-detection-using-deep-learning/		
 
 Detecting Covid-19 with Chest X-ray	
 https://www.geeksforgeeks.org/detecting-covid-19-with-chest-x-ray/		
