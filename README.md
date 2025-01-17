@@ -5748,10 +5748,7 @@ Restaurant Recommendation System
 https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/
 ```
 
-Breast Cancer Detection Model
-```
-https://thecleverprogrammer.com/2020/11/14/breast-cancer-detection-with-machine-learning/
-```
+
 
 Stock Price Prediction
 ```
@@ -10753,10 +10750,7 @@ Skin cancer Detection using Machine learning
 https://projectworlds.in/skin-cancer-detection-using-machine-learning/
 ```
 
-Used Car Price Prediction Using Machine Learning
-```
-https://projectworlds.in/used-car-price-prediction-using-machine-learning/
-```
+
 
 Loan Defaulter Prediction Machine Learning
 ```
@@ -10788,10 +10782,7 @@ Pneumonia Prediction Using chest x-ray Image
 https://projectworlds.in/pneumonia-prediction-using-chest-x-ray-image-machine-learning/
 ```
 
-Breast Cancer Prediction Machine Learning Project Source Code
-```
-https://projectworlds.in/breast-cancer-prediction-machine-learning-project-source-code/
-```
+
 
 Book Recommendation System Project Machine Learning
 ```
@@ -11274,11 +11265,49 @@ https://www.scribd.com/document/639203821/500-machine-learning-projects
 https://www.studocu.vn/vn/document/truong-dai-hoc-bach-khoa-ha-noi/structured-programming/550-machine-learning-projects-ideas/55971764
 https://github.com/hemansnation/Data-Science-ML-Full-Stack/tree/master/projects
 ```
+# Breast Cancer Detection start
+Breast Cancer Detection Model
 ```
-Customer Segmentation
-Breast Cancer Detection
+https://thecleverprogrammer.com/2020/11/14/breast-cancer-detection-with-machine-learning/
+```
+Breast Cancer Prediction Machine Learning Project Source Code
+```
+https://projectworlds.in/breast-cancer-prediction-machine-learning-project-source-code/
+```
+# Breast Cancer Detection end
+
+# Car Price Prediction start
+
+Car Price Prediction Model
+```
+https://thecleverprogrammer.com/2021/08/04/car-price-prediction-with-machine-learning/
+```
+Car price Prediction  
+```
+https://www.kaggle.com/code/zabihullah18/car-price-prediction/notebook    
+https://www.kaggle.com/code/zabihullah18/car-price-prediction/input    OK
+Used Car Price Prediction Using Machine Learning
+```
+```
+https://projectworlds.in/used-car-price-prediction-using-machine-learning/
+```
+
+# Car Price Prediction end
+
+
+# Customer Segmentation start
+Customer Segmentation using Unsupervised
+```
+https://www.geeksforgeeks.org/customer-segmentation-using-unsupervised-machine-learning-in-python/
+```
+Customer Segmentation with Machine Learning
+```
+https://thecleverprogrammer.com/2020/07/12/customer-segmentation/
+```
+# Customer Segmentation end
+
+```
 Car And Pedestrian Tracker
-Car Price Prediction
 Cifar-10
 Income Classification using ML
 Startups Success Rate Prediction
@@ -11298,14 +11327,12 @@ Data Scientist's Salary Prediction
 Diabetes Classification
 Heart Disease Prediction
 First Innings Score Prediction
-Mall Customer Segmentation
 Predicting Admission into UCLA
 Predicting House Prices in Bengaluru
 Advandced Hyperparameter Tunning
 House Price Prediction Detailed Analysis
 Heart Disease Prediction
 Sentiment Analysis
-Clustering - Mall Customer Segmentation
 Clustering - KMeans Clustering for Imaginary Analysis
 China GDP Estimation
 Clustering -Turkiye Student Evaluation Analysis
@@ -11335,8 +11362,6 @@ Building Recommended system 64.Building Recommender system with surprise
 CLV _non_contractual
 CLV_online_Retail
 Collaborative Filtering Model with TensorFlow 68.Consumer complaints
-Customer Segmentation Online Retail
-Customer Segmentation Whosale Employee Turnover
 Logistic Regression
 LSTM Time Series Power Consumption for Diabetes
 Movies Recommendation system
@@ -11785,7 +11810,6 @@ Face Mask Detection
 Pedestrian Detection
 Sentiment Analysis
 Credit Card Fraud Detection Project
-Customer Segmentation using Machine Learning
 Movie recommendation using collaborative filtering
 Customer Spending classification using K means clustering
 Titanic data clustering on survived data
@@ -12268,13 +12292,6 @@ Unemployment Analysis
 ```
 https://thecleverprogrammer.com/2021/07/12/unemployment-analysis-with-python/
 ```
-
-36
-Car Price Prediction Model
-```
-https://thecleverprogrammer.com/2021/08/04/car-price-prediction-with-machine-learning/
-```
-
 37
 Spam Detection
 ```
@@ -13568,9 +13585,7 @@ https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models
 ```
 https://www.kaggle.com/search?q=diabetes+prediction
 https://www.kaggle.com/zabihullah18/code
-Car price Prediction  
-https://www.kaggle.com/code/zabihullah18/car-price-prediction/notebook    
-https://www.kaggle.com/code/zabihullah18/car-price-prediction/input    OK
+
 Global Countries \|\| EDA   
 https://www.kaggle.com/code/zabihullah18/global-countries-eda    
 https://www.kaggle.com/code/zabihullah18/global-countries-eda/input    OK
@@ -15349,7 +15364,6 @@ Worldwide Billionaires Analysis
 
 Unemployment Analysis
 /
-Car Price Prediction Model
 Spam Detection
 Count Objects in Image
 WhatsApp Chats Sentiment Analysis
@@ -15755,8 +15769,6 @@ https://www.geeksforgeeks.org/wine-quality-prediction-machine-learning/
 Sales Forecast Prediction
 https://www.geeksforgeeks.org/sales-forecast-prediction-python/
 
-Customer Segmentation using Unsupervised
-https://www.geeksforgeeks.org/customer-segmentation-using-unsupervised-machine-learning-in-python/
 
 Analyzing selling price of used cars
 https://www.geeksforgeeks.org/analyzing-selling-price-of-used-cars-using-python/
@@ -16175,9 +16187,6 @@ https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learn
 Covid-19 Detection with Machine Learning and AI
 
 https://thecleverprogrammer.com/2020/07/09/covid-19-detection/
-Customer Segmentation with Machine Learning
-
-https://thecleverprogrammer.com/2020/07/12/customer-segmentation/
 Employee Turnover Prediction with Machine Learning
 
 https://thecleverprogrammer.com/2020/07/12/employee-turnover-prediction/
