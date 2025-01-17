@@ -75,24 +75,6 @@ https://www.kaggle.com/code/leviettrieu369/garbage-classification/notebook
 https://www.kaggle.com/code/mehrinsujana/garbage-classification
 ```
 
-YOLO Series\
-Yolov4 Best Object detection Model
-```
-https://bit.ly/3650LAJ
-https://www.kaggle.com/code/yasserh/object-detection-yolo-v4
-https://www.kaggle.com/code/ranaazeem/yolov4-object-detection
-https://www.kaggle.com/discussions/general/550295
-https://www.geeksforgeeks.org/how-does-yolo-work-for-object-detection/
-https://www.geeksforgeeks.org/object-detection-with-yolo-and-opencv/
-https://korlakuntasaikamal10.medium.com/yolov4-a-comprehensive-guide-to-object-detection-using-darknet-and-opencv-bcf1688f57d7
-https://github.com/kamal3344/v4-Inference
-```
-
-Detr\
-Object Detection Learning Detection Transformer
-```
-https://bit.ly/39S5F57
-```
 	
 Vision Transformer\
 Computer vision learning the new vision transformer
@@ -100,11 +82,6 @@ Computer vision learning the new vision transformer
 https://bit.ly/39UMHLd
 ```
 	
-Dynamic RCNN\
-Computer Vision Learning 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗥-𝗖𝗡𝗡: Towards High-Quality Object Detection via Dynamic Training
-```
-https://bit.ly/3939gy5
-```
 
 DeiT: (Data-efficient image Transformer)\
 Computer Vision Learning Facebook AI Introduces 𝗗𝗲𝗶𝗧 (𝗗𝗮𝘁𝗮-𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗺𝗮𝗴𝗲 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿𝘀)
@@ -112,11 +89,6 @@ Computer Vision Learning Facebook AI Introduces 𝗗𝗲𝗶𝗧 (𝗗𝗮𝘁�
 https://bit.ly/363ZABt
 ```
 	
-Yolov5	\
-Computer Vision Learning 𝗬𝗼𝗹𝗼𝘃5 : 𝗞𝗶𝗻𝗴 𝗼𝗳 𝗼𝗯𝗷𝗲𝗰𝘁 𝗱𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
-```
-https://bit.ly/39QHTXq
-```
 
 DropBlock	\
 Computer Vision Learning 𝗗𝗿𝗼𝗽𝗕𝗹𝗼𝗰𝗸: A 𝗥𝗲𝗴𝘂𝗹𝗮𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗠𝗲𝘁𝗵𝗼𝗱 for Convolutional Networks (Image Classification) By Google 
@@ -136,14 +108,6 @@ Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolution
 https://bit.ly/3izdbG2
 ```
 
-RetinaNet\
-Computer Vision Learning RetinaNet : Focal Loss for Dense Object Detection
-```
-https://bit.ly/3o5NrlN
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/35xCHGk
-𝗣𝘆𝘁𝗼𝗿𝗰𝗵 RetinaNet : https://bit.ly/2KaRQWO
-𝘁𝗳-𝗸𝗲𝗿𝗮𝘀 RetinaNet : https://bit.ly/35vqm5q
-```
 
 SegNet\
 Computer Vision Learning SegNet
@@ -164,11 +128,6 @@ Computer Vision Learning CAM: Learning Deep Features for Discriminative Localiza
 https://bit.ly/2Y2I8ZR
 ```
 	
-R-FCN\
-Computer Vision Learning R-FCN — Positive-Sensitive Score Maps (Object Detection) by Microsoft  and Tsinghua University
-```
-https://bit.ly/3iCKsQL
-```
 
 RepVGG\
 Computer Vision Learning SOTA RepVGG: Making VGG-style ConvNets Great Again 
@@ -534,14 +493,6 @@ official Code : https://bit.ly/3sck9nQ
 pytorch: https://bit.ly/37wx5x0
 ```
 
-MR-CNN & S-CNN\
-Computer Vision Learning MR-CNN & S-CNN — Multi-Region & Semantic-aware CNNs (Object Detection)
-```
-https://bit.ly/2Zw6QTf
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eumiZyz
-official Code : https://bit.ly/2No4t2g
-Notes : https://lnkd.in/eppd-S4
-```
 
 ACoL: Adversarial Complementary Learning\
 Computer Vision Learning ACoL: Adversarial Complementary Learning (Weakly Supervised Object Localization)
@@ -577,40 +528,6 @@ SAOL
 https://bit.ly/2NVuBBs
 ```
 
-SSD\
-Computer Vision Learning SSD — Single Shot Detector (Object Detection)
-```
-https://bit.ly/37PWpyo
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9cEFYK
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eknTfCK
-official code : https://bit.ly/3dHNQcF
-Tensorflow : https://bit.ly/2NUCfvX
-pytorch :https://bit.ly/2ZP6uXV
-keras: https://bit.ly/2ZNW8ay
-```
-
-NOC\
-Computer Vision Learning NoC — Winner in 2015 COCO & ILSVRC Detection (Object Detection)
-```
-https://bit.ly/3uBrZJJ
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eBz8SmZ
-```
-
-G-RMI\
-Computer Vision Learning G-RMI — Winner in 2016 COCO Detection (Object Detection)
-```
-https://bit.ly/3kJDlap
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqBb62E
-official Code : https://lnkd.in/epKjuh5
-```
-
-TDM\
-Computer Vision Learning TDM — Top-Down Modulation (Object Detection)
-```
-https://bit.ly/3dV5zgN
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eqBb62E
-official Code : https://bit.ly/3r6Mko8
-```
 
 DSSD\
 Computer Vision Learning DSSD : Deconvolutional Single Shot Detector
@@ -618,76 +535,6 @@ Computer Vision Learning DSSD : Deconvolutional Single Shot Detector
 https://bit.ly/3q6EHg8
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ee-XTxg
 Official Code : https://bit.ly/3r6Mko8
-```
-
-FPN\
-Computer Vision Learning FPN — Feature Pyramid Network (Object Detection)
-```
-https://bit.ly/2OewZn0
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e4K4Tna
-Official Code : https://bit.ly/3r4WvcW
-tensorflow : https://bit.ly/3uKoX68
-pytorch : https://bit.ly/3r4WvcW
-keras : https://bit.ly/3e4cqVc
-```
-
-DCN\
-Computer Vision Learning DCN / DCNv1 — Deformable Convolutional Networks, 2nd Runner Up in  COCO Detection (Object Detection) 
-```
-https://bit.ly/3e3G4Kg
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e4K4Tna
-Official Code : https://bit.ly/2OdND6i
-tensorflow : https://bit.ly/3uKRSap
-pytorch : https://bit.ly/3bYDMcQ
-keras : https://bit.ly/3e5ZGh4
-```
-
-Light-Head-RCNN\
-Computer Vision Learning Light-Head R-CNN — In Defense of Two-Stage Object Detector (Object Detection)
-```
-https://bit.ly/388rtcT
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ev8kVGW
-Official Code : https://bit.ly/2OkpafB
-tensorflow : https://bit.ly/30f9X2d
-pytorch : https://bit.ly/3kI8bjD
-keras : https://bit.ly/30f9X2d
-```
-
-Cascade RCNN\
-Computer Vision Learning Cascade R-CNN — Delving into High Quality Object Detection (Object Detection)
-```
-https://bit.ly/3uUDlZz
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eRW2AMu
-Official Code : https://bit.ly/3bkvwVk
-tensorflow : https://bit.ly/3cjAKjF
-pytorch : https://bit.ly/3c3xM2j
-keras : https://bit.ly/38eWxHP
-```
-
-MegNet\
-Computer Vision Learning MegDet — A Large Mini-Batch Object Detector, 1st Place of COCO  Detection Challenge (Object Detection)
-```
-https://bit.ly/3bkNvuM
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eRZs2jt
-Official Code : https://bit.ly/3cbSzB7
-pytorch : https://bit.ly/3emNaJQ
-```
-
-StairNet\
-Computer Vision Learning StairNet — Top-Down Semantic Aggregation (Object Detection)
-```
-https://bit.ly/3bluE2P
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/euMerg6
-Official Code : https://bit.ly/38imvdw
-pytorch : https://bit.ly/38jPFZL
-```
-
-ImageNet Rethinking\
-Computer Vision Learning Rethinking ImageNet Pre-training (Object Detection, Semantic Segmentation)
-```
-https://bit.ly/3bqBfZZ
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ejeVtVC
-Official Code : https://bit.ly/3v2Qdgk
 ```
 
 ERFNet\
@@ -824,13 +671,6 @@ https://bit.ly/3rg0h2r
 Official Code : https://lnkd.in/eArhuen
 ```
 
-MultipathNet\
-Computer Vision Learning MultiPathNet / MultiPath / MPN — 1st Runner Up in 2015 COCO Detection & Segmentation (Object Detection / Instance Segmentation)
-```
-https://bit.ly/31fcTMR
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eZC5Cwk
-Official Code : https://bit.ly/3fdbNZX
-```
 
 MNC\
 Computer Vision Learning MNC — Multi-task Network Cascade, Winner in 2015 COCO Segmentation (Instance Segmentation)
@@ -1114,13 +954,6 @@ https://bit.ly/3gT11ZZ
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/en932C5
 ```
 
-D2Det\
-Computer Vision Learning 𝗗𝟮𝗗𝗲𝘁:Towards High Quality Object Detection and Instance Segmentation
-```
-https://bit.ly/3b2EDJL
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3aW0iDq
-Code : https://lnkd.in/e2UtY69
-```
 
 PolarMask\
 Computer Vision Learning 𝗣𝗼𝗹𝗮𝗿𝗠𝗮𝘀𝗸: Single Shot Instance Segmentation With Polar Representation
@@ -1221,13 +1054,6 @@ https://bit.ly/3tXTvj4
 Code : https://lnkd.in/eZmMHcx
 ```
 
-Libra R-CNN\
-Computer Vision Learning 𝙇𝙞𝙗𝙧𝙖 𝙍-𝘾𝙉𝙉: Towards Balanced Learning for Object Detection
-```
-https://bit.ly/3hDytnt
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eCz48YQ
-Code : https://lnkd.in/e7CuYKX
-```
 
 SiamRPN++\
 Computer Vision 𝐒𝐢𝐚𝐦𝐑𝐏𝐍++: Currently the highest precision single target tracking 
@@ -1315,30 +1141,6 @@ https://bit.ly/3hTIflC
 Code: https://lnkd.in/eUFyAnm
 ```
 
-Attention-RPN\
-Computer Vision Learning 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻-𝗥𝗣𝗡: Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector
-```
-https://bit.ly/3oYescY
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e-8VuVM
-Proposed dataset: https://lnkd.in/ejA9UQP
-code: https://lnkd.in/eQRtbvu
-```
-
-Aug-FPN\
-Computer Vision Learning 𝗔𝘂𝗴𝗙𝗣𝗡: Improving Multi-scale Feature Learning for Object Detection
-```
-https://bit.ly/3fUbdzi
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e8dbff5
-code : https://lnkd.in/eVXdJGm
-```
-
-Hit-Detector\
-Computer Vision Learning 𝗛𝗶𝘁-𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿: Hierarchical Trinity Architecture Search for Object Detection
-```
-https://bit.ly/3uGCLgB
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/epka5Kx
-code : https://lnkd.in/e7GAfKA
-```
 
 MCN\
 Computer Vision Learning 𝗠𝗖𝗡: Multi-task Collaborative Network for Joint Referring Expression Comprehension and Segmentation
@@ -1348,13 +1150,6 @@ https://bit.ly/3ySpjtq
 code : https://lnkd.in/eAuuZZX
 ```
 
-CentripetalNet\
-Computer Vision Learning 𝗖𝗲𝗻𝘁𝗿𝗶𝗽𝗲𝘁𝗮𝗹𝗡𝗲𝘁:: Pursuing High-quality Keypoint Pairs for Object Detection
-```
-https://bit.ly/2S1WNVB
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/evscDUK
-code : https://lnkd.in/eTgWsK4
-```
 
 ROAM\
 Computer Vision Learning 𝗥𝗢𝗔𝗠: Recurrently Optimizing Tracking Model
@@ -1514,13 +1309,6 @@ https://bit.ly/3qiIF7l
 code : https://lnkd.in/eA69E37 
 ```
 
-Tide\
-Computer Vision Learning 𝗧𝗶𝗱𝗲 : A General Toolbox for Identifying Object Detection Errors
-```
-https://bit.ly/3j5evmh
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/dUNRuNY
-code : https://lnkd.in/dEHRXfr 
-```
 
 SipMask\
 Computer Vision Learning 𝗦𝗶𝗽𝗠𝗮𝘀𝗸: Spatial Information Preservation for Fast Image and Video Instance Segmentation
@@ -1530,13 +1318,6 @@ https://bit.ly/3gMBoJE
 Code : https://lnkd.in/epiH2ei
 ```
 
-UFO²\
-Computer Vision Learning 𝗨𝗙𝗢²: A Unified Framework towards Omni-supervised Object Detection
-```
-https://bit.ly/2SVS2xA
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eJim_-u
-Code : https://lnkd.in/eFXP7Z6
-```
 
 SCAN\
 Computer Vision Learning 𝗦𝗖𝗔𝗡: Learning to Classify Images without Labels
@@ -1546,13 +1327,6 @@ https://bit.ly/2ThBv70
 Code : https://lnkd.in/exdVGUQ
 ```
 
-AABO : Adaptive Anchor Box Optimization\
-Computer Vision Learning 𝗔𝗔𝗕𝗢: Adaptive Anchor Box Optimization for Object Detection via Bayesian Sub-sampling
-```
-https://bit.ly/3qCSRaP
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e-8b3rA
-Code : https://lnkd.in/emxRuFJ
-```
 
 SimAug\
 Computer Vision Learning 𝗦𝗶𝗺𝗔𝘂𝗴: Learning Robust Representations from 3D Simulation for Pedestrian Trajectory Prediction in Unseen Cameras
@@ -1561,20 +1335,7 @@ https://bit.ly/3dlV6tK
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eHkwhzq
 Code : https://lnkd.in/ejCsnnM
 ```
-Instant-teaching\
-Computer Vision Learning 𝗜𝗻𝘀𝘁𝗮𝗻𝘁-𝗧𝗲𝗮𝗰𝗵𝗶𝗻𝗴: An End-to-End Semi-Supervised Object Detection Framework
-```
-https://bit.ly/3h0E2LU
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eBHrqVs
-```
 
-Refinement Network for RGB-D\
-Computer Vision Learning Progressively Guided Alternate Refinement Network for RGB-D 𝗦𝗮𝗹𝗶𝗲𝗻𝘁 𝗢𝗯𝗷𝗲𝗰𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻
-```
-https://bit.ly/3dtRh5O
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekSFBNw
-Code : https://lnkd.in/edP8u5u
-```
 
 Polka Lines\
 Computer Vision Learning 𝗣𝗼𝗹𝗸𝗮 𝗟𝗶𝗻𝗲𝘀: Learning Structured Illumination and Reconstruction for Active Stereo 
@@ -1852,13 +1613,6 @@ https://bit.ly/3xAQsiE
 code : https://lnkd.in/dWbUyW4
 ```
 
-CBNETv2\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗖𝗕𝗡𝗲𝘁𝗩𝟮: A Novel Composite Backbone Network Architecture for Object Detection
-```
-https://bit.ly/3s3ptvb
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gFkZ9z7g
-code : https://lnkd.in/gbcDug6f
-```
 
 PerPixel Classification\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗲𝗿-𝗣𝗶𝘅𝗲𝗹 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 is Not All You Need for Semantic Segmentation
@@ -1937,13 +1691,6 @@ https://bit.ly/3kxCSbm
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eXnmRPYA
 ```
 
-Rank and Sort Loss\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗮𝗻𝗸 & 𝗦𝗼𝗿𝘁 𝗟𝗼𝘀𝘀 for Object Detection and Instance Segmentation
-```
-https://bit.ly/3sPQt1s
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eNpC8Zee
-Code: https://lnkd.in/e5-5tp-X
-```
 
 Room Classification using Graph Neural Network\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗼𝗼𝗺 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗼𝗻 𝗙𝗹𝗼𝗼𝗿 𝗣𝗹𝗮𝗻 𝗚𝗿𝗮𝗽𝗵𝘀 𝘂𝘀𝗶𝗻𝗴 𝗚𝗿𝗮𝗽𝗵 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀
@@ -1975,14 +1722,7 @@ https://bit.ly/3mD3kTR
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eF8rr8eU
 Code : https://lnkd.in/e7u3jYMD
 ```
-	
-DetCo\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝘁𝗖𝗼: Unsupervised Contrastive Learning for Object Detection
-```
-https://bit.ly/3sQiRk9
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekDmDWgG
-Code : https://lnkd.in/eT_dezKY
-```
+
 
 DERT with Special Modulated Co-Attention\	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗙𝗮𝘀𝘁 𝗖𝗼𝗻𝘃𝗲𝗿𝗴𝗲𝗻𝗰𝗲 𝗼𝗳 𝗗𝗘𝗧𝗥 𝘄𝗶𝘁𝗵 𝗦𝗽𝗮𝘁𝗶𝗮𝗹𝗹𝘆 𝗠𝗼𝗱𝘂𝗹𝗮𝘁𝗲𝗱 𝗖𝗼-𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻
