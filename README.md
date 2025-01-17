@@ -12733,8 +12733,6 @@ https://github.com/samtuleen/skin-cancer-image-classification/blob/main/reports/
 https://github.com/sid321axn/skin_cancer_detection_webapp/tree/master
 ```
 
-
-```
 30-ai-robotics-projects-step-into-the-future
 ```
 https://coincodecap.com/top-30-ai-robotics-projects-step-into-the-future
