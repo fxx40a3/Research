@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view
 
 # Facial expression detection start
 
-FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition\	
+FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos by Fudan University, Shanghai
 ```
 https://bit.ly/3NCHTxd
