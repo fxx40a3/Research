@@ -1,5 +1,43 @@
 # Artificial Intellience Projects and Research
 
+
+# Business Card Recognization start
+
+```
+https://www.kaggle.com/code/kerneler/starter-indian-business-cards-sample-186707b2-e
+https://github.com/shubh2016shiv/japanese_business_card_recognition_ocr
+https://www.kaggle.com/code/saadurrehman97/optical-character-recognition-ocr-using-dl
+```		
+
+# Business Card Recognization end
+ 
+# Traffic light detection start
+
+```
+https://www.kaggle.com/code/sc0v1n0/mobilenet-efficient-cnn-object-detection/notebook
+https://www.kaggle.com/code/amanp143/traffic-lights-detection-using-fasterr-cnn
+https://www.kaggle.com/code/aashidutt3/traffic-light-detection-fasterrcnn
+https://www.kaggle.com/code/thanndoduy/traffic-lights-detection-with-faster-r-cnn
+https://www.kaggle.com/code/egbeolajohn/traffic-light-detection-100
+https://www.kaggle.com/code/sanjoymondal0/traffic-light-detection-using-cnn-accuracy-100
+https://www.kaggle.com/code/imegirin/segmentation-with-mask-r-cnn
+https://www.kaggle.com/code/wjybuqi/cnn-for-traffic-light-detection
+https://www.kaggle.com/code/meemr5/traffic-light-detection-pytorch-starter
+https://www.kaggle.com/code/venkatkumar001/trafficlight-detection-classification-tf
+https://www.kaggle.com/code/hadyhishammahmoud/traffic-light-classification
+https://www.kaggle.com/code/chetankrjnnce/trafficlight
+https://www.kaggle.com/code/mostafasallam/traffic-light-detection-and-classification
+https://www.kaggle.com/code/photunix/classify-traffic-lights-with-pre-trained-cnn-model
+https://www.kaggle.com/code/siumrakibulhasan/traffic-light-detection
+https://www.kaggle.com/code/souravagrawal095/traffic-light-detection-and-classification
+https://www.kaggle.com/code/pkdarabi/traffic-signs-detection-using-yolov8
+https://www.geeksforgeeks.org/cses-solutions-traffic-lights/
+https://www.geeksforgeeks.org/traffic-signs-recognition-using-cnn-and-keras-in-python/
+https://www.kaggle.com/code/majdmrawed/yolov9-traffic-signs-detection
+```		
+
+# Traffic light detection end
+
 # Semantic segmentation start
 
 SNE-RoadSeg\
