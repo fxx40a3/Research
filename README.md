@@ -1,5 +1,38 @@
 # Artificial Intellience Projects and Research
 
+# Face Detection start
+```
+https://thecleverprogrammer.com/2020/10/09/face-detection-with-python/
+```
+Untrained Deep NN\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗧𝗵𝗲 𝗞𝗼𝗿𝗲𝗮 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 (𝗞𝗔𝗜𝗦𝗧) 𝗵𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲 𝗙𝗮𝗰𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝗨𝗻𝘁𝗿𝗮𝗶𝗻𝗲𝗱 𝗗𝗲𝗲𝗽 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 𝗶𝗻 𝗡𝗮𝘁𝘂𝗿𝗲 𝗣𝘂𝗯𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+```
+https://bit.ly/3JplL7r
+```
+
+Face Detection – Dlib, OpenCV, and Deep Learning ( C++ / Python )
+```
+https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
+https://github.com/spmallick/learnopencv/tree/master/FaceDetectionComparison
+```
+Ai generated Fake Face and Real Face detection using Deepfake
+```
+https://projectworlds.in/ai-generated-fake-face-and-real-face-detection-using-deepfake-web-app-project/
+https://data-flair.training/blogs/machine-learning-project-ideas/
+https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
+03:44 Face Detection
+Face Detection 60 FPS
+https://www.computervision.zone/courses/face-detection-60-fps/
+```
+
+What is Face Detection? – The Ultimate Guide for 2022
+```
+https://learnopencv.com/what-is-face-detection-the-ultimate-guide/
+https://github.com/spmallick/learnopencv/tree/master/Face-Detection-Ultimate-Guide
+```
+
+# Face Detection end
+
 # Pneumonia Detection start
 
 Pneumonia Detection
@@ -3479,11 +3512,7 @@ https://bit.ly/3JGjIMq
 ```
 
 
-Untrained Deep NN\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗧𝗵𝗲 𝗞𝗼𝗿𝗲𝗮 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 (𝗞𝗔𝗜𝗦𝗧) 𝗵𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲 𝗙𝗮𝗰𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝗨𝗻𝘁𝗿𝗮𝗶𝗻𝗲𝗱 𝗗𝗲𝗲𝗽 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 𝗶𝗻 𝗡𝗮𝘁𝘂𝗿𝗲 𝗣𝘂𝗯𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
-```
-https://bit.ly/3JplL7r
-```
+
 
 
 JoJoGAN\	
@@ -8792,11 +8821,6 @@ https://github.com/spmallick/learnopencv/tree/master/Object-Tracking-and-Reident
 ```
 
 
-What is Face Detection? – The Ultimate Guide for 2022
-```
-https://learnopencv.com/what-is-face-detection-the-ultimate-guide/
-https://github.com/spmallick/learnopencv/tree/master/Face-Detection-Ultimate-Guide
-```
 
 Fine Tuning YOLOv7 on Custom Dataset
 ```
@@ -9816,11 +9840,6 @@ https://github.com/spmallick/learnopencv/tree/master/InstallScripts/Windows-4
 ```
 
 
-Face Detection – Dlib, OpenCV, and Deep Learning ( C++ / Python )
-```
-https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
-https://github.com/spmallick/learnopencv/tree/master/FaceDetectionComparison
-```
 
 
 Hand Keypoint Detection using Deep Learning and OpenCV
@@ -10863,10 +10882,6 @@ https://projectworlds.in/ai-mental-health-chatbot-project-python-with-source-cod
 ```
 
 
-Ai generated Fake Face and Real Face detection using Deepfake
-```
-https://projectworlds.in/ai-generated-fake-face-and-real-face-detection-using-deepfake-web-app-project/
-```
 
 
 Computer Parts Classification using CNN Web App Project
@@ -11275,7 +11290,6 @@ Million Songs Dataset
 Loan Prediction Analysis
 Iris dataset analysis
 Image to Text Conversion & Extraction
-Face Detection (OpenCV)
 IMDb sentiment review Analysis using ML
 Boston Housing Prediction Analysis
 Black Friday Sales Prediction Analysis
@@ -11540,7 +11554,6 @@ Spectrum Adaptation in Multicarrier Interference Channels
 Exploring Potential for on Data About K-12 Teacher Professional Development
 Player Behavior and Optimal Team Compositions for Online Multiplayer Games
 Algorithmic Trading Strategy Based On Massive Data Mining
-Face Detection And Recognition Of Drawn Characters
 Gene Expression Analysis Of HCMV Latent Infection
 A New Kalman Filter Method
 Using Tweets for single stock price prediction
@@ -11748,7 +11761,6 @@ Image Classification
 Music Genre Classification
 Colourizing Old B&W Images
 Language Translator
-Human Face Detection Project
 Human Face recognition
 Lane-Line Detection System
 Text Summarizer
@@ -11782,7 +11794,6 @@ Recipe Recommendation system using K means clustering
 Crude Oil Prediction using SVR & Linear Regression
 Face Recognition based Criminal Identification system
 Converting voice to text
-Face detection based attendance system
 Automatic Landmark classification using Deep Learning
 Automatic Brand Logo detection using Deep learning
 Fake News Detection Project
@@ -12042,7 +12053,6 @@ Spectrum Adaptation in Multicarrier Interference Channels Machine Learning proje
 Exploring Potential for Machine Learning on Data About K-12 Teacher Professional Development Machine Learning projects
 Player Behavior and Optimal Team Compositions for Online Multiplayer Games Machine Learning projects
 Algorithmic Trading Strategy Based On Massive Data Mining Machine Learning projects
-Face Detection And Recognition Of Drawn Characters Machine Learning projects
 Gene Expression Analysis Of HCMV Latent Infection Machine Learning projects
 A New Kalman Filter Method Machine Learning projects
 Using Tweets for single stock price prediction Machine Learning projects
@@ -13354,7 +13364,6 @@ working on
 ```
 https://www.geeksforgeeks.org/computer-vision-projects/
 Detect the RGB color from a webcam using Python – OpenCV
-Face Detection using Python and OpenCV with a webcam
 Face and Hand Landmarks Detection using Python – Mediapipe, OpenCV
 Real-Time Edge Detection using OpenCV
 Implement Canny Edge Detector in Python using OpenCV
@@ -13373,7 +13382,6 @@ Detect and Recognize Car License Plate from a video in real-time
 Handwritten Digit Recognition using Neural Network
 Image Classification with Convolutional Neural Networks (CNNs) Using Pytorch
 Human Pose Estimation with OpenCVUsing
-Face detection using Cascade Classifier using OpenCV-Python
 Face recognition using Artificial Intelligence
 Face recognition using GUI
 FaceMask Detection using TensorFlow in Python
@@ -13895,7 +13903,6 @@ https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-Robot
 02:22 Face Tracking with 2-axis PID Control		
 02:49 Face Door Lock		
 03:31 Face Emotion Detection		
-03:44 Face Detection		
 03:55 Shape Detection		
 04:26 Custom Object Detection		
 04:42 Obstacle Avoiding Robot		
@@ -15966,8 +15973,6 @@ https://www.computervision.zone/courses/gesture-volume-control/
 Hand Tracking
 https://www.computervision.zone/courses/hand-tracking/
 
-Face Detection 60 FPS
-https://www.computervision.zone/courses/face-detection-60-fps/
 
 AI Virtual Painter
 https://www.computervision.zone/courses/ai-virtual-painter/
@@ -16537,9 +16542,7 @@ https://thecleverprogrammer.com/2020/08/14/keyword-research-with-python/
 Fashion Recommendation System
 
 https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/
-Face Detection with Python
 
-https://thecleverprogrammer.com/2020/10/09/face-detection-with-python/
 Emotion Detection Model
 
 https://thecleverprogrammer.com/2020/08/16/emotion-detection-model/
