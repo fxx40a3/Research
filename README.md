@@ -6101,13 +6101,6 @@ Machine Learning Projects on Time Series Forecasting
 https://medium.com/coders-camp/10-machine-learning-projects-on-time-series-forecasting-ee0368420ccd
 ```
 
-
-2\
-Stock Price Prediction using Linear Regression   
-```
-https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
-```
-
 3\
 Earthquake Prediction Model
 ```
@@ -6268,11 +6261,6 @@ Amazon Bestselling Books Analysis
 https://thecleverprogrammer.com/2020/11/30/amazon-bestselling-books-analysis-with-python/
 ```
 
-YouTube Trending Videos Analysis
-```
-https://thecleverprogrammer.com/2020/11/28/youtube-trending-videos-analysis-with-python/
-```
-
 Calories Burned Prediction
 ```
 https://thecleverprogrammer.com/2020/11/26/calories-burned-prediction-with-python/
@@ -6292,13 +6280,6 @@ Employee Attrition Prediction
 ```
 https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/
 ```
-
-Restaurant Recommendation System
-```
-https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/
-```
-
-
 
 Stock Price Prediction
 ```
@@ -6682,11 +6663,6 @@ Employee Attrition Prediction
 https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/ 
 ```
 
-Stock Price Prediction
-```
-https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/ 
-```
-
 Earthquake Prediction Model    
 ```
 https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/ 
@@ -6875,11 +6851,6 @@ https://thecleverprogrammer.com/2020/11/16/apriori-algorithm-using-python/
 https://amankharwal.medium.com/10-machine-learning-projects-on-regression-with-python-e5494615a0d0
 ```
 
-Calories Burned Prediction
-```
-https://thecleverprogrammer.com/2020/11/26/calories-burned-prediction-with-python/ 
-```
-
 Restaurant Recommendation System
 ```
 https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/ 
@@ -7013,11 +6984,6 @@ https://thecleverprogrammer.com/2020/07/18/fake-news-detection-model/
 4 Recommendations Projects with Python
 ```
 https://medium.com/coders-camp/4-recommendation-system-projects-with-python-5934de32ba7d
-```
-
-Restaurant Recommendation System
-```
-https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/ 
 ```
 
 Fashion Recommendation System
@@ -15549,9 +15515,6 @@ https://www.computervision.zone/courses/traffic-sign-classification/
  
 https://www.computervision.zone/courses/object-detection-mobile-net-ssd/
 https://www.computervision.zone/courses/self-driving-car-using-raspberry-pi/
-
-Stock Price Prediction
-https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
 
 Real-time Sentiment Analysis System
 https://thecleverprogrammer.com/2021/03/19/streamlit-tutorial-using-python/
