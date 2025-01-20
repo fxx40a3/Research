@@ -15068,188 +15068,272 @@ https://thecleverprogrammer.com/2022/03/22/instagram-reach-analysis-using-python
 ```
 
 
-```
-Real-time Gender Detection System
-Dogecoin Price Prediction
-Google Play Store Sentiment Analysis
-Amazon Alexa Reviews Sentiment Analysis
-Social Media Ads Classification
-Fake News Detection
-Sarcasm Detection
-
-
 
 Diamond Price Prediction Model
+```
 https://thecleverprogrammer.com/2021/01/20/diamond-price-prediction-with-machine-learning/
+```
+
 
 Book Recommendation System
+```
 https://thecleverprogrammer.com/2021/01/17/book-recommendation-system/
+```
 
 Human Activity Recognition Model
+```
 https://thecleverprogrammer.com/2021/01/10/human-activity-recognition-with-machine-learning/
+```
 
 Cohort Analysis
+```
 https://thecleverprogrammer.com/2021/01/08/cohort-analysis-with-python/
+```
 
 End to end Machine Learning Projects
+```
 https://thecleverprogrammer.com/2021/01/07/deploy-machine-learning-model-with-python/
+```
 
 Life Expectancy Analysis
+```
 https://thecleverprogrammer.com/2021/01/06/life-expectancy-analysis-with-python/
+```
 
 Bitcoin Price Prediction
+```
 https://thecleverprogrammer.com/2021/01/05/bitcoin-price-prediction-with-python/
+```
 
 Human Resource Analysis
+```
 https://thecleverprogrammer.com/2021/01/04/human-resource-analysis-with-python/
+```
 
 Energy Consumption Prediction
+```
 https://thecleverprogrammer.com/2021/01/23/energy-consumption-prediction-with-machine-learning/
+```
 
 LightGBM Model
+```
 https://thecleverprogrammer.com/2021/01/15/lightgbm-in-machine-learning/
+```
 
 Gold Price Prediction
+```
 https://thecleverprogrammer.com/2020/12/23/gold-price-prediction-with-python/
+```
  
 Highest-Paid Athletes Analysis
+```
 https://thecleverprogrammer.com/2020/12/21/highest-paid-athletes-analysis-with-python/
-
-Text Generation
+```
 
 YouTube Trending Videos Analysis
+```
 https://thecleverprogrammer.com/2020/11/28/youtube-trending-videos-analysis-with-python/
+```
 
 Gender Classification
+```
 https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/
+```
 
 Flower Recognition
+```
 https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/
+```
 
 Flower Recognition Using Convolutional Neural Network
+```
 https://www.geeksforgeeks.org/flower-recognition-using-convolutional-neural-network/
+```
 
 Employee Attrition Prediction
+```
 https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/
+```
 
 Face mask Detection
+```
 https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
+```
 
 Market Basket Analysis using Apriori Algorithm
+```
 https://thecleverprogrammer.com/2020/11/16/apriori-algorithm-using-python/
+```
 
 Breast Cancer Detection
+```
 https://thecleverprogrammer.com/2020/11/14/breast-cancer-detection-with-machine-learning/
+```
 
 Earthquake Prediction Model
+```
 https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/
+```
 
 Outlier Detection
+```
 https://thecleverprogrammer.com/2020/11/12/outlier-detection-with-python/
+```
 
 Heart Disease Prediction
+```
 https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/
+```
 
 Plastic Users Analysis
+```
 https://thecleverprogrammer.com/2020/11/09/plastic-users-analysis-with-python/
-
 https://github.com/PhilippeCodes/Open-Food-Facts-Data-Analysis/blob/master/Open%20Food%20Facts.ipynb
+```
 
 Landmark Detection
+```
 https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/
-
-Visualize a Solar System with Python.
+```
 
 Share Price Forecasting Using Facebook Prophet
+```
 https://www.geeksforgeeks.org/share-price-forecasting-using-facebook-prophet/
-
-
+```
 
 Sales Forecast Prediction
+```
 https://www.geeksforgeeks.org/sales-forecast-prediction-python/
-
+```
 
 Analyzing selling price of used cars
+```
 https://www.geeksforgeeks.org/analyzing-selling-price-of-used-cars-using-python/
+```
 
 Box Office Revenue Prediction Using Linear Regression
+```
 https://www.geeksforgeeks.org/box-office-revenue-prediction-using-linear-regression-in-ml/
+```
 
 Loan Approval Prediction
+```
 https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/
+```
 
 Loan Eligibility prediction using Machine Learning Models
+```
 https://www.geeksforgeeks.org/loan-eligibility-prediction-using-machine-learning-models-in-python/
+```
 
 Boston Housing Kaggle Challenge with Linear Regression
+```
 https://www.geeksforgeeks.org/ml-boston-housing-kaggle-challenge-with-linear-regression/
+```
 
 IPL Score Prediction
+```
 https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/?ref=rp
+```
 
 Calories Burnt Prediction
+```
 https://www.geeksforgeeks.org/calories-burnt-prediction-using-machine-learning/
+```
 
 Medical Insurance Price Prediction
+```
 https://www.geeksforgeeks.org/medical-insurance-price-prediction-using-machine-learning-python/
+```
 
 Vehicle Count Prediction From Sensor Data
+```
 https://www.geeksforgeeks.org/vehicle-count-prediction-from-sensor-data/
+```
 
 Ola Bike Ride Request Forecast
+```
 https://www.geeksforgeeks.org/ola-bike-ride-request-forecast-using-ml/
+```
 
 Rainfall Prediction
+```
 https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/
+```
 
 Recognizing HandWritten Digits in Scikit Learn
+```
 https://www.geeksforgeeks.org/recognizing-handwritten-digits-in-scikit-learn/
+```
 
 Handwritten Digit Recognition using Neural Network
+```
 https://www.geeksforgeeks.org/handwritten-digit-recognition-using-neural-network/
-
-
+```
 
 Twitter Sentiment Analysis
+```
 https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
+```
 
 Facebook Sentiment Analysis using python
+```
 https://www.geeksforgeeks.org/facebook-sentiment-analysis-using-python/
+```
 
 Human Scream Detection and Analysis for Controlling Crime Rate
+```
 https://www.geeksforgeeks.org/human-scream-detection-and-analysis-for-controlling-crime-rate-project-idea/
+```
 
 Spaceship Titanic Project using Machine Learning in Python
+```
 https://www.geeksforgeeks.org/spaceship-titanic-project-using-machine-learning-python/
+```
 
 Inventory Demand Forecasting using Machine Learning in Python
+```
 https://www.geeksforgeeks.org/inventory-demand-forecasting-using-machine-learning-python/
+```
 
 Waiter’s Tip Prediction using Machine Learning
+```
 https://www.geeksforgeeks.org/heart-disease-prediction-using-ann/
+```
 
 Intrusion Detection System Using Machine Learning Algorithms
-
+```
 Detect and Recognize Car License Plate from a video in real-time
+```
 https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/
+```
 
 AI-Driven Snake Game using Deep Q Learning
+```
 https://www.geeksforgeeks.org/ai-driven-snake-game-using-deep-q-learning/
+```
 
 Human Activity Recognition – Using Deep Learning Model
+```
 https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/?ref=rp
+```
 
 Maths with Gestures using AI
+```
 https://www.computervision.zone/courses/maths-with-gestures-using-ai/
+```
 
 Live: Automated Comments Sorter
+```
 https://www.computervision.zone/courses/live-automated-comments-sorter/
+```
 
 Automated Dino Game
+```
 https://www.computervision.zone/courses/automated-dino-game/
+```
 
-
-
+```
 Learn Computer Vision with CVZone
 https://www.computervision.zone/courses/learn-computer-vision-with-cvzone/
 
