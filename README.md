@@ -11775,14 +11775,150 @@ https://www.computervision.zone/courses/traffic-sign-classification/
 
 ```
 Turkiye Student Evaluation Analysis
+https://www.kaggle.com/code/harishvutukuri/turkiye-student-evaluation
+https://www.kaggle.com/code/eriluna/teacher-s-performance-evaluation-unsupervised-ml
+https://www.kaggle.com/code/suraj520/kmeans-implementation
+https://www.kaggle.com/code/satoru90/turkey-student-evaluation-data-set-clustering
+https://www.kaggle.com/code/ronikdedhia/turkiye-student-evaluation
+https://www.kaggle.com/code/deeppatel23/turkiye-student-evaluation-dataset
+
 Traffic Forecast
+https://www.kaggle.com/code/lizk75/traffic-prediction-prophet-sarima-and-sarimax
+https://www.kaggle.com/code/noob2511/traffic-data-analysis
+https://www.kaggle.com/code/rishabhbhartiya/traffic-detection
+https://www.kaggle.com/code/tridibraj/traffic-volume-forecasting-with-lstm-and-eda-test
+https://www.kaggle.com/code/mariana65/traffic-prediction-6
+https://www.kaggle.com/code/niggoo/traffic-sequential-data-analysis
+https://www.kaggle.com/code/umeshkhatiwada/random-forest-and-logistic-regression-l2-regulariz
+https://www.kaggle.com/code/nouranmahmoudd/traffic-prediction-using-all-models-95-accuracy
+https://www.kaggle.com/code/muhammadfaizan65/traffic-prediction-detailed-eda-modeling
+https://www.kaggle.com/code/karnikakapoor/traffic-prediction-gru
+https://www.kaggle.com/code/xreina8/traffic-volume-prediction
+
 Million Songs Dataset
+https://www.kaggle.com/code/mpwolke/million-songs-zip-txt
+https://www.kaggle.com/code/marwanashref/music-recommendation-system-using-nlp
+https://www.kaggle.com/code/kyleakepanidtaworn/dtsa-5510-clustering-spotify-million-song
+https://www.kaggle.com/code/ishank201202/spotify-music-recommendation-system
+https://www.kaggle.com/code/hakim11/music-recommender-system
+https://www.kaggle.com/code/maheshvr388/share-spotify-rank-words-in-lyrics
+https://www.kaggle.com/code/willbuyers/music-recommender-system
+https://www.kaggle.com/code/gauravduttakiit/release-year-prediction-flaml-mape
+https://www.kaggle.com/code/gauravduttakiit/release-year-prediction-flaml-r2
+https://www.kaggle.com/code/gauravduttakiit/release-year-prediction-flaml-mse
+https://www.kaggle.com/code/gauravduttakiit/release-year-prediction-flaml-mae
+https://www.kaggle.com/code/gauravduttakiit/release-year-prediction-flaml-rmse
+
 Loan Prediction Analysis
+https://www.kaggle.com/code/vtella/starter-loan-prediction-problem-36866eee-e
+https://www.kaggle.com/code/yeyeongcho/loan-prediction
+https://www.kaggle.com/code/zohaib123/data-explore-techniques-eda-loan-pridiction
+https://www.kaggle.com/code/saikiranrepaka/loan-prediction-uss
+https://www.kaggle.com/datasets/ninzaami/loan-predication
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
+https://www.kaggle.com/code/akadir0223/loan-approval
+https://www.kaggle.com/code/b3bkarino/loan-approval-prede
+https://www.kaggle.com/code/youssefelzahar/loan-approval-catboost-and-lightboosting
+https://www.kaggle.com/code/fawadmughal/loan-approval-prediction
+https://www.kaggle.com/code/bison777/loan-prediction
+https://www.kaggle.com/code/bhavikjikadara/loan-status-prediction-decisiontreeclassifier
+https://www.kaggle.com/code/akshaydani/loan-prediction-analysis-with-random-forests
+https://www.kaggle.com/code/samudra89/01-credit-risk-modeling
+https://www.kaggle.com/code/licgsg/loan-prediction
+https://www.kaggle.com/code/adamsavageau/optimizing-loan-portfolios-regression-techniques
+
 Iris dataset analysis
+https://www.kaggle.com/code/anweshaghosh123/train-test-split-iris-dataset
+https://www.kaggle.com/code/vishalaru/iris-dataset-classification
+https://www.kaggle.com/code/abhishek0032/learn-classify-the-iris-dataset-adventure
+https://www.kaggle.com/code/pruthvikmachhi/iris-classification-deployment
+https://www.kaggle.com/datasets/uciml/iris
+https://www.kaggle.com/code/muhammeteminakkurt/ris-notebook
+https://www.kaggle.com/code/umutalkn/assumptions-and-performance-iris-dataset-linear-r
+https://www.kaggle.com/code/jacopoferretti/iris-species-classification-decision-regions
+https://www.kaggle.com/code/hacquerqop/starter-iris-species-24570af4-d
+https://www.kaggle.com/code/allseen/iris01
+https://www.kaggle.com/code/emineyetm/exploring-the-iris-flower-dataset
+https://www.kaggle.com/code/dhruv1234/iris-exploratory-data-analysis
+https://www.geeksforgeeks.org/exploratory-data-analysis-on-iris-dataset/
+https://www.geeksforgeeks.org/iris-dataset/
+
 Image to Text Conversion & Extraction
-IMDb sentiment review Analysis using ML
+https://www.geeksforgeeks.org/how-to-extract-text-from-images-with-python/
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
+https://python.plainenglish.io/read-text-from-images-using-pythons-tesseract-library-8e916e3fefca
+https://sanaazahra.medium.com/ocr-segmentation-with-python-code-f3251114ee48
+https://www.kaggle.com/code/damthanh/text-detection-ocr
+https://www.kaggle.com/code/prabalpratapsinghml/compare-ocr-for-amazon-ml-challenge-2024
+https://www.kaggle.com/code/hussamcheema/text-ocr-v1
+https://www.kaggle.com/code/gbiamgaurav/extracting-text-from-images-ocr-techniques
+https://www.kaggle.com/code/nirkoren/text-detection-by-segmentation
+https://www.kaggle.com/code/kkhandekar/extract-text-from-images-tutorial-ocr
+https://www.kaggle.com/code/badhansen/text-extraction-from-images-easyocr-pytesseract
+https://www.kaggle.com/code/razamh/text-extraction-from-image-using-ocr/notebook
+
+IMDb sentiment review Analysis
+https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
+https://www.kaggle.com/code/sivas1292/sentiment-analysis-bert
+https://www.kaggle.com/code/firojpaudel/cohort-34-challenge-traditional-way
+https://www.kaggle.com/code/bertrandbordage/starter-imdb-dataset-of-50k-movie-7256f275-e
+https://www.kaggle.com/code/iyajainfinity/starter-imdb-dataset-of-50k-movie-d894ceb8-d
+https://www.kaggle.com/code/fawzimohamed/imdb-movie-review
+https://www.kaggle.com/code/kalyantrojan/nb-svm
+https://www.kaggle.com/code/jgacho/started-with-imbd-sentiment-analysis
+https://www.kaggle.com/code/ashmitcajla/basic-sentiment-analysis-a-z
+https://www.kaggle.com/code/gyash1512/notebook50b81a09a6
+https://www.kaggle.com/code/yazghar/mmds-proj-part4
+https://medium.com/@AMustafa4983/sentiment-analysis-on-imdb-movie-reviews-a-beginners-guide-d5136ec74e56
+https://www.kaggle.com/code/meetnagadia/imdb-review-sentiment-analysis-using-bert
+
+Sentiment Analysis Datasets
+https://www.geeksforgeeks.org/dataset-for-sentiment-analysis/
+
+1. IMDb Reviews Dataset
+2. Twitter Sentiment Analysis Dataset
+3. Amazon Product Reviews
+4. Yelp Reviews Dataset
+5. Sentiment140
+6. Airbnb Reviews Dataset
+7. Kaggle Movie Reviews Dataset
+8. Stanford Sentiment Treebank
+9. Financial News Sentiment Analysis Dataset
+10. SemEval
+11. YouTube Comments Dataset
+12. Reddit Comments Dataset
+13. E-commerce Reviews Dataset
+14. Hotel Reviews Dataset
+15. MovieLens Dataset
+
+Sentiment Analysis with an Recurrent Neural Networks (RNN)
+https://www.geeksforgeeks.org/sentiment-analysis-with-an-recurrent-neural-networks-rnn/
+
 Boston Housing Prediction Analysis
+https://www.geeksforgeeks.org/ml-boston-housing-kaggle-challenge-with-linear-regression/
+https://www.geeksforgeeks.org/multiple-linear-regression-analysis-of-boston-housing-dataset-using-r/
+https://towardsdatascience.com/predict-housing-price-using-linear-regression-in-python-bfc0fcfff640
+https://www.kaggle.com/code/shreayan98c/boston-house-price-prediction
+https://www.kaggle.com/code/mishraom/starter-boston-house-prices-cf2ae633-9
+https://www.kaggle.com/code/tejaswimogiliraju/starter-boston-house-prices-bf929245-f
+https://www.kaggle.com/code/karimsherif13/model-comparison-and-optimization-for-regression
+https://www.kaggle.com/code/nupurshah123/boston-house-price-prediction-with-regression
+https://www.kaggle.com/code/vaishnavikhilari/boston-house-price-prediction
+https://www.kaggle.com/code/sejalkshirsagar/boston-house-price-prediction-linear-reg
+https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset
+https://www.kaggle.com/code/tolgahancepel/boston-housing-regression-analysis
+
 Bike Sharing Demand Analysis
+https://www.kaggle.com/code/beomseongkim/random-forest-regression
+https://www.kaggle.com/code/sonawanelalitsunil/forecasting-hourly-bike-rental-demand
+https://www.kaggle.com/code/beomseongkim/random-forest-regression
+https://www.kaggle.com/code/sonawanelalitsunil/forecasting-hourly-bike-rental-demand
+https://www.kaggle.com/c/bike-sharing-demand/data?sampleSubmission.csv
+https://github.com/sinhabishal77/Kaggle-Bike-Sharing-Demand
+https://www.geeksforgeeks.org/ola-bike-ride-request-forecast-using-ml/
+https://github.com/darshil2848/Bike-Shraing-Demand-Prediction
+
+
 Data Scientist's Salary Prediction
 Diabetes Classification
 Heart Disease Prediction
