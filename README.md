@@ -13133,9 +13133,7 @@ https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=11s&ab_channel=freeCodeCamp.org
 
 https://www.tensorflow.org/api_docs/python
 Fun
-Number Guessing Game
 
-https://thecleverprogrammer.com/2020/12/04/number-guessing-game-with-python-and-c/
 Google Search tensorflow advanced techniques github
 
 https://www.google.com/search?q=tensorflow+advanced+techniques+github&sca_esv=012f470da02fcbcc&sxsrf=ADLYWIKinHYbNxTplandUPfg78EUFZYVSw%3A1719973592251&ei=2LaEZoCGD-3r1e8P8tWuyAw&oq=tensorflow+advanced+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3RlbnNvcmZsb3cgYWR2YW5jZWQgZ2l0KgIIADIGEAAYFhgeMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRItxdQhwFYzwtwAXgBkAEAmAHjAaABuwaqAQUwLjIuMrgBA8gBAPgBAZgCBaACwgbCAgoQABiwAxjWBBhHwgILEAAYgAQYkQIYigXCAgUQABiABMICCxAAGIAEGIYDGIoFmAMAiAYBkAYIkgcFMS4yLjKgB_cR&sclient=gws-wiz-serp
@@ -13673,10 +13671,7 @@ https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=11s&ab_channel=freeCodeCamp.org
 37 hours		
 
 https://www.tensorflow.org/api_docs/python		
-Fun		
-Number Guessing Game		
-
-https://thecleverprogrammer.com/2020/12/04/number-guessing-game-with-python-and-c/		
+Fun			
 Google Search tensorflow advanced techniques github		
 
 https://www.google.com/search?q=tensorflow+advanced+techniques+github&sca_esv=012f470da02fcbcc&sxsrf=ADLYWIKinHYbNxTplandUPfg78EUFZYVSw%3A1719973592251&ei=2LaEZoCGD-3r1e8P8tWuyAw&oq=tensorflow+advanced+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3RlbnNvcmZsb3cgYWR2YW5jZWQgZ2l0KgIIADIGEAAYFhgeMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRItxdQhwFYzwtwAXgBkAEAmAHjAaABuwaqAQUwLjIuMrgBA8gBAPgBAZgCBaACwgbCAgoQABiwAxjWBBhHwgILEAAYgAQYkQIYigXCAgUQABiABMICCxAAGIAEGIYDGIoFmAMAiAYBkAYIkgcFMS4yLjKgB_cR&sclient=gws-wiz-serp		
