@@ -12152,10 +12152,46 @@ https://www.kaggle.com/code/csmohamedayman/mercari-price-suggestion-challenge
 
 Modeling House Price with Regularized 
 Linear Model _ XGboost
+https://www.kaggle.com/code/mburakergenc/predictions-with-xgboost-and-linear-regression
+https://www.kaggle.com/code/yusufglcan/linear-regression-vs-xgboost-regressor
+https://www.kaggle.com/code/sriramyakannepalli/simple-linear-regression-to-xgboost
+https://www.kaggle.com/discussions/general/17120
+https://www.kaggle.com/code/jameslee66/linear-regression-with-xgboost
+https://www.geeksforgeeks.org/xgboost-for-regression/
+
+study materials
+https://gist.github.com/tejalvs/28dd35157664d3015fd5fd4e57244257
+
 Nhanes Confidence Intervals
+https://www.geeksforgeeks.org/confidence-interval/
+https://www.geeksforgeeks.org/confidence-intervals-for-machine-learning/
+https://github.com/karimkmafifi/Inferential-Statistical-Analysis-with-Python---Coursera/blob/master/nhanes_confidence_intervals_practice.ipynb
+https://www.kaggle.com/code/ramendrapandey/inference-statistics-1-confidence-intervals
+https://www.kaggle.com/code/adityabhat/confidence-intervals-with-python
+https://www.kaggle.com/code/kerneler/starter-nhanes-2015-2016-8015e231-d
+
 Nhanes hypothesis testing
-Practical Statistics House Demand Analysis. Price Elasticity of Demand Analysis
+https://www.kaggle.com/code/noir1112/nhanes-hypothesis-testing
+https://www.kaggle.com/code/ramendrapandey/inferential-statistics-2-hypothesis-testing
+https://www.kaggle.com/code/yashvi/hypothesis-testing
+https://www.kaggle.com/code/shivamchaudhary11/hypothesis-testing-on-nhanes-dataset
+https://www.kaggle.com/code/noir1112/nhanes-hypothesis-testing/notebook
+https://www.kaggle.com/code/karin444/waist-exploration
+https://www.kaggle.com/code/rayhaank/final-codebook-for-research-internship
+https://www.kaggle.com/code/atharvsn/basic-eda-on-nhnes-data
+https://www.kaggle.com/code/shivamchaudhary11/hypothesis-testing-on-nhanes-dataset/code
+
 Promotional Time Series
+https://www.geeksforgeeks.org/time-series-analysis-and-forecasting/
+https://www.geeksforgeeks.org/seasonality-detection-in-time-series-data/
+https://www.kaggle.com/code/eslam200/store-sales-regression
+https://www.kaggle.com/code/renykhan/getting-to-know-store-sales-data-explore
+https://www.kaggle.com/code/cases241/sale-forecasting-practice
+https://www.kaggle.com/code/dongzhangzj/visualization-rossmann-store-sales
+https://www.kaggle.com/code/at3191/rossmann-prophet-fcst
+https://www.digitalocean.com/community/tutorials/weather-forecast-using-ltsm-networks
+
+
 PySpark Advance Algorithms Practice Recommender Systems
 Regression Diagnostics Seattle Hotels Recommender
 Solving A Simple Classification Problem with Python Beef analysis
