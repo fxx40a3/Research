@@ -11736,6 +11736,7 @@ Wine Quality Prediction
 https://www.geeksforgeeks.org/wine-quality-prediction-machine-learning/
 Wine Quality Prediction — with source code — 2023
 https://machinelearningprojects.net/wine-quality-prediction/
+https://github.com/KalyanM45/Wine-Quality-Prediction/tree/main 
 ```
 # Wine Quality Prediction Analysis end
 
@@ -15421,8 +15422,6 @@ https://www.computervision.zone/courses/object-size-measurement/
 Qr Reader
 https://www.computervision.zone/courses/qr-reader/
 
-Facial Landmarks
-https://www.computervision.zone/courses/facial-landmarks/
  
 Augmented Reality
 https://www.computervision.zone/courses/augmented-reality/
@@ -15456,8 +15455,6 @@ https://thecleverprogrammer.com/2020/08/24/otp-verification-gui-with-python/
 
 Create an Audiobook with Python
 https://thecleverprogrammer.com/2020/10/22/create-an-audiobook-with-python/
-
-Titanic Survival Analysis
 
 Gender Classification Model
 https://thecleverprogrammer.com/2020/08/02/gender-classification-model/
@@ -15902,98 +15899,67 @@ https://thecleverprogrammer.com/2020/10/09/graph-algorithms-with-python/
 Image Features Extraction.
 
 https://thecleverprogrammer.com/2020/09/13/image-features-extraction-with-machine-learning/
+
 Rainfall Prediction with Machine Learning.
-
 https://thecleverprogrammer.com/2020/09/11/rainfall-prediction-with-machine-learning/
-Classify Nationalities with Machine Learning.
 
+Classify Nationalities with Machine Learning.
 https://thecleverprogrammer.com/2020/09/27/classify-nationalities-with-machine-learning/
+
  
 Topic Modeling with Python
-
 https://thecleverprogrammer.com/2020/10/24/topic-modeling-with-python/
+
 Named Entity Recognition
-
 https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/
+
 GPT-3 Applications
-
 https://github.com/openai/gpt-3
+
 Translate Languages Using Python
-
 https://thecleverprogrammer.com/2020/08/10/translate-using-python/
+
 Network Security Analysis
-
 https://thecleverprogrammer.com/2020/08/12/network-security-with-machine-learning/
+
 Bar Chart Race with Python
-
 https://thecleverprogrammer.com/2020/08/14/bar-chart-race-with-python/
+
 Keyword Research with Python
-
 https://thecleverprogrammer.com/2020/08/14/keyword-research-with-python/
-Fashion Recommendation System
 
+Fashion Recommendation System
 https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/
 
 Emotion Detection Model
-
 https://thecleverprogrammer.com/2020/08/16/emotion-detection-model/
+
 Telegram Bot with Python
-
 https://thecleverprogrammer.com/2020/08/18/telegram-bot-with-python/
+
 Handwriting Recognition
-
 https://thecleverprogrammer.com/2020/10/10/handwriting-recognition-with-python/
+
 Netflix Data Analysis
-
 https://thecleverprogrammer.com/2021/01/16/netflix-data-analysis-with-python/
+
 Satellite Imagery Analysis
-
 https://thecleverprogrammer.com/2021/01/14/satellite-imagery-analysis/
-Topic Modelling
 
+Topic Modelling
 https://thecleverprogrammer.com/2021/01/12/topic-modeling-with-machine-learning/
-End-to-End Machine Learning Model
 
 End-to-end Machine Learning Project
-
 https://thecleverprogrammer.com/2021/03/21/end-to-end-machine-learning-project/
 
 Customer Personality Analysis
-
 https://thecleverprogrammer.com/2021/02/08/customer-personality-analysis-with-python/
 
 Student Grades Prediction Model
-
 https://thecleverprogrammer.com/2021/04/16/student-grades-prediction-with-machine-learning/
+
 Saving a Machine Learning Model
 
-Uber Trips Analysis
-
-Google Search Analysis
-
-Interactive Language Translator
-/
- 
-
-https://github.com/koosha-t/Sentiment-Analysis-NLP-for-Marketting/tree/main
-
-https://github.com/Prakhar-FF13/Toxic-Comments-Classification/tree/master
-
-https://github.com/iamaziz/language-detection-fastText
-
-https://github.com/wasiahmad/paraphrase_identification/tree/master
-
-https://github.com/csinva/gpt-paper-title-generator/tree/master
-
-https://medium.com/@sohelrana.aiubPro/advanced-deep-learning-dl-vs-advanced-natural-language-processing-nlp-projects-with-python-758c1d223be3
- 
-
-https://github.com/ElizaLo/NLP-Natural-Language-Processing/tree/master
- 
- 
-Wine-Quality-Prediction
-
-https://github.com/KalyanM45/Wine-Quality-Prediction/tree/main
 house-interior-predictionEnd to End Deep Learning Project: Part 1
 
 https://towardsdatascience.com/end-to-end-deep-learning-project-part-1-930af1e1e191
@@ -16009,43 +15975,40 @@ https://www.stats.govt.nz/large-/csv-files-for-download/
 https://www.datablist.com/learn/csv/download-sample-csv-files
  
 Machine Learning Projects for Beginners
-
 https://thecleverprogrammer.com/2024/03/14/machine-learning-projects-for-beginners-3/
-Machine Learning Algorithms
 
+Machine Learning Algorithms
 https://thecleverprogrammer.com/2022/12/06/machine-learning-roadmap/
- 
+
+
 COMMON MACHINE LEARNING ALGORITHMS
-Linear regression: Linear regression is a simple machine learning algorithm that is used to model the relationship between a dependent variable and one or more independent variables. It is commonly used to predict a continuous numerical outcome based on a set of input features.
-Logistic regression: Logistic regression is a type of regression analysis that is used to predict a binary outcome (i.e., a outcome that can only have two possible values, such as “yes” or “no”). It is a widely used method for classification tasks, such as predicting whether a customer will churn or not.
-Decision trees: Decision trees are a type of machine learning algorithm that are used to model the decision-making process. They consist of a series of decision nodes, where each node represents a decision point, and leaf nodes, where the final decision is made. Decision trees are often used for classification tasks, such as determining whether a customer will churn or not.
-Random forests: Random forests are a type of ensemble learning algorithm that combines multiple decision trees to make a prediction. Each tree in the ensemble is trained on a different subset of the data, and the final prediction is made by averaging the predictions of all the trees. Random forests are often used for regression and classification tasks.
-K-means clustering: K-means clustering is a type of unsupervised machine learning algorithm that is used to group data points into clusters based on their similarity. It is commonly used for clustering tasks, such as customer segmentation or anomaly detection.
-Naive Bayes is a type of machine learning algorithm that is based on the Bayes theorem of probability. It is called “naive” because it makes the assumption that all the features in the data are independent of each other, which is often not the case in real-world data. Despite this assumption, Naive Bayes algorithms can still perform well in many situations and are widely used for classification tasks.
-Support Vector Machines (SVMs) are a type of supervised learning algorithm that can be used for classification or regression tasks. The idea behind SVMs is to find the hyperplane in a high-dimensional space that maximally separates the different classes. Once this hyperplane is found, new data can be easily classified by assigning them to the side of the hyperplane on which they fall.
-A neural network is a type of machine learning algorithm modeled after the structure and function of the human brain. It is composed of multiple layers of interconnected “neurons,” which process and transmit information. Neural networks are trained using large amounts of data and are able to learn and make predictions or decisions based on that data. They are commonly used in a variety of applications, such as image recognition, natural language processing, and time series forecasting.
-Deep learning algorithms
+Linear regression
+Logistic regression
+Decision trees
+Random forests
 Long Short-term Memory (LSTM) Networks
 Long Short-term Memoryconvolutional neural networks (CNNs)
 recurrent neural networks (RNNs)
 
 https://github.com/patrickloeber/ml-deployment
-Build a Machine Learning App From Scratch with Flask & Docker
 
+Build a Machine Learning App From Scratch with Flask & Docker
 https://medium.com/@nileshshindeofficial/building-a-machine-learning-model-api-with-flask-a-step-by-step-guide-6f85e9bb9773
 
 
 End-to-End-Airbnb-Price-Prediction
-
 https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction
-Article-Web-Scraping
 
+Article-Web-Scraping
 https://github.com/KalyanM45/Article-Web-Scraping/tree/main
 
 Gemini Chat Bot
-
 https://github.com/KalyanM45/Gemini-ChatBot
-python app.py, works goodstreamlit run app.pywebmaster.noor@gmail.comAPI KEY: AIzaSyD6hZMBKM58gtBz85ZdBgavgaqHbxD6pS8
+python app.py, 
+works good
+streamlit run app.py
+webmaster.noor@gmail.com
+API KEY: AIzaSyD6hZMBKM58gtBz85ZdBgavgaqHbxD6pS8
 AI-Project-Gallery/Chatbot using Langchain
 
 https://github.com/topics/nlp-projects
@@ -16053,17 +16016,6 @@ streamlit run app.py, Not Working
 API KEY: sk-proj-oMLi8fqkzQDoFoEh43qAT3BlbkFJwCDpnGWk7FS0ndolKZXg
 webmaster.noor@gmail.com
 	
-
-Social Media Followers Prediction			
-
-Amazon Product Reviews Sentiment Analysis		
-
-Hate Speech Detection			
-
-End-to-end Hate Speech Detection System		
-
-Gender Detection			
-
 Text Generation	
 https://thecleverprogrammer.com/2020/12/20/text-generation-with-python/		
 
@@ -16235,17 +16187,16 @@ https://medium.com/@sohelrana.aiubPro/advanced-deep-learning-dl-vs-advanced-natu
 
 https://github.com/ElizaLo/NLP-Natural-Language-Processing/tree/master		
 
-Wine-Quality-Prediction	
 
-https://github.com/KalyanM45/Wine-Quality-Prediction/tree/main		
 
 house-interior-prediction
+
 End to End Deep Learning Project: Part 1: 
 https://towardsdatascience.com/end-to-end-deep-learning-project-part-1-930af1e1e191		
-Deploying an End to End Deep Learning Project with few clicks: Part 2	[
-https://towardsdatascience.com/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16 ](
-https://towardsdatascience.com/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16)		
-
+Deploying an End to End Deep Learning Project with few clicks: Part 2
+https://towardsdatascience.com/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16
+```
+```
 https://github.com/V-Sher/house-interior-prediction?source=post_page-----89009cff6f16--------------------------------		
 Huge Data Set Collection	
 https://www.stats.govt.nz/large-/csv-files-for-download/		
@@ -16256,14 +16207,16 @@ Machine Learning Projects for Beginners
 https://thecleverprogrammer.com/2024/03/14/machine-learning-projects-for-beginners-3/		
 Machine Learning Algorithms	
 https://thecleverprogrammer.com/2022/12/06/machine-learning-roadmap/		
-
+```
 
 Deep learning algorithms	
-
+```
 Long Short-term Memory (LSTM) Networks		
 Long Short-term Memoryconvolutional neural networks (CNNs)		
 recurrent neural networks (RNNs)		
+```
 
+```
 https://github.com/patrickloeber/ml-deployment	
 
 Build a Machine Learning App From Scratch with Flask & Docker	
@@ -16278,15 +16231,12 @@ https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/
 https://medium.com/@nileshshindeofficial/
 
 building-a-machine-learning-model-api-with-flask-a-step-by-step-guide-6f85e9bb9773		
-
-
 https://www.statworx.com/en/content-hub/blog/how-to-build-a-machine-learning-api-with-python-and-flask/		
 
 https://github.com/gahogg/YouTube-I-mostly-use-colab-now-/tree/master		
-
 https://www.youtube.com/watch?v=qNF1HqBvpGE&ab_channel=GregHogg		
 
 Desktop-chatbot-app	
-https://github.com/Kalebu/Desktop-chatbot-app		
+https://github.com/Kalebu/Desktop-chatbot-app	
 
 ```
