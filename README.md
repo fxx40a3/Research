@@ -12006,22 +12006,152 @@ https://github.com/darshil2848/Bike-Shraing-Demand-Prediction
 
 Data Scientist's Salary Prediction
 First Innings Score Prediction
+https://www.kaggle.com/code/jamiewelsh2/predicting-first-innings-runs-in-ipl-matches
+https://www.kaggle.com/code/minhdang99/ipl-visualization
+https://www.kaggle.com/code/bablookumars/predictive-modeling-ipl-first-innings-score
+https://www.kaggle.com/code/maso0dahmed/ipl-first-inning-scores-analysis-insights-from-es
+https://www.kaggle.com/code/shubhamsingh57/ipl-first-inning-score-prediction
+https://www.kaggle.com/code/rushikeshlavate/xgboost-for-predicting-ipl-s-1st-inning-score
+https://www.kaggle.com/code/swrnvh/first-innings-score-prediction-for-ipl
+https://www.kaggle.com/code/jamiewelsh2/predicting-t20i-first-innings-runs-scored
+
 Mall Customer Segmentation
+https://www.kaggle.com/code/totoroseattle/starter-mall-customer-segmentation-8fb8ef47-1
+https://www.kaggle.com/code/borakol1/mall-customer-segmentation
+https://www.kaggle.com/code/codingloading/k-means-dbscan-youtube-video-docker
+https://www.kaggle.com/code/teja098/k-means-clustering
+https://www.kaggle.com/code/hyeonu/starter-mall-customer-segmentation-7ac5a650-8
+https://www.kaggle.com/code/totoroseattle/starter-mall-customer-segmentation-8fb8ef47-1
+https://www.kaggle.com/code/borakol1/mall-customer-segmentation
+https://www.kaggle.com/code/codingloading/k-means-dbscan-youtube-video-docker
+https://www.kaggle.com/code/teja098/k-means-clustering
+https://www.kaggle.com/code/listonlt/mall-customers-segmentation-k-means-clustering
+https://www.kaggle.com/code/kagglecomsaad/customer-segmentation-with-k-means-clustering
+https://www.kaggle.com/code/jayrdixit/shopping-mall
+https://www.kaggle.com/code/carlacosmo/shopping-mall-customer-segmentation-data-regress
+https://www.kaggle.com/code/angc1998/shopping-mall-customer-eda-clustering
+
 Predicting Admission into UCLA
-Predicting House Prices in Bengaluru
-Advandced Hyperparameter Tunning
-Sentiment Analysis
-Clustering - Mall Customer Segmentation
+https://www.kaggle.com/code/adepvenugopal/predicting-graduate-admissions-using-ml
+https://www.kaggle.com/code/shraban020/predicting-admission-by-logistic-regression
+https://www.kaggle.com/code/pkulaba1290/starter-graduate-admissions-91c64936-a
+https://www.kaggle.com/code/dldldl62/ml-models
+https://www.kaggle.com/code/arbazkhancs/graduate-admission-prediction-using-ann
+https://www.kaggle.com/code/rraavviissaahhuu/graduate-admission-prediction
+https://www.kaggle.com/code/jsrshivam/student-admission-two-layer-neural-network
+https://www.kaggle.com/code/saarthaksangam/kernele218bbcbef
+https://github.com/anupkumar08/Learning-Python/blob/master/Predicting%20Admission%20into%20UCLA.ipynb
+https://www.geeksforgeeks.org/placement-prediction-using-logistic-regression/
+https://www.geeksforgeeks.org/ml-xgboost-extreme-gradient-boosting/
+https://github.com/anupkumar08/Learning-Python/blob/master/Predicting%20Admission%20into%20UCLA.ipynb
+
 Clustering - KMeans Clustering for Imaginary Analysis
+https://www.kaggle.com/code/heeraldedhia/kmeans-clustering-for-customer-data
+https://www.kaggle.com/code/ryanholbrook/clustering-with-k-means
+https://www.kaggle.com/code/prashant111/k-means-clustering-with-python
+https://www.kaggle.com/code/alirezahasannejad/k-means-tutorial
+https://www.kaggle.com/code/shrutimechlearn/step-by-step-kmeans-explained-in-detail/notebook
+https://www.kaggle.com/code/mbalvi75/13-kmeans-clustering
+
 China GDP Estimation
+https://www.kaggle.com/code/mustafagerme/analysis-of-china-gdp
+https://www.kaggle.com/code/twybob/21081541d-tsang-wing-yan-notebook
+https://www.kaggle.com/code/lizhecheng/china-gdp-analysis
+https://www.kaggle.com/code/ruiguo88/gdp-visualization
+https://www.kaggle.com/code/henrylin03/china-gdp-analysis-visualisation
+https://www.kaggle.com/code/tosinbells/lab-svm-support-vector-machines
+https://www.kaggle.com/code/tosinbells/lab-logistic-regression
+https://www.kaggle.com/code/shreyasrinivasan30/knn-classification
+https://www.kaggle.com/code/shreyasrinivasan30/decision-trees-drug
+https://www.kaggle.com/code/sonyalawrence/support-vector-machine-model
+https://www.geeksforgeeks.org/comparative-study-between-india-china-and-pakistan/
+
 Text Summarization using Word Frequency
+https://www.geeksforgeeks.org/text-summarization-techniques/
+https://www.geeksforgeeks.org/python-text-summarizer/
+https://techieyantechnologies.com/simple-text-summarizer/
+https://www.kaggle.com/code/imkrkannan/text-summarization-with-nltk-in-python
+https://www.kaggle.com/code/hrideshkohli/text-summarization-using-nlp-for-nlp-beginners
+https://www.kaggle.com/code/chethuhn/text-summarisation-using-nltk
+https://www.kaggle.com/code/vanvalkenberg/text-summarization-using-spacy
+https://www.kaggle.com/code/sks27199/text-summarization-in-spacy-vs-gensim
+https://www.kaggle.com/code/jacoporepossi/text-summarization-with-gemma
+
+
 California Housing
-Ad Demand Forecast 40.Article Recording System.
+https://www.kaggle.com/code/sparky42/starter-california-housing-prices-371617f9-6
+https://www.kaggle.com/code/jorgepereira/starter-california-housing-prices-ffaeb482-b
+https://www.kaggle.com/code/akshayboffic/california-housing-price-prediction
+https://www.kaggle.com/code/terance98/starter-california-housing-prices-f1f2319e-5
+https://www.kaggle.com/code/greysonwillhite/housing-p1
+https://www.kaggle.com/code/vedakeerthia/california-housing-regression-assumptions
+https://www.kaggle.com/code/shankarrajappa/regression-predict-california-median-house-price
+https://www.kaggle.com/code/singiralasiddartha/california-regression
+https://www.kaggle.com/code/okml928/starter-california-housing-data-1990-d6c9c014-b
+https://www.kaggle.com/code/aureliahavisham/hands-on-ml-practice-ca-housing-regression
+https://www.kaggle.com/code/a113ssa/california-housing-prices
+https://www.kaggle.com/code/anjutyagi/california-housing-data
+https://www.kaggle.com/code/mirasaif/california-house-prediction
+https://www.kaggle.com/code/adiefo/california-house-linear-regression
+https://www.kaggle.com/code/monilia/house-price-pytorch-3entry
+https://www.kaggle.com/code/monilia/new-house-detection-price-torch
+https://www.kaggle.com/code/ilialar/california-housing-analysis-and-preciction
+https://www.geeksforgeeks.org/regression-models-for-california-housing-price-prediction/
+https://www.geeksforgeeks.org/house-price-prediction-with-catboost/
+https://medium.com/@schuerch_sarah/beginners-guide-to-predicting-house-prices-with-random-forest-step-by-step-introduction-with-a-aee81daae3ee
+https://github.com/Sarvesh2k03/Projects
+
 Autoencoder for customer churn
+https://www.geeksforgeeks.org/ml-classifying-data-using-an-auto-encoder/
+https://www.geeksforgeeks.org/auto-encoders/
+https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Autoencoder%20for%20Customer%20Churn.ipynb
+https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction
+https://www.kaggle.com/code/gauravduttakiit/customer-churn-autoviz
+https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data
+https://github.com/naomifridman/Deep-VAE-prediction-of-churn-customer
+https://www.kaggle.com/code/simgeerek/churn-prediction-using-machine-learning
+
+
+
 Bayesian Logistic Regression Bank marketing
-Bayesian Statistics 44.BOW TFIDF XGboost Update
-Autoencoder For Bank Employee Retention 46.Mercari Price Suggestion Lightgbm
-Modeling House Price with Regularized 48.Linear Model _ XGboost
+https://www.kaggle.com/code/nhunguyen1906/logistic-regression-bank-marketing
+https://www.kaggle.com/code/lalehseyin/bank-marketing
+https://www.kaggle.com/code/jerometam/behaviour-prediction-bank-marketing
+https://www.kaggle.com/code/mahmoudhussein16/bank-market-segmentation-with-neural-networks
+https://www.kaggle.com/code/ahmedmahmoud16/bank-marketing-segmentation
+https://www.kaggle.com/code/achazngwouanzi/bank-marketing-eda
+https://www.kaggle.com/code/karthik3890/bank-marketing-data-logistic-regression
+https://www.kaggle.com/code/muratmert/bank-marketing-analysis-with-algorithms
+https://www.kaggle.com/code/hariharanpavan/bank-marketing-analysis
+https://www.kaggle.com/code/benroshan/bank-marketing-campaign-predictive-analytics
+https://github.com/ashutoshmakone/Bank-Marketing-Dataset-Machine-Learning
+https://www.kaggle.com/code/manohar676/logistic-regression-using-bank-dataset
+
+Autoencoder For Bank Employee Retention 
+https://www.kaggle.com/code/panamby/bank-retention-ann
+https://cendikiaishmatuka.medium.com/bank-churn-analysis-understanding-customer-attrition-28e8cea73a86
+https://www.kaggle.com/code/deepaksurana/fraud-detection-using-autoencoders-in-keras
+https://www.geeksforgeeks.org/auto-encoders/
+
+
+
+
+
+
+Mercari Price Suggestion Lightgbm
+https://medium.com/analytics-vidhya/mercari-price-suggestion-challenge-66500ac1f88a
+https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Mercari%20Price%20Suggestion%20Lightgbm.ipynb
+https://arkaprava.medium.com/product-resale-price-prediction-using-machine-learning-a-case-study-6c789f86fee2
+https://www.kaggle.com/code/iamprateek/submission-to-mercari-price-suggestion-challenge
+https://www.kaggle.com/code/kwangminki/mercari-price-suggest-ridge-practice-lb-0-46
+https://www.kaggle.com/code/csmohamedayman/mercari-price-suggestion-challenge
+https://www.kaggle.com/code/mrfirdauss20/price-prediciton
+https://www.kaggle.com/code/suraj520/electra-know-train-infer
+https://www.kaggle.com/code/kwangminki/mercari-price-suggest-ridge-practice-lb-0-46
+https://www.kaggle.com/code/csmohamedayman/mercari-price-suggestion-challenge
+
+Modeling House Price with Regularized 
+Linear Model _ XGboost
 Nhanes Confidence Intervals
 Nhanes hypothesis testing
 Practical Statistics House Demand Analysis. Price Elasticity of Demand Analysis
