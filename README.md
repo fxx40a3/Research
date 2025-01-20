@@ -6330,7 +6330,7 @@ https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-py
 
 Stock Price Prediction
 ```
-https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
+/
 ```
 
 Earthquake Prediction Model
@@ -6905,7 +6905,7 @@ https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with
 
 Stock Price Prediction
 ```
-https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/ 
+/ 
 ```
 
 Earthquake Prediction Model
@@ -8935,6 +8935,11 @@ https://github.com/spmallick/learnopencv/tree/master/Real_Time_Deep_SORT_using_T
 Top 5 AI papers of July 2023
 ```
 https://learnopencv.com/top-5-ai-papers-of-july-2023/
+Paper 1: Llama 2: Open Foundation and Fine-Tuned Chat Models
+Paper 2: Flash Attention 2
+Paper 3: What Should Data Science Education Do with Large Language Models?
+Paper 4: Less is More – Focus Attention for Efficient DETR
+Paper 5: Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing
 ```
 
 
@@ -11549,86 +11554,71 @@ https://github.com/D-X-Y/AutoDL-Projects
 ```
 https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
 ```
-1\
 Stock Price Prediction with LSTM Neural Network
 ```
 https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/
 ```
 
-2\
 Online Payments Fraud Detection
 ```
 https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/
 ```
 
-
-4\
 Waiter Tips Analysis &amp; Prediction
 ```
 https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-learning/
 ```
 
-5\
 Stock Price Prediction
 ```
-https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
+https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning
 ```
 
-6\
 Flipkart Reviews Sentiment Analysis
 ```
 https://thecleverprogrammer.com/2022/02/15/flipkart-reviews-sentiment-analysis-using-python/
 ```
 
-7
 Cryptocurrency Price Prediction for the next 30 days
 ```
 https://thecleverprogrammer.com/2021/12/27/cryptocurrency-price-prediction-with-machine-learning/
 ```
 
-8    
 Article Recommendation System    
 ```
 https://thecleverprogrammer.com/2021/11/10/article-recommendation-system-with-machine-learning/
 ```
 
-9
 Netflix Stock Price Prediction
 ```
 https://thecleverprogrammer.com/2022/02/08/netflix-stock-price-prediction-with-machine-learning/
 ```
 
-10
 Time Series Analysis
 ```
-https://thecleverprogrammer.com/2022/01/17/time-series-analysis-using-python/
+https://thecleverprogrammer.com/2022/01/17/time-series-analysis-using-python
 ```
 
-11
 Classification with Neural Networks
 ```
 https://thecleverprogrammer.com/2022/01/10/classification-with-neural-networks-using-python/
 ```
 
-12
 Stress Detection
 ```
 https://thecleverprogrammer.com/2021/12/20/stress-detection-with-machine-learning/
 ```
 
-13
 AlexNet Neural Network Architecture
 ```
 https://thecleverprogrammer.com/2021/12/13/alexnet-architecture-using-python/
 ```
 
-14
 Visualizing a Machine Learning Algorithm
 ```
 https://thecleverprogrammer.com/2021/12/29/visualize-a-machine-learning-algorithm-using-python/
 ```
 
-15
 Training and Giving Inputs to a Machine Learning Model
 ```
 https://thecleverprogrammer.com/2021/11/29/how-to-give-inputs-to-a-machine-learning-model/
@@ -11639,65 +11629,51 @@ News Classification
 https://thecleverprogrammer.com/2021/10/07/news-classification-with-machine-learning/
 ```
 
-
 Water Quality Analysis
 ```
 https://thecleverprogrammer.com/2021/08/19/water-quality-analysis/
 ```
 
-25
 Twitter Sentiment Analysis
 ```
 https://thecleverprogrammer.com/2021/09/13/twitter-sentiment-analysis-using-python/
 ```
 
-26
 Squid Game Sentiment Analysis
 ```
 https://thecleverprogrammer.com/2021/11/03/squid-game-sentiment-analysis-using-python/
 ```
 
-27
 Comparison of Classification Algorithms
 ```
 https://thecleverprogrammer.com/2021/10/02/comparison-of-classification-algorithms-in-machine-learning/
 ```
 
-28
 Tata Motors Stock Price Prediction
 ```
 https://thecleverprogrammer.com/2021/10/22/tata-motors-stock-price-prediction-with-machine-learning/
 ```
 
-29
-```
-https://thecleverprogrammer.com/2021/10/26/health-insurance-premium-prediction-with-machine-learning/
-```
-Health Insurance Premium Prediction
-
-30
+Movie Rating Analysis for Beginners
 ```
 https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/
 ```
-Movie Rating Analysis for Beginners
 
-31
+Number of Orders Prediction
 ```
 https://thecleverprogrammer.com/2021/09/27/number-of-orders-prediction-with-machine-learning/
 ```
-Number of Orders Prediction
 
-32
 Apple Stock Price Prediction
 ```
 https://thecleverprogrammer.com/2021/09/08/apple-stock-price-prediction-with-machine-learning/
 ```
 
-33
 Insurance Prediction
 ```
 https://thecleverprogrammer.com/2021/09/03/insurance-prediction-with-machine-learning/
 ```
+
 500 Machine Learning Projects
 ```
 https://www.scribd.com/document/639203821/500-machine-learning-projects
@@ -11771,9 +11747,33 @@ https://thecleverprogrammer.com/2020/07/12/customer-segmentation/
 ```
 # Customer Segmentation end
 
-```
 Car And Pedestrian Tracker
+```
 Startups Success Rate Prediction
+https://github.com/sumitjhaleriya/Startup-Success-Prediction-using-Machine-Learning
+https://www.kaggle.com/code/abdelruhmandiaa/startup-success-prediction
+https://www.kaggle.com/code/bishoykamel97/startup-success-prediction-team14
+https://www.kaggle.com/code/andriyj/notebook8155df06d1
+https://www.kaggle.com/code/muhammadshehryar57/startup-prediction-notebook-by-sherry
+https://www.kaggle.com/code/pball01/predicting-startup-success
+https://www.kaggle.com/code/fpolcari/startup-success-prediction
+```
+
+# Traffic Sign Recognition
+```
+https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI        
+01:39 Traffic Sign Detection
+
+
+Traffic Signs Recognition using CNN and Keras in Python
+https://www.geeksforgeeks.org/traffic-signs-recognition-using-cnn-and-keras-in-python/
+
+
+Traffic Sign Classification
+https://www.computervision.zone/courses/traffic-sign-classification/
+```
+
+```
 Turkiye Student Evaluation Analysis
 Traffic Forecast
 Million Songs Dataset
@@ -11796,7 +11796,6 @@ Sentiment Analysis
 Clustering - Mall Customer Segmentation
 Clustering - KMeans Clustering for Imaginary Analysis
 China GDP Estimation
-Clustering -Turkiye Student Evaluation Analysis
 Text Summarization using Word Frequency
 California Housing
 Ad Demand Forecast 40.Article Recording System.
@@ -11838,7 +11837,6 @@ Digit Recognition Model
 Stock Market Analysis for Tech Stocks 84.Time Series - Indian Nifty Next 25-day Performance Prediction.
 Introvert & Extrovert People Clustering based on Social media activity. 86.Image to Text Conversion & Extraction
 Autoencoder Fashion MNIST 88.Movie Recommendation Engine
-Spam Email Classification 90.Traffic Sign Recognizer
 Forbes 100 Billionaires Wealth Spending Analysis.
 Online Payments Fraud Detection
 Stock Price Prediction
@@ -11880,6 +11878,7 @@ https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-
 Real-time Sentiment Analysis
 https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/
 Real-time Sentiment Analysis
+
 Amazon Recommendation System
 https://thecleverprogrammer.com/2021/03/23/amazon-recommendation-system-using-python/
 
@@ -11949,7 +11948,7 @@ Time Series Forecasting
 Time Series With LSTM
 Indian Cricket Team Player's Next Match Performance Prediction
 Titanic Survival Prediction
-Traffic Sign Recognition
+
 Wine Quality Prediction
 Play Money Ball
 Baseball
@@ -11966,7 +11965,6 @@ Bigmart Sales Data
 Boston Housing Data
 Time Series Analysis Data
 Wine Quality Data
-Turkiye Student Evaluation Data
 Heights and Weights Data
 Intermediate Level
 Black Friday Data
@@ -12026,7 +12024,6 @@ Defensive Unit Performance Analysis
 Diagnosing Malignant versus Benign Breast Tumors via Techniques in High Dimensions
 Hacking the Hivemind
 Diagnosing Parkinson’s from Gait
-Implementing Algorithms on GPUs for Real-Time Traffic Sign Classification
 Vignette
 In JavaScript
 Searching for exoplanets in the Kepler public data
@@ -12935,7 +12932,6 @@ Skin Cancer Detection Using TensorFlow
 Hand Gesture Recognition with Convolutional Neural Networks
 Optical Character Recognition Using Pytorch
 Video Object Segmentation with Convolutional Networks
-Traffic Signs Recognition using CNN and Keras in Python
 Vehicle license plate recognition
 Image Inpainting with Deep Neural Networks
 Image Deblurring with Deep Neural Networks
@@ -13416,7 +13412,6 @@ working on
 https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
 00:57 Object Size Measurement		
 01:22 Document Scanner		
-01:39 Traffic Sign Detection		
 02:22 Face Tracking with 2-axis PID Control		
 02:49 Face Door Lock		
 03:31 Face Emotion Detection		
@@ -14654,7 +14649,7 @@ Fraud Detection with Machine Learning.
 https://thecleverprogrammer.com/2020/08/04/fraud-detection-with-machine-learning/
 Online Payments Fraud Detection
 
-https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/
+
 
 https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb
 Online Payment Fraud Detection
@@ -14704,7 +14699,7 @@ Consumer Complaint Classification
 https://thecleverprogrammer.com/2022/11/28/consumer-complaint-classification-with-machine-learning/
 
 Waiter Tips Analysis & Prediction
-https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-learning/
+
 
 Ukraine vs Russia Twitter Sentiment Analysis
 https://thecleverprogrammer.com/2022/03/15/ukraine-russia-war-twitter-sentiment-analysis-using-python/
@@ -14712,32 +14707,31 @@ https://thecleverprogrammer.com/2022/03/15/ukraine-russia-war-twitter-sentiment-
 Cat & Dog Classification using Convolutional Neural Network in Python
 https://www.geeksforgeeks.org/cat-dog-classification-using-convolutional-neural-network-in-python/
 
-Traffic Signs Recognition using CNN and Keras in Python
-https://www.geeksforgeeks.org/traffic-signs-recognition-using-cnn-and-keras-in-python/
+
 
 Residual Networks (ResNet) – Deep Learning
 https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/
 
 Flipkart Reviews Sentiment Analysis
-https://thecleverprogrammer.com/2022/02/15/flipkart-reviews-sentiment-analysis-using-python/
+
 
 Breast Cancer Survival Prediction
 https://thecleverprogrammer.com/2022/03/08/breast-cancer-survival-prediction-with-machine-learning/
 
 Stock Price Prediction with LSTM Neural Network
-https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/
+
 
 Cryptocurrency Price Prediction for the next 30 days
-https://thecleverprogrammer.com/2021/12/27/cryptocurrency-price-prediction-with-machine-learning/
+
 
 Article Recommendation System
-https://thecleverprogrammer.com/2021/11/10/article-recommendation-system-with-machine-learning/
+
 
 Netflix Stock Price Prediction
-https://thecleverprogrammer.com/2022/02/08/netflix-stock-price-prediction-with-machine-learning/
+
 
 Time Series Analysis
-https://thecleverprogrammer.com/2022/01/17/time-series-analysis-using-python/
+/
 
 Credit Score Classification
 https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/
@@ -14767,20 +14761,7 @@ Spam Comments Detection
 https://thecleverprogrammer.com/2022/08/02/spam-comments-detection-with-machine-learning/
 
 Clustering Music Genres
-https://thecleverprogrammer.com/2022/04/05/clustering-music-genres-with-machine-learning/
-
-Classification with Neural Networks
-https://thecleverprogrammer.com/2022/01/10/classification-with-neural-networks-using-python/
-
-Stress Detection
-https://thecleverprogrammer.com/2021/12/20/stress-detection-with-machine-learning/
-
-Visualizing a Machine Learning Algorithm
-https://thecleverprogrammer.com/2021/12/29/visualize-a-machine-learning-algorithm-using-python/
-
-Training and Giving Inputs to a Machine Learning Model
-
-https://thecleverprogrammer.com/2021/11/29/how-to-give-inputs-to-a-machine-learning-model/
+https://thecleverprogrammer.com/2022/04/05/clustering-music-genres-with-machine-learning
 
 Adding Labels to a  for Sentiment Analysis
 https://thecleverprogrammer.com/2021/11/24/add-labels-to-a--for-sentiment-analysis/
@@ -14788,8 +14769,6 @@ https://thecleverprogrammer.com/2021/11/24/add-labels-to-a--for-sentiment-analys
 Omicron Variant Sentiment Analysis
 https://thecleverprogrammer.com/2021/12/06/omicron-sentiment-analysis-using-python/
 
-AlexNet Neural Network Architecture
-https://thecleverprogrammer.com/2021/12/13/alexnet-architecture-using-python/
 
 Tata Motors Stock Price Prediction
 https://thecleverprogrammer.com/2021/10/22/tata-motors-stock-price-prediction-with-machine-learning/
@@ -14980,7 +14959,7 @@ https://techieyantechnologies.com/credit-card-approval-detection-using-machine-l
 Fraud Detection with Machine Learning.	
 https://thecleverprogrammer.com/2020/08/04/fraud-detection-with-machine-learning/		
 Online Payments Fraud Detection	
-https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/		
+		
 
 https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb		
 Online Payment Fraud Detection	
@@ -15031,30 +15010,29 @@ https://www.geeksforgeeks.org/flipkart-reviews-sentiment-analysis-using-python/
 Consumer Complaint Classification	
 https://thecleverprogrammer.com/2022/11/28/consumer-complaint-classification-with-machine-learning/		
 Waiter Tips Analysis & Prediction	
-https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-learning/		
+		
 Ukraine vs Russia Twitter Sentiment Analysis	
 https://thecleverprogrammer.com/2022/03/15/ukraine-russia-war-twitter-sentiment-analysis-using-python/		
 Cat & Dog Classification using Convolutional Neural Network in Python	
 https://www.geeksforgeeks.org/cat-dog-classification-using-convolutional-neural-network-in-python/		
-Traffic Signs Recognition using CNN and Keras in Python	
-https://www.geeksforgeeks.org/traffic-signs-recognition-using-cnn-and-keras-in-python/		
+	
 Residual Networks (ResNet) – Deep Learning	
 https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/		
 Flipkart Reviews Sentiment Analysis	
-https://thecleverprogrammer.com/2022/02/15/flipkart-reviews-sentiment-analysis-using-python/		
+		
 Breast Cancer Survival Prediction	
 https://thecleverprogrammer.com/2022/03/08/breast-cancer-survival-prediction-with-machine-learning/		
 		
 Stock Price Prediction with LSTM Neural Network	
-https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/		
+		
 Cryptocurrency Price Prediction for the next 30 days	
-https://thecleverprogrammer.com/2021/12/27/cryptocurrency-price-prediction-with-machine-learning/		
+		
 Article Recommendation System	
-https://thecleverprogrammer.com/2021/11/10/article-recommendation-system-with-machine-learning/		
+		
 Netflix Stock Price Prediction	
-https://thecleverprogrammer.com/2022/02/08/netflix-stock-price-prediction-with-machine-learning/		
+		
 Time Series Analysis	
-https://thecleverprogrammer.com/2022/01/17/time-series-analysis-using-python/		
+/		
 Credit Score Classification	
 https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/		
 Weather Forecasting	
@@ -15508,8 +15486,6 @@ https://www.computervision.zone/courses/augmented-reality/
 Self Driving Simulation using NVIDIA‚Äôs Model
 https://www.computervision.zone/courses/self-driving-simulation-using-nvidias-model/
 
-Traffic Sign Classification
-https://www.computervision.zone/courses/traffic-sign-classification/
  
 https://www.computervision.zone/courses/object-detection-mobile-net-ssd/
 https://www.computervision.zone/courses/self-driving-car-using-raspberry-pi/
