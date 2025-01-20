@@ -1,5 +1,11 @@
 # Artificial Intellience Projects and Research
 
+
+# Face-and-hand-landmarks-detection 
+```
+Face-and-hand-landmarks-detection 
+https://www.geeksforgeeks.org/face-and-hand-landmarks-detection-using-python-mediapipe-opencv/
+```
 # Heart Disease Prediction
 Heart Disease Prediction Model
 ```
