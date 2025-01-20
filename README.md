@@ -1,5 +1,38 @@
 # Artificial Intellience Projects and Research
 
+
+# Diabetes Classification
+Predict Diabetes
+```
+https://thecleverprogrammer.com/2020/07/13/predict-diabetes-with-machine-learning/ 
+```
+Diabetes Prediction using Machine Learning
+```
+https://projectworlds.in/diabetes-prediction-using-machine-learning-project-code/
+```
+
+```
+LSTM Time Series Power Consumption for Diabetes
+HealthCare -Predict Diabetes
+Predicting the Diagnosis of Type 2 Diabetes Using Electronic Medical Records
+Prediction of Diabetes and cancer using SVM
+```
+```
+https://www.kaggle.com/search?q=diabetes+prediction
+```
+https://www.kaggle.com/zabihullah18/code
+```
+
+4 Diabetes Prediction-EDA + 10 Models 
+```
+https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models
+```
+Predict Diabetes with Machine Learning
+```
+https://thecleverprogrammer.com/2020/07/13/predict-diabetes-with-machine-learning/
+```
+
+
 # Spam Detection
 
 Spam Detection using Count Vectorizer — with source code — easy explanation — 2023
@@ -6760,10 +6793,7 @@ Next Word Prediction
 https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/ 
 ```
 
-Predict Diabetes
-```
-https://thecleverprogrammer.com/2020/07/13/predict-diabetes-with-machine-learning/ 
-```
+
 
 Employee Turnover Prediction
 ```
@@ -11194,10 +11224,7 @@ https://projectworlds.in/fake-product-review-detection-using-machine-learning/
 ```
 
 
-Diabetes Prediction using Machine Learning
-```
-https://projectworlds.in/diabetes-prediction-using-machine-learning-project-code/
-```
+
 Heart Disease Prediction using Machine Learning
 ```
 https://projectworlds.in/heart-disease-prediction-using-machine-learning-project/
@@ -11920,7 +11947,6 @@ https://github.com/darshil2848/Bike-Shraing-Demand-Prediction
 
 
 Data Scientist's Salary Prediction
-Diabetes Classification
 Heart Disease Prediction
 First Innings Score Prediction
 Mall Customer Segmentation
@@ -11960,7 +11986,6 @@ Collaborative Filtering Model with TensorFlow 68.Consumer complaints
 Customer Segmentation Online Retail
 Customer Segmentation Whosale Employee Turnover
 Logistic Regression
-LSTM Time Series Power Consumption for Diabetes
 Movies Recommendation system
 Language Translation Model using ML
 U.S. Gasoline and Diesel Retail Prices 1995
@@ -12060,7 +12085,7 @@ Time Series - Weather Prediction Model
 HealthCare - Heart Disease Prediction
 HealthCare - Skin Cancer Classification
 HealthCare -Lung Segmentation
-HealthCare -Predict Diabetes
+
 Face Mask Detection using ML
 Face Expression Identifier
 Employee Turnover Prediction
@@ -12285,7 +12310,7 @@ Predicting The Treatment Status
 Error Detection based on neural signals
 Speech Similarity
 Data-Driven Modeling and Control of an Autonomous Race Car
-Predicting the Diagnosis of Type 2 Diabetes Using Electronic Medical Records
+
 A Novel Approach to Predicting the Results of NBA Matches
 Automatically Generating Musical Playlists
 Solar Flare Prediction
@@ -12388,7 +12413,6 @@ Credit Card Fraud Detection Using Neural Network
 Detecting Phishing Websites using Technique
 Final Project: Classification of Neural Responses to Threat
 A Computer-Aided Diagnosis System for Lung Cancer Detection using Machine
-Prediction of Diabetes and cancer using SVM
 Efficient Heart Disease Prediction System
 ```
 
@@ -13215,14 +13239,12 @@ https://www.kaggle.com/search?q=natural+language+processing
 3 Natural Language Processing 
 https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook 
 https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK
-4 Diabetes Prediction-EDA + 10 Models 
-https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models
+
 
 ```
 
 ```
-https://www.kaggle.com/search?q=diabetes+prediction
-https://www.kaggle.com/zabihullah18/code
+
 
 Global Countries \|\| EDA   
 https://www.kaggle.com/code/zabihullah18/global-countries-eda    
@@ -13784,10 +13806,6 @@ https://www.kaggle.com/search?q=natural+language+processing
 3 Natural Language Processing 
 https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook 
 https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK		
-4 Diabetes Prediction-EDA + 10 Models 
-https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models		
-
-Explain		
 ```
 
 
@@ -15772,9 +15790,7 @@ https://thecleverprogrammer.com/2020/06/11/weather-forecasting-with-machine-lear
 Employee Turnover Prediction with Machine Learning
 
 https://thecleverprogrammer.com/2020/07/12/employee-turnover-prediction/
-Predict Diabetes with Machine Learning
 
-https://thecleverprogrammer.com/2020/07/13/predict-diabetes-with-machine-learning/
 Time Series Forecasting with ARIMA Model
 
 https://thecleverprogrammer.com/2020/07/01/time-series-analysis-and-forecasting-with-python/
