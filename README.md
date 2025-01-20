@@ -1,5 +1,52 @@
 # Artificial Intellience Projects and Research
 
+# Spam Detection
+
+Spam Detection using Count Vectorizer — with source code — easy explanation — 2023
+```
+https://machinelearningprojects.net/spam-detection/
+```
+
+SMS Spam Detection Machine Learning Project with Source Code
+```
+https://projectworlds.in/sms-spam-detection-machine-learning-project-with-source-code/
+```
+
+Spam Detection
+```
+https://thecleverprogrammer.com/2021/06/27/spam-detection-with-machine-learning/
+```
+
+End-to-end Spam Detection System
+```
+https://thecleverprogrammer.com/2021/07/06/end-to-end-spam-detection-with-python/
+```
+
+Email Spam Detection  
+```
+https://www.kaggle.com/code/zabihullah18/email-spam-detection    
+```
+
+SMS Spam Detection
+```
+https://www.geeksforgeeks.org/sms-spam-detection-using-tensorflow-in-python/
+```
+
+Data Science Project — Email spam Detection with Machine Learning
+```
+https://thecleverprogrammer.com/2020/05/17/data-science-project-email-spam-detection-with-machine-learning/
+```
+
+SMS Spam Detection with Machine Learning
+```
+https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/
+```
+
+Hotel Reviews Sentiment Analysis
+```
+https://thecleverprogrammer.com/2021/07/03/hotel-reviews-sentiment-analysis-with-python/
+```
+
 # Language Detection
 
 Language Detection 110.Adding Labels to a Dataset for Sentiment Analysis
@@ -11309,10 +11356,7 @@ Liver Cirrhosis Stage Prediction Machine Learning Python Web App
 https://projectworlds.in/liver-cirrhosis-stage-prediction-machine-learning-python-web-app/
 ```
 
-SMS Spam Detection Machine Learning Project with Source Code
-```
-https://projectworlds.in/sms-spam-detection-machine-learning-project-with-source-code/
-```
+
 
 Fraud detection on bank payments machine learning project
 ```
@@ -11752,7 +11796,6 @@ Clustering - Mall Customer Segmentation
 Clustering - KMeans Clustering for Imaginary Analysis
 China GDP Estimation
 Clustering -Turkiye Student Evaluation Analysis
-SMS Spam Detection Analysis
 Text Summarization using Word Frequency
 California Housing
 Ad Demand Forecast 40.Article Recording System.
@@ -12229,11 +12272,7 @@ Unemployment Analysis
 ```
 https://thecleverprogrammer.com/2021/07/12/unemployment-analysis-with-python/
 ```
-37
-Spam Detection
-```
-https://thecleverprogrammer.com/2021/06/27/spam-detection-with-machine-learning/
-```
+
 
 38
 Count Objects in Image
@@ -12430,17 +12469,8 @@ End-to-end Fake News Detection System
 https://thecleverprogrammer.com/2021/07/09/end-to-end-fake-news-detection-with-python/
 ```
 
-73
-End-to-end Spam Detection System
-```
-https://thecleverprogrammer.com/2021/07/06/end-to-end-spam-detection-with-python/
-```
 
-74
-Hotel Reviews Sentiment Analysis
-```
-https://thecleverprogrammer.com/2021/07/03/hotel-reviews-sentiment-analysis-with-python/
-```
+
 
 75
 Real-time Gender Detection System
@@ -13067,8 +13097,7 @@ https://www.kaggle.com/code/zabihullah18/global-countries-eda/input    OK
 Student Performance  
 https://www.kaggle.com/code/zabihullah18/student-performance    
 https://www.kaggle.com/code/zabihullah18/student-performance/input    OK
-Email Spam Detection  
-https://www.kaggle.com/code/zabihullah18/email-spam-detection    
+
 https://www.kaggle.com/code/zabihullah18/email-spam-detection/input    OK
 
 https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision/Deploy%20Image%20Classifier%20With%20Flask          OK
@@ -14416,9 +14445,7 @@ https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0/tre
 Classify Handwritten Digits
 
 https://www.geeksforgeeks.org/python-classifying-handwritten-digits-with-tensorflow/
-SMS Spam Detection
 
-https://www.geeksforgeeks.org/sms-spam-detection-using-tensorflow-in-python/
 CNN_image_classification
 
 https://www.tensorflow.org//catalog
@@ -14660,151 +14687,123 @@ https://deepnote.com/app/deepnote/Detecting-credit-card-fraud-using-TensorFlow-a
 
 https://www.kaggle.com//mlg-ulb/creditcardfraud
 https://github.com/dheerajrathee/TensorFlow-for-Detection-Credit-Card-Fraud
+
 Credit Card Fraud Detection with TensorFlow
-
 https://www.kaggle.com/code/patriciabrezeanu/credit-card-fraud-detection-with-tensorflow
-Credit Card Fraud Detection with Machine Learning
 
+Credit Card Fraud Detection with Machine Learning
 https://thecleverprogrammer.com/2020/06/10/credit-card-fraud-detection-with-machine-learning/
 Fraud Detection
-Dogecoin Price Prediction
 
+Dogecoin Price Prediction
 https://www.geeksforgeeks.org/dogecoin-price-prediction-with-machine-learning/?ref=rp
  
 Ridge and Lasso Regression
-
 https://thecleverprogrammer.com/2020/10/09/ridge-and-lasso-regression-with-python/
 
 Flipkart Reviews Sentiment Analysis using Python
-
 https://www.geeksforgeeks.org/flipkart-reviews-sentiment-analysis-using-python/
+
 Consumer Complaint Classification
-
 https://thecleverprogrammer.com/2022/11/28/consumer-complaint-classification-with-machine-learning/
+
 Waiter Tips Analysis & Prediction
-
 https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-learning/
-Ukraine vs Russia Twitter Sentiment Analysis
 
+Ukraine vs Russia Twitter Sentiment Analysis
 https://thecleverprogrammer.com/2022/03/15/ukraine-russia-war-twitter-sentiment-analysis-using-python/
 
 Cat & Dog Classification using Convolutional Neural Network in Python
-
 https://www.geeksforgeeks.org/cat-dog-classification-using-convolutional-neural-network-in-python/
+
 Traffic Signs Recognition using CNN and Keras in Python
-
 https://www.geeksforgeeks.org/traffic-signs-recognition-using-cnn-and-keras-in-python/
+
 Residual Networks (ResNet) – Deep Learning
-
 https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/
+
 Flipkart Reviews Sentiment Analysis
-
 https://thecleverprogrammer.com/2022/02/15/flipkart-reviews-sentiment-analysis-using-python/
-Breast Cancer Survival Prediction
 
+Breast Cancer Survival Prediction
 https://thecleverprogrammer.com/2022/03/08/breast-cancer-survival-prediction-with-machine-learning/
 
 Stock Price Prediction with LSTM Neural Network
-
 https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/
+
 Cryptocurrency Price Prediction for the next 30 days
-
 https://thecleverprogrammer.com/2021/12/27/cryptocurrency-price-prediction-with-machine-learning/
+
 Article Recommendation System
-
 https://thecleverprogrammer.com/2021/11/10/article-recommendation-system-with-machine-learning/
+
 Netflix Stock Price Prediction
-
 https://thecleverprogrammer.com/2022/02/08/netflix-stock-price-prediction-with-machine-learning/
+
 Time Series Analysis
-
 https://thecleverprogrammer.com/2022/01/17/time-series-analysis-using-python/
+
 Credit Score Classification
-
 https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/
+
 Weather Forecasting
-
 https://thecleverprogrammer.com/2022/10/17/weather-forecasting-using-python/
+
 Food Delivery Time Prediction
-
 https://thecleverprogrammer.com/2023/01/02/food-delivery-time-prediction-using-python/
+
 Time Series Forecasting with ARIMA
-
 https://thecleverprogrammer.com/2022/06/21/time-series-forecasting-with-arima/
+
 Instagram Reach Analysis and Prediction
-
 https://thecleverprogrammer.com/2022/03/22/instagram-reach-analysis-using-python/
- 
- 
+  
 Website Traffic Forecasting
-
 https://thecleverprogrammer.com/2022/06/28/website-traffic-forecasting-using-python/
+
 Credit Card Clustering
-
 https://thecleverprogrammer.com/2022/10/03/credit-card-clustering-with-machine-learning/
+
 Password Strength Checker
-
 https://thecleverprogrammer.com/2022/08/22/password-strength-checker-with-machine-learning/
+
 Spam Comments Detection
-
 https://thecleverprogrammer.com/2022/08/02/spam-comments-detection-with-machine-learning/
+
 Clustering Music Genres
-
 https://thecleverprogrammer.com/2022/04/05/clustering-music-genres-with-machine-learning/
+
 Classification with Neural Networks
-
 https://thecleverprogrammer.com/2022/01/10/classification-with-neural-networks-using-python/
+
 Stress Detection
-
 https://thecleverprogrammer.com/2021/12/20/stress-detection-with-machine-learning/
-Visualizing a Machine Learning Algorithm
 
+Visualizing a Machine Learning Algorithm
 https://thecleverprogrammer.com/2021/12/29/visualize-a-machine-learning-algorithm-using-python/
-MEETING REGULARLY:11PM to 12 AM
+
 Training and Giving Inputs to a Machine Learning Model
 
 https://thecleverprogrammer.com/2021/11/29/how-to-give-inputs-to-a-machine-learning-model/
 
-
-
 Adding Labels to a  for Sentiment Analysis
-
 https://thecleverprogrammer.com/2021/11/24/add-labels-to-a--for-sentiment-analysis/
 
-5% progress
 Omicron Variant Sentiment Analysis
-
 https://thecleverprogrammer.com/2021/12/06/omicron-sentiment-analysis-using-python/
 
 AlexNet Neural Network Architecture
-
 https://thecleverprogrammer.com/2021/12/13/alexnet-architecture-using-python/
-Water Quality Analysis
-/
-Twitter Sentiment Analysis
-/
-Squid Game Sentiment Analysis
-/
-Comparison of Classification Algorithms
 
 Tata Motors Stock Price Prediction
-
 https://thecleverprogrammer.com/2021/10/22/tata-motors-stock-price-prediction-with-machine-learning/
+
 Health Insurance Premium Prediction
-
 https://thecleverprogrammer.com/2021/10/26/health-insurance-premium-prediction-with-machine-learning/
+
 Movie Rating Analysis for Beginners
-
 https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/
-Number of Orders Prediction
 
-Apple Stock Price Prediction
-
-Worldwide Billionaires Analysis
-
-Unemployment Analysis
-/
-Spam Detection
 Count Objects in Image
 WhatsApp Chats Sentiment Analysis
 WhatsApp Chats Analysis
@@ -14838,8 +14837,6 @@ A Complete Machine Learning Project Walkthrough
 Text Summarization
 Keyword Extraction
 End-to-end Fake News Detection System
-End-to-end Spam Detection System
-Hotel Reviews Sentiment Analysis
 
 Youtube Link: 
 https://www.youtube.com/watch?v=2GQm10JJ1BY
@@ -15528,9 +15525,7 @@ https://thecleverprogrammer.com/2020/05/15/data-science-project-on-extracting-ho
 Data Science Project on — Amazon Products Reviews Sentiment Analysis with Machine Learning
 https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/
 
-Data Science Project — Email spam Detection with Machine Learning
 
-https://thecleverprogrammer.com/2020/05/17/data-science-project-email-spam-detection-with-machine-learning/
 Data Science Project — Heart Disease Prediction with Machine Learning
 
 https://thecleverprogrammer.com/2020/05/20/data-science-project-heart-disease-prediction-with-machine-learning/
@@ -15584,9 +15579,7 @@ https://thecleverprogrammer.com/2020/05/27/machine-learning-project-human-activi
 Weather Forecasting with Machine Learning
 
 https://thecleverprogrammer.com/2020/06/11/weather-forecasting-with-machine-learning/
-SMS Spam Detection with Machine Learning
 
-https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/
 
 Employee Turnover Prediction with Machine Learning
 
@@ -15699,9 +15692,7 @@ https://machinelearningprojects.net/movie-recommendation-system/
 Face and Eye detection in cv2 using Haarcascades — with source code — easiest way — 2023
 
 https://machinelearningprojects.net/face-and-eye-detection-in-cv2/
-Spam Detection using Count Vectorizer — with source code — easy explanation — 2023
 
-https://machinelearningprojects.net/spam-detection/
 House Tax Prediction using Random Forest — Boston Housing Data — with source code — 2023
 
 https://machinelearningprojects.net/house-tax-prediction/
