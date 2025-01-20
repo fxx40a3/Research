@@ -1,5 +1,76 @@
 # Artificial Intellience Projects and Research
 
+# Heart Disease Prediction
+Heart Disease Prediction Model
+```
+https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/
+```
+Heart Disease Prediction
+```
+https://thecleverprogrammer.com/2020/05/20/heart-disease-prediction-with-machine-learning/ 
+```
+
+Heart Disease Prediction
+```
+https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/ 
+```
+
+
+Heart Disease Prediction using Machine Learning
+```
+https://projectworlds.in/heart-disease-prediction-using-machine-learning-project/
+```
+
+Heart Disease Prediction
+```
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/02.heart_disease_prediction.ipynb
+https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb
+        
+https://github.com/kb22/Heart-Disease-Prediction/blob/master/.csv
+https://www.kaggle.com/code/princekr/starter-heart-csv-f47cc3be-a/input
+https://figshare.com/articles//heart_csv/20236848?file=36169122
+https://www.kaggle.com//zhaoyingzhu/heartcsv/code
+https://www.kaggle.com//arezaei81/heartcsv
+```
+
+Heart Disease Prediction Using Logistic Regression
+```
+https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/
+```
+
+
+Heart Disease Prediction Using Logistic Regression	
+```
+https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/	
+```
+
+
+Heart Disease Prediction
+```
+https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/
+```
+
+Data Science Project — Heart Disease Prediction with Machine Learning
+```
+https://thecleverprogrammer.com/2020/05/20/data-science-project-heart-disease-prediction-with-machine-learning/
+```
+
+Making a Machine to predict whether a person is affected which Heart Disease or Not.
+```
+https://techieyantechnologies.com/heart-disease-prediction-using-machine-learning/
+```
+
+Heart Disease Prediction using Machine Learning
+```
+https://techieyantechnologies.com/heart-disease-prediction-using-machine-learning/
+```
+
+
+Heart Disease Prediction
+```
+https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning
+```
+
 
 # Diabetes Classification
 Predict Diabetes
@@ -6371,10 +6442,7 @@ Earthquake Prediction Model
 https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/
 ```
 
-Heart Disease Prediction Model
-```
-https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/
-```
+
 
 Google Landmark Detection Model
 ```
@@ -6815,10 +6883,7 @@ Bitcoin Price Prediction
 https://thecleverprogrammer.com/2020/05/23/bitcoin-price-prediction-with-machine-learning/ 
 ```
 
-Heart Disease Prediction
-```
-https://thecleverprogrammer.com/2020/05/20/heart-disease-prediction-with-machine-learning/ 
-```
+
 
 Stock Price Prediction for Beginners
 ```
@@ -6984,10 +7049,7 @@ Gender Classification
 https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/
 ``` 
 
-Heart Disease Prediction
-```
-https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/ 
-```
+
 
 Fake Currency Detection
 ```
@@ -11225,10 +11287,6 @@ https://projectworlds.in/fake-product-review-detection-using-machine-learning/
 
 
 
-Heart Disease Prediction using Machine Learning
-```
-https://projectworlds.in/heart-disease-prediction-using-machine-learning-project/
-
 ```
 Skin cancer Detection using Machine learning
 ```
@@ -11947,13 +12005,11 @@ https://github.com/darshil2848/Bike-Shraing-Demand-Prediction
 
 
 Data Scientist's Salary Prediction
-Heart Disease Prediction
 First Innings Score Prediction
 Mall Customer Segmentation
 Predicting Admission into UCLA
 Predicting House Prices in Bengaluru
 Advandced Hyperparameter Tunning
-Heart Disease Prediction
 Sentiment Analysis
 Clustering - Mall Customer Segmentation
 Clustering - KMeans Clustering for Imaginary Analysis
@@ -12082,7 +12138,6 @@ Time Series - Stock Price Prediction using Linear Regression
 Time Series - Earthquake Prediction Model
 Time Series - Predict Migration
 Time Series - Weather Prediction Model
-HealthCare - Heart Disease Prediction
 HealthCare - Skin Cancer Classification
 HealthCare -Lung Segmentation
 
@@ -12413,7 +12468,6 @@ Credit Card Fraud Detection Using Neural Network
 Detecting Phishing Websites using Technique
 Final Project: Classification of Neural Responses to Threat
 A Computer-Aided Diagnosis System for Lung Cancer Detection using Machine
-Efficient Heart Disease Prediction System
 ```
 
 
@@ -14107,16 +14161,6 @@ https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/00.getting_s
 Neural Network
 
 https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/01.neural_network.ipynb
-Heart Disease Prediction
-
-https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/02.heart_disease_prediction.ipynb
-https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb
-        
-https://github.com/kb22/Heart-Disease-Prediction/blob/master/.csv
-https://www.kaggle.com/code/princekr/starter-heart-csv-f47cc3be-a/input
-https://figshare.com/articles//heart_csv/20236848?file=36169122
-https://www.kaggle.com//zhaoyingzhu/heartcsv/code
-https://www.kaggle.com//arezaei81/heartcsv
 ```
 
 ```
@@ -14769,9 +14813,7 @@ Object Detection
 Disease Prediction
 
 https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/
-Heart Disease Prediction Using Logistic Regression
 
-https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/
 Prediction of Wine type
 
 https://www.geeksforgeeks.org/prediction-of-wine-type-using-deep-learning/?ref=rp
@@ -15090,8 +15132,7 @@ https://machinelearningprojects.net/social-distancing-using-yolov3/
 Object Detection			
 Disease Prediction	
 https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/		
-Heart Disease Prediction Using Logistic Regression	
-https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/		
+	
 Prediction of Wine type	
 https://www.geeksforgeeks.org/prediction-of-wine-type-using-deep-learning/?ref=rp		
 Kaggle Breast Cancer Wisconsin Diagnosis using Logistic Regression	
@@ -15311,12 +15352,6 @@ Outlier Detection
 ```
 https://thecleverprogrammer.com/2020/11/12/outlier-detection-with-python/
 ```
-
-Heart Disease Prediction
-```
-https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/
-```
-
 Plastic Users Analysis
 ```
 https://thecleverprogrammer.com/2020/11/09/plastic-users-analysis-with-python/
@@ -15732,9 +15767,6 @@ Data Science Project on — Amazon Products Reviews Sentiment Analysis with Mach
 https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/
 
 
-Data Science Project — Heart Disease Prediction with Machine Learning
-
-https://thecleverprogrammer.com/2020/05/20/data-science-project-heart-disease-prediction-with-machine-learning/
 Data Science Project — Movie Recommendation System
 
 https://thecleverprogrammer.com/2020/05/20/data-science-project-movie-recommendation-system/
@@ -15903,9 +15935,7 @@ https://machinelearningprojects.net/house-tax-prediction/
 Chronic Kidney Disease Prediction using M.L Algorithms
 
 https://techieyantechnologies.com/chronic-kidney-disease-prediction-using-m-l-algorithms/
-Making a Machine to predict whether a person is affected which Heart Disease or Not.
 
-https://techieyantechnologies.com/heart-disease-prediction-using-machine-learning/
 Predicting the trend of the house prices with United States housing data and Regression models
 
 https://techieyantechnologies.com/predicting-the-trend-of-the-house-prices-with-united-states-housing-data-and-regression-models/
@@ -15917,9 +15947,7 @@ https://techieyantechnologies.com/identifying-weight-category-of-person-using-ra
 Helping patients know whether they are diabetic or not using Machine Learning
 
 https://techieyantechnologies.com/helping-patients-know-whether-they-are-diabetic-or-not-using-machine-learning/
-Heart Disease Prediction using Machine Learning
 
-https://techieyantechnologies.com/heart-disease-prediction-using-machine-learning/
 Identifying male or female based on voice using XGBoost and ML
 
 https://techieyantechnologies.com/identifying-male-or-female-based-on-voice-using-xgboost-and-ml/
@@ -15950,9 +15978,7 @@ https://github.com/serengil/deepface
 Mask Detection
 
 https://github.com/chandrikadeb7/Face-Mask-Detection
-Heart Disease Prediction
 
-https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning
 CV Analysis
 
 https://github.com/HiteshAgarwal1/Personality-Prediction-Through-CV
