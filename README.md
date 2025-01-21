@@ -9528,9 +9528,11 @@ https://github.com/spmallick/learnopencv/tree/master/Create-AR-filters-using-Med
 ```
 AUTOSAR C++ compliant deep learning inference with TensorRT
 ```
+
+```
 https://learnopencv.com/autosar-c-compliant-deep-learning-inference-with-tensorrt/
 https://github.com/spmallick/learnopencv/tree/master/industrial_cv_TensorRT_cpp
-
+```
 
 NVIDIA GTC 2022 Day 4 Highlights: Meet the new Jetson Orin
 ```
