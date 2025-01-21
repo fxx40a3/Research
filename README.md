@@ -14251,24 +14251,6 @@ Build an Object Detection Web Application
 Motion Detection System		
 ```
 
-Excellant Tutorials AI		
-```
-1 Loan Approval 
-https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/ 
-https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view OK		
-2 Loan analysis 
-https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis 
-https://www.kaggle.com/code/mohammadbahmanabadi/loan-analysis/input OK		
-
-https://stackoverflow.com/questions/tagged/tensorflow		
-
-https://www.kaggle.com/search?q=natural+language+processing		
-3 Natural Language Processing 
-https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook 
-https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK		
-```
-
-
 ```
 https://www.geeksforgeeks.org/machine-learning-algorithms/		
 Chatbot using Python, NLP, and Data Science | Build Your Own Chatbot | Intellipaat		
