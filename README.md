@@ -1045,9 +1045,7 @@ https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN
 https://www.kaggle.com/code/kerneler/starter-indian-business-cards-sample-186707b2-e
 https://github.com/shubh2016shiv/japanese_business_card_recognition_ocr
 https://www.kaggle.com/code/saadurrehman97/optical-character-recognition-ocr-using-dl
-https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
 https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
-https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
 https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
 https://github.com/Modevntalking-com/ml-license-plate-vision/tree/mainpython detect.py -i
 ```
@@ -1113,11 +1111,6 @@ https://www.kaggle.com/code/razamh/text-extraction-from-image-using-ocr/notebook
 License-plate-recognition 
 ```
 https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/	
-```
-
-OCR of Handwritten digits
-```
-https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
 ```
 
 Text Detection and Extraction
