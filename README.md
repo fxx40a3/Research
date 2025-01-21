@@ -1039,15 +1039,108 @@ https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN
 
 # Instance segmentation end
 
-# Business Card Recognization start
+# OCR start
 
 ```
 https://www.kaggle.com/code/kerneler/starter-indian-business-cards-sample-186707b2-e
 https://github.com/shubh2016shiv/japanese_business_card_recognition_ocr
 https://www.kaggle.com/code/saadurrehman97/optical-character-recognition-ocr-using-dl
-```		
+https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
+https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
+https://github.com/Modevntalking-com/ml-license-plate-vision/tree/mainpython detect.py -i
+```
+TrOCR: Transformer-based Optical Character Recognition\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗧𝗿𝗢𝗖𝗥:Transformer-based Optical Character Recognition with Pre-trained Models by Microsoft Asia
+```
+https://bit.ly/3DqenW5
+```
 
-# Business Card Recognization end
+TrOCR
+```
+https://arxiv.org/abs/2109.10282
+https://bit.ly/30mlLmR
+https://github.com/microsoft/unilm/tree/master/trocr
+https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/TrOCR/Inference_with_TrOCR_%2B_Gradio_demo.ipynb
+```
+Handwritten Text Recognition using OCR
+```
+https://learnopencv.com/handwritten-text-recognition-using-ocr/
+https://github.com/spmallick/learnopencv/tree/master/Handwritten_Text_Recognition_using_OCR
+```
+
+Fine Tuning TrOCR - Training TrOCR to Recognize Curved Text
+```
+https://learnopencv.com/fine-tuning-trocr-training-trocr-to-recognize-curved-text/
+https://github.com/spmallick/learnopencv/tree/master/Fine-Tuning-TrOCR
+```
+
+
+TrOCR - Getting Started with Transformer Based OCR
+```
+https://learnopencv.com/trocr-getting-started-with-transformer-based-ocr/
+https://github.com/spmallick/learnopencv/tree/master/TrOCR-Getting-Started-with-Transformer-Based-OCR
+```
+
+Optical Character Recognition using PaddleOCR
+```
+https://learnopencv.com/optical-character-recognition-using-paddleocr/
+https://github.com/spmallick/learnopencv/tree/master/Optical-Character-Recognition-using-PaddleOCR
+```
+
+Deep Learning based Text Recognition (OCR) using Tesseract and OpenCV
+```
+https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/
+https://github.com/spmallick/learnopencv/tree/master/OCR
+```
+
+Image to Text Conversion & Extraction
+```
+https://www.geeksforgeeks.org/how-to-extract-text-from-images-with-python/
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
+https://python.plainenglish.io/read-text-from-images-using-pythons-tesseract-library-8e916e3fefca
+https://sanaazahra.medium.com/ocr-segmentation-with-python-code-f3251114ee48
+https://www.kaggle.com/code/damthanh/text-detection-ocr
+https://www.kaggle.com/code/prabalpratapsinghml/compare-ocr-for-amazon-ml-challenge-2024
+https://www.kaggle.com/code/hussamcheema/text-ocr-v1
+https://www.kaggle.com/code/gbiamgaurav/extracting-text-from-images-ocr-techniques
+https://www.kaggle.com/code/nirkoren/text-detection-by-segmentation
+https://www.kaggle.com/code/kkhandekar/extract-text-from-images-tutorial-ocr
+https://www.kaggle.com/code/badhansen/text-extraction-from-images-easyocr-pytesseract
+https://www.kaggle.com/code/razamh/text-extraction-from-image-using-ocr/notebook
+```
+License-plate-recognition 
+```
+https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesseract-ocr/	
+```
+
+OCR of Handwritten digits
+```
+https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
+
+Text Detection and Extraction
+```
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
+```
+
+OCR of Handwritten digits \\| OpenCV
+```
+https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
+```
+
+Text Detection and Extraction using OpenCV and OCR
+```
+https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
+```
+
+License Plate Recognition with OpenCV and Tesseract OCR
+```
+https://github.com/Modevntalking-com/ml-license-plate-vision/tree/mainpython detect.py -i
+https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg
+```
+
+# OCR end
  
 # Traffic light detection start
 
@@ -15157,30 +15250,6 @@ https://github.com/pytorch/examples/tree/main/mnist_forward_forward
 https://github.com/pytorch/examples/tree/main/gcn
 OPENCV
 Face and Hand Landmarks Detection
-
-
-OCR of Handwritten digits
-
-https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
-Text Detection and Extraction
-
-https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
-
-
-2 \| Project Name: OCR of Handwritten digits \\| OpenCV
-https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
-
-3 \| Project Name: Text Detection and Extraction using OpenCV and OCR
-https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
-
-
-
-5 \| Project Name: License Plate Recognition with OpenCV and Tesseract OCR
-Tutorial/Git: 
-https://github.com/Modevntalking-com/ml-license-plate-vision/tree/mainpython detect.py -i
-
-https://raw.githubusercontent.com/Modevntalking-com/ml-license-plate-vision/main/example/car-with-license-plate.jpeg
-
 
 9 \| Project Name: Count number of Faces using Python – OpenCV
 https://www.geeksforgeeks.org/count-number-of-faces-using-python-opencv/
