@@ -96,7 +96,6 @@ Prediction of Diabetes and cancer using SVM
 ```
 ```
 https://www.kaggle.com/search?q=diabetes+prediction
-```
 https://www.kaggle.com/zabihullah18/code
 ```
 
