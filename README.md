@@ -13464,40 +13464,60 @@ https://www.geeksforgeeks.org/add-image-to-a-live-camera-feed-using-opencv-pytho
 https://github.com/kaushikjadhav01/Live-Video-Sketching-through-webcam-using-OpenCv-Python
 ```
 
-
-```
 Fake News Detection Python Project
+```
 https://data-flair.training/blogs/advanced-python-project-detecting-fake-news
+```
 
 Parkinson’s Disease Detection Python Project
+```
 https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease
+```
 
 Color Detection Python Project
+```
 https://data-flair.training/blogs/project-in-python-colour-detection
+```
 
 Speech Emotion Recognition Python Project
+```
 https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition
+```
 
 Breast Cancer Classification Python Project
+```
 https://data-flair.training/blogs/project-in-python-breast-cancer-classification
+```
 
 Age and Gender Detection Python Project
+```
 https://data-flair.training/blogs/python-project-gender-age-detection
+```
 
 Handwritten Digit Recognition Python Project
+```
 https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition
+```
 
 Chatbot Python Project
+```
 https://data-flair.training/blogs/python-chatbot-project
+```
 
 Drowsy Driver Safety Alert System Python Project
 
 Traffic Signs Recognition Python Project
+```
 https://data-flair.training/blogs/python-project-traffic-signs-recognition
+```
 
 Image Caption Generator Python Project
+```
 https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn
+```
 
+
+```
 Detect and Recognize Car License Plate from a video in real-time
 License Plate Recognition with OpenCV and Tesseract OCR
 Handwritten Digit Recognition using Neural Network
