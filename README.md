@@ -13273,10 +13273,77 @@ https://github.com/sid321axn/skin_cancer_detection_webapp/tree/master
 https://coincodecap.com/top-30-ai-robotics-projects-step-into-the-future
 ```
 
-25-robotics-project-ideas
+
+# IOT Project Ideas
+```
+https://www.electronicsforu.com/iot-projects-ideas
+Control TV With Alexa – IoT TV Controller
+IoT-based Light Dimmer and Speed Controller
+e-Ink-based Touch Switch
+Low-Cost Solid-State Relay
+IoT-Based Automated Table Lamp
+Wi-Fi Temperature-Logging System
+Brain-Controlled EEG – IoT Projects
+Mesh Network Agriculture System
+ESP8266-based Energy Monitor and Over Current Cut-off
+Alexa-Controlled IoT Project
+Cloud-Based Implementation of IoT Using MQTT Brokers
+Control Electronic Appliances with the Blink of an EYE
+Monitor Live Temperature Through IBM Bluemix
+IoT-Based Smart Home Controller Using Blynk
+Smart Wireless Water Meter With Web DB
+IoT-Based Motion Detector Using Cayenne
+Smart Agriculture System
+Mesh-Enabled Environment Monitoring Device
+Face Recognition AI Robot
+Low-Cost IoT Robot
+Wi-Fi &amp; Bluetooth Mesh Enabled IoT Smart Device
+IoT-Enabled Air Pollution Meter
+Noise Detector with Automatic Recording System
+Smart Touch Switch Board For Home Automation
+Smart Home Security With Automatic Phone Calling System
+based Wireless Web Server
+IoT-Based Smart Camera
+Windows 10 on Raspberry Pi
+Smart Garage Door
+Temperature and Humidity Monitoring
+Touch-Based Home Automation
+```
+
+
+
+# 25-robotics-project-ideas
 ```
 https://www.electronicsforu.com/electronics-projects/hardware-diy/25-robotics-project-ideas
-https://www.electronicsforu.com/iot-projects-ideas
+Smart Robot For Face Recognition
+Line Follower Robot Using PID Algorithm
+HMI-Based Robotic Arm
+Hector Slam Mapping and Indoor Positioning ROBOT
+Radar and ROS Powered Indoor Home Mapping and Positioning Robot
+Artificial Intelligence-Based Chatbot for Appliance Control
+Virtual Telepresence Robot Using Raspberry Pi
+DIY Remote Control Robot
+Arduino based Smartphone Controlled Robot Car
+Colour Sensing Robot with MATLAB
+RF-Controlled Robotics Project
+Android Phone Controlled Robotics Project
+Fire-Extinguishing Robot
+Wireless Gesture-Controlled Robotics Project
+DIY Soccer Robot
+Namaste Greeting Robot
+Line Following Robot
+Robocar With Wireless Steering
+Cellphone-Operated Land Rover
+RF-based Dual-mode Robot
+Whisker for Robots
+Remote Operated Spy Robot Circuit
+Human Detection Robot
+Metal Detector Robot
+Fruit-Picking Robot
+Stair Climbing Robot
+Maze-Solving Robot
+Window Washing Robot
+Hospital Sanitizing Robotics Project
 ```
 
 
