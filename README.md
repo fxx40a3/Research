@@ -13717,9 +13717,12 @@ Balloon Pop Game: • I tried building a Computer Vision Ga...
 Basketball Shot Predictor: • Basket Ball Shot Predictor using Open...
 Hand Distance measurement: • Hand Distance Measurement with Normal...
 Parking Space Counter: • Parking Space Counter using OpenCV Py...
+
 Volume Gesture Control: • Gesture Volume Control \| OpenCV Pytho...
-Drone Body Following (Paid): 
-https://www.computervision.zone/adv-d...
+https://www.computervision.zone/courses/gesture-volume-control/
+
+Drone Body Following (Paid)
+https://www.computervision.zone/adv-drone-pro-lp/
 
 https://www.projectpro.io/article/object-detection-project-ideas-with-source-code/490
 Monkey, Cat, and Dog Detection System
@@ -13745,26 +13748,29 @@ https://www.kaggle.com/search?q=natural+language+processing
 3 Natural Language Processing 
 https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/notebook 
 https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners/input?select=spam.csv OK
-
-
 ```
-
-```
-
 
 Global Countries \|\| EDA   
+```
 https://www.kaggle.com/code/zabihullah18/global-countries-eda    
 https://www.kaggle.com/code/zabihullah18/global-countries-eda/input    OK
+```
 Student Performance  
+```
 https://www.kaggle.com/code/zabihullah18/student-performance    
 https://www.kaggle.com/code/zabihullah18/student-performance/input    OK
+```
 
+```
 https://www.kaggle.com/code/zabihullah18/email-spam-detection/input    OK
+```
 
+
+```
 https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision/Deploy%20Image%20Classifier%20With%20Flask          OK
 app.run(port=5002)
 ```
- 
+
 Advance AI
 ```
 ML Data Science FULL Course for Beginners in 27 HOURS - 2024 Edition
