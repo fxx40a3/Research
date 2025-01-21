@@ -11294,7 +11294,6 @@ https://projectworlds.in/fake-product-review-detection-using-machine-learning/
 
 
 
-```
 Skin cancer Detection using Machine learning
 ```
 https://projectworlds.in/skin-cancer-detection-using-machine-learning/
