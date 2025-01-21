@@ -11864,16 +11864,18 @@ Traffic Sign Classification
 https://www.computervision.zone/courses/traffic-sign-classification/
 ```
 
-```
 Turkiye Student Evaluation Analysis
+```
 https://www.kaggle.com/code/harishvutukuri/turkiye-student-evaluation
 https://www.kaggle.com/code/eriluna/teacher-s-performance-evaluation-unsupervised-ml
 https://www.kaggle.com/code/suraj520/kmeans-implementation
 https://www.kaggle.com/code/satoru90/turkey-student-evaluation-data-set-clustering
 https://www.kaggle.com/code/ronikdedhia/turkiye-student-evaluation
 https://www.kaggle.com/code/deeppatel23/turkiye-student-evaluation-dataset
+```
 
 Traffic Forecast
+```
 https://www.kaggle.com/code/lizk75/traffic-prediction-prophet-sarima-and-sarimax
 https://www.kaggle.com/code/noob2511/traffic-data-analysis
 https://www.kaggle.com/code/rishabhbhartiya/traffic-detection
@@ -11885,8 +11887,10 @@ https://www.kaggle.com/code/nouranmahmoudd/traffic-prediction-using-all-models-9
 https://www.kaggle.com/code/muhammadfaizan65/traffic-prediction-detailed-eda-modeling
 https://www.kaggle.com/code/karnikakapoor/traffic-prediction-gru
 https://www.kaggle.com/code/xreina8/traffic-volume-prediction
+```
 
 Million Songs Dataset
+```
 https://www.kaggle.com/code/mpwolke/million-songs-zip-txt
 https://www.kaggle.com/code/marwanashref/music-recommendation-system-using-nlp
 https://www.kaggle.com/code/kyleakepanidtaworn/dtsa-5510-clustering-spotify-million-song
@@ -11899,8 +11903,10 @@ https://www.kaggle.com/code/gauravduttakiit/release-year-prediction-flaml-r2
 https://www.kaggle.com/code/gauravduttakiit/release-year-prediction-flaml-mse
 https://www.kaggle.com/code/gauravduttakiit/release-year-prediction-flaml-mae
 https://www.kaggle.com/code/gauravduttakiit/release-year-prediction-flaml-rmse
+```
 
 Loan Prediction Analysis
+```
 https://www.kaggle.com/code/vtella/starter-loan-prediction-problem-36866eee-e
 https://www.kaggle.com/code/yeyeongcho/loan-prediction
 https://www.kaggle.com/code/zohaib123/data-explore-techniques-eda-loan-pridiction
@@ -11917,8 +11923,10 @@ https://www.kaggle.com/code/akshaydani/loan-prediction-analysis-with-random-fore
 https://www.kaggle.com/code/samudra89/01-credit-risk-modeling
 https://www.kaggle.com/code/licgsg/loan-prediction
 https://www.kaggle.com/code/adamsavageau/optimizing-loan-portfolios-regression-techniques
+```
 
 Iris dataset analysis
+```
 https://www.kaggle.com/code/anweshaghosh123/train-test-split-iris-dataset
 https://www.kaggle.com/code/vishalaru/iris-dataset-classification
 https://www.kaggle.com/code/abhishek0032/learn-classify-the-iris-dataset-adventure
@@ -11933,8 +11941,10 @@ https://www.kaggle.com/code/emineyetm/exploring-the-iris-flower-dataset
 https://www.kaggle.com/code/dhruv1234/iris-exploratory-data-analysis
 https://www.geeksforgeeks.org/exploratory-data-analysis-on-iris-dataset/
 https://www.geeksforgeeks.org/iris-dataset/
+```
 
 Image to Text Conversion & Extraction
+```
 https://www.geeksforgeeks.org/how-to-extract-text-from-images-with-python/
 https://www.geeksforgeeks.org/text-detection-and-extraction-using-opencv-and-ocr/
 https://python.plainenglish.io/read-text-from-images-using-pythons-tesseract-library-8e916e3fefca
@@ -11947,8 +11957,10 @@ https://www.kaggle.com/code/nirkoren/text-detection-by-segmentation
 https://www.kaggle.com/code/kkhandekar/extract-text-from-images-tutorial-ocr
 https://www.kaggle.com/code/badhansen/text-extraction-from-images-easyocr-pytesseract
 https://www.kaggle.com/code/razamh/text-extraction-from-image-using-ocr/notebook
+```
 
 IMDb sentiment review Analysis
+```
 https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
 https://www.kaggle.com/code/sivas1292/sentiment-analysis-bert
 https://www.kaggle.com/code/firojpaudel/cohort-34-challenge-traditional-way
@@ -11962,8 +11974,10 @@ https://www.kaggle.com/code/gyash1512/notebook50b81a09a6
 https://www.kaggle.com/code/yazghar/mmds-proj-part4
 https://medium.com/@AMustafa4983/sentiment-analysis-on-imdb-movie-reviews-a-beginners-guide-d5136ec74e56
 https://www.kaggle.com/code/meetnagadia/imdb-review-sentiment-analysis-using-bert
+```
 
 Sentiment Analysis Datasets
+```
 https://www.geeksforgeeks.org/dataset-for-sentiment-analysis/
 
 1. IMDb Reviews Dataset
@@ -11981,11 +11995,15 @@ https://www.geeksforgeeks.org/dataset-for-sentiment-analysis/
 13. E-commerce Reviews Dataset
 14. Hotel Reviews Dataset
 15. MovieLens Dataset
+```
 
 Sentiment Analysis with an Recurrent Neural Networks (RNN)
+```
 https://www.geeksforgeeks.org/sentiment-analysis-with-an-recurrent-neural-networks-rnn/
+```
 
 Boston Housing Prediction Analysis
+```
 https://www.geeksforgeeks.org/ml-boston-housing-kaggle-challenge-with-linear-regression/
 https://www.geeksforgeeks.org/multiple-linear-regression-analysis-of-boston-housing-dataset-using-r/
 https://towardsdatascience.com/predict-housing-price-using-linear-regression-in-python-bfc0fcfff640
@@ -11998,8 +12016,10 @@ https://www.kaggle.com/code/vaishnavikhilari/boston-house-price-prediction
 https://www.kaggle.com/code/sejalkshirsagar/boston-house-price-prediction-linear-reg
 https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset
 https://www.kaggle.com/code/tolgahancepel/boston-housing-regression-analysis
+```
 
 Bike Sharing Demand Analysis
+```
 https://www.kaggle.com/code/beomseongkim/random-forest-regression
 https://www.kaggle.com/code/sonawanelalitsunil/forecasting-hourly-bike-rental-demand
 https://www.kaggle.com/code/beomseongkim/random-forest-regression
@@ -12008,9 +12028,11 @@ https://www.kaggle.com/c/bike-sharing-demand/data?sampleSubmission.csv
 https://github.com/sinhabishal77/Kaggle-Bike-Sharing-Demand
 https://www.geeksforgeeks.org/ola-bike-ride-request-forecast-using-ml/
 https://github.com/darshil2848/Bike-Shraing-Demand-Prediction
+```
 
 
 Data Scientist's Salary Prediction
+```
 First Innings Score Prediction
 https://www.kaggle.com/code/jamiewelsh2/predicting-first-innings-runs-in-ipl-matches
 https://www.kaggle.com/code/minhdang99/ipl-visualization
@@ -12020,8 +12042,10 @@ https://www.kaggle.com/code/shubhamsingh57/ipl-first-inning-score-prediction
 https://www.kaggle.com/code/rushikeshlavate/xgboost-for-predicting-ipl-s-1st-inning-score
 https://www.kaggle.com/code/swrnvh/first-innings-score-prediction-for-ipl
 https://www.kaggle.com/code/jamiewelsh2/predicting-t20i-first-innings-runs-scored
+```
 
 Mall Customer Segmentation
+```
 https://www.kaggle.com/code/totoroseattle/starter-mall-customer-segmentation-8fb8ef47-1
 https://www.kaggle.com/code/borakol1/mall-customer-segmentation
 https://www.kaggle.com/code/codingloading/k-means-dbscan-youtube-video-docker
@@ -12036,8 +12060,10 @@ https://www.kaggle.com/code/kagglecomsaad/customer-segmentation-with-k-means-clu
 https://www.kaggle.com/code/jayrdixit/shopping-mall
 https://www.kaggle.com/code/carlacosmo/shopping-mall-customer-segmentation-data-regress
 https://www.kaggle.com/code/angc1998/shopping-mall-customer-eda-clustering
+```
 
 Predicting Admission into UCLA
+```
 https://www.kaggle.com/code/adepvenugopal/predicting-graduate-admissions-using-ml
 https://www.kaggle.com/code/shraban020/predicting-admission-by-logistic-regression
 https://www.kaggle.com/code/pkulaba1290/starter-graduate-admissions-91c64936-a
@@ -12050,16 +12076,20 @@ https://github.com/anupkumar08/Learning-Python/blob/master/Predicting%20Admissio
 https://www.geeksforgeeks.org/placement-prediction-using-logistic-regression/
 https://www.geeksforgeeks.org/ml-xgboost-extreme-gradient-boosting/
 https://github.com/anupkumar08/Learning-Python/blob/master/Predicting%20Admission%20into%20UCLA.ipynb
+```
 
 Clustering - KMeans Clustering for Imaginary Analysis
+```
 https://www.kaggle.com/code/heeraldedhia/kmeans-clustering-for-customer-data
 https://www.kaggle.com/code/ryanholbrook/clustering-with-k-means
 https://www.kaggle.com/code/prashant111/k-means-clustering-with-python
 https://www.kaggle.com/code/alirezahasannejad/k-means-tutorial
 https://www.kaggle.com/code/shrutimechlearn/step-by-step-kmeans-explained-in-detail/notebook
 https://www.kaggle.com/code/mbalvi75/13-kmeans-clustering
+```
 
 China GDP Estimation
+```
 https://www.kaggle.com/code/mustafagerme/analysis-of-china-gdp
 https://www.kaggle.com/code/twybob/21081541d-tsang-wing-yan-notebook
 https://www.kaggle.com/code/lizhecheng/china-gdp-analysis
@@ -12071,8 +12101,10 @@ https://www.kaggle.com/code/shreyasrinivasan30/knn-classification
 https://www.kaggle.com/code/shreyasrinivasan30/decision-trees-drug
 https://www.kaggle.com/code/sonyalawrence/support-vector-machine-model
 https://www.geeksforgeeks.org/comparative-study-between-india-china-and-pakistan/
+```
 
 Text Summarization using Word Frequency
+```
 https://www.geeksforgeeks.org/text-summarization-techniques/
 https://www.geeksforgeeks.org/python-text-summarizer/
 https://techieyantechnologies.com/simple-text-summarizer/
@@ -12082,9 +12114,11 @@ https://www.kaggle.com/code/chethuhn/text-summarisation-using-nltk
 https://www.kaggle.com/code/vanvalkenberg/text-summarization-using-spacy
 https://www.kaggle.com/code/sks27199/text-summarization-in-spacy-vs-gensim
 https://www.kaggle.com/code/jacoporepossi/text-summarization-with-gemma
+```
 
 
 California Housing
+```
 https://www.kaggle.com/code/sparky42/starter-california-housing-prices-371617f9-6
 https://www.kaggle.com/code/jorgepereira/starter-california-housing-prices-ffaeb482-b
 https://www.kaggle.com/code/akshayboffic/california-housing-price-prediction
@@ -12106,8 +12140,10 @@ https://www.geeksforgeeks.org/regression-models-for-california-housing-price-pre
 https://www.geeksforgeeks.org/house-price-prediction-with-catboost/
 https://medium.com/@schuerch_sarah/beginners-guide-to-predicting-house-prices-with-random-forest-step-by-step-introduction-with-a-aee81daae3ee
 https://github.com/Sarvesh2k03/Projects
+```
 
 Autoencoder for customer churn
+```
 https://www.geeksforgeeks.org/ml-classifying-data-using-an-auto-encoder/
 https://www.geeksforgeeks.org/auto-encoders/
 https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Autoencoder%20for%20Customer%20Churn.ipynb
@@ -12116,10 +12152,10 @@ https://www.kaggle.com/code/gauravduttakiit/customer-churn-autoviz
 https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data
 https://github.com/naomifridman/Deep-VAE-prediction-of-churn-customer
 https://www.kaggle.com/code/simgeerek/churn-prediction-using-machine-learning
-
-
+```
 
 Bayesian Logistic Regression Bank marketing
+```
 https://www.kaggle.com/code/nhunguyen1906/logistic-regression-bank-marketing
 https://www.kaggle.com/code/lalehseyin/bank-marketing
 https://www.kaggle.com/code/jerometam/behaviour-prediction-bank-marketing
@@ -12132,19 +12168,18 @@ https://www.kaggle.com/code/hariharanpavan/bank-marketing-analysis
 https://www.kaggle.com/code/benroshan/bank-marketing-campaign-predictive-analytics
 https://github.com/ashutoshmakone/Bank-Marketing-Dataset-Machine-Learning
 https://www.kaggle.com/code/manohar676/logistic-regression-using-bank-dataset
+```
 
 Autoencoder For Bank Employee Retention 
+```
 https://www.kaggle.com/code/panamby/bank-retention-ann
 https://cendikiaishmatuka.medium.com/bank-churn-analysis-understanding-customer-attrition-28e8cea73a86
 https://www.kaggle.com/code/deepaksurana/fraud-detection-using-autoencoders-in-keras
 https://www.geeksforgeeks.org/auto-encoders/
-
-
-
-
-
+```
 
 Mercari Price Suggestion Lightgbm
+```
 https://medium.com/analytics-vidhya/mercari-price-suggestion-challenge-66500ac1f88a
 https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Mercari%20Price%20Suggestion%20Lightgbm.ipynb
 https://arkaprava.medium.com/product-resale-price-prediction-using-machine-learning-a-case-study-6c789f86fee2
@@ -12155,8 +12190,10 @@ https://www.kaggle.com/code/mrfirdauss20/price-prediciton
 https://www.kaggle.com/code/suraj520/electra-know-train-infer
 https://www.kaggle.com/code/kwangminki/mercari-price-suggest-ridge-practice-lb-0-46
 https://www.kaggle.com/code/csmohamedayman/mercari-price-suggestion-challenge
+```
 
 Modeling House Price with Regularized 
+```
 Linear Model _ XGboost
 https://www.kaggle.com/code/mburakergenc/predictions-with-xgboost-and-linear-regression
 https://www.kaggle.com/code/yusufglcan/linear-regression-vs-xgboost-regressor
@@ -12164,19 +12201,25 @@ https://www.kaggle.com/code/sriramyakannepalli/simple-linear-regression-to-xgboo
 https://www.kaggle.com/discussions/general/17120
 https://www.kaggle.com/code/jameslee66/linear-regression-with-xgboost
 https://www.geeksforgeeks.org/xgboost-for-regression/
+```
 
 study materials
+```
 https://gist.github.com/tejalvs/28dd35157664d3015fd5fd4e57244257
+```
 
 Nhanes Confidence Intervals
+```
 https://www.geeksforgeeks.org/confidence-interval/
 https://www.geeksforgeeks.org/confidence-intervals-for-machine-learning/
 https://github.com/karimkmafifi/Inferential-Statistical-Analysis-with-Python---Coursera/blob/master/nhanes_confidence_intervals_practice.ipynb
 https://www.kaggle.com/code/ramendrapandey/inference-statistics-1-confidence-intervals
 https://www.kaggle.com/code/adityabhat/confidence-intervals-with-python
 https://www.kaggle.com/code/kerneler/starter-nhanes-2015-2016-8015e231-d
+```
 
 Nhanes hypothesis testing
+```
 https://www.kaggle.com/code/noir1112/nhanes-hypothesis-testing
 https://www.kaggle.com/code/ramendrapandey/inferential-statistics-2-hypothesis-testing
 https://www.kaggle.com/code/yashvi/hypothesis-testing
@@ -12186,8 +12229,10 @@ https://www.kaggle.com/code/karin444/waist-exploration
 https://www.kaggle.com/code/rayhaank/final-codebook-for-research-internship
 https://www.kaggle.com/code/atharvsn/basic-eda-on-nhnes-data
 https://www.kaggle.com/code/shivamchaudhary11/hypothesis-testing-on-nhanes-dataset/code
+```
 
 Promotional Time Series
+```
 https://www.geeksforgeeks.org/time-series-analysis-and-forecasting/
 https://www.geeksforgeeks.org/seasonality-detection-in-time-series-data/
 https://www.kaggle.com/code/eslam200/store-sales-regression
@@ -12196,7 +12241,9 @@ https://www.kaggle.com/code/cases241/sale-forecasting-practice
 https://www.kaggle.com/code/dongzhangzj/visualization-rossmann-store-sales
 https://www.kaggle.com/code/at3191/rossmann-prophet-fcst
 https://www.digitalocean.com/community/tutorials/weather-forecast-using-ltsm-networks
+```
 
+```
 
 PySpark Advance Algorithms Practice Recommender Systems
 Regression Diagnostics Seattle Hotels Recommender
