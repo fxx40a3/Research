@@ -12243,6 +12243,92 @@ https://www.kaggle.com/code/at3191/rossmann-prophet-fcst
 https://www.digitalocean.com/community/tutorials/weather-forecast-using-ltsm-networks
 ```
 
+
+Currency Exchange Rate Prediction
+```
+https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/
+```
+
+Profit Prediction Model
+```
+https://thecleverprogrammer.com/2021/04/29/profit-prediction-with-machine-learning/
+```
+
+Automatic Time Series Forecasting
+```
+https://thecleverprogrammer.com/2021/04/19/autots-in-python-tutorial/
+```
+
+Ted-Talks Recommendation System
+```
+https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/
+```
+
+Real-time Sentiment Analysis
+```
+https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/
+```
+
+Amazon Recommendation System
+```
+https://thecleverprogrammer.com/2021/03/23/amazon-recommendation-system-using-python/
+```
+
+Mobile Price Classification
+```
+https://thecleverprogrammer.com/2021/03/05/mobile-price-classification-with-machine-learning/
+```
+
+House Price Prediction
+```
+https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
+```
+
+House Price Prediction using Machine Learning in Python	
+```
+https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
+```
+
+House Price Prediction — USA Housing Data — with source code — easy project — 2023
+```
+https://machinelearningprojects.net/house-price-prediction/
+```
+
+House Price Prediction
+```
+https://thecleverprogrammer.com/2020/12/29/house-price-prediction-with-python/
+```
+
+House price prediction
+```
+https://github.com/KalyanM45/House-Price-Prediction/tree/main
+```
+
+Real-Time Face Mask Detection
+```
+https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
+```
+Product Demand Prediction
+```
+https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/
+```
+
+Electricity Price Prediction
+```
+https://thecleverprogrammer.com/2021/11/15/electricity-price-prediction-with-machine-learning/
+```
+
+Pfizer Vaccine Sentiment Analysis 112.News Classification 113.Omicron Variant Sentiment Analysis
+```
+https://thecleverprogrammer.com/2021/10/12/pfizer-vaccine-sentiment-analysis-using-python/
+```
+
+Iris Flower Classification 
+```
+https://thecleverprogrammer.com/2021/10/17/iris-flower-classification-with-machine-learning/
+https://projectworlds.in/iris-flower-classification-with-decision-trees-web-app/
+```
+
 ```
 
 PySpark Advance Algorithms Practice Recommender Systems
@@ -12285,56 +12371,16 @@ Stress Detection
 AlexNet Neural Network Architecture
 Visualizing a Algorithm
 Training and Giving Inputs to a Model
-Product Demand Prediction
-https://thecleverprogrammer.com/2021/11/22/product-demand-prediction-with-machine-learning/
-Electricity Price Prediction
-https://thecleverprogrammer.com/2021/11/15/electricity-price-prediction-with-machine-learning/
 
-Pfizer Vaccine Sentiment Analysis 112.News Classification 113.Omicron Variant Sentiment Analysis
-https://thecleverprogrammer.com/2021/10/12/pfizer-vaccine-sentiment-analysis-using-python/
-Iris Flower Classification 
-https://thecleverprogrammer.com/2021/10/17/iris-flower-classification-with-machine-learning/
-https://projectworlds.in/iris-flower-classification-with-decision-trees-web-app/
-115.Water Quality Analysis
-116.Twitter Sentiment Analysis
-117.Squid Game Sentiment
-118.Comparison of Classification Algorithms
-119.Tata Motors Stock Price Prediction
+
+Water Quality Analysis
+Twitter Sentiment Analysis
+Squid Game Sentiment
+Comparison of Classification Algorithms
+Tata Motors Stock Price Prediction
 Health Insurance Premium Prediction 121.Movie Rating Analysis for Beginners
 Number of Orders Prediction
 Apple Stock Price Prediction
-Currency Exchange Rate Prediction
-https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/
-Profit Prediction Model
-https://thecleverprogrammer.com/2021/04/29/profit-prediction-with-machine-learning/
-Automatic Time Series Forecasting
-https://thecleverprogrammer.com/2021/04/19/autots-in-python-tutorial/
-Ted-Talks Recommendation System
-https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/
-Real-time Sentiment Analysis
-https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/
-Real-time Sentiment Analysis
-
-Amazon Recommendation System
-https://thecleverprogrammer.com/2021/03/23/amazon-recommendation-system-using-python/
-
-Mobile Price Classification
-https://thecleverprogrammer.com/2021/03/05/mobile-price-classification-with-machine-learning/
-
-House Price Prediction
-https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
-House Price Prediction using Machine Learning in Python	
-https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
-House Price Prediction — USA Housing Data — with source code — easy project — 2023
-https://machinelearningprojects.net/house-price-prediction/
-House Price Prediction
-https://thecleverprogrammer.com/2020/12/29/house-price-prediction-with-python/
-House price prediction
-https://github.com/KalyanM45/House-Price-Prediction/tree/main
-
-Real-Time Face Mask Detection
-https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
-
 Gold Price Prediction
 Object Detection
 Age and Gender Detection with Python
