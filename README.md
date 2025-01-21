@@ -1118,6 +1118,7 @@ https://www.geeksforgeeks.org/license-plate-recognition-with-opencv-and-tesserac
 OCR of Handwritten digits
 ```
 https://www.geeksforgeeks.org/ocr-of-handwritten-digits-opencv/
+```
 
 Text Detection and Extraction
 ```
