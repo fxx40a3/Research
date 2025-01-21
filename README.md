@@ -13365,21 +13365,139 @@ open-cv-book
 https://www.geeksforgeeks.org/opencv-python-tutorial/
 ```
 
+Real-time object color detection using OpenCV
+```
+https://www.geeksforgeeks.org/real-time-object-color-detection-using-opencv/
+https://www.geeksforgeeks.org/multiple-color-detection-in-real-time-using-python-opencv/
+https://github.com/manishsingh7163/Color-Detection
+https://agneya.medium.com/color-detection-using-python-and-opencv-8305c29d4a42
+https://codewithcurious.com/projects/realtime-colour-detection-python/
+```
 
+Right and Left Hand Detection Using Python
+```
+https://www.geeksforgeeks.org/right-and-left-hand-detection-using-python/
+https://www.geeksforgeeks.org/face-and-hand-landmarks-detection-using-python-mediapipe-opencv/
+https://github.com/DataRohit/OpenCV-Hand-Detection
+```
+
+Age Detection Using Deep Learning in OpenCV
+```
+https://pyimagesearch.com/2020/04/13/opencv-age-detection-with-deep-learning/
+https://thepythoncode.com/article/predict-age-using-opencv
+https://www.geeksforgeeks.org/age-and-gender-detection-using-opencv-in-python/
+https://github.com/Apparky/Age-and-Gender-Detection-using-OpenCV-Python-APPARKY
+https://muskanjindal242.medium.com/gender-and-age-detection-with-opencv-17fa51de780e
+https://github.com/muskanjindal24/Data-Science-Practicals/blob/main/11.%20Gender%20%26%20Age%20Detection/18IT040_DS_Prac11_Gender%26AgePrediction.ipynb
+```
+
+OpenCV – Drowsiness Detection
+```
+https://pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+https://www.geeksforgeeks.org/python-opencv-drowsiness-detection/
+https://github.com/Practical-CV/Drowsiness-detection-with-OpenCV
+https://github.com/ArjunMnn/Drowsiness-Alert-System
+https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/
+https://medium.com/@jaykumaran2217/drowsiness-detection-dlib-and-opencv-python-762844b33540
+```
+
+Build GUI Application Pencil Sketch from Photo in Python
+```
+https://pylessons.com/pencil-sketch
+https://dev.to/spiff/convert-images-into-pencil-sketch-2cfj
+https://github.com/Priyanshu7129/image-to-pencil-sketch-with-python
+https://www.geeksforgeeks.org/convert-image-into-sketch/
+https://mittalparveen652.medium.com/pencil-sketch-with-python-b98256f30bea
+https://medium.com/@Kavya2099/image-to-pencil-sketch-using-opencv-ec3568443c5e
+https://www.geeksforgeeks.org/build-gui-application-pencil-sketch-from-photo-in-python/
+```
+
+Measure Size of an Object Using Python OpenCV
+```
+https://www.geeksforgeeks.org/measure-size-of-an-object-using-python-opencv/
+https://pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
+https://plainenglish.io/blog/measuring-object-size-with-opencv
+https://github.com/Practical-CV/Measuring-Size-of-Objects-with-OpenCV
+https://profil-software.com/blog/development/measuring-the-size-of-objects-in-an-image-with-opencv-python-to-assess-the-damage/
+```
+
+Brightness Control With Hand Detection using OpenCV in Python
+```
+https://www.geeksforgeeks.org/brightness-control-with-hand-detection-using-opencv-in-python/
+https://github.com/Apparky/Brightness-Control-with-hand-using-Python-OpenCV-APPARKY
+https://medium.com/@adeevmardia/controlling-screen-brightness-with-hand-gestures-using-opencv-and-mediapipe-7450ac461037
+https://www.geeksforgeeks.org/changing-the-contrast-and-brightness-of-an-image-using-python-opencv/
+https://itsourcecode.com/free-projects/python-projects/brightness-control-with-hand-detection-opencv-python-source-code/
+```
+
+Car driving using hand detection in Python
+```
+https://www.geeksforgeeks.org/car-driving-using-hand-detection-in-python/
+https://github.com/Jitender46559/AI-Ignition-system
+https://www.geeksforgeeks.org/right-and-left-hand-detection-using-python/
+https://github.com/zamalali/Virtual-Steering
+https://medium.com/@pateldigant/python-program-to-control-racing-games-with-hand-gestures-c328daa28f14
+https://github.com/pateldigant/gesture-gaming-python
+```
+
+Contour Detection with Custom Seeds using Python – OpenCV
+```
+https://www.geeksforgeeks.org/contour-detection-with-custom-seeds-using-python-opencv/
+https://github.com/ak811/watershed
+https://www.geeksforgeeks.org/detect-and-read-barcodes-with-opencv-in-python/
+https://ujangriswanto08.medium.com/real-time-image-segmentation-using-contour-detection-and-grabcut-algorithm-cc5ebfa41caf
+https://learnopencv.com/contour-detection-using-opencv-python-c/
+```
+
+Find Co-ordinates of Contours using OpenCV \| Python
+```
+https://www.geeksforgeeks.org/find-co-ordinates-of-contours-using-opencv-python/
+https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html
+https://www.geeksforgeeks.org/python-opencv-find-center-of-contour/
+https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html
+```
+
+Live Webcam Drawing using OpenCV
+```
+https://www.geeksforgeeks.org/live-webcam-drawing-using-opencv/
+https://www.geeksforgeeks.org/add-image-to-a-live-camera-feed-using-opencv-python/
+https://github.com/kaushikjadhav01/Live-Video-Sketching-through-webcam-using-OpenCv-Python
+```
 
 
 ```
-Real-time object color detection using OpenCV
-Right and Left Hand Detection Using Python
-Age Detection Using Deep Learning in OpenCV
-OpenCV – Drowsiness Detection
-Build GUI Application Pencil Sketch from Photo in Python
-Measure Size of an Object Using Python OpenCV
-Brightness Control With Hand Detection using OpenCV in Python
-Car driving using hand detection in Python
-Contour Detection with Custom Seeds using Python – OpenCV
-Find Co-ordinates of Contours using OpenCV \| Python
-Live Webcam Drawing using OpenCV
+Fake News Detection Python Project
+https://data-flair.training/blogs/advanced-python-project-detecting-fake-news
+
+Parkinson’s Disease Detection Python Project
+https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease
+
+Color Detection Python Project
+https://data-flair.training/blogs/project-in-python-colour-detection
+
+Speech Emotion Recognition Python Project
+https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition
+
+Breast Cancer Classification Python Project
+https://data-flair.training/blogs/project-in-python-breast-cancer-classification
+
+Age and Gender Detection Python Project
+https://data-flair.training/blogs/python-project-gender-age-detection
+
+Handwritten Digit Recognition Python Project
+https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition
+
+Chatbot Python Project
+https://data-flair.training/blogs/python-chatbot-project
+
+Drowsy Driver Safety Alert System Python Project
+
+Traffic Signs Recognition Python Project
+https://data-flair.training/blogs/python-project-traffic-signs-recognition
+
+Image Caption Generator Python Project
+https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn
+
 Detect and Recognize Car License Plate from a video in real-time
 License Plate Recognition with OpenCV and Tesseract OCR
 Handwritten Digit Recognition using Neural Network
