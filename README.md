@@ -13311,15 +13311,64 @@ working on
 ```
 
 
-computer-vision-projects
+# computer-vision-projects
+
 ```
 https://www.geeksforgeeks.org/computer-vision-projects/
+```
 
 Detect the RGB color from a webcam using Python – OpenCV
+```
+https://www.geeksforgeeks.org/detect-the-rgb-color-from-a-webcam-using-python-opencv/
+https://stackoverflow.com/questions/72150527/how-to-detect-the-colors-nicely-using-opencv-python
+https://www.geeksforgeeks.org/multiple-color-detection-in-real-time-using-python-opencv/
+https://www.kaggle.com/code/eyamallat/color-detection-using-webcam
+https://www.kaggle.com/code/mohammedlahsaini/color-detection-using-opencv
+https://www.kaggle.com/code/volkandl/opencv-for-computer-vision-1-beginner
+https://www.kaggle.com/code/zeeshanlatif/real-time-camera-filters-using-opencv
+```
+
 Face and Hand Landmarks Detection using Python – Mediapipe, OpenCV
+```
+https://www.geeksforgeeks.org/face-and-hand-landmarks-detection-using-python-mediapipe-opencv/
+https://www.geeksforgeeks.org/python-facial-and-hand-recognition-using-mediapipe-holistic/
+https://github.com/prashver/hand-landmark-recognition-using-mediapipe
+```
+
 Real-Time Edge Detection using OpenCV
+```
+https://www.geeksforgeeks.org/real-time-edge-detection-using-opencv-python/
+https://learnopencv.com/edge-detection-using-opencv/
+https://github.com/Ravjot03/Real-Time-Edge-Detection
+https://www.geeksforgeeks.org/python-opencv-roberts-edge-detection/
+```
+
 Implement Canny Edge Detector in Python using OpenCV
+```
+https://www.geeksforgeeks.org/implement-canny-edge-detector-in-python-using-opencv/
+https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html
+https://www.geeksforgeeks.org/python-opencv-canny-function/
+https://www.ikomia.ai/blog/canny-edge-detection-with-opencv-using-ikomia-api
+https://medium.com/@abhisheksriram845/canny-edge-detection-explained-and-compared-with-opencv-in-python-57a161b4bd19
+```
+
 Gun Detection using Python-OpenCV
+```
+https://www.geeksforgeeks.org/gun-detection-using-python-opencv/
+https://github.com/Abhinav-9/Weapon-Detection-Using-OpenCV
+https://github.com/noorkhokhar99/weapon-detection-python-opencv-withyolov5-
+https://towardsdatascience.com/how-to-build-a-weapon-detection-system-using-keras-and-opencv-67b19234e3dd
+```
+
+open-cv-book
+```
+https://www.geeksforgeeks.org/opencv-python-tutorial/
+```
+
+
+
+
+```
 Real-time object color detection using OpenCV
 Right and Left Hand Detection Using Python
 Age Detection Using Deep Learning in OpenCV
