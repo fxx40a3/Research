@@ -15975,6 +15975,8 @@ Intrusion Detection System Using Machine Learning Algorithms
 ```
 Detect and Recognize Car License Plate from a video in real-time
 ```
+
+```
 https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/
 ```
 
