@@ -1,5 +1,33 @@
 # Artificial Intellience Projects and Research
 
+# Qr Reader
+```
+https://www.computervision.zone/courses/qr-reader/
+```
+
+Barcode and QR code Reader with Python
+```
+https://thecleverprogrammer.com/2020/10/23/barcode-and-qr-code-reader-with-python/
+```
+
+OpenCV QR Code Scanner (C++ and Python)
+```
+https://www.learnopencv.com/opencv-qr-code-scanner-c-and-python/
+https://github.com/spmallick/learnopencv/tree/master/QRCode-OpenCV
+```
+
+Barcode and QR code Scanner using ZBar and OpenCV
+```
+https://www.learnopencv.com/barcode-and-qr-code-scanner-using-zbar-and-opencv/
+https://github.com/spmallick/learnopencv/tree/master/barcode-QRcodeScanner
+```
+
+WeChat QR Code Scanner in OpenCV
+```
+https://learnopencv.com/wechat-qr-code-scanner-in-opencv
+https://github.com/spmallick/learnopencv/tree/master/WeChat-QRCode-Scanner-OpenCV
+```
+
 
 # Face-and-hand-landmarks-detection 
 ```
@@ -9699,12 +9727,6 @@ https://github.com/spmallick/learnopencv/tree/master/oak-getting-started
 ```
 
 
-WeChat QR Code Scanner in OpenCV
-```
-https://learnopencv.com/wechat-qr-code-scanner-in-opencv
-https://github.com/spmallick/learnopencv/tree/master/WeChat-QRCode-Scanner-OpenCV
-```
-
 
 AI behind the Diwali 2021 ‘Not just a Cadbury ad’
 ```
@@ -10403,13 +10425,6 @@ https://github.com/spmallick/learnopencv/blob/master/InstallScripts/installOpenC
 ```
 
 
-OpenCV QR Code Scanner (C++ and Python)
-```
-https://www.learnopencv.com/opencv-qr-code-scanner-c-and-python/
-https://github.com/spmallick/learnopencv/tree/master/QRCode-OpenCV
-```
-
-
 Install OpenCV 3.4.4 on Windows (C++ and Python)
 ```
 https://www.learnopencv.com/install-opencv-3-4-4-on-windows/
@@ -10617,12 +10632,6 @@ https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
 https://github.com/spmallick/learnopencv/tree/master/ImageAlignment-FeatureBased
 ```
 
-
-Barcode and QR code Scanner using ZBar and OpenCV
-```
-https://www.learnopencv.com/barcode-and-qr-code-scanner-using-zbar-and-opencv/
-https://github.com/spmallick/learnopencv/tree/master/barcode-QRcodeScanner
-```
 
 
 Keras Tutorial : Fine-tuning using pre-trained models
@@ -16302,10 +16311,7 @@ Object Size Measurement
 https://www.computervision.zone/courses/object-size-measurement/
 ```
 
-Qr Reader
-```
-https://www.computervision.zone/courses/qr-reader/
-```
+
 
 Augmented Reality
 ```
@@ -16899,10 +16905,7 @@ Analyze ILP Matches.
 ```
 https://thecleverprogrammer.com/2020/09/23/analyze-ipl-with-python/
 ```
-Barcode and QR code Reader with Python
-```
-https://thecleverprogrammer.com/2020/10/23/barcode-and-qr-code-reader-with-python/
-```
+
 Extract Text From PDF with Python.
 ```
 https://thecleverprogrammer.com/2020/10/06/extract-text-from-pdf-using-python/
