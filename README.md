@@ -432,135 +432,94 @@ https://www.youtube.com/watch?v=5cwC2Vu4erc
 https://github.com/dorna-robotics/dorna2-python/tree/master
 http://lab.dorna.ai/
 
-https://coincodecap.com/top-30-ai-robotics-projects-step-into-the-future
-
-https://www.electronicsforu.com/electronics-projects/hardware-diy/25-robotics-project-ideas
 Drone Programming With Python Course \| 3 Hours \| Including x4 Projects \| Computer Vision
-
 https://www.youtube.com/watch?v=LmEcyQnfpDA&t=8793s
 
 https://www.ryzerobotics.com/tello
-App store/Play Store
-App tello Download and Install Tello app
-Phone Iphone
-Purchase Link 
-https://store.dji.com/product/tello-boost-combo?vid=45701&set_region=US&from=site-nav
-
 https://github.com/damiafuentes/DJITelloPy
-
 https://github.com/dbaldwin/tello-adv-setup
-
 https://tello.oneoffcoder.com/index.html
-
 https://tello.oneoffcoder.com/
-
 https://tello.oneoffcoder.com/python.html
-
 https://github.com/dji-sdk/Tello-Python
-
 https://github.com/TelloSDK/Multi-Tello-Formation
 
 https://www.instructables.com/Tello-Drone-Python-Programming-Face-Tracking-From-/
 
 
 Tello Programming and Application - Lessons 1. Swimmer Rescue:
-
 https://www.youtube.com/watch?v=nTNAbtxdpEY
 
 Tello Programming and Application - Lessons 2. Shark Patrol
-
 https://www.youtube.com/watch?v=f5UtcCH89pU
 
 Tello Programming and Application - Lessons 3. Roof Inspection
-
 https://www.youtube.com/watch?v=L8k31hAeepw
 
 Tello Programming and Application - Lessons 4. Delivery
-
 https://www.youtube.com/watch?v=oRnldLswgPE
 
 Tello Programming and Application - Lessons 5. Rope Bridge
-
 https://www.youtube.com/watch?v=odY_J2Dyj-c
 
 Tello Programming and Application - Lessons 6. Crowd Counting
-
 https://www.youtube.com/watch?v=BBeZQOCylT0
 
 Tello Programming and Application - Lessons 7. Gallery Patrol
-
 https://www.youtube.com/watch?v=7vnbaR6Vrww
 
 Tello Programming and Application - Lessons 8. Bushfire Patrol
-
 https://www.youtube.com/watch?v=s3vq6y5DKME
 
 Tello Programming and Application - Lessons 9. Guided Drone Tours
-
 https://www.youtube.com/watch?v=SsUTkRSbWg8
 
 Develop Path Planning GUI for DJI Tello
-
 https://www.youtube.com/watch?v=Fd-2vjMqr1U
 
 Teach sign language to AI drone
-
 https://www.youtube.com/watch?v=dbfIFTCClQo&list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI&index=3
 
 tello-drone-programming-part1
-
 https://medium.com/@danialhamedi/tello-drone-programming-part1-6b80758dc8a6
 
 tello-drone-programming-part2
-
 https://medium.com/@danialhamedi/tello-drone-programming-part2-b5a7aa4fd959
 
 real-time object detection
-
 https://github.com/dp-betalock/DJITelloDrone-YOLOv8
 
 Python Tello Drone Programming Tutorials
-
 https://www.youtube.com/playlist?list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o
 
 Getting Started with DJI Tello Drones: Firmware Updates & Coding Environment Setup
-
 https://www.youtube.com/watch?v=Dgul2g2oDxA&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=1&pp=iAQB
 
 Mastering Tello Drone Programming with Python \| Execute Basic Flight Routines
-
 https://www.youtube.com/watch?v=wn3UVB9xoVk&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=2&pp=iAQB
 
 Streaming Tello's Forward Camera with DJITelloPy and OpenCV \| Python Drone Programming Tutorial
-
 https://www.youtube.com/watch?v=3JEz9hq1D2w&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=3&pp=iAQB
 
 Mastering Tello Drone Sensor Data Reading with Python
-
 https://www.youtube.com/watch?v=hjVfDW7c2zc&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=4&pp=iAQB
 
 Streaming Tello's Bottom Camera with DJITelloPy and OpenCV \| Python Drone Programming Tutorial
-
 https://www.youtube.com/watch?v=JOZ9XoFDEYE&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=5&pp=iAQB
 
 Record Video from the Tello Drone with Python and OpenCV \| Save as .mp4 file \| Programming Tutorial
-
 https://www.youtube.com/watch?v=ODye_sT62C0&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=6&pp=iAQB
 
 Taking Pictures with Tello Drones using Python and OpenCV \| Save as .png file \| Programming Tutorial
-
 https://www.youtube.com/watch?v=e-gfODYr8Nc&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=7&pp=iAQB
 
 Control Tello Drones with a Game Controller \| Drone Programming Tutorial \| Python \| Tkinter \| Inputs
-
 https://www.youtube.com/watch?v=IqJfxuwADJ8&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=8&pp=iAQB
 
 Custom Drone Battery Level Indicator: Python HUD Programming \| Design & Development Tutorial
-
 https://www.youtube.com/watch?v=EoJkH66vpk8&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=9&pp=iAQB
 
 Conquering Tello Drone Programming with Python \| Flight Automation + Live Video Stream Tutorial
-
 https://www.youtube.com/watch?v=HYJ3vcHG4jY&list=PLAu6u02VrrtzcivPSOqV5EHZWqmUyEX2o&index=10&pp=iAQB
 
 Tello Drone Python Flight Routine Automation + Live Stream Demo \| TRAILER #dji #drone #python
