@@ -1061,8 +1061,7 @@ Ai generated Fake Face and Real Face detection using Deepfake
 ```
 https://projectworlds.in/ai-generated-fake-face-and-real-face-detection-using-deepfake-web-app-project/
 https://data-flair.training/blogs/machine-learning-project-ideas/
-https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
-03:44 Face Detection
+
 Face Detection 60 FPS
 https://www.computervision.zone/courses/face-detection-60-fps/
 ```
@@ -11939,10 +11938,6 @@ https://www.kaggle.com/code/fpolcari/startup-success-prediction
 
 # Traffic Sign Recognition
 ```
-https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI        
-01:39 Traffic Sign Detection
-
-
 Traffic Signs Recognition using CNN and Keras in Python
 https://www.geeksforgeeks.org/traffic-signs-recognition-using-cnn-and-keras-in-python/
 
@@ -14218,11 +14213,45 @@ working on
 ```
 https://www.youtube.com/watch?v=Q16PMyIIE3Y&ab_channel=Murtaza%27sWorkshop-RoboticsandAI		
 00:57 Object Size Measurement		
+https://www.geeksforgeeks.org/measure-size-of-an-object-using-python-opencv/
+https://github.com/mishrakushal/real-time-object-measurement
+https://www.kaggle.com/code/nisafatima/object-size-detection-using-yolo
+https://pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
+
 01:22 Document Scanner		
+https://www.geeksforgeeks.org/automatic-document-scanner-using-opencv-opencv-document-scanner/
+https://www.kaggle.com/code/yasserh/document-ocr-scanner
+
 02:22 Face Tracking with 2-axis PID Control		
+https://www.kaggle.com/code/dingggggg/facial-keypoints-detection-cnn
+https://www.kaggle.com/code/shreysharma07/face-points
+https://www.kaggle.com/code/ishhbku/faceproject
+https://www.kaggle.com/code/limwenyang/facial-keypoints-detection
+https://www.geeksforgeeks.org/opencv-python-program-face-detection/
+https://pypi.org/project/face-recognition/
+https://github.com/ageitgey/face_recognition
+https://www.datacamp.com/tutorial/face-detection-python-opencv
+
 02:49 Face Door Lock		
+https://medium.com/@dharambir.bizipac/face-recognition-based-smart-door-lock-system-using-python-and-arduino-8c1058f7e448
+https://github.com/Wilson0406/Face-Recognition-Door-Lock
+https://medium.com/analytics-vidhya/simple-facial-recognition-lock-in-python-fc3bdb65f9e2
+https://www.geeksforgeeks.org/opencv-python-program-face-detection/
+
 03:31 Face Emotion Detection		
+https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface
+https://github.com/atulapra/Emotion-detection
+https://learnopencv.com/facial-emotion-recognition/
+https://girolamopinto1.medium.com/emotion-detection-in-python-8642fade50a9
+https://www.kaggle.com/code/amankrpandey1/face-emotion-detection
+https://www.geeksforgeeks.org/emotion-detection-using-convolutional-neural-networks-cnns/
+
+
 03:55 Shape Detection		
+https://www.geeksforgeeks.org/how-to-detect-shapes-in-images-in-python-using-opencv/
+https://www.geeksforgeeks.org/python-detect-polygons-in-an-image-using-opencv/
+https://medium.com/analytics-vidhya/detecting-and-counting-objects-with-opencv-b0f59bc1e111
+		
 04:26 Custom Object Detection		
 04:42 Obstacle Avoiding Robot		
 05:03 Optical Mark Recognition		
