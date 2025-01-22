@@ -1,5 +1,329 @@
 # Artificial Intellience Projects and Research
 
+# Image Segmentation
+
+DIS\
+Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation)
+```
+https://bit.ly/3vi3xh3
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3bD2OPA
+```
+	
+Unet	\
+Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation
+```
+https://bit.ly/3izdbG2
+```
+
+Deeplabv2\
+Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+```
+https://bit.ly/2Y9DgSx
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekruWks
+Keras: https://bit.ly/3iFcfzV, https://bit.ly/396wTWL
+Tensorflow : https://bit.ly/3o6q1wJ
+Pytorch : https://bit.ly/3p89nhy, https://bit.ly/3iIAnBW
+```
+
+AutoDeeplab\
+Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation
+```
+https://bit.ly/2P14kSF
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/evrb324
+Official Code : https://bit.ly/3llgguM
+pytorch : 
+1. https://bit.ly/3bRcSEX
+2. https://bit.ly/3liYPuW
+3. https://bit.ly/3rWxIbE
+```
+
+CUDMedVision1\
+Computer Vision Learning CUMedVision1 — Fully Convolutional Network (Biomedical Image Segmentation)
+```
+https://bit.ly/3rETZd1
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA
+Code : https://bit.ly/3rEB2YL
+```
+
+CUDMedVision2\
+Computer Vision Learning CUMedVision2 / DCAN—Winner of 2015 MICCAI Gland Segmentation Challenge Contest (Biomedical Image Segmentation)
+```
+https://bit.ly/3mago0q
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA
+```
+
+CFS-FCN\
+Computer Vision Learning CFS-FCN (Biomedical Image Segmentation)
+```
+https://bit.ly/3cXP0zX
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyEkBfU
+```
+
+U-net+Res-net\
+Computer Vision Learning 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — The Importance of Long & Short Skip Connections (Biomedical Image Segmentation)
+```
+https://bit.ly/3mpKD3P
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKVBAmV
+```
+
+Multi-Channel
+Computer Vision Learning 𝗠𝘂𝗹𝘁𝗶𝗖𝗵𝗮𝗻𝗻𝗲𝗹 — Segment Colon Histology Images (Biomedical Image Segmentation)
+```
+https://bit.ly/2Q1WCbN
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ex_Q36z
+```
+
+V-Net\
+Computer Vision Learning 𝗩-𝗡𝗲𝘁 — Volumetric Convolution (Biomedical Image Segmentation)
+```
+https://bit.ly/3sYxGAt
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEXbewA
+Code: https://lnkd.in/e7bvT2C
+```
+
+3D-Unet\
+Computer Vision Learning 3𝘿 𝙐-𝙉𝙚𝙩 — Volumetric Segmentation (Medical Image Segmentation)
+```
+https://bit.ly/3uvNOcS
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEBFdZ4
+Code: https://lnkd.in/ebts9a9
+```
+
+M²FCN\
+Computer Vision Learning M²FCN — Multi-stage Multi-recursive-input Fully Convolutional Networks (Biomedical Image Segmentation)
+```
+https://bit.ly/3cXSlPG
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eQp7Zfn
+```
+
+Suggestive Annotation\
+Computer Vision Learning Suggestive Annotation — Deep Active Learning Framework (Biomedical Image Segmentation)
+```
+https://bit.ly/3t1UbV8
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eayVSdC
+```
+
+3D Unet + Resnet\
+Computer Vision Learning 3𝗗 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — Volumetric Convolutions + Long & Short Residual Connections (Biomedical Image Segmentation)
+```
+https://bit.ly/3wRu3i9
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eX8PmCu
+```
+
+Cascade 3D-Unet\
+Computer Vision Learning 𝗖𝗮𝘀𝗰𝗮𝗱𝗲𝗱 3𝗗 𝗨-𝗡𝗲𝘁 — Multi-Organ Segmentation (Biomedical Image Segmentation)
+```
+https://bit.ly/3siNsEX
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e6Jteqz
+```
+
+DenseVoxNet\
+Computer Vision Learning 𝗗𝗲𝗻𝘀𝗲𝗩𝗼𝘅𝗡𝗲𝘁 — Volumetric Brain Segmentation (Biomedical Image Segmentation)
+```
+https://bit.ly/2RGliYd
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eDxyMH6
+Code: https://lnkd.in/eWu_t5m
+```
+
+QSA + QNT\
+Computer Vision Learning 𝗤𝗦𝗔+𝗤𝗡𝗧 — Quantization of Fully Convolutional Networks (Biomedical Image Segmentation)
+```
+https://bit.ly/3wWtyDf
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ec7mwzJ
+```
+
+Attention-Unet\
+Computer Vision Learning 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗨-𝗡𝗲𝘁 — Learning Where to Look for the Pancreas (Biomedical Image Segmentation)
+```
+https://bit.ly/3eaMNAK
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gnfKAdu 
+Code: https://lnkd.in/gNM8JNZ
+```
+
+RUNet + R2Unet\
+Computer Vision Learning 𝙍𝙐-𝙉𝙚𝙩 & 𝙍2𝙐-𝙉𝙚𝙩 — Recurrent Residual Convolutional Neural Network (Medical Image Segmentation)
+```
+https://bit.ly/2Q4bIxG
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eGmwmx8 
+Code: https://lnkd.in/eJGh3U9
+```
+
+VoxResNet\
+Computer Vision Learning 𝗩𝗼𝘅𝗥𝗲𝘀𝗡𝗲𝘁— Deep Voxelwise Residual Networks for Volumetric Brain Segmentation (Biomedical Image Segmentation)
+```
+https://bit.ly/32gLBWN
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/32ezHMX
+Code : https://bit.ly/3e51vcf
+```
+
+Unet++\
+Computer Vision Learning 𝗨𝗡𝗲𝘁++ — A Nested U-Net Architecture (Biomedical Image Segmentation)
+```
+https://bit.ly/3esShGV
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9KAr-S
+Code : https://lnkd.in/eMiruB2
+```
+
+H-DenseUnet\
+Computer Vision Learning  𝗛-𝗗𝗲𝗻𝘀𝗲𝗨𝗡𝗲𝘁 — 2D & 3D 𝗗𝗲𝗻𝘀𝗲𝗨𝗡𝗲𝘁 for Intra & Inter Slice Features (Biomedical Image Segmentation)
+```
+https://bit.ly/3dN53kn
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eu99_6D
+Code : https://lnkd.in/e9ttFUf
+```
+
+DUnet\
+Computer Vision Learning  𝗗𝗨𝗡𝗲𝘁 — Deformable U-Net for Retinal Vessels Segmentation (Biomedical Image Segmentation)
+```
+https://bit.ly/3sPYrWS
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ePh_NS9
+```
+
+MultiResUnet\
+Computer Vision Learning  𝗠𝘂𝗹𝘁𝗶𝗥𝗲𝘀𝗨𝗡𝗲𝘁 — Rethinking U-Net (Biomedical Image Segmentation)
+```
+https://bit.ly/32J7Epr
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gUyQCaE
+Code: https://lnkd.in/gTxx2pe
+```
+
+Unet3+\
+Computer Vision Learning  𝗨𝗡𝗲𝘁 𝟯+ — A Full-Scale Connected UNet (Medical Image Segmentation)
+```
+https://bit.ly/3vj4lRX
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/exaNezc
+Code: https://lnkd.in/etiTzns
+```
+
+
+𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁)\
+Computer Vision Learning  𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁): Brain Lesion Segmentation (Biomedical Image Segmentation)
+```
+https://bit.ly/3tR67cM
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/esMvitH
+```
+
+Medical Transformer\
+Computer Vision Learning 𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿: Gated Axial-Attention for Medical Image Segmentation
+```
+https://bit.ly/3dLw9Zf
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e26DDzU
+code : https://lnkd.in/eAZDbjz
+```
+
+DiNTS\
+Computer Vision Learning 𝗗𝗶𝗡𝗧𝗦: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation
+```
+https://bit.ly/3AQibii
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ebttUGK
+```
+
+FedDG\
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗙𝗲𝗱𝗗𝗚: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space
+```
+https://bit.ly/3zfKiGe
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eYDsF7C
+Code : https://lnkd.in/eb9jUkQ
+```
+
+MC-Net+	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗖-𝗡𝗲𝘁+:Enforcing Mutual Consistency of Hard Regions for Semi-supervised Medical Image Segmentation by Monash-Airdoc Research, Monash University, Melbourne, VIC 3800, Australia
+```
+https://bit.ly/3v5tYqk
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ecB3tyd9
+Code : https://lnkd.in/ex9MEfpE
+```
+
+L^3U-net\	
+𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 L^3U-net: Low-Latency Lightweight U-net Based Image Segmentation Model for Parallel CNN Processors by Analog Devices Inc.
+```
+https://bit.ly/3iTOq8r
+```
+
+
+U-Net
+U-Net: Convolutional Networks for Biomedical Image Segmentation
+```
+https://arxiv.org/pdf/1505.04597.pdf
+```
+
+SegNet
+SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+```
+https://arxiv.org/pdf/1511.00561.pdf
+```
+
+DeepLab
+DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+```
+https://arxiv.org/pdf/1606.00915.pdf
+```
+
+DeepLabv3
+Rethinking Atrous Convolution for Semantic Image Segmentation
+```
+https://arxiv.org/pdf/1706.05587.pdf
+```
+
+
+R2U-Net
+Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation
+```
+https://arxiv.org/pdf/1802.06955.pdf
+```
+
+LadderNet
+LADDERNET: MULTI-PATH NETWORKS BASED ON U-NET FOR MEDICAL IMAGE SEGMENTATION
+```
+https://arxiv.org/pdf/1810.07810.pdf
+```
+
+Enhancing Image Segmentation using U2-Net: An Approach to Efficient Background Removal
+```
+https://learnopencv.com/u2-net-image-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Efficient-Background-Removal-using-U2-Net
+```
+
+
+Medical Image Segmentation
+```
+https://learnopencv.com/medical-image-segmentation/
+https://github.com/spmallick/learnopencv/tree/master/Medical-Image-Segmentation-Using-HuggingFace-&amp;-PyTorch
+```
+
+
+Segment Anything – A Foundation Model for Image Segmentation
+```
+https://learnopencv.com/segment-anything/
+https://github.com/spmallick/learnopencv/tree/master/Segment-Anything-A-Foundation-Model-for-Image-Segmentation
+```
+
+
+Image Segmentation
+```
+https://www.geeksforgeeks.org/image-segmentation-using-k-means-clustering/
+```
+
+Lesion Segmentation  
+Lung Nodule Segmentation  
+Medical Image Classification  
+
+Medical Image Segmentation  
+```
+https://www.kaggle.com/datasets?search=Medical+Image+Segmentation
+```
+
+Image Segmentation
+```
+https://www.geeksforgeeks.org/image-segmentation-using-tensorflow/
+```
+
+
+Image Segmentation
+```
+https://thecleverprogrammer.com/2020/07/22/image-segmentation/
+```
+
 # Qr Reader
 ```
 https://www.computervision.zone/courses/qr-reader/
@@ -1284,12 +1608,6 @@ https://bit.ly/3letEAY
 Official Code : https://bit.ly/3rEB2YL
 ```
 
-DIS\
-Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation)
-```
-https://bit.ly/3vi3xh3
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3bD2OPA
-```
 
 SDN\
 Computer Vision Learning SDN — Stacked Deconvolutional Network Using DenseNet (Semantic Segmentation)
@@ -2206,13 +2524,6 @@ Computer Vision Learning 𝗗𝗿𝗼𝗽𝗕𝗹𝗼𝗰𝗸: A 𝗥𝗲𝗴�
 https://bit.ly/3sM4TiG
 ```
 
-	
-Unet	\
-Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation
-```
-https://bit.ly/3izdbG2
-```
-
 
 SegNet\
 Computer Vision Learning SegNet
@@ -2279,15 +2590,6 @@ Tensorflow : https://bit.ly/391bnT4, https://bit.ly/3iuKKsM
 Pytorch : https://bit.ly/38XCoXq
 ```
 
-Deeplabv2\
-Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
-```
-https://bit.ly/2Y9DgSx
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekruWks
-Keras: https://bit.ly/3iFcfzV, https://bit.ly/396wTWL
-Tensorflow : https://bit.ly/3o6q1wJ
-Pytorch : https://bit.ly/3p89nhy, https://bit.ly/3iIAnBW
-```
 
 Grad-CAM\
 Computer Vision Learning Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
@@ -2560,17 +2862,6 @@ https://bit.ly/3q6EHg8
 Official Code : https://bit.ly/3r6Mko8
 ```
 
-AutoDeeplab\
-Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation
-```
-https://bit.ly/2P14kSF
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/evrb324
-Official Code : https://bit.ly/3llgguM
-pytorch : 
-1. https://bit.ly/3bRcSEX
-2. https://bit.ly/3liYPuW
-3. https://bit.ly/3rWxIbE
-```
 
 BR²Net\
 Computer Vision Learning BR²Net: Defocus Blur Detection via a Bidirectional Channel Attention Residual Refining Network (Blur Detection)
@@ -2588,187 +2879,12 @@ https://bit.ly/3sfMdYa
 Official Code : https://lnkd.in/e2JnQpt
 ```
 
-
-CUDMedVision1\
-Computer Vision Learning CUMedVision1 — Fully Convolutional Network (Biomedical Image Segmentation)
-```
-https://bit.ly/3rETZd1
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA
-Code : https://bit.ly/3rEB2YL
-```
-
-CUDMedVision2\
-Computer Vision Learning CUMedVision2 / DCAN—Winner of 2015 MICCAI Gland Segmentation Challenge Contest (Biomedical Image Segmentation)
-```
-https://bit.ly/3mago0q
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA
-```
-
-CFS-FCN\
-Computer Vision Learning CFS-FCN (Biomedical Image Segmentation)
-```
-https://bit.ly/3cXP0zX
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyEkBfU
-```
-
-U-net+Res-net\
-Computer Vision Learning 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — The Importance of Long & Short Skip Connections (Biomedical Image Segmentation)
-```
-https://bit.ly/3mpKD3P
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKVBAmV
-```
-
-Multi-Channel
-Computer Vision Learning 𝗠𝘂𝗹𝘁𝗶𝗖𝗵𝗮𝗻𝗻𝗲𝗹 — Segment Colon Histology Images (Biomedical Image Segmentation)
-```
-https://bit.ly/2Q1WCbN
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ex_Q36z
-```
-
-V-Net\
-Computer Vision Learning 𝗩-𝗡𝗲𝘁 — Volumetric Convolution (Biomedical Image Segmentation)
-```
-https://bit.ly/3sYxGAt
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEXbewA
-Code: https://lnkd.in/e7bvT2C
-```
-
-3D-Unet\
-Computer Vision Learning 3𝘿 𝙐-𝙉𝙚𝙩 — Volumetric Segmentation (Medical Image Segmentation)
-```
-https://bit.ly/3uvNOcS
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eEBFdZ4
-Code: https://lnkd.in/ebts9a9
-```
-
-M²FCN\
-Computer Vision Learning M²FCN — Multi-stage Multi-recursive-input Fully Convolutional Networks (Biomedical Image Segmentation)
-```
-https://bit.ly/3cXSlPG
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eQp7Zfn
-```
-
-Suggestive Annotation\
-Computer Vision Learning Suggestive Annotation — Deep Active Learning Framework (Biomedical Image Segmentation)
-```
-https://bit.ly/3t1UbV8
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eayVSdC
-```
-
-3D Unet + Resnet\
-Computer Vision Learning 3𝗗 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — Volumetric Convolutions + Long & Short Residual Connections (Biomedical Image Segmentation)
-```
-https://bit.ly/3wRu3i9
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eX8PmCu
-```
-
-Cascade 3D-Unet\
-Computer Vision Learning 𝗖𝗮𝘀𝗰𝗮𝗱𝗲𝗱 3𝗗 𝗨-𝗡𝗲𝘁 — Multi-Organ Segmentation (Biomedical Image Segmentation)
-```
-https://bit.ly/3siNsEX
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e6Jteqz
-```
-
-DenseVoxNet\
-Computer Vision Learning 𝗗𝗲𝗻𝘀𝗲𝗩𝗼𝘅𝗡𝗲𝘁 — Volumetric Brain Segmentation (Biomedical Image Segmentation)
-```
-https://bit.ly/2RGliYd
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eDxyMH6
-Code: https://lnkd.in/eWu_t5m
-```
-
-QSA + QNT\
-Computer Vision Learning 𝗤𝗦𝗔+𝗤𝗡𝗧 — Quantization of Fully Convolutional Networks (Biomedical Image Segmentation)
-```
-https://bit.ly/3wWtyDf
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ec7mwzJ
-```
-
-Attention-Unet\
-Computer Vision Learning 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗨-𝗡𝗲𝘁 — Learning Where to Look for the Pancreas (Biomedical Image Segmentation)
-```
-https://bit.ly/3eaMNAK
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gnfKAdu 
-Code: https://lnkd.in/gNM8JNZ
-```
-
-RUNet + R2Unet\
-Computer Vision Learning 𝙍𝙐-𝙉𝙚𝙩 & 𝙍2𝙐-𝙉𝙚𝙩 — Recurrent Residual Convolutional Neural Network (Medical Image Segmentation)
-```
-https://bit.ly/2Q4bIxG
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eGmwmx8 
-Code: https://lnkd.in/eJGh3U9
-```
-
-VoxResNet\
-Computer Vision Learning 𝗩𝗼𝘅𝗥𝗲𝘀𝗡𝗲𝘁— Deep Voxelwise Residual Networks for Volumetric Brain Segmentation (Biomedical Image Segmentation)
-```
-https://bit.ly/32gLBWN
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/32ezHMX
-Code : https://bit.ly/3e51vcf
-```
-
-Unet++\
-Computer Vision Learning 𝗨𝗡𝗲𝘁++ — A Nested U-Net Architecture (Biomedical Image Segmentation)
-```
-https://bit.ly/3esShGV
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e9KAr-S
-Code : https://lnkd.in/eMiruB2
-```
-
-H-DenseUnet\
-Computer Vision Learning  𝗛-𝗗𝗲𝗻𝘀𝗲𝗨𝗡𝗲𝘁 — 2D & 3D 𝗗𝗲𝗻𝘀𝗲𝗨𝗡𝗲𝘁 for Intra & Inter Slice Features (Biomedical Image Segmentation)
-```
-https://bit.ly/3dN53kn
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eu99_6D
-Code : https://lnkd.in/e9ttFUf
-```
-
-DUnet\
-Computer Vision Learning  𝗗𝗨𝗡𝗲𝘁 — Deformable U-Net for Retinal Vessels Segmentation (Biomedical Image Segmentation)
-```
-https://bit.ly/3sPYrWS
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ePh_NS9
-```
-
-MultiResUnet\
-Computer Vision Learning  𝗠𝘂𝗹𝘁𝗶𝗥𝗲𝘀𝗨𝗡𝗲𝘁 — Rethinking U-Net (Biomedical Image Segmentation)
-```
-https://bit.ly/32J7Epr
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/gUyQCaE
-Code: https://lnkd.in/gTxx2pe
-```
-
-Unet3+\
-Computer Vision Learning  𝗨𝗡𝗲𝘁 𝟯+ — A Full-Scale Connected UNet (Medical Image Segmentation)
-```
-https://bit.ly/3vj4lRX
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/exaNezc
-Code: https://lnkd.in/etiTzns
-```
-
-
-𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁)\
-Computer Vision Learning  𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁): Brain Lesion Segmentation (Biomedical Image Segmentation)
-```
-https://bit.ly/3tR67cM
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/esMvitH
-```
-
 Ki-Unet\
 Computer Vision Learning  𝗞𝗶𝗨-𝗡𝗲𝘁: Overcomplete Convolutional Architectures for Biomedical Image and Volumetric Segmentation
 ```
 https://bit.ly/3gD4wDK
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eAmgiTQ
 code : https://lnkd.in/eZah6kY
-```
-
-Medical Transformer\
-Computer Vision Learning 𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿: Gated Axial-Attention for Medical Image Segmentation
-```
-https://bit.ly/3dLw9Zf
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/e26DDzU
-code : https://lnkd.in/eAZDbjz
 ```
 
 
@@ -3158,13 +3274,6 @@ https://bit.ly/3r42WO9
 Code : https://lnkd.in/euAuJa3
 ```
 
-DiNTS\
-Computer Vision Learning 𝗗𝗶𝗡𝗧𝗦: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation
-```
-https://bit.ly/3AQibii
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ebttUGK
-```
-
 Pose2Mesh\
 Computer Vision Learning 𝗣𝗼𝘀𝗲2𝗠𝗲𝘀𝗵: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose
 ```
@@ -3252,13 +3361,6 @@ Code: https://lnkd.in/e-3p5WF
 Colab : https://lnkd.in/e6GSAbF
 ```
 
-FedDG\
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗙𝗲𝗱𝗗𝗚: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space
-```
-https://bit.ly/3zfKiGe
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eYDsF7C
-Code : https://lnkd.in/eb9jUkQ
-```
 
 Auto-Exposure Fusion\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 Auto-Exposure Fusion for Single-Image Shadow Removal
@@ -3797,13 +3899,6 @@ https://bit.ly/3v1Zh5H
 Code: https://lnkd.in/erd2zYAg
 ```
 
-MC-Net+	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗖-𝗡𝗲𝘁+:Enforcing Mutual Consistency of Hard Regions for Semi-supervised Medical Image Segmentation by Monash-Airdoc Research, Monash University, Melbourne, VIC 3800, Australia
-```
-https://bit.ly/3v5tYqk
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ecB3tyd9
-Code : https://lnkd.in/ex9MEfpE
-```
 
 Fake it till you make it	
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗙𝗮𝗸𝗲 𝗜𝘁 𝗧𝗶𝗹𝗹 𝗬𝗼𝘂 𝗠𝗮𝗸𝗲 𝗜𝘁: Face analysis in the wild using synthetic data alone by Microsoft
@@ -4811,12 +4906,6 @@ StyleT2I\
 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis by University of Rochester
 ```
 https://bit.ly/35u5Wx0
-```
-
-L^3U-net\	
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 L^3U-net: Low-Latency Lightweight U-net Based Image Segmentation Model for Parallel CNN Processors by Analog Devices Inc.
-```
-https://bit.ly/3iTOq8r
 ```
 
 Balanced MSE\	
@@ -8185,23 +8274,12 @@ EfficientNetV2: Smaller Models and Faster Training
 https://arxiv.org/abs/2104.00298
 ```
 
-U-Net
-U-Net: Convolutional Networks for Biomedical Image Segmentation
-```
-https://arxiv.org/pdf/1505.04597.pdf
-```
-
 ParseNet
 ParseNet: Looking Wider to See Better
 ```
 https://arxiv.org/abs/1506.04579
 ```
 
-SegNet
-SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
-```
-https://arxiv.org/pdf/1511.00561.pdf
-```
 
 DilatedNet
 MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS
@@ -8220,12 +8298,6 @@ MultiNet
 MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving
 ```
 https://arxiv.org/pdf/1612.07695.pdf
-```
-
-DeepLab
-DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
-```
-https://arxiv.org/pdf/1606.00915.pdf
 ```
 
 PSPNet
@@ -8247,18 +8319,6 @@ PIXEL DECONVOLUTIONAL NETWORKS
 https://arxiv.org/pdf/1705.06820.pdf
 ```
 
-DeepLabv3
-Rethinking Atrous Convolution for Semantic Image Segmentation
-```
-https://arxiv.org/pdf/1706.05587.pdf
-```
-
-
-R2U-Net
-Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation
-```
-https://arxiv.org/pdf/1802.06955.pdf
-```
 
 Attention U-Net
 Attention U-Net: Learning Where to Look for the Pancreas
@@ -8270,12 +8330,6 @@ DANet
 Dual Attention Network for Scene Segmentation
 ```
 https://arxiv.org/pdf/1809.02983.pdf
-```
-
-LadderNet
-LADDERNET: MULTI-PATH NETWORKS BASED ON U-NET FOR MEDICAL IMAGE SEGMENTATION
-```
-https://arxiv.org/pdf/1810.07810.pdf
 ```
 
 
@@ -8804,13 +8858,6 @@ https://github.com/spmallick/learnopencv/tree/master/Monocular%20SLAM%20for%20Ro
 ```
 
 
-Enhancing Image Segmentation using U2-Net: An Approach to Efficient Background Removal
-```
-https://learnopencv.com/u2-net-image-segmentation/
-https://github.com/spmallick/learnopencv/tree/master/Efficient-Background-Removal-using-U2-Net
-```
-
-
 YOLOv10: The Dual-Head OG of YOLO Series
 ```
 https://learnopencv.com/yolov10/
@@ -9114,14 +9161,6 @@ Paper 5: Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing
 ```
 
 
-
-Medical Image Segmentation
-```
-https://learnopencv.com/medical-image-segmentation/
-https://github.com/spmallick/learnopencv/tree/master/Medical-Image-Segmentation-Using-HuggingFace-&amp;-PyTorch
-```
-
-
 Weighted Boxes Fusion in Object Detection: A Comparison with Non-Maximum Suppression
 ```
 https://learnopencv.com/weighted-boxes-fusion/
@@ -9183,13 +9222,6 @@ YOLO-NAS: New Object Detection Model Beats YOLOv6 &amp; YOLOv8
 ```
 https://learnopencv.com/yolo-nas/
 https://github.com/spmallick/learnopencv/tree/master/YOLO-NAS_Introduction
-```
-
-
-Segment Anything – A Foundation Model for Image Segmentation
-```
-https://learnopencv.com/segment-anything/
-https://github.com/spmallick/learnopencv/tree/master/Segment-Anything-A-Foundation-Model-for-Image-Segmentation
 ```
 
 
@@ -13200,20 +13232,6 @@ Learning Material for Deep Learning, ML, Computer Vision and NLP
 https://github.com/kmario23/deep-learning-drizzle
 ```
 
-Image Segmentation
-```
-https://www.geeksforgeeks.org/image-segmentation-using-k-means-clustering/
-```
-
-Lesion Segmentation  
-Lung Nodule Segmentation  
-Medical Image Classification  
-
-Medical Image Segmentation  
-```
-https://www.kaggle.com/datasets?search=Medical+Image+Segmentation
-```
-
 Retinal Vessel Segmentation
 ```
 https://www.kaggle.com/datasets?search=Retinal+Vessel+Segmentation
@@ -13726,9 +13744,6 @@ Image Deblurring with Deep Neural Networks
 Object Detection Using YOLO Using Pytorch
 Object Detection Using YOLO Using Tensorflow
 Object Detection with Faster R-CNN and Mask R-CNN
-Image Segmentation with U-Net using Tensorflow
-Image Segmentation with SegNet using Tensorflow
-Image Segmentation with U-Net using Pytorch
 Neural Style Transfer Using Pytorch
 Image Synthesis using Generative Adversarial Networks (GANs)
 Emotion Recognition through Facial Expressions
@@ -15166,11 +15181,7 @@ Face Mask Detection
 
 https://www.geeksforgeeks.org/facemask-detection-using-tensorflow-in-python/
  
-Image Segmentation
-
-https://www.geeksforgeeks.org/image-segmentation-using-tensorflow/
 Skin Cancer Detection
-
 https://www.geeksforgeeks.org/skin-cancer-detection-using-tensorflow/
 How can Tensorflow be used with the abalone  to build a sequential model?
 
@@ -16870,10 +16881,6 @@ https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-
 Predict Tinder Matches with Machine Learning.
 ```
 https://thecleverprogrammer.com/2020/09/28/predict-tinder-matches-with-machine-learning/
-```
-Image Segmentation
-```
-https://thecleverprogrammer.com/2020/07/22/image-segmentation/
 ```
 
 Build Google Search Algorithm with Python.
