@@ -12411,9 +12411,17 @@ https://thecleverprogrammer.com/2021/10/17/iris-flower-classification-with-machi
 https://projectworlds.in/iris-flower-classification-with-decision-trees-web-app/
 ```
 
+PySpark Advance Algorithms Practice Recommender Systems
+```
+https://medium.com/@brunoborges_38708/recommender-system-using-als-in-pyspark-10329e1d1ee1
+https://www.geeksforgeeks.org/recommender-system-using-pyspark-python/
+https://www.kaggle.com/code/gspmoreira/recommender-systems-in-python-101
+https://www.kaggle.com/code/abhinavbhuyan/recommender-system-with-pyspark-ml
+https://www.kaggle.com/code/vchulski/tutorial-collaborative-filtering-with-pyspark
+https://www.kaggle.com/code/sharanharsoor/recommendation-systems-an-overview
 ```
 
-PySpark Advance Algorithms Practice Recommender Systems
+```
 Regression Diagnostics Seattle Hotels Recommender
 Solving A Simple Classification Problem with Python Beef analysis
 Text Classification Keras
