@@ -17603,8 +17603,23 @@ https://www.kaggle.com/code/dimitriosroussis/electricity-price-forecasting-with-
 
 
 555. Phishing Detection System Using a
-556. Self Driving car project using
-557. OpenCV Python Neural Network Autonomous RC C
+https://www.activestate.com/blog/phishing-url-detection-with-python-and-ml/
+https://olivierkonate.medium.com/easily-detect-phishing-websites-using-this-python-script-368216850d8
+https://github.com/0liverFlow/HookPhish
+https://github.com/vaibhavbichave/Phishing-URL-Detection
+
+556. Self Driving car project using python
+https://github.com/ddayto21/Self-Driving-Car-
+https://github.com/MohammadWasil/Self-Driving-Car-Python
+https://medium.com/analytics-vidhya/designing-a-self-driving-car-simulation-using-python-38dcac8136c6
+https://medium.com/@stevechange/a-self-driving-car-project-pt-1-aa2bb061d3cf
+
+557. OpenCV Python neural network autonomous rc car project using python
+https://github.com/hamuchiwa/AutoRCCar
+https://github.com/sidroopdaska/SelfDrivingRCCar
+https://medium.com/asap-report/training-a-neural-network-for-driving-an-autonomous-rc-car-3906db91f3e
+https://medium.com/@zaid.killam/make-your-own-self-driving-rc-car-using-python-and-raspberry-pi-part-1-introduction-188ac7a2e023
+
 558. Stock prediction using sentimental analysis –
 559. Illness Tracker | Final Year Project
 560. neural network JAVA
@@ -17755,8 +17770,6 @@ Ai Mental Health Chatbot project python with source code
 https://projectworlds.in/ai-mental-health-chatbot-project-python-with-source-code/
 ```
 
-
-53
 Create a Chatbot with Python
 ```
 https://thecleverprogrammer.com/2021/03/25/chatbot-using-python/
