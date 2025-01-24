@@ -6489,10 +6489,7 @@ Landmark Detection Model
 https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/
 ```
 
-Chatbot with Deep Learning
-```
-https://thecleverprogrammer.com/2020/11/01/chatbot-with-machine-learning-and-python/
-```
+
 
 Title Generator
 ```
@@ -6721,10 +6718,6 @@ Scraping and Download Youtube Videos with Python
 https://thecleverprogrammer.com/2020/08/23/scraping-youtube-with-python/
 ```
 
-Deploy a Chatbot with HTML, CSS, and Python
-```
-https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/
-```
 
 Telegram Bot with Python
 ```
@@ -7056,31 +7049,12 @@ Stock Price Prediction for Beginners
 ```
 https://thecleverprogrammer.com/2020/05/11/stock-price-prediction-with-machine-learning/ 
 ```
-11\	
-4 Chatbot Project With Python
-```
-https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
-```
-
-Deploy a Chatbot with Python, HTML, and CSS
-```
-https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/ 
-```
-
-Chatbot with Natural Language Processing
-```
-https://thecleverprogrammer.com/2020/05/17/build-your-own-chatbot-with-python/ 
-```
 
 Telegram Bot with Python for Beginners
 ```
 https://thecleverprogrammer.com/2020/08/18/telegram-bot-with-python/ 
 ```
 
-Chatbot with Python and Deep Learning
-```
-
-```
 
 12\	
 7 Python Gui project
@@ -7562,11 +7536,6 @@ https://github.com/jphall663/awesome-machine-learning-interpretability
 https://github.com/pliang279/awesome-multimodal-ml
 ```
 
-51 
-Awesome Chatbot Projects 
-```
-https://github.com/fendouai/Awesome-Chatbot
-```
 
 52 
 Awesome ML Demo Project with iOS 
@@ -11496,18 +11465,6 @@ https://projectworlds.in/weapon-detection-system-using-cnn-flask-web-app/
 ```
 
 
-Ai Healthcare chatbot project python with source code
-```
-https://projectworlds.in/ai-healthcare-chatbot-project-python-with-source-code/
-```
-
-
-Ai Mental Health Chatbot project python with source code
-```
-https://projectworlds.in/ai-mental-health-chatbot-project-python-with-source-code/
-```
-
-
 
 
 Computer Parts Classification using CNN Web App Project
@@ -12564,11 +12521,6 @@ Interactive Language Translator
 https://thecleverprogrammer.com/2021/04/02/language-translator-using-python
 ```
 
-53
-Create a Chatbot with Python
-```
-https://thecleverprogrammer.com/2021/03/25/chatbot-using-python/
-```
 
 54
 Best Streaming Service Analysis
@@ -12957,7 +12909,6 @@ Line Follower Robot Using PID Algorithm
 HMI-Based Robotic Arm
 Hector Slam Mapping and Indoor Positioning ROBOT
 Radar and ROS Powered Indoor Home Mapping and Positioning Robot
-Artificial Intelligence-Based Chatbot for Appliance Control
 Virtual Telepresence Robot Using Raspberry Pi
 DIY Remote Control Robot
 Arduino based Smartphone Controlled Robot Car
@@ -13336,10 +13287,6 @@ Handwritten Digit Recognition Python Project
 https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition
 ```
 
-Chatbot Python Project
-```
-https://data-flair.training/blogs/python-chatbot-project
-```
 
 Drowsy Driver Safety Alert System Python Project
 
@@ -15309,7 +15256,7 @@ neural_style
 https://pytorch.org/tutorials/advanced/neural_style_tutorial.html		
 https://github.com/patrickloeber/pytorchTutorial		
 https://github.com/patrickloeber/pytorch-examples		
-https://github.com/patrickloeber/pytorch-chatbot		
+		
 https://www.geeksforgeeks.org/how-to-structure-a-pytorch-project/				
 https://thecleverprogrammer.com/2020/08/31/opencv-with-python-tutorial/		
 Flight Price Prediction with Flask app	
@@ -16027,10 +15974,6 @@ Contact Tracing with Machine Learning
 https://thecleverprogrammer.com/2020/08/20/contact-tracing-with-machine-learning/
 ```
 
-Deploy a Chatbot with Python into a Web Application
-```
-https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/
-```
 
 Summarize Text with Machine Learning
 ```
@@ -16275,10 +16218,7 @@ Regression Projects for Machine Learning
 ```
 https://thecleverprogrammer.com/2020/11/27/regression-projects-with-python/
 ```
-Chatbot Projects with Python
-```
-https://thecleverprogrammer.com/2020/11/29/chatbot-projects-with-python/
-```
+
 Machine Learning Projects on Future Prediction
 ```
 https://thecleverprogrammer.com/2020/11/29/machine-learning-projects-on-future-prediction/
@@ -16451,10 +16391,7 @@ Automated Attendance System
 https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN
 ```
 
-AI Chatbots
-```
-https://github.com/topics/ai-chatbot
-```
+
 AI Self-driving cars
 ```
 https://github.com/ndrplz/self-driving-car
@@ -16485,10 +16422,7 @@ https://github.com/ggeop/Python-ai-assistant
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?tab=readme-ov-file
 ```
  
-WEB-BASED CHATBOT USING FLASK API(FLASK)
-```
-https://buffml.com/web-based-chatbot-using-flask-api/
-```
+
 FAKE NEWS DETECTION USING MACHINE LEARNING WITH FLASK WEB APPLICATION(FLASK)
 ```
 https://buffml.com/fake-news-detection-using-machine-learning-with-flask-web-application/
@@ -16782,14 +16716,7 @@ https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction
 Article-Web-Scraping
 https://github.com/KalyanM45/Article-Web-Scraping/tree/main
 
-Gemini Chat Bot
-https://github.com/KalyanM45/Gemini-ChatBot
-python app.py, 
-works good
-streamlit run app.py
-webmaster.noor@gmail.com
-API KEY: AIzaSyD6hZMBKM58gtBz85ZdBgavgaqHbxD6pS8
-AI-Project-Gallery/Chatbot using Langchain
+
 
 https://github.com/topics/nlp-projects
 streamlit run app.py, Not Working
@@ -17016,8 +16943,6 @@ https://www.statworx.com/en/content-hub/blog/how-to-build-a-machine-learning-api
 https://github.com/gahogg/YouTube-I-mostly-use-colab-now-/tree/master		
 https://www.youtube.com/watch?v=qNF1HqBvpGE&ab_channel=GregHogg		
 
-Desktop-chatbot-app	
-https://github.com/Kalebu/Desktop-chatbot-app	
 
 ```
 
@@ -17196,9 +17121,7 @@ https://www.kaggle.com/code/deepakdeepu8978/covid-19-analysis-eda-forecasting/no
 115.1. Click-Through Rate Prediction Model
 116. Interactive Language Translator
 117. Language Detection
-118. Create a Chatbot with Python
-https://www.kaggle.com/code/eyadgk/build-a-chatbot-with-bert-eda-vis/input
-https://www.kaggle.com/code/eyadgk/build-a-chatbot-with-bert-eda-vis/notebook
+
 
 
 119. Best Streaming Service Analysis
@@ -17744,4 +17667,103 @@ https://www.kaggle.com/code/pranavsehga1/smart-voice-assistant-for-the-blind/not
 Hand Gesture Recognition Model
 https://www.kaggle.com/datasets/gti-upm/leapgestrecog/data
 https://www.kaggle.com/code/benenharrington/hand-gesture-recognition-database-with-cnn
+```
+
+# chatbot
+```
+https://github.com/patrickloeber/pytorch-chatbot
+```
+Deploy a Chatbot with Python into a Web Application
+```
+https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/
+```
+Chatbot Projects with Python
+```
+https://thecleverprogrammer.com/2020/11/29/chatbot-projects-with-python/
+```
+AI Chatbots
+```
+https://github.com/topics/ai-chatbot
+```
+WEB-BASED CHATBOT USING FLASK API(FLASK)
+```
+https://buffml.com/web-based-chatbot-using-flask-api/
+```
+Gemini Chat Bot
+```
+https://github.com/KalyanM45/Gemini-ChatBot
+python app.py, 
+works good
+streamlit run app.py
+webmaster.noor@gmail.com
+API KEY: AIzaSyD6hZMBKM58gtBz85ZdBgavgaqHbxD6pS8
+AI-Project-Gallery/Chatbot using Langchain
+```
+
+Desktop-chatbot-app	
+```
+https://github.com/Kalebu/Desktop-chatbot-app	
+```
+118. Create a Chatbot with Python
+```
+https://www.kaggle.com/code/eyadgk/build-a-chatbot-with-bert-eda-vis/input
+https://www.kaggle.com/code/eyadgk/build-a-chatbot-with-bert-eda-vis/notebook
+```
+
+Chatbot with Deep Learning
+```
+https://thecleverprogrammer.com/2020/11/01/chatbot-with-machine-learning-and-python/
+```
+
+
+Deploy a Chatbot with HTML, CSS, and Python
+```
+https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/
+```
+
+Chatbot with Natural Language Processing
+```
+https://thecleverprogrammer.com/2020/05/17/build-your-own-chatbot-with-python/ 
+```
+
+
+Deploy a Chatbot with Python, HTML, and CSS
+```
+https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/ 
+```
+11\	
+4 Chatbot Project With Python
+```
+https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
+```
+
+51 
+Awesome Chatbot Projects 
+```
+https://github.com/fendouai/Awesome-Chatbot
+```
+
+
+Ai Healthcare chatbot project python with source code
+```
+https://projectworlds.in/ai-healthcare-chatbot-project-python-with-source-code/
+```
+
+
+Ai Mental Health Chatbot project python with source code
+```
+https://projectworlds.in/ai-mental-health-chatbot-project-python-with-source-code/
+```
+
+
+53
+Create a Chatbot with Python
+```
+https://thecleverprogrammer.com/2021/03/25/chatbot-using-python/
+```
+
+
+Chatbot Python Project
+```
+https://data-flair.training/blogs/python-chatbot-project
 ```
