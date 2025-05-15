@@ -2,9 +2,14 @@
 
 | Project Name | Understanding | Remarks | 🚨 Daily Update | Progress Tracker |
 |--------------|---------------|---------|----------------|------------------|
-| DIS | Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation) | Good | May 16 2025 | 0% Complete |
-| Unet | Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation | Good | May 16 2025 | 0% Complete |
-| Deeplabv2 | Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs | Good | May 16 2025 | 0% Complete |
+| DIS | Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation)<br>https://bit.ly/3vi3xh3<br>
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3bD2OPA | Good | May 16 2025 | 0% Complete |
+| Unet | Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation<br>https://bit.ly/3izdbG2 | Good | May 16 2025 | 0% Complete |
+| Deeplabv2 | Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs<br>https://bit.ly/2Y9DgSx<br>
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekruWks<br>
+Keras: https://bit.ly/3iFcfzV, https://bit.ly/396wTWL<br>
+Tensorflow : https://bit.ly/3o6q1wJ<br>
+Pytorch : https://bit.ly/3p89nhy<br> https://bit.ly/3iIAnBW | Good | May 16 2025 | 0% Complete |
 | AutoDeeplab | Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation | Good | May 16 2025 | 0% Complete |
 | CUDMedVision1 | Computer Vision Learning CUMedVision1 — Fully Convolutional Network (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
 | CUDMedVision2 | Computer Vision Learning CUMedVision2 / DCAN—Winner of 2015 MICCAI Gland Segmentation Challenge Contest (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
@@ -66,7 +71,7 @@
 
 | Project Name | Understanding | Remarks | 🚨 Daily Update | Progress Tracker |
 |--------------|---------------|---------|----------------|------------------|
-| Heart Disease Prediction Model | Heart Disease Prediction using Machine Learning | Good | May 16 2025 | 0% Complete |
+| Heart Disease Prediction Model | Heart Disease Prediction using Machine Learning<br>https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/<br>https://thecleverprogrammer.com/2020/05/20/data-science-project-heart-disease-prediction-with-machine-learning/ | Good | May 16 2025 | 0% Complete |
 | Heart Disease Prediction | Heart Disease Prediction with Machine Learning | Good | May 16 2025 | 0% Complete |
 
 
@@ -74,29 +79,6 @@
 # Artificial Intellience Projects and Research
 
 # Image Segmentation
-
-DIS\
-Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation)
-```
-https://bit.ly/3vi3xh3
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3bD2OPA
-```
-	
-Unet	\
-Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation
-```
-https://bit.ly/3izdbG2
-```
-
-Deeplabv2\
-Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
-```
-https://bit.ly/2Y9DgSx
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekruWks
-Keras: https://bit.ly/3iFcfzV, https://bit.ly/396wTWL
-Tensorflow : https://bit.ly/3o6q1wJ
-Pytorch : https://bit.ly/3p89nhy, https://bit.ly/3iIAnBW
-```
 
 AutoDeeplab\
 Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation
@@ -476,15 +458,6 @@ https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regress
 ```
 
 
-Heart Disease Prediction
-```
-https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/
-```
-
-Data Science Project — Heart Disease Prediction with Machine Learning
-```
-https://thecleverprogrammer.com/2020/05/20/data-science-project-heart-disease-prediction-with-machine-learning/
-```
 
 Making a Machine to predict whether a person is affected which Heart Disease or Not.
 ```
