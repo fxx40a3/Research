@@ -1,3 +1,76 @@
+► Image Segmentation
+
+| Project Name | Understanding | Remarks | 🚨 Daily Update | Progress Tracker |
+|--------------|---------------|---------|----------------|------------------|
+| DIS | Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation) | Good | May 16 2025 | 0% Complete |
+| Unet | Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation | Good | May 16 2025 | 0% Complete |
+| Deeplabv2 | Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs | Good | May 16 2025 | 0% Complete |
+| AutoDeeplab | Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation | Good | May 16 2025 | 0% Complete |
+| CUDMedVision1 | Computer Vision Learning CUMedVision1 — Fully Convolutional Network (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| CUDMedVision2 | Computer Vision Learning CUMedVision2 / DCAN—Winner of 2015 MICCAI Gland Segmentation Challenge Contest (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| CFS-FCN | Computer Vision Learning CFS-FCN (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| U-net+Res-net | Computer Vision Learning 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — The Importance of Long & Short Skip Connections (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| Multi-Channel | Computer Vision Learning 𝗠𝘂𝗹𝘁𝗶𝗖𝗵𝗮𝗻𝗻𝗲𝗹 — Segment Colon Histology Images (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| V-Net | Computer Vision Learning 𝗩-𝗡𝗲𝘁 — Volumetric Convolution (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| 3D-Unet | Computer Vision Learning 3𝘿 𝙐-𝙉𝙚𝙩 — Volumetric Segmentation (Medical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| M²FCN | Computer Vision Learning M²FCN — Multi-stage Multi-recursive-input Fully Convolutional Networks (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| Suggestive Annotation | Computer Vision Learning Suggestive Annotation — Deep Active Learning Framework (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| 3D Unet + Resnet | Computer Vision Learning 3𝗗 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — Volumetric Convolutions + Long & Short Residual Connections (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| Cascade 3D-Unet | Computer Vision Learning 𝗖𝗮𝘀𝗰𝗮𝗱𝗲𝗱 3𝗗 𝗨-𝗡𝗲𝘁 — Multi-Organ Segmentation (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| DenseVoxNet | Computer Vision Learning 𝗗𝗲𝗻𝘀𝗲𝗩𝗼𝘅𝗡𝗲𝘁 — Volumetric Brain Segmentation (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| QSA + QNT | Computer Vision Learning 𝗤𝗦𝗔+𝗤𝗡𝗧 — Quantization of Fully Convolutional Networks (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| Attention-Unet | Computer Vision Learning 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗨-𝗡𝗲𝘁 — Learning Where to Look for the Pancreas (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| RUNet + R2Unet | Computer Vision Learning 𝙍𝙐-𝙉𝙚𝙩 & 𝙍2𝙐-𝙉𝙚𝙩 — Recurrent Residual Convolutional Neural Network (Medical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| VoxResNet | Computer Vision Learning 𝗩𝗼𝘅𝗥𝗲𝘀𝗡𝗲𝘁— Deep Voxelwise Residual Networks for Volumetric Brain Segmentation (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| Unet++ | Computer Vision Learning 𝗨𝗡𝗲𝘁++ — A Nested U-Net Architecture (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| H-DenseUnet | Computer Vision Learning  𝗛-𝗗𝗲𝗻𝘀𝗲𝗨𝗡𝗲𝘁 — 2D & 3D 𝗗𝗲𝗻𝘀𝗲𝗨𝗡𝗲𝘁 for Intra & Inter Slice Features (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| DUnet | Computer Vision Learning  𝗗𝗨𝗡𝗲𝘁 — Deformable U-Net for Retinal Vessels Segmentation (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| MultiResUnet | Computer Vision Learning  𝗠𝘂𝗹𝘁𝗶𝗥𝗲𝘀𝗨𝗡𝗲𝘁 — Rethinking U-Net (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| Unet3+ | Computer Vision Learning  𝗨𝗡𝗲𝘁 𝟯+ — A Full-Scale Connected UNet (Medical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| Dense-Gated U-Net (DGNet) | Computer Vision Learning  𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁 (𝗗𝗚𝗡𝗲𝘁): Brain Lesion Segmentation (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
+| Medical Transformer | Computer Vision Learning 𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗿: Gated Axial-Attention for Medical Image Segmentation | Good | May 16 2025 | 0% Complete |
+| DiNTS | Computer Vision Learning 𝗗𝗶𝗡𝗧𝗦: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation | Good | May 16 2025 | 0% Complete |
+| FedDG | Computer Vision Learning 𝗙𝗲𝗱𝗗𝗚: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space | Good | May 16 2025 | 0% Complete |
+| MC-Net+ | Computer Vision Learning 𝗠𝗖-𝗡𝗲𝘁+: Enforcing Mutual Consistency of Hard Regions for Semi-supervised Medical Image Segmentation | Good | May 16 2025 | 0% Complete |
+| L^3U-net | Computer Vision Learning L^3U-net: Low-Latency Lightweight U-net Based Image Segmentation Model for Parallel CNN Processors | Good | May 16 2025 | 0% Complete |
+| U-Net | U-Net: Convolutional Networks for Biomedical Image Segmentation | Good | May 16 2025 | 0% Complete |
+| SegNet | SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation | Good | May 16 2025 | 0% Complete |
+| DeepLab | DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs | Good | May 16 2025 | 0% Complete |
+| DeepLabv3 | Rethinking Atrous Convolution for Semantic Image Segmentation | Good | May 16 2025 | 0% Complete |
+| R2U-Net | Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation | Good | May 16 2025 | 0% Complete |
+| LadderNet | LADDERNET: Multi-Path Networks Based on U-Net for Medical Image Segmentation | Good | May 16 2025 | 0% Complete |
+| U2-Net | Enhancing Image Segmentation using U2-Net: An Approach to Efficient Background Removal | Good | May 16 2025 | 0% Complete |
+| Medical Image Segmentation | Medical Image Segmentation | Good | May 16 2025 | 0% Complete |
+| Image Segmentation | Image Segmentation using TensorFlow | Good | May 16 2025 | 0% Complete |
+| Image Segmentation | Image Segmentation | Good | May 16 2025 | 0% Complete |
+
+► Qr Reader
+
+| Project Name | Understanding | Remarks | 🚨 Daily Update | Progress Tracker |
+|--------------|---------------|---------|----------------|------------------|
+| Qr Reader | QR Reader | Good | May 16 2025 | 0% Complete |
+| Barcode and QR code Reader with Python | Barcode and QR code Reader with Python | Good | May 16 2025 | 0% Complete |
+| OpenCV QR Code Scanner (C++ and Python) | OpenCV QR Code Scanner (C++ and Python) | Good | May 16 2025 | 0% Complete |
+| Barcode and QR code Scanner using ZBar and OpenCV | Barcode and QR code Scanner using ZBar and OpenCV | Good | May 16 2025 | 0% Complete |
+| WeChat QR Code Scanner in OpenCV | WeChat QR Code Scanner in OpenCV | Good | May 16 2025 | 0% Complete |
+
+
+► Face-and-hand-landmarks-detection 
+
+| Project Name | Understanding | Remarks | 🚨 Daily Update | Progress Tracker |
+|--------------|---------------|---------|----------------|------------------|
+| Face-and-hand-landmarks-detection | Face-and-hand-landmarks-detection using Python, Mediapipe, and OpenCV | Good | May 16 2025 | 0% Complete |
+
+
+► Heart Disease Prediction 
+
+| Project Name | Understanding | Remarks | 🚨 Daily Update | Progress Tracker |
+|--------------|---------------|---------|----------------|------------------|
+| Heart Disease Prediction Model | Heart Disease Prediction using Machine Learning | Good | May 16 2025 | 0% Complete |
+| Heart Disease Prediction | Heart Disease Prediction with Machine Learning | Good | May 16 2025 | 0% Complete |
+
+
+
 # Artificial Intellience Projects and Research
 
 # Image Segmentation
