@@ -5,7 +5,8 @@
 | DIS | Computer Vision Learning DIS — Dual Image Segmentation (Semantic Segmentation)<br>https://bit.ly/3vi3xh3<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://bit.ly/3bD2OPA | Good | May 16 2025 | 0% Complete |
 | Unet | Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation<br>https://bit.ly/3izdbG2 | Good | May 16 2025 | 0% Complete |
 | Deeplabv2 | Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs<br>https://bit.ly/2Y9DgSx<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekruWks<br>Keras: https://bit.ly/3iFcfzV,<br>https://bit.ly/396wTWL<br>Tensorflow :https://bit.ly/3o6q1wJ<br>Pytorch:https://bit.ly/3p89nhy<br>https://bit.ly/3iIAnBW | Good | May 16 2025 | 0% Complete |
-| AutoDeeplab | Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation | Good | May 16 2025 | 0% Complete |
+| AutoDeeplab | Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation<br>https://bit.ly/2P14kSF
+𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/evrb324<br>Official Code : https://bit.ly/3llgguM<br>pytorch : 1. https://bit.ly/3bRcSEX<br>2. https://bit.ly/3liYPuW<br>3. https://bit.ly/3rWxIbE | Good | May 16 2025 | 0% Complete |
 | CUDMedVision1 | Computer Vision Learning CUMedVision1 — Fully Convolutional Network (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
 | CUDMedVision2 | Computer Vision Learning CUMedVision2 / DCAN—Winner of 2015 MICCAI Gland Segmentation Challenge Contest (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
 | CFS-FCN | Computer Vision Learning CFS-FCN (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
