@@ -6,16 +6,12 @@
 | Unet | Computer Vision Learning 𝗨𝗻𝗲𝘁 is one of the famous Fully Convolutional Networks (FCN) in biomedical image segmentation<br>https://bit.ly/3izdbG2 | Good | May 16 2025 | 0% Complete |
 | Deeplabv2 | Computer Vision Learning of Deeplabv2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs<br>https://bit.ly/2Y9DgSx<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ekruWks<br>Keras: https://bit.ly/3iFcfzV,<br>https://bit.ly/396wTWL<br>Tensorflow :https://bit.ly/3o6q1wJ<br>Pytorch:https://bit.ly/3p89nhy<br>https://bit.ly/3iIAnBW | Good | May 16 2025 | 0% Complete |
 | AutoDeeplab | Computer Vision Learning Auto-DeepLab : Hierarchical Neural Architecture Search for Semantic Image Segmentation<br>https://bit.ly/2P14kSF<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/evrb324<br>Official Code : https://bit.ly/3llgguM<br>pytorch : 1. https://bit.ly/3bRcSEX<br>2. https://bit.ly/3liYPuW<br>3. https://bit.ly/3rWxIbE | Good | May 16 2025 | 0% Complete |
-| CUDMedVision1 | Computer Vision Learning CUMedVision1 — Fully Convolutional Network (Biomedical Image Segmentation)<br>https://bit.ly/3rETZd1<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA
-Code : https://bit.ly/3rEB2YL| Good | May 16 2025 | 0% Complete |
-| CUDMedVision2 | Computer Vision Learning CUMedVision2 / DCAN—Winner of 2015 MICCAI Gland Segmentation Challenge Contest (Biomedical Image Segmentation)https://bit.ly/3mago0q
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA | Good | May 16 2025 | 0% Complete |
-| CFS-FCN | Computer Vision Learning CFS-FCN (Biomedical Image Segmentation)https://bit.ly/3cXP0zX
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyEkBfU | Good | May 16 2025 | 0% Complete |
-| U-net+Res-net | Computer Vision Learning 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — The Importance of Long & Short Skip Connections (Biomedical Image Segmentation)https://bit.ly/3mpKD3P
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKVBAmV | Good | May 16 2025 | 0% Complete |
-| Multi-Channel | Computer Vision Learning 𝗠𝘂𝗹𝘁𝗶𝗖𝗵𝗮𝗻𝗻𝗲𝗹 — Segment Colon Histology Images (Biomedical Image Segmentation)https://bit.ly/2Q1WCbN
-𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ex_Q36z | Good | May 16 2025 | 0% Complete |
+| CUDMedVision1 | Computer Vision Learning CUMedVision1 — Fully Convolutional Network (Biomedical Image Segmentation)<br>https://bit.ly/3rETZd1<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA<br>Code : https://bit.ly/3rEB2YL| Good | May 16 2025 | 0% Complete |
+| CUDMedVision2 | Computer Vision Learning CUMedVision2 / DCAN—Winner of 2015 MICCAI Gland Segmentation Challenge Contest (Biomedical Image Segmentation)<br>https://bit.ly/3mago0q<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyKJvmA | Good | May 16 2025 | 0% Complete |
+| CFS-FCN | Computer Vision Learning CFS-FCN (Biomedical Image Segmentation)<br>https://bit.ly/3cXP0zX<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eyEkBfU | Good | May 16 2025 | 0% Complete |
+| U-net+Res-net | Computer Vision Learning 𝗨-𝗡𝗲𝘁+𝗥𝗲𝘀𝗡𝗲𝘁 — The Importance of Long & Short Skip Connections (Biomedical Image Segmentation)<br>https://bit.ly/3mpKD3P<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/eKVBAmV | Good | May 16 2025 | 0% Complete |
+| Multi-Channel | Computer Vision Learning 𝗠𝘂𝗹𝘁𝗶𝗖𝗵𝗮𝗻𝗻𝗲𝗹 — Segment Colon Histology Images (Biomedical Image Segmentation)<br>https://bit.ly/2Q1WCbN
+<br>𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 : https://lnkd.in/ex_Q36z | Good | May 16 2025 | 0% Complete |
 | V-Net | Computer Vision Learning 𝗩-𝗡𝗲𝘁 — Volumetric Convolution (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
 | 3D-Unet | Computer Vision Learning 3𝘿 𝙐-𝙉𝙚𝙩 — Volumetric Segmentation (Medical Image Segmentation) | Good | May 16 2025 | 0% Complete |
 | M²FCN | Computer Vision Learning M²FCN — Multi-stage Multi-recursive-input Fully Convolutional Networks (Biomedical Image Segmentation) | Good | May 16 2025 | 0% Complete |
