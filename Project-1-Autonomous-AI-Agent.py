@@ -1,83 +1,49 @@
-# Project 1: Autonomous AI Agent — End-to-End Guidelines
-
+# Project 1: Autonomous AI Agent
+-----------------------------------------
 ## 1. Project Goal
-
 Build a Python AI agent that can:
-
-1. Receive a user task.
-2. Understand and plan the task.
-3. Select and call appropriate tools.
-4. Observe tool results.
-5. Continue working until the task is complete.
-6. Return a clear final answer.
+  1. Receive a user task.
+  2. Understand and plan the task.
+  3. Select and call appropriate tools.
+  4. Observe tool results.
+  5. Continue working until the task is complete.
+  6. Return a clear final answer.
 
 Example task:
-
-> “Find the current weather in Tokyo and save a short report to a text file.”
-
----
+  “Find the current weather in Tokyo and save a short report to a text file.”
 
 ## 2. Recommended Technology Stack
+  **Language:** Python 3.11+
+  **Model:** OpenAI, Anthropic, Gemini, or a local Ollama model
+  **Environment:** `uv` or Python virtual environment
+  **API framework:** FastAPI, optional
+  **Interface:** Command-line interface first; Streamlit later
+  **Testing:** Pytest
+  **Configuration:** `.env`
+  **Logging:** Python `logging`
+  **Storage:** SQLite or JSON initially
+  **PostgreSQL:** Use PostgreSQL for:
+      Conversation history
+      Users and sessions
+      Agent tasks
+      Tool-call logs
+      Execution results
+      Long-term memory
+      Production deployments
 
-- **Language:** Python 3.11+
-- **Model:** OpenAI, Anthropic, Gemini, or a local Ollama model
-- **Environment:** `uv` or Python virtual environment
-- **API framework:** FastAPI, optional
-- **Interface:** Command-line interface first; Streamlit later
-- **Testing:** Pytest
-- **Configuration:** `.env`
-- **Logging:** Python `logging`
-- **Storage:** SQLite or JSON initially
-
----
+  **SQLite  ** — local learning and MVP
+  **PostgreSQL  ** — production application
+  **PostgreSQL + pgvector  ** — AI memory and document search
 
 ## 3. Core Architecture
-
-```text
-User
-  ↓
-Agent Interface
-  ↓
-Agent Controller
-  ↓
-LLM Planner
-  ↓
-Tool Selection
-  ↓
-Tool Execution
-  ↓
-Observation / Result
-  ↓
-LLM Evaluation
-  ↓
-Final Response
-```
+User->Agent Interface->Agent Controller->LLM Planner->Tool Selection->Tool Execution->Observation / Result->LLM Evaluation->Final Response
 
 The agent operates in a loop:
-
-```text
-User request
-     ↓
-Think / plan
-     ↓
-Call a tool
-     ↓
-Receive result
-     ↓
-Decide whether more work is needed
-     ↓
-Final answer
-```
-
----
+  User request->Think / plan->Call a tool->Receive result->Decide whether more work is needed->Final answer
 
 # Development Phases
-
 ## Phase 1: Project Setup
-
 ### Folder structure
-
-```text
 ai-agent/
 ├── app/
 │   ├── main.py
@@ -99,29 +65,55 @@ ai-agent/
 ├── pyproject.toml
 ├── README.md
 └── .gitignore
-```
 
 ### Initial setup
-
-```powershell
 mkdir ai-agent
 cd ai-agent
+powershell:
+  irm https://astral.sh/uv/install.ps1 | iex
+  add to path: $env:Path = "C:\Users\fxX40a3\.local\bin;$env:Path"
+  uv --version
+  uv init
+  uv --system-certs add python-dotenv pydantic rich openai
+  uv --system-certs add --dev pytest
+  $env:UV_SYSTEM_CERTS = "true"
+  uv add python-dotenv pydantic rich openai
+  uv add --dev pytest
+  uv tree
 
-uv init
-uv add python-dotenv pydantic rich
-uv add openai
-uv add --dev pytest
-```
+  uv run python --version
+  uv run python -c "import openai, dotenv, pydantic, rich; print('All packages imported successfully')"
 
-Create a `.env` file:
+New-Item -ItemType Directory -Force app, app\tools, app\memory, app\models, tests
+New-Item -ItemType File -Force app\__init__.py
+New-Item -ItemType File -Force app\main.py
+New-Item -ItemType File -Force app\agent.py
+New-Item -ItemType File -Force app\llm_client.py
+New-Item -ItemType File -Force app\prompts.py
+New-Item -ItemType File -Force app\tools\__init__.py
+New-Item -ItemType File -Force app\memory\__init__.py
+New-Item -ItemType File -Force app\models\__init__.py
 
-```env
-OPENAI_API_KEY=your_api_key_here
-```
+.gitignore
+  .env
+  .venv/
+  __pycache__/
+  *.pyc
+  .pytest_cache/
 
-Never commit `.env` to Git.
+New-Item -ItemType File -Force tests\test_smoke.py
+uv run pytest
 
----
+root: Create a `.env` file:
+      OPENAI_API_KEY=your_api_key_here
+Create .env.example for Git
+
+Ollama setup: winget install --id Ollama.Ollama
+
+
+### DONE till now
+
+NEXT ???
 
 ## Phase 2: Create a Basic LLM Client
 
