@@ -108,12 +108,48 @@ root: Create a `.env` file:
       OPENAI_API_KEY=your_api_key_here
 Create .env.example for Git
 
-Ollama setup: winget install --id Ollama.Ollama
+Ollama download & setup: winget install --id Ollama.Ollama
+$env:Path += ";$env:LOCALAPPDATA\Programs\Ollama"
+ollama --version
+ollama pull llama3.2
+ollama run llama3.2
+
+Get-ChildItem "$env:USERPROFILE\.local\bin\uv.exe" -ErrorAction SilentlyContinue
+$env:Path += ";$env:USERPROFILE\.local\bin"
+uv --version
+uv run python -m app.main
+
+agent:
+you:
+success
+COMPLETED STEPS - User input → LLM client → Agent response → CLI output
+
+NEXT STEPS - User input → Mock client → Mock response
+User task
+→ LLM planning
+→ Tool selection
+→ Tool execution
+→ Tool result
+→ Further planning
+→ Final answer
+
+next step: Build and test the calculator tool
+
+Create app/tools/calculator.py
+Create tests/test_calculator.py
+uv run pytest
+$env:Path += ";$env:USERPROFILE\.local\bin"
+uv --version
+uv run pytest
+
+$env:PYTHONPATH = (Get-Location).Path
+& "$env:USERPROFILE\.local\bin\uv.exe" run pytest
 
 
 ### DONE till now
 
 NEXT ???
+
 
 ## Phase 2: Create a Basic LLM Client
 
